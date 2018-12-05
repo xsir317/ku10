@@ -319,7 +319,14 @@
                 }
                 board.find('.row div').click(function(){
                     //_obj.place_stone($(this).attr('alt'),true);
-                    alert("暂不提供研究、摆棋功能。");
+                    let coordinate = $(this).attr('alt');
+                    let c_x = parseInt(coordinate.charAt(0),16) + 96;
+                    let c_y = parseInt(coordinate.charAt(1),16);
+                    let show_x = String.fromCharCode(c_x);
+                    if(show_x == 'l') show_x = 'L';
+                    let show_content = show_x + c_y.toString();
+                    record_player.sysMsg("点击: " + show_content);
+
                     return true;
                 });
                 //生成控制按钮
@@ -459,7 +466,11 @@
                 //coordinate
                 let c_x = parseInt(row.content.charAt(0),16) + 96;
                 let c_y = parseInt(row.content.charAt(1),16);
-                let show_content = board.curr_step.toString() + ' - ' + String.fromCharCode(c_x) + c_y.toString();
+
+                let show_x = String.fromCharCode(c_x);
+                if(show_x == 'l') show_x = 'L';
+
+                let show_content = board.curr_step.toString() + ' - ' + show_x + c_y.toString();
 
                 let _content = $("<span>").html(row.user + ': ' + show_content).addClass("chat-move");
                 let li = $("<li>");

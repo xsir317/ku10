@@ -1,0 +1,4230 @@
+[
+    {
+        "action": "RESET",
+        "time": "13:32:07",
+        "time_int": 48727,
+        "user": "",
+        "content": "000000"
+    },
+    {
+        "action": "TALK",
+        "time": "13:32:31",
+        "time_int": 48751,
+        "user": "chess",
+        "content": "."
+    },
+    {
+        "action": "TALK",
+        "time": "13:32:33",
+        "time_int": 48753,
+        "user": "konjin",
+        "content": "we are ready"
+    },
+    {
+        "action": "TALK",
+        "time": "13:32:34",
+        "time_int": 48754,
+        "user": "GrandMaster",
+        "content": "I told you I12 variation."
+    },
+    {
+        "action": "MOVE",
+        "time": "13:32:36",
+        "time_int": 48756,
+        "user": "GrandMaster",
+        "content": "88"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:32:37",
+        "time_int": 48757,
+        "user": "GrandMaster",
+        "content": "99"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:32:39",
+        "time_int": 48759,
+        "user": "GrandMaster",
+        "content": "76"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:32:41",
+        "time_int": 48761,
+        "user": "GrandMaster",
+        "content": "79"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:32:42",
+        "time_int": 48762,
+        "user": "GrandMaster",
+        "content": "58"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:32:44",
+        "time_int": 48764,
+        "user": "GrandMaster",
+        "content": "67"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:32:45",
+        "time_int": 48765,
+        "user": "GrandMaster",
+        "content": "57"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:32:46",
+        "time_int": 48766,
+        "user": "GrandMaster",
+        "content": "56"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:32:47",
+        "time_int": 48767,
+        "user": "GrandMaster",
+        "content": "78"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:32:48",
+        "time_int": 48768,
+        "user": "GrandMaster",
+        "content": "98"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:32:49",
+        "time_int": 48769,
+        "user": "GrandMaster",
+        "content": "69"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:32:50",
+        "time_int": 48770,
+        "user": "GrandMaster",
+        "content": "48"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:32:51",
+        "time_int": 48771,
+        "user": "GrandMaster",
+        "content": "5a"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:32:52",
+        "time_int": 48772,
+        "user": "GrandMaster",
+        "content": "4b"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:32:53",
+        "time_int": 48773,
+        "user": "GrandMaster",
+        "content": "97"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:32:56",
+        "time_int": 48776,
+        "user": "GrandMaster",
+        "content": "86"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:32:58",
+        "time_int": 48778,
+        "user": "GrandMaster",
+        "content": "7a"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:32:59",
+        "time_int": 48779,
+        "user": "GrandMaster",
+        "content": "8b"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:33:00",
+        "time_int": 48780,
+        "user": "GrandMaster",
+        "content": "65"
+    },
+    {
+        "action": "TALK",
+        "time": "13:33:19",
+        "time_int": 48799,
+        "user": "GrandMaster",
+        "content": "Until 19, this is basic pattern."
+    },
+    {
+        "action": "TALK",
+        "time": "13:33:39",
+        "time_int": 48819,
+        "user": "GrandMaster",
+        "content": "There are lots of protection at 20."
+    },
+    {
+        "action": "TALK",
+        "time": "13:34:03",
+        "time_int": 48843,
+        "user": "GrandMaster",
+        "content": "First of all, I told you this 20."
+    },
+    {
+        "action": "MOVE",
+        "time": "13:34:05",
+        "time_int": 48845,
+        "user": "GrandMaster",
+        "content": "45"
+    },
+    {
+        "action": "TALK",
+        "time": "13:34:23",
+        "time_int": 48863,
+        "user": "GrandMaster",
+        "content": "It is the most dangerous protection."
+    },
+    {
+        "action": "MOVE",
+        "time": "13:34:26",
+        "time_int": 48866,
+        "user": "GrandMaster",
+        "content": "95"
+    },
+    {
+        "action": "TALK",
+        "time": "13:34:42",
+        "time_int": 48882,
+        "user": "GrandMaster",
+        "content": "21th move was the key move."
+    },
+    {
+        "action": "MOVE",
+        "time": "13:34:45",
+        "time_int": 48885,
+        "user": "GrandMaster",
+        "content": "84"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:34:47",
+        "time_int": 48887,
+        "user": "GrandMaster",
+        "content": "85"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:34:48",
+        "time_int": 48888,
+        "user": "GrandMaster",
+        "content": "75"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:34:49",
+        "time_int": 48889,
+        "user": "GrandMaster",
+        "content": "96"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:34:50",
+        "time_int": 48890,
+        "user": "GrandMaster",
+        "content": "87"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:34:51",
+        "time_int": 48891,
+        "user": "GrandMaster",
+        "content": "b5"
+    },
+    {
+        "action": "TALK",
+        "time": "13:35:02",
+        "time_int": 48902,
+        "user": "GrandMaster",
+        "content": "27 is also key move."
+    },
+    {
+        "action": "TALK",
+        "time": "13:35:21",
+        "time_int": 48921,
+        "user": "GrandMaster",
+        "content": "From now, black can win at any white's protection."
+    },
+    {
+        "action": "TALK",
+        "time": "13:35:29",
+        "time_int": 48929,
+        "user": "GrandMaster",
+        "content": "Right?"
+    },
+    {
+        "action": "TALK",
+        "time": "13:35:33",
+        "time_int": 48933,
+        "user": "hobbang",
+        "content": "y"
+    },
+    {
+        "action": "TALK",
+        "time": "13:35:55",
+        "time_int": 48955,
+        "user": "xuwu",
+        "content": "y"
+    },
+    {
+        "action": "TALK",
+        "time": "13:35:59",
+        "time_int": 48959,
+        "user": "GrandMaster",
+        "content": "for example,"
+    },
+    {
+        "action": "TALK",
+        "time": "13:36:00",
+        "time_int": 48960,
+        "user": "Ikon",
+        "content": "y"
+    },
+    {
+        "action": "TALK",
+        "time": "13:36:01",
+        "time_int": 48961,
+        "user": "chess",
+        "content": "y"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:36:04",
+        "time_int": 48964,
+        "user": "GrandMaster",
+        "content": "93"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:36:05",
+        "time_int": 48965,
+        "user": "GrandMaster",
+        "content": "a2"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:36:14",
+        "time_int": 48974,
+        "user": "GrandMaster",
+        "content": "a5"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:36:17",
+        "time_int": 48977,
+        "user": "GrandMaster",
+        "content": "a7"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:36:18",
+        "time_int": 48978,
+        "user": "GrandMaster",
+        "content": "b8"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:36:19",
+        "time_int": 48979,
+        "user": "GrandMaster",
+        "content": "c4"
+    },
+    {
+        "action": "TALK",
+        "time": "13:36:20",
+        "time_int": 48980,
+        "user": "konjin",
+        "content": "can not remember this lesson :("
+    },
+    {
+        "action": "MOVE",
+        "time": "13:36:20",
+        "time_int": 48980,
+        "user": "GrandMaster",
+        "content": "a6"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:36:22",
+        "time_int": 48982,
+        "user": "GrandMaster",
+        "content": "b3"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:36:26",
+        "time_int": 48986,
+        "user": "GrandMaster",
+        "content": "d5"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:36:28",
+        "time_int": 48988,
+        "user": "GrandMaster",
+        "content": "b4"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:36:30",
+        "time_int": 48990,
+        "user": "GrandMaster",
+        "content": "b2"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:36:31",
+        "time_int": 48991,
+        "user": "GrandMaster",
+        "content": "d4"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:36:33",
+        "time_int": 48993,
+        "user": "GrandMaster",
+        "content": "a4"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:36:37",
+        "time_int": 48997,
+        "user": "GrandMaster",
+        "content": "b6"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:36:38",
+        "time_int": 48998,
+        "user": "GrandMaster",
+        "content": "b7"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:36:39",
+        "time_int": 48999,
+        "user": "GrandMaster",
+        "content": "e3"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:36:42",
+        "time_int": 49002,
+        "user": "GrandMaster",
+        "content": "c5"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:36:44",
+        "time_int": 49004,
+        "user": "GrandMaster",
+        "content": "e4"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:36:45",
+        "time_int": 49005,
+        "user": "GrandMaster",
+        "content": "f4"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:36:45",
+        "time_int": 49005,
+        "user": "GrandMaster",
+        "content": "d3"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:36:48",
+        "time_int": 49008,
+        "user": "GrandMaster",
+        "content": "c3"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:36:49",
+        "time_int": 49009,
+        "user": "GrandMaster",
+        "content": "e2"
+    },
+    {
+        "action": "TALK",
+        "time": "13:36:56",
+        "time_int": 49016,
+        "user": "xuwu",
+        "content": "gg"
+    },
+    {
+        "action": "TALK",
+        "time": "13:36:56",
+        "time_int": 49016,
+        "user": "konjin",
+        "content": "cooll"
+    },
+    {
+        "action": "TALK",
+        "time": "13:36:56",
+        "time_int": 49016,
+        "user": "GrandMaster",
+        "content": "like this!"
+    },
+    {
+        "action": "TALK",
+        "time": "13:36:58",
+        "time_int": 49018,
+        "user": "slamduk",
+        "content": ":)"
+    },
+    {
+        "action": "TALK",
+        "time": "13:36:59",
+        "time_int": 49019,
+        "user": "xiaolou",
+        "content": "gg"
+    },
+    {
+        "action": "TALK",
+        "time": "13:37:04",
+        "time_int": 49024,
+        "user": "rosebud",
+        "content": "@@"
+    },
+    {
+        "action": "TALK",
+        "time": "13:37:11",
+        "time_int": 49031,
+        "user": "Ikon",
+        "content": "good"
+    },
+    {
+        "action": "TALK",
+        "time": "13:37:17",
+        "time_int": 49037,
+        "user": "weigui",
+        "content": "nice"
+    },
+    {
+        "action": "TALK",
+        "time": "13:37:26",
+        "time_int": 49046,
+        "user": "GrandMaster",
+        "content": "At 1st lesson, we analyzed this variation."
+    },
+    {
+        "action": "TALK",
+        "time": "13:37:26",
+        "time_int": 49046,
+        "user": "Guest757",
+        "content": "cool"
+    },
+    {
+        "action": "TALK",
+        "time": "13:37:31",
+        "time_int": 49051,
+        "user": "LIEIK",
+        "content": "wonderful!"
+    },
+    {
+        "action": "GOTO",
+        "time": "13:37:37",
+        "time_int": 49057,
+        "user": "GrandMaster",
+        "content": 19
+    },
+    {
+        "action": "TALK",
+        "time": "13:37:54",
+        "time_int": 49074,
+        "user": "GrandMaster",
+        "content": "Next, I told you 20th move."
+    },
+    {
+        "action": "MOVE",
+        "time": "13:37:57",
+        "time_int": 49077,
+        "user": "GrandMaster",
+        "content": "54"
+    },
+    {
+        "action": "TALK",
+        "time": "13:38:15",
+        "time_int": 49095,
+        "user": "GrandMaster",
+        "content": "It is the most difficult protection."
+    },
+    {
+        "action": "MOVE",
+        "time": "13:38:19",
+        "time_int": 49099,
+        "user": "GrandMaster",
+        "content": "84"
+    },
+    {
+        "action": "TALK",
+        "time": "13:38:27",
+        "time_int": 49107,
+        "user": "GrandMaster",
+        "content": "21 is the key move."
+    },
+    {
+        "action": "MOVE",
+        "time": "13:38:34",
+        "time_int": 49114,
+        "user": "GrandMaster",
+        "content": "93"
+    },
+    {
+        "action": "TALK",
+        "time": "13:38:39",
+        "time_int": 49119,
+        "user": "GrandMaster",
+        "content": "If 22,"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:38:44",
+        "time_int": 49124,
+        "user": "GrandMaster",
+        "content": "95"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:38:53",
+        "time_int": 49133,
+        "user": "GrandMaster",
+        "content": "a6"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:38:54",
+        "time_int": 49134,
+        "user": "GrandMaster",
+        "content": "75"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:38:55",
+        "time_int": 49135,
+        "user": "GrandMaster",
+        "content": "85"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:38:59",
+        "time_int": 49139,
+        "user": "GrandMaster",
+        "content": "35"
+    },
+    {
+        "action": "TALK",
+        "time": "13:39:09",
+        "time_int": 49149,
+        "user": "GrandMaster",
+        "content": "27 is also key move."
+    },
+    {
+        "action": "TALK",
+        "time": "13:39:33",
+        "time_int": 49173,
+        "user": "rosebud",
+        "content": "too fast, i feel i very poor..."
+    },
+    {
+        "action": "TALK",
+        "time": "13:39:39",
+        "time_int": 49179,
+        "user": "GrandMaster",
+        "content": "After that, black can win at any white's protection."
+    },
+    {
+        "action": "TALK",
+        "time": "13:39:40",
+        "time_int": 49180,
+        "user": "xuwu",
+        "content": "y"
+    },
+    {
+        "action": "TALK",
+        "time": "13:40:08",
+        "time_int": 49208,
+        "user": "GrandMaster",
+        "content": "It is review so not to take long time, sorry."
+    },
+    {
+        "action": "MOVE",
+        "time": "13:40:28",
+        "time_int": 49228,
+        "user": "GrandMaster",
+        "content": "45"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:40:34",
+        "time_int": 49234,
+        "user": "GrandMaster",
+        "content": "4a"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:40:35",
+        "time_int": 49235,
+        "user": "GrandMaster",
+        "content": "6a"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:40:39",
+        "time_int": 49239,
+        "user": "GrandMaster",
+        "content": "39"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:40:40",
+        "time_int": 49240,
+        "user": "GrandMaster",
+        "content": "7b"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:40:41",
+        "time_int": 49241,
+        "user": "GrandMaster",
+        "content": "59"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:40:42",
+        "time_int": 49242,
+        "user": "GrandMaster",
+        "content": "5b"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:40:43",
+        "time_int": 49243,
+        "user": "GrandMaster",
+        "content": "6b"
+    },
+    {
+        "action": "TALK",
+        "time": "13:40:43",
+        "time_int": 49243,
+        "user": "rosebud",
+        "content": "ok, i will try do my best"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:40:49",
+        "time_int": 49249,
+        "user": "GrandMaster",
+        "content": "38"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:40:53",
+        "time_int": 49253,
+        "user": "GrandMaster",
+        "content": "77"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:40:54",
+        "time_int": 49254,
+        "user": "GrandMaster",
+        "content": "74"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:40:56",
+        "time_int": 49256,
+        "user": "GrandMaster",
+        "content": "3b"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:40:57",
+        "time_int": 49257,
+        "user": "GrandMaster",
+        "content": "68"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:41:00",
+        "time_int": 49260,
+        "user": "GrandMaster",
+        "content": "5c"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:41:02",
+        "time_int": 49262,
+        "user": "GrandMaster",
+        "content": "4d"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:41:03",
+        "time_int": 49263,
+        "user": "GrandMaster",
+        "content": "2c"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:41:04",
+        "time_int": 49264,
+        "user": "GrandMaster",
+        "content": "1d"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:41:06",
+        "time_int": 49266,
+        "user": "GrandMaster",
+        "content": "4c"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:41:08",
+        "time_int": 49268,
+        "user": "GrandMaster",
+        "content": "3c"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:41:09",
+        "time_int": 49269,
+        "user": "GrandMaster",
+        "content": "2a"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:41:11",
+        "time_int": 49271,
+        "user": "GrandMaster",
+        "content": "5d"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:41:12",
+        "time_int": 49272,
+        "user": "GrandMaster",
+        "content": "29"
+    },
+    {
+        "action": "TALK",
+        "time": "13:41:38",
+        "time_int": 49298,
+        "user": "verne",
+        "content": "amazing!"
+    },
+    {
+        "action": "TALK",
+        "time": "13:41:39",
+        "time_int": 49299,
+        "user": "GrandMaster",
+        "content": "This pattern is also famous way for black victory."
+    },
+    {
+        "action": "TALK",
+        "time": "13:41:43",
+        "time_int": 49303,
+        "user": "LIEIK",
+        "content": "well done !"
+    },
+    {
+        "action": "GOTO",
+        "time": "13:42:01",
+        "time_int": 49321,
+        "user": "GrandMaster",
+        "content": 21
+    },
+    {
+        "action": "MOVE",
+        "time": "13:42:03",
+        "time_int": 49323,
+        "user": "GrandMaster",
+        "content": "75"
+    },
+    {
+        "action": "TALK",
+        "time": "13:42:13",
+        "time_int": 49333,
+        "user": "GrandMaster",
+        "content": "22 is very strong."
+    },
+    {
+        "action": "MOVE",
+        "time": "13:42:16",
+        "time_int": 49336,
+        "user": "GrandMaster",
+        "content": "a4"
+    },
+    {
+        "action": "TALK",
+        "time": "13:42:17",
+        "time_int": 49337,
+        "user": "chess",
+        "content": "y"
+    },
+    {
+        "action": "TALK",
+        "time": "13:42:28",
+        "time_int": 49348,
+        "user": "GrandMaster",
+        "content": "23 is also key move."
+    },
+    {
+        "action": "MOVE",
+        "time": "13:42:35",
+        "time_int": 49355,
+        "user": "GrandMaster",
+        "content": "96"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:42:38",
+        "time_int": 49358,
+        "user": "GrandMaster",
+        "content": "b5"
+    },
+    {
+        "action": "TALK",
+        "time": "13:42:44",
+        "time_int": 49364,
+        "user": "GrandMaster",
+        "content": "25 is good"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:42:53",
+        "time_int": 49373,
+        "user": "GrandMaster",
+        "content": "a6"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:42:54",
+        "time_int": 49374,
+        "user": "GrandMaster",
+        "content": "c6"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:42:55",
+        "time_int": 49375,
+        "user": "GrandMaster",
+        "content": "d7"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:42:58",
+        "time_int": 49378,
+        "user": "GrandMaster",
+        "content": "b4"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:42:59",
+        "time_int": 49379,
+        "user": "GrandMaster",
+        "content": "94"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:43:00",
+        "time_int": 49380,
+        "user": "GrandMaster",
+        "content": "a3"
+    },
+    {
+        "action": "TALK",
+        "time": "13:43:33",
+        "time_int": 49413,
+        "user": "GrandMaster",
+        "content": "Black can win at right side widely."
+    },
+    {
+        "action": "TALK",
+        "time": "13:43:40",
+        "time_int": 49420,
+        "user": "Guest757",
+        "content": "....."
+    },
+    {
+        "action": "TALK",
+        "time": "13:43:59",
+        "time_int": 49439,
+        "user": "GrandMaster",
+        "content": "Today I tell you other 20 move."
+    },
+    {
+        "action": "TALK",
+        "time": "13:44:06",
+        "time_int": 49446,
+        "user": "GrandMaster",
+        "content": "OK?"
+    },
+    {
+        "action": "TALK",
+        "time": "13:44:09",
+        "time_int": 49449,
+        "user": "hobbang",
+        "content": "sure"
+    },
+    {
+        "action": "TALK",
+        "time": "13:44:10",
+        "time_int": 49450,
+        "user": "verne",
+        "content": "ok"
+    },
+    {
+        "action": "TALK",
+        "time": "13:44:10",
+        "time_int": 49450,
+        "user": "xiaolou",
+        "content": "ok"
+    },
+    {
+        "action": "TALK",
+        "time": "13:44:12",
+        "time_int": 49452,
+        "user": "Ikon",
+        "content": "ok"
+    },
+    {
+        "action": "TALK",
+        "time": "13:44:12",
+        "time_int": 49452,
+        "user": "roger8961",
+        "content": "ok"
+    },
+    {
+        "action": "TALK",
+        "time": "13:44:13",
+        "time_int": 49453,
+        "user": "weigui",
+        "content": "ok"
+    },
+    {
+        "action": "TALK",
+        "time": "13:44:14",
+        "time_int": 49454,
+        "user": "konjin",
+        "content": "ok"
+    },
+    {
+        "action": "TALK",
+        "time": "13:44:16",
+        "time_int": 49456,
+        "user": "chess",
+        "content": "ok"
+    },
+    {
+        "action": "TALK",
+        "time": "13:44:17",
+        "time_int": 49457,
+        "user": "chinezu",
+        "content": "ok'"
+    },
+    {
+        "action": "TALK",
+        "time": "13:44:17",
+        "time_int": 49457,
+        "user": "rosebud",
+        "content": "ok"
+    },
+    {
+        "action": "TALK",
+        "time": "13:44:24",
+        "time_int": 49464,
+        "user": "kfive",
+        "content": "ok"
+    },
+    {
+        "action": "TALK",
+        "time": "13:44:32",
+        "time_int": 49472,
+        "user": "Samsone",
+        "content": "I am here"
+    },
+    {
+        "action": "TALK",
+        "time": "13:44:34",
+        "time_int": 49474,
+        "user": "danfengyue",
+        "content": "ok"
+    },
+    {
+        "action": "TALK",
+        "time": "13:44:49",
+        "time_int": 49489,
+        "user": "konjin",
+        "content": "samsone use the button !"
+    },
+    {
+        "action": "TALK",
+        "time": "13:44:58",
+        "time_int": 49498,
+        "user": "Samsone",
+        "content": "OK  Thank~"
+    },
+    {
+        "action": "TALK",
+        "time": "13:45:01",
+        "time_int": 49501,
+        "user": "Guest755",
+        "content": "i an here   :)"
+    },
+    {
+        "action": "CHECKRESULT",
+        "time": "13:45:05",
+        "time_int": 49505,
+        "user": "",
+        "content": " xiaolou, chess, yaya, callings, hobbang, xuwu, moocheng, roger8961, Renju_YinLC, Ikon, verne, casar, tommy, hallo, kfive, sunrain, sosei, mayhem, cloud, xinxin, YKS, Liuchao, MIMI, konjin, akira, YeYuwuziqi, lq20008, Joe1980cn, Whiz, mima, killer21st, Zelerny, chinezu, Lithium, slamduk, weigui, ouyang, rosebud, DragonUtopia, StarRain, Samsone, danfengyue."
+    },
+    {
+        "action": "TALK",
+        "time": "13:45:11",
+        "time_int": 49511,
+        "user": "xuwu",
+        "content": "ok."
+    },
+    {
+        "action": "GOTO",
+        "time": "13:45:21",
+        "time_int": 49521,
+        "user": "GrandMaster",
+        "content": 19
+    },
+    {
+        "action": "TALK",
+        "time": "13:45:53",
+        "time_int": 49553,
+        "user": "chess",
+        "content": "?"
+    },
+    {
+        "action": "TALK",
+        "time": "13:45:57",
+        "time_int": 49557,
+        "user": "GrandMaster",
+        "content": "What do you think 20th protection except D5 and E4?"
+    },
+    {
+        "action": "TALK",
+        "time": "13:46:11",
+        "time_int": 49571,
+        "user": "GrandMaster",
+        "content": "Any suggestion?"
+    },
+    {
+        "action": "TALK",
+        "time": "13:46:31",
+        "time_int": 49591,
+        "user": "DragonUtopia",
+        "content": "c6"
+    },
+    {
+        "action": "TALK",
+        "time": "13:46:33",
+        "time_int": 49593,
+        "user": "chess",
+        "content": "g5"
+    },
+    {
+        "action": "TALK",
+        "time": "13:46:39",
+        "time_int": 49599,
+        "user": "kfive",
+        "content": "g4"
+    },
+    {
+        "action": "TALK",
+        "time": "13:46:41",
+        "time_int": 49601,
+        "user": "YeYuwuziqi",
+        "content": "g5"
+    },
+    {
+        "action": "TALK",
+        "time": "13:46:42",
+        "time_int": 49602,
+        "user": "YKS",
+        "content": "g4"
+    },
+    {
+        "action": "TALK",
+        "time": "13:46:51",
+        "time_int": 49611,
+        "user": "chess",
+        "content": "g3"
+    },
+    {
+        "action": "TALK",
+        "time": "13:46:58",
+        "time_int": 49618,
+        "user": "GrandMaster",
+        "content": "Thanks."
+    },
+    {
+        "action": "TALK",
+        "time": "13:47:05",
+        "time_int": 49625,
+        "user": "hobbang",
+        "content": "g3"
+    },
+    {
+        "action": "TALK",
+        "time": "13:47:16",
+        "time_int": 49636,
+        "user": "xuwu",
+        "content": "G5.C6 andG7"
+    },
+    {
+        "action": "TALK",
+        "time": "13:47:27",
+        "time_int": 49647,
+        "user": "GrandMaster",
+        "content": "There are many moves but G4 is not good."
+    },
+    {
+        "action": "TALK",
+        "time": "13:47:40",
+        "time_int": 49660,
+        "user": "chess",
+        "content": "y"
+    },
+    {
+        "action": "TALK",
+        "time": "13:47:45",
+        "time_int": 49665,
+        "user": "GrandMaster",
+        "content": "Because it is very easy for black."
+    },
+    {
+        "action": "MOVE",
+        "time": "13:47:48",
+        "time_int": 49668,
+        "user": "GrandMaster",
+        "content": "74"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:47:49",
+        "time_int": 49669,
+        "user": "GrandMaster",
+        "content": "54"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:47:51",
+        "time_int": 49671,
+        "user": "GrandMaster",
+        "content": "43"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:47:52",
+        "time_int": 49672,
+        "user": "GrandMaster",
+        "content": "36"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:47:53",
+        "time_int": 49673,
+        "user": "GrandMaster",
+        "content": "47"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:47:54",
+        "time_int": 49674,
+        "user": "GrandMaster",
+        "content": "45"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:47:55",
+        "time_int": 49675,
+        "user": "GrandMaster",
+        "content": "63"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:47:57",
+        "time_int": 49677,
+        "user": "GrandMaster",
+        "content": "35"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:47:58",
+        "time_int": 49678,
+        "user": "GrandMaster",
+        "content": "55"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:48:06",
+        "time_int": 49686,
+        "user": "GrandMaster",
+        "content": "38"
+    },
+    {
+        "action": "TALK",
+        "time": "13:48:13",
+        "time_int": 49693,
+        "user": "slamduk",
+        "content": "y"
+    },
+    {
+        "action": "TALK",
+        "time": "13:48:16",
+        "time_int": 49696,
+        "user": "xuwu",
+        "content": "GG"
+    },
+    {
+        "action": "TALK",
+        "time": "13:48:17",
+        "time_int": 49697,
+        "user": "xiaolou",
+        "content": "see"
+    },
+    {
+        "action": "TALK",
+        "time": "13:48:30",
+        "time_int": 49710,
+        "user": "GrandMaster",
+        "content": "20th move MUST protect this win."
+    },
+    {
+        "action": "TALK",
+        "time": "13:49:00",
+        "time_int": 49740,
+        "user": "YKS",
+        "content": "see"
+    },
+    {
+        "action": "TALK",
+        "time": "13:49:07",
+        "time_int": 49747,
+        "user": "GrandMaster",
+        "content": "So 20 is possible for example, G3 or F3,etc,"
+    },
+    {
+        "action": "TALK",
+        "time": "13:49:20",
+        "time_int": 49760,
+        "user": "GrandMaster",
+        "content": "Are you OK?"
+    },
+    {
+        "action": "TALK",
+        "time": "13:49:23",
+        "time_int": 49763,
+        "user": "hobbang",
+        "content": "ok"
+    },
+    {
+        "action": "TALK",
+        "time": "13:49:25",
+        "time_int": 49765,
+        "user": "xuwu",
+        "content": "ok"
+    },
+    {
+        "action": "TALK",
+        "time": "13:49:28",
+        "time_int": 49768,
+        "user": "roger8961",
+        "content": "ok"
+    },
+    {
+        "action": "TALK",
+        "time": "13:49:28",
+        "time_int": 49768,
+        "user": "hobbang",
+        "content": "i agree"
+    },
+    {
+        "action": "TALK",
+        "time": "13:49:30",
+        "time_int": 49770,
+        "user": "xiaolou",
+        "content": "ok"
+    },
+    {
+        "action": "TALK",
+        "time": "13:49:31",
+        "time_int": 49771,
+        "user": "weigui",
+        "content": "ok"
+    },
+    {
+        "action": "TALK",
+        "time": "13:49:33",
+        "time_int": 49773,
+        "user": "verne",
+        "content": "ok"
+    },
+    {
+        "action": "TALK",
+        "time": "13:49:34",
+        "time_int": 49774,
+        "user": "MIMI",
+        "content": "ok"
+    },
+    {
+        "action": "GOTO",
+        "time": "13:49:35",
+        "time_int": 49775,
+        "user": "GrandMaster",
+        "content": 19
+    },
+    {
+        "action": "TALK",
+        "time": "13:49:43",
+        "time_int": 49783,
+        "user": "chess",
+        "content": "y"
+    },
+    {
+        "action": "TALK",
+        "time": "13:49:49",
+        "time_int": 49789,
+        "user": "kfive",
+        "content": "ok"
+    },
+    {
+        "action": "TALK",
+        "time": "13:49:52",
+        "time_int": 49792,
+        "user": "GrandMaster",
+        "content": "So we will analyze this 20."
+    },
+    {
+        "action": "MOVE",
+        "time": "13:49:54",
+        "time_int": 49794,
+        "user": "GrandMaster",
+        "content": "63"
+    },
+    {
+        "action": "TALK",
+        "time": "13:50:22",
+        "time_int": 49822,
+        "user": "GrandMaster",
+        "content": "It can be possible because white can protect black's direct win."
+    },
+    {
+        "action": "TALK",
+        "time": "13:50:24",
+        "time_int": 49824,
+        "user": "chess",
+        "content": "f3?"
+    },
+    {
+        "action": "TALK",
+        "time": "13:50:44",
+        "time_int": 49844,
+        "user": "GrandMaster",
+        "content": "Next move is no problem."
+    },
+    {
+        "action": "MOVE",
+        "time": "13:50:47",
+        "time_int": 49847,
+        "user": "GrandMaster",
+        "content": "75"
+    },
+    {
+        "action": "TALK",
+        "time": "13:50:55",
+        "time_int": 49855,
+        "user": "GrandMaster",
+        "content": "21 is good move."
+    },
+    {
+        "action": "TALK",
+        "time": "13:51:22",
+        "time_int": 49882,
+        "user": "GrandMaster",
+        "content": "Now I ask you the question."
+    },
+    {
+        "action": "MOVE",
+        "time": "13:51:25",
+        "time_int": 49885,
+        "user": "GrandMaster",
+        "content": "95"
+    },
+    {
+        "action": "TALK",
+        "time": "13:51:35",
+        "time_int": 49895,
+        "user": "GrandMaster",
+        "content": "If 22, then 23?"
+    },
+    {
+        "action": "TALK",
+        "time": "13:51:54",
+        "time_int": 49914,
+        "user": "GrandMaster",
+        "content": "Do you know 23th move?"
+    },
+    {
+        "action": "TALK",
+        "time": "13:51:54",
+        "time_int": 49914,
+        "user": "konjin",
+        "content": "d4"
+    },
+    {
+        "action": "TALK",
+        "time": "13:52:16",
+        "time_int": 49936,
+        "user": "konjin",
+        "content": "black win too"
+    },
+    {
+        "action": "TALK",
+        "time": "13:52:35",
+        "time_int": 49955,
+        "user": "hobbang",
+        "content": "umm"
+    },
+    {
+        "action": "TALK",
+        "time": "13:52:40",
+        "time_int": 49960,
+        "user": "DragonUtopia",
+        "content": "so wich 20th move is the best?"
+    },
+    {
+        "action": "TALK",
+        "time": "13:52:46",
+        "time_int": 49966,
+        "user": "xuwu",
+        "content": "H4"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:52:50",
+        "time_int": 49970,
+        "user": "konjin",
+        "content": "44"
+    },
+    {
+        "action": "TALK",
+        "time": "13:53:02",
+        "time_int": 49982,
+        "user": "GrandMaster",
+        "content": "All VCF, right?"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:53:05",
+        "time_int": 49985,
+        "user": "GrandMaster",
+        "content": "77"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:53:09",
+        "time_int": 49989,
+        "user": "konjin",
+        "content": "47"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:53:11",
+        "time_int": 49991,
+        "user": "GrandMaster",
+        "content": "36"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:53:13",
+        "time_int": 49993,
+        "user": "konjin",
+        "content": "87"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:53:15",
+        "time_int": 49995,
+        "user": "GrandMaster",
+        "content": "96"
+    },
+    {
+        "action": "TALK",
+        "time": "13:53:16",
+        "time_int": 49996,
+        "user": "xuwu",
+        "content": "GG"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:53:19",
+        "time_int": 49999,
+        "user": "konjin",
+        "content": "43"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:53:21",
+        "time_int": 50001,
+        "user": "GrandMaster",
+        "content": "54"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:53:24",
+        "time_int": 50004,
+        "user": "konjin",
+        "content": "45"
+    },
+    {
+        "action": "TALK",
+        "time": "13:53:26",
+        "time_int": 50006,
+        "user": "xiaolou",
+        "content": "gg"
+    },
+    {
+        "action": "TALK",
+        "time": "13:53:27",
+        "time_int": 50007,
+        "user": "GrandMaster",
+        "content": "ok"
+    },
+    {
+        "action": "GOTO",
+        "time": "13:53:35",
+        "time_int": 50015,
+        "user": "GrandMaster",
+        "content": 23
+    },
+    {
+        "action": "TALK",
+        "time": "13:53:39",
+        "time_int": 50019,
+        "user": "hobbang",
+        "content": "nice 23!!"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:53:40",
+        "time_int": 50020,
+        "user": "GrandMaster",
+        "content": "45"
+    },
+    {
+        "action": "TALK",
+        "time": "13:53:45",
+        "time_int": 50025,
+        "user": "konjin",
+        "content": "thanks"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:54:00",
+        "time_int": 50040,
+        "user": "konjin",
+        "content": "74"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:54:02",
+        "time_int": 50042,
+        "user": "GrandMaster",
+        "content": "77"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:54:07",
+        "time_int": 50047,
+        "user": "konjin",
+        "content": "87"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:54:08",
+        "time_int": 50048,
+        "user": "GrandMaster",
+        "content": "96"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:54:10",
+        "time_int": 50050,
+        "user": "konjin",
+        "content": "54"
+    },
+    {
+        "action": "TALK",
+        "time": "13:54:12",
+        "time_int": 50052,
+        "user": "slamduk",
+        "content": ":)"
+    },
+    {
+        "action": "GOTO",
+        "time": "13:54:18",
+        "time_int": 50058,
+        "user": "GrandMaster",
+        "content": 23
+    },
+    {
+        "action": "MOVE",
+        "time": "13:54:22",
+        "time_int": 50062,
+        "user": "GrandMaster",
+        "content": "54"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:54:29",
+        "time_int": 50069,
+        "user": "konjin",
+        "content": "77"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:54:31",
+        "time_int": 50071,
+        "user": "GrandMaster",
+        "content": "74"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:54:33",
+        "time_int": 50073,
+        "user": "konjin",
+        "content": "55"
+    },
+    {
+        "action": "TALK",
+        "time": "13:54:39",
+        "time_int": 50079,
+        "user": "GrandMaster",
+        "content": "Thanks!"
+    },
+    {
+        "action": "TALK",
+        "time": "13:54:42",
+        "time_int": 50082,
+        "user": "xuwu",
+        "content": "nice!"
+    },
+    {
+        "action": "TALK",
+        "time": "13:54:45",
+        "time_int": 50085,
+        "user": "xiaolou",
+        "content": "gg"
+    },
+    {
+        "action": "TALK",
+        "time": "13:54:46",
+        "time_int": 50086,
+        "user": "Guest757",
+        "content": "cool"
+    },
+    {
+        "action": "TALK",
+        "time": "13:54:49",
+        "time_int": 50089,
+        "user": "GrandMaster",
+        "content": "no protection, right?"
+    },
+    {
+        "action": "TALK",
+        "time": "13:54:54",
+        "time_int": 50094,
+        "user": "lq20008",
+        "content": "good"
+    },
+    {
+        "action": "TALK",
+        "time": "13:54:54",
+        "time_int": 50094,
+        "user": "xuwu",
+        "content": "y"
+    },
+    {
+        "action": "TALK",
+        "time": "13:54:54",
+        "time_int": 50094,
+        "user": "verne",
+        "content": "y"
+    },
+    {
+        "action": "TALK",
+        "time": "13:54:56",
+        "time_int": 50096,
+        "user": "kfive",
+        "content": "y"
+    },
+    {
+        "action": "TALK",
+        "time": "13:54:58",
+        "time_int": 50098,
+        "user": "konjin",
+        "content": "yes, this 22 easy"
+    },
+    {
+        "action": "TALK",
+        "time": "13:55:01",
+        "time_int": 50101,
+        "user": "xiaolou",
+        "content": "y;"
+    },
+    {
+        "action": "TALK",
+        "time": "13:55:07",
+        "time_int": 50107,
+        "user": "GrandMaster",
+        "content": "It is very famous."
+    },
+    {
+        "action": "TALK",
+        "time": "13:55:34",
+        "time_int": 50134,
+        "user": "GrandMaster",
+        "content": "It was found Mr.Nishimura, it is said in Japan."
+    },
+    {
+        "action": "TALK",
+        "time": "13:55:43",
+        "time_int": 50143,
+        "user": "YKS",
+        "content": "famous 22th?"
+    },
+    {
+        "action": "TALK",
+        "time": "13:55:54",
+        "time_int": 50154,
+        "user": "GrandMaster",
+        "content": "Famous 23"
+    },
+    {
+        "action": "TALK",
+        "time": "13:56:07",
+        "time_int": 50167,
+        "user": "konjin",
+        "content": "oh :)"
+    },
+    {
+        "action": "TALK",
+        "time": "13:56:07",
+        "time_int": 50167,
+        "user": "GrandMaster",
+        "content": "So 22 is weak."
+    },
+    {
+        "action": "GOTO",
+        "time": "13:56:14",
+        "time_int": 50174,
+        "user": "GrandMaster",
+        "content": 21
+    },
+    {
+        "action": "MOVE",
+        "time": "13:56:24",
+        "time_int": 50184,
+        "user": "GrandMaster",
+        "content": "74"
+    },
+    {
+        "action": "TALK",
+        "time": "13:56:39",
+        "time_int": 50199,
+        "user": "GrandMaster",
+        "content": "Who want to find win?"
+    },
+    {
+        "action": "TALK",
+        "time": "13:56:55",
+        "time_int": 50215,
+        "user": "GrandMaster",
+        "content": "anybody challenge?"
+    },
+    {
+        "action": "TALK",
+        "time": "13:57:04",
+        "time_int": 50224,
+        "user": "roger8961",
+        "content": "E4?"
+    },
+    {
+        "action": "TALK",
+        "time": "13:57:27",
+        "time_int": 50247,
+        "user": "GrandMaster",
+        "content": "not so difficult"
+    },
+    {
+        "action": "TALK",
+        "time": "13:57:41",
+        "time_int": 50261,
+        "user": "GrandMaster",
+        "content": "say me"
+    },
+    {
+        "action": "TALK",
+        "time": "13:57:45",
+        "time_int": 50265,
+        "user": "roger8961",
+        "content": "me"
+    },
+    {
+        "action": "TALK",
+        "time": "13:57:51",
+        "time_int": 50271,
+        "user": "lq20008",
+        "content": "d5"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:57:57",
+        "time_int": 50277,
+        "user": "roger8961",
+        "content": "54"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:58:03",
+        "time_int": 50283,
+        "user": "GrandMaster",
+        "content": "43"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:58:06",
+        "time_int": 50286,
+        "user": "roger8961",
+        "content": "45"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:58:09",
+        "time_int": 50289,
+        "user": "GrandMaster",
+        "content": "55"
+    },
+    {
+        "action": "TALK",
+        "time": "13:58:20",
+        "time_int": 50300,
+        "user": "roger8961",
+        "content": "I fault.."
+    },
+    {
+        "action": "TALK",
+        "time": "13:58:24",
+        "time_int": 50304,
+        "user": "rosebud",
+        "content": "d9"
+    },
+    {
+        "action": "BACK",
+        "time": "13:58:24",
+        "time_int": 50304,
+        "user": "GrandMaster",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time": "13:58:25",
+        "time_int": 50305,
+        "user": "GrandMaster",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time": "13:58:26",
+        "time_int": 50306,
+        "user": "GrandMaster",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time": "13:58:27",
+        "time_int": 50307,
+        "user": "GrandMaster",
+        "content": ""
+    },
+    {
+        "action": "TALK",
+        "time": "13:58:34",
+        "time_int": 50314,
+        "user": "Guest755",
+        "content": "i5"
+    },
+    {
+        "action": "TALK",
+        "time": "13:58:35",
+        "time_int": 50315,
+        "user": "GrandMaster",
+        "content": "challenge"
+    },
+    {
+        "action": "TALK",
+        "time": "13:58:51",
+        "time_int": 50331,
+        "user": "GrandMaster",
+        "content": "yse, from I5"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:59:06",
+        "time_int": 50346,
+        "user": "roger8961",
+        "content": "95"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:59:08",
+        "time_int": 50348,
+        "user": "GrandMaster",
+        "content": "85"
+    },
+    {
+        "action": "TALK",
+        "time": "13:59:31",
+        "time_int": 50371,
+        "user": "konjin",
+        "content": "i6 must"
+    },
+    {
+        "action": "TALK",
+        "time": "13:59:38",
+        "time_int": 50378,
+        "user": "xiaolou",
+        "content": "y"
+    },
+    {
+        "action": "TALK",
+        "time": "13:59:58",
+        "time_int": 50398,
+        "user": "chess",
+        "content": "."
+    },
+    {
+        "action": "MOVE",
+        "time": "14:00:01",
+        "time_int": 50401,
+        "user": "roger8961",
+        "content": "96"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:00:04",
+        "time_int": 50404,
+        "user": "GrandMaster",
+        "content": "87"
+    },
+    {
+        "action": "TALK",
+        "time": "14:00:12",
+        "time_int": 50412,
+        "user": "weigui",
+        "content": "i3"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:00:16",
+        "time_int": 50416,
+        "user": "roger8961",
+        "content": "93"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:00:18",
+        "time_int": 50418,
+        "user": "GrandMaster",
+        "content": "94"
+    },
+    {
+        "action": "TALK",
+        "time": "14:00:18",
+        "time_int": 50418,
+        "user": "xuwu",
+        "content": "y"
+    },
+    {
+        "action": "TALK",
+        "time": "14:00:24",
+        "time_int": 50424,
+        "user": "roger8961",
+        "content": "H4?"
+    },
+    {
+        "action": "TALK",
+        "time": "14:00:29",
+        "time_int": 50429,
+        "user": "GrandMaster",
+        "content": "y"
+    },
+    {
+        "action": "TALK",
+        "time": "14:00:31",
+        "time_int": 50431,
+        "user": "weigui",
+        "content": "y"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:00:32",
+        "time_int": 50432,
+        "user": "roger8961",
+        "content": "84"
+    },
+    {
+        "action": "TALK",
+        "time": "14:00:32",
+        "time_int": 50432,
+        "user": "xuwu",
+        "content": "y"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:00:34",
+        "time_int": 50434,
+        "user": "GrandMaster",
+        "content": "66"
+    },
+    {
+        "action": "TALK",
+        "time": "14:00:42",
+        "time_int": 50442,
+        "user": "konjin",
+        "content": "hehe, nice"
+    },
+    {
+        "action": "TALK",
+        "time": "14:00:48",
+        "time_int": 50448,
+        "user": "xuwu",
+        "content": "good"
+    },
+    {
+        "action": "TALK",
+        "time": "14:00:50",
+        "time_int": 50450,
+        "user": "konjin",
+        "content": "black win"
+    },
+    {
+        "action": "TALK",
+        "time": "14:00:59",
+        "time_int": 50459,
+        "user": "xuwu",
+        "content": "win at right"
+    },
+    {
+        "action": "TALK",
+        "time": "14:01:02",
+        "time_int": 50462,
+        "user": "GrandMaster",
+        "content": "ok go go"
+    },
+    {
+        "action": "TALK",
+        "time": "14:01:02",
+        "time_int": 50462,
+        "user": "konjin",
+        "content": "can see now"
+    },
+    {
+        "action": "TALK",
+        "time": "14:01:05",
+        "time_int": 50465,
+        "user": "hobbang",
+        "content": "good"
+    },
+    {
+        "action": "TALK",
+        "time": "14:01:12",
+        "time_int": 50472,
+        "user": "DragonUtopia",
+        "content": "j6"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:01:17",
+        "time_int": 50477,
+        "user": "roger8961",
+        "content": "a6"
+    },
+    {
+        "action": "TALK",
+        "time": "14:01:17",
+        "time_int": 50477,
+        "user": "xiaolou",
+        "content": "gogo"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:01:19",
+        "time_int": 50479,
+        "user": "GrandMaster",
+        "content": "b7"
+    },
+    {
+        "action": "TALK",
+        "time": "14:01:26",
+        "time_int": 50486,
+        "user": "roger8961",
+        "content": "K5?"
+    },
+    {
+        "action": "TALK",
+        "time": "14:01:28",
+        "time_int": 50488,
+        "user": "danfengyue",
+        "content": "k5"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:01:31",
+        "time_int": 50491,
+        "user": "roger8961",
+        "content": "b5"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:01:37",
+        "time_int": 50497,
+        "user": "GrandMaster",
+        "content": "c4"
+    },
+    {
+        "action": "TALK",
+        "time": "14:01:40",
+        "time_int": 50500,
+        "user": "YeYuwuziqi",
+        "content": "j3"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:01:42",
+        "time_int": 50502,
+        "user": "roger8961",
+        "content": "a4"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:01:45",
+        "time_int": 50505,
+        "user": "GrandMaster",
+        "content": "c6"
+    },
+    {
+        "action": "TALK",
+        "time": "14:01:53",
+        "time_int": 50513,
+        "user": "GrandMaster",
+        "content": "VCF"
+    },
+    {
+        "action": "TALK",
+        "time": "14:01:56",
+        "time_int": 50516,
+        "user": "weigui",
+        "content": "vcf"
+    },
+    {
+        "action": "TALK",
+        "time": "14:02:00",
+        "time_int": 50520,
+        "user": "slamduk",
+        "content": "nice"
+    },
+    {
+        "action": "TALK",
+        "time": "14:02:13",
+        "time_int": 50533,
+        "user": "xiaolou",
+        "content": "gg"
+    },
+    {
+        "action": "TALK",
+        "time": "14:02:30",
+        "time_int": 50550,
+        "user": "xuwu",
+        "content": "gg"
+    },
+    {
+        "action": "TALK",
+        "time": "14:02:41",
+        "time_int": 50561,
+        "user": "GrandMaster",
+        "content": "find?"
+    },
+    {
+        "action": "TALK",
+        "time": "14:02:45",
+        "time_int": 50565,
+        "user": "roger8961",
+        "content": "no.."
+    },
+    {
+        "action": "TALK",
+        "time": "14:02:59",
+        "time_int": 50579,
+        "user": "xiaolou",
+        "content": "VCF"
+    },
+    {
+        "action": "TALK",
+        "time": "14:03:02",
+        "time_int": 50582,
+        "user": "DragonUtopia",
+        "content": "g3"
+    },
+    {
+        "action": "TALK",
+        "time": "14:03:05",
+        "time_int": 50585,
+        "user": "GrandMaster",
+        "content": "make four continuous"
+    },
+    {
+        "action": "TALK",
+        "time": "14:03:05",
+        "time_int": 50585,
+        "user": "weigui",
+        "content": "f12"
+    },
+    {
+        "action": "TALK",
+        "time": "14:03:14",
+        "time_int": 50594,
+        "user": "weigui",
+        "content": "f2"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:03:24",
+        "time_int": 50604,
+        "user": "roger8961",
+        "content": "62"
+    },
+    {
+        "action": "TALK",
+        "time": "14:03:27",
+        "time_int": 50607,
+        "user": "GrandMaster",
+        "content": "yes, f2"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:03:28",
+        "time_int": 50608,
+        "user": "GrandMaster",
+        "content": "73"
+    },
+    {
+        "action": "TALK",
+        "time": "14:03:33",
+        "time_int": 50613,
+        "user": "weigui",
+        "content": "h2"
+    },
+    {
+        "action": "TALK",
+        "time": "14:03:33",
+        "time_int": 50613,
+        "user": "xiaolou",
+        "content": "gogo"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:03:35",
+        "time_int": 50615,
+        "user": "roger8961",
+        "content": "82"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:03:37",
+        "time_int": 50617,
+        "user": "GrandMaster",
+        "content": "71"
+    },
+    {
+        "action": "TALK",
+        "time": "14:03:39",
+        "time_int": 50619,
+        "user": "weigui",
+        "content": "j2"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:03:41",
+        "time_int": 50621,
+        "user": "roger8961",
+        "content": "a2"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:03:42",
+        "time_int": 50622,
+        "user": "GrandMaster",
+        "content": "b1"
+    },
+    {
+        "action": "TALK",
+        "time": "14:03:46",
+        "time_int": 50626,
+        "user": "weigui",
+        "content": "i2"
+    },
+    {
+        "action": "TALK",
+        "time": "14:03:49",
+        "time_int": 50629,
+        "user": "roger8961",
+        "content": "I2?"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:03:50",
+        "time_int": 50630,
+        "user": "roger8961",
+        "content": "92"
+    },
+    {
+        "action": "TALK",
+        "time": "14:03:51",
+        "time_int": 50631,
+        "user": "xuwu",
+        "content": "y"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:03:52",
+        "time_int": 50632,
+        "user": "GrandMaster",
+        "content": "72"
+    },
+    {
+        "action": "TALK",
+        "time": "14:03:55",
+        "time_int": 50635,
+        "user": "weigui",
+        "content": "j3"
+    },
+    {
+        "action": "TALK",
+        "time": "14:03:57",
+        "time_int": 50637,
+        "user": "xuwu",
+        "content": "l2"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:04:01",
+        "time_int": 50641,
+        "user": "roger8961",
+        "content": "c2"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:04:03",
+        "time_int": 50643,
+        "user": "GrandMaster",
+        "content": "b2"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:04:04",
+        "time_int": 50644,
+        "user": "roger8961",
+        "content": "b3"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:04:06",
+        "time_int": 50646,
+        "user": "GrandMaster",
+        "content": "d1"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:04:07",
+        "time_int": 50647,
+        "user": "roger8961",
+        "content": "a3"
+    },
+    {
+        "action": "TALK",
+        "time": "14:04:08",
+        "time_int": 50648,
+        "user": "xuwu",
+        "content": "gg"
+    },
+    {
+        "action": "TALK",
+        "time": "14:04:13",
+        "time_int": 50653,
+        "user": "GrandMaster",
+        "content": "good job!"
+    },
+    {
+        "action": "TALK",
+        "time": "14:04:14",
+        "time_int": 50654,
+        "user": "xiaolou",
+        "content": "gg"
+    },
+    {
+        "action": "TALK",
+        "time": "14:04:19",
+        "time_int": 50659,
+        "user": "DragonUtopia",
+        "content": "finaly!"
+    },
+    {
+        "action": "GOTO",
+        "time": "14:04:21",
+        "time_int": 50661,
+        "user": "GrandMaster",
+        "content": 35
+    },
+    {
+        "action": "MOVE",
+        "time": "14:04:23",
+        "time_int": 50663,
+        "user": "GrandMaster",
+        "content": "82"
+    },
+    {
+        "action": "TALK",
+        "time": "14:04:32",
+        "time_int": 50672,
+        "user": "GrandMaster",
+        "content": "also VCF"
+    },
+    {
+        "action": "TALK",
+        "time": "14:04:34",
+        "time_int": 50674,
+        "user": "xuwu",
+        "content": "the same"
+    },
+    {
+        "action": "TALK",
+        "time": "14:04:45",
+        "time_int": 50685,
+        "user": "roger8961",
+        "content": "J2?"
+    },
+    {
+        "action": "TALK",
+        "time": "14:04:56",
+        "time_int": 50696,
+        "user": "weigui",
+        "content": "g3"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:05:03",
+        "time_int": 50703,
+        "user": "roger8961",
+        "content": "73"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:05:06",
+        "time_int": 50706,
+        "user": "GrandMaster",
+        "content": "62"
+    },
+    {
+        "action": "TALK",
+        "time": "14:05:11",
+        "time_int": 50711,
+        "user": "weigui",
+        "content": "j2"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:05:12",
+        "time_int": 50712,
+        "user": "roger8961",
+        "content": "a2"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:05:14",
+        "time_int": 50714,
+        "user": "GrandMaster",
+        "content": "b1"
+    },
+    {
+        "action": "TALK",
+        "time": "14:05:21",
+        "time_int": 50721,
+        "user": "roger8961",
+        "content": "J3?"
+    },
+    {
+        "action": "TALK",
+        "time": "14:05:21",
+        "time_int": 50721,
+        "user": "weigui",
+        "content": "j3"
+    },
+    {
+        "action": "TALK",
+        "time": "14:05:25",
+        "time_int": 50725,
+        "user": "GrandMaster",
+        "content": "y"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:05:27",
+        "time_int": 50727,
+        "user": "roger8961",
+        "content": "a3"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:05:29",
+        "time_int": 50729,
+        "user": "GrandMaster",
+        "content": "a5"
+    },
+    {
+        "action": "TALK",
+        "time": "14:05:29",
+        "time_int": 50729,
+        "user": "xiaolou",
+        "content": "gg"
+    },
+    {
+        "action": "TALK",
+        "time": "14:05:38",
+        "time_int": 50738,
+        "user": "xiaolou",
+        "content": "l6"
+    },
+    {
+        "action": "TALK",
+        "time": "14:05:38",
+        "time_int": 50738,
+        "user": "weigui",
+        "content": "k3"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:05:40",
+        "time_int": 50740,
+        "user": "roger8961",
+        "content": "b3"
+    },
+    {
+        "action": "TALK",
+        "time": "14:05:41",
+        "time_int": 50741,
+        "user": "xuwu",
+        "content": "y"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:05:42",
+        "time_int": 50742,
+        "user": "GrandMaster",
+        "content": "83"
+    },
+    {
+        "action": "TALK",
+        "time": "14:05:51",
+        "time_int": 50751,
+        "user": "weigui",
+        "content": "l6"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:05:53",
+        "time_int": 50753,
+        "user": "roger8961",
+        "content": "c6"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:05:55",
+        "time_int": 50755,
+        "user": "GrandMaster",
+        "content": "d7"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:05:58",
+        "time_int": 50758,
+        "user": "roger8961",
+        "content": "b4"
+    },
+    {
+        "action": "TALK",
+        "time": "14:06:03",
+        "time_int": 50763,
+        "user": "xuwu",
+        "content": "n"
+    },
+    {
+        "action": "TALK",
+        "time": "14:06:04",
+        "time_int": 50764,
+        "user": "GrandMaster",
+        "content": "nono"
+    },
+    {
+        "action": "TALK",
+        "time": "14:06:05",
+        "time_int": 50765,
+        "user": "roger8961",
+        "content": "oh.."
+    },
+    {
+        "action": "TALK",
+        "time": "14:06:06",
+        "time_int": 50766,
+        "user": "xiaolou",
+        "content": "....."
+    },
+    {
+        "action": "TALK",
+        "time": "14:06:08",
+        "time_int": 50768,
+        "user": "weigui",
+        "content": "k6"
+    },
+    {
+        "action": "TALK",
+        "time": "14:06:09",
+        "time_int": 50769,
+        "user": "roger8961",
+        "content": "no.."
+    },
+    {
+        "action": "BACK",
+        "time": "14:06:12",
+        "time_int": 50772,
+        "user": "GrandMaster",
+        "content": ""
+    },
+    {
+        "action": "TALK",
+        "time": "14:06:13",
+        "time_int": 50773,
+        "user": "xiaolou",
+        "content": "hehe"
+    },
+    {
+        "action": "TALK",
+        "time": "14:06:13",
+        "time_int": 50773,
+        "user": "chess",
+        "content": "nono"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:06:13",
+        "time_int": 50773,
+        "user": "roger8961",
+        "content": "b6"
+    },
+    {
+        "action": "TALK",
+        "time": "14:06:15",
+        "time_int": 50775,
+        "user": "Guest757",
+        "content": "no"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:06:15",
+        "time_int": 50775,
+        "user": "GrandMaster",
+        "content": "d6"
+    },
+    {
+        "action": "TALK",
+        "time": "14:06:16",
+        "time_int": 50776,
+        "user": "chess",
+        "content": "y"
+    },
+    {
+        "action": "TALK",
+        "time": "14:06:21",
+        "time_int": 50781,
+        "user": "xuwu",
+        "content": "y"
+    },
+    {
+        "action": "TALK",
+        "time": "14:06:21",
+        "time_int": 50781,
+        "user": "xiaolou",
+        "content": "gg"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:06:26",
+        "time_int": 50786,
+        "user": "roger8961",
+        "content": "b2"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:06:28",
+        "time_int": 50788,
+        "user": "GrandMaster",
+        "content": "b4"
+    },
+    {
+        "action": "TALK",
+        "time": "14:06:28",
+        "time_int": 50788,
+        "user": "xuwu",
+        "content": "gg"
+    },
+    {
+        "action": "TALK",
+        "time": "14:06:29",
+        "time_int": 50789,
+        "user": "Guest757",
+        "content": "K2.L2"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:06:29",
+        "time_int": 50789,
+        "user": "roger8961",
+        "content": "c2"
+    },
+    {
+        "action": "TALK",
+        "time": "14:06:35",
+        "time_int": 50795,
+        "user": "GrandMaster",
+        "content": "Thank you!"
+    },
+    {
+        "action": "TALK",
+        "time": "14:06:46",
+        "time_int": 50806,
+        "user": "GrandMaster",
+        "content": "Everybody clap for him!"
+    },
+    {
+        "action": "TALK",
+        "time": "14:06:49",
+        "time_int": 50809,
+        "user": "konjin",
+        "content": "gg roger !"
+    },
+    {
+        "action": "TALK",
+        "time": "14:06:54",
+        "time_int": 50814,
+        "user": "verne",
+        "content": "gg!"
+    },
+    {
+        "action": "TALK",
+        "time": "14:06:55",
+        "time_int": 50815,
+        "user": "xiaolou",
+        "content": "gg"
+    },
+    {
+        "action": "TALK",
+        "time": "14:06:55",
+        "time_int": 50815,
+        "user": "xuwu",
+        "content": "nice@"
+    },
+    {
+        "action": "TALK",
+        "time": "14:06:56",
+        "time_int": 50816,
+        "user": "hobbang",
+        "content": "great roger!!"
+    },
+    {
+        "action": "TALK",
+        "time": "14:06:59",
+        "time_int": 50819,
+        "user": "YKS",
+        "content": "good job!!"
+    },
+    {
+        "action": "TALK",
+        "time": "14:07:00",
+        "time_int": 50820,
+        "user": "Samsone",
+        "content": "@@"
+    },
+    {
+        "action": "TALK",
+        "time": "14:07:04",
+        "time_int": 50824,
+        "user": "MIMI",
+        "content": "^0^"
+    },
+    {
+        "action": "TALK",
+        "time": "14:07:06",
+        "time_int": 50826,
+        "user": "roger8961",
+        "content": "thank everyone^^"
+    },
+    {
+        "action": "TALK",
+        "time": "14:07:11",
+        "time_int": 50831,
+        "user": "xiaolou",
+        "content": ":)"
+    },
+    {
+        "action": "GOTO",
+        "time": "14:07:12",
+        "time_int": 50832,
+        "user": "GrandMaster",
+        "content": 21
+    },
+    {
+        "action": "TALK",
+        "time": "14:07:14",
+        "time_int": 50834,
+        "user": "YKS",
+        "content": "long VCF"
+    },
+    {
+        "action": "TALK",
+        "time": "14:07:19",
+        "time_int": 50839,
+        "user": "xiaolou",
+        "content": "y"
+    },
+    {
+        "action": "TALK",
+        "time": "14:07:34",
+        "time_int": 50854,
+        "user": "GrandMaster",
+        "content": "It was not so difficult althogh long moves."
+    },
+    {
+        "action": "MOVE",
+        "time": "14:07:41",
+        "time_int": 50861,
+        "user": "GrandMaster",
+        "content": "85"
+    },
+    {
+        "action": "TALK",
+        "time": "14:07:49",
+        "time_int": 50869,
+        "user": "GrandMaster",
+        "content": "Next, 22th move"
+    },
+    {
+        "action": "TALK",
+        "time": "14:07:52",
+        "time_int": 50872,
+        "user": "konjin",
+        "content": "as mr yamaguchi said, long vcf is first step to become master :)"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:07:53",
+        "time_int": 50873,
+        "user": "GrandMaster",
+        "content": "84"
+    },
+    {
+        "action": "TALK",
+        "time": "14:07:58",
+        "time_int": 50878,
+        "user": "GrandMaster",
+        "content": "23 is good"
+    },
+    {
+        "action": "TALK",
+        "time": "14:08:08",
+        "time_int": 50888,
+        "user": "GrandMaster",
+        "content": "If 24-G4,"
+    },
+    {
+        "action": "TALK",
+        "time": "14:08:22",
+        "time_int": 50902,
+        "user": "GrandMaster",
+        "content": "then the same as before, right?"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:08:24",
+        "time_int": 50904,
+        "user": "GrandMaster",
+        "content": "74"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:08:26",
+        "time_int": 50906,
+        "user": "GrandMaster",
+        "content": "93"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:08:27",
+        "time_int": 50907,
+        "user": "GrandMaster",
+        "content": "66"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:08:28",
+        "time_int": 50908,
+        "user": "GrandMaster",
+        "content": "96"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:08:29",
+        "time_int": 50909,
+        "user": "GrandMaster",
+        "content": "87"
+    },
+    {
+        "action": "TALK",
+        "time": "14:08:30",
+        "time_int": 50910,
+        "user": "hobbang",
+        "content": "y"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:08:30",
+        "time_int": 50910,
+        "user": "GrandMaster",
+        "content": "95"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:08:31",
+        "time_int": 50911,
+        "user": "GrandMaster",
+        "content": "94"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:08:33",
+        "time_int": 50913,
+        "user": "GrandMaster",
+        "content": "a6"
+    },
+    {
+        "action": "TALK",
+        "time": "14:08:35",
+        "time_int": 50915,
+        "user": "xiaolou",
+        "content": "y"
+    },
+    {
+        "action": "TALK",
+        "time": "14:08:39",
+        "time_int": 50919,
+        "user": "xuwu",
+        "content": "y"
+    },
+    {
+        "action": "GOTO",
+        "time": "14:08:40",
+        "time_int": 50920,
+        "user": "GrandMaster",
+        "content": 23
+    },
+    {
+        "action": "TALK",
+        "time": "14:08:40",
+        "time_int": 50920,
+        "user": "weigui",
+        "content": "y"
+    },
+    {
+        "action": "TALK",
+        "time": "14:08:53",
+        "time_int": 50933,
+        "user": "roger8961",
+        "content": "y"
+    },
+    {
+        "action": "TALK",
+        "time": "14:08:56",
+        "time_int": 50936,
+        "user": "rosebud",
+        "content": "y"
+    },
+    {
+        "action": "TALK",
+        "time": "14:08:57",
+        "time_int": 50937,
+        "user": "lq20008",
+        "content": "y"
+    },
+    {
+        "action": "TALK",
+        "time": "14:09:00",
+        "time_int": 50940,
+        "user": "GrandMaster",
+        "content": "so I try another protection."
+    },
+    {
+        "action": "TALK",
+        "time": "14:09:00",
+        "time_int": 50940,
+        "user": "kfive",
+        "content": "y"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:09:14",
+        "time_int": 50954,
+        "user": "GrandMaster",
+        "content": "94"
+    },
+    {
+        "action": "TALK",
+        "time": "14:09:50",
+        "time_int": 50990,
+        "user": "GrandMaster",
+        "content": "It is also black win."
+    },
+    {
+        "action": "MOVE",
+        "time": "14:09:53",
+        "time_int": 50993,
+        "user": "GrandMaster",
+        "content": "74"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:09:54",
+        "time_int": 50994,
+        "user": "GrandMaster",
+        "content": "77"
+    },
+    {
+        "action": "TALK",
+        "time": "14:10:06",
+        "time_int": 51006,
+        "user": "xuwu",
+        "content": "E4?"
+    },
+    {
+        "action": "TALK",
+        "time": "14:10:15",
+        "time_int": 51015,
+        "user": "DragonUtopia",
+        "content": "there is any move for white to win?"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:10:22",
+        "time_int": 51022,
+        "user": "GrandMaster",
+        "content": "73"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:10:23",
+        "time_int": 51023,
+        "user": "GrandMaster",
+        "content": "72"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:10:33",
+        "time_int": 51033,
+        "user": "GrandMaster",
+        "content": "93"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:10:34",
+        "time_int": 51034,
+        "user": "GrandMaster",
+        "content": "66"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:10:37",
+        "time_int": 51037,
+        "user": "GrandMaster",
+        "content": "82"
+    },
+    {
+        "action": "TALK",
+        "time": "14:10:53",
+        "time_int": 51053,
+        "user": "GrandMaster",
+        "content": "no"
+    },
+    {
+        "action": "TALK",
+        "time": "14:11:02",
+        "time_int": 51062,
+        "user": "konjin",
+        "content": "seems as not :) we try to prove this is black win"
+    },
+    {
+        "action": "TALK",
+        "time": "14:11:08",
+        "time_int": 51068,
+        "user": "GrandMaster",
+        "content": "31 is VCF thread."
+    },
+    {
+        "action": "MOVE",
+        "time": "14:11:13",
+        "time_int": 51073,
+        "user": "GrandMaster",
+        "content": "54"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:11:14",
+        "time_int": 51074,
+        "user": "GrandMaster",
+        "content": "45"
+    },
+    {
+        "action": "TALK",
+        "time": "14:11:15",
+        "time_int": 51075,
+        "user": "konjin",
+        "content": "maybe different 16"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:11:16",
+        "time_int": 51076,
+        "user": "GrandMaster",
+        "content": "55"
+    },
+    {
+        "action": "TALK",
+        "time": "14:11:35",
+        "time_int": 51095,
+        "user": "GrandMaster",
+        "content": "After all, white must protect at 34."
+    },
+    {
+        "action": "MOVE",
+        "time": "14:11:38",
+        "time_int": 51098,
+        "user": "GrandMaster",
+        "content": "a6"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:11:39",
+        "time_int": 51099,
+        "user": "GrandMaster",
+        "content": "95"
+    },
+    {
+        "action": "TALK",
+        "time": "14:11:39",
+        "time_int": 51099,
+        "user": "xuwu",
+        "content": "win at right"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:11:40",
+        "time_int": 51100,
+        "user": "GrandMaster",
+        "content": "b5"
+    },
+    {
+        "action": "TALK",
+        "time": "14:11:46",
+        "time_int": 51106,
+        "user": "GrandMaster",
+        "content": "Easy"
+    },
+    {
+        "action": "TALK",
+        "time": "14:11:49",
+        "time_int": 51109,
+        "user": "hobbang",
+        "content": "good"
+    },
+    {
+        "action": "GOTO",
+        "time": "14:11:53",
+        "time_int": 51113,
+        "user": "GrandMaster",
+        "content": 21
+    },
+    {
+        "action": "MOVE",
+        "time": "14:11:56",
+        "time_int": 51116,
+        "user": "GrandMaster",
+        "content": "84"
+    },
+    {
+        "action": "TALK",
+        "time": "14:12:03",
+        "time_int": 51123,
+        "user": "GrandMaster",
+        "content": "22 is strong."
+    },
+    {
+        "action": "TALK",
+        "time": "14:12:10",
+        "time_int": 51130,
+        "user": "chinezu",
+        "content": "20 at i11 is not a white win?"
+    },
+    {
+        "action": "TALK",
+        "time": "14:12:30",
+        "time_int": 51150,
+        "user": "GrandMaster",
+        "content": "Black has to think deeply"
+    },
+    {
+        "action": "TALK",
+        "time": "14:12:39",
+        "time_int": 51159,
+        "user": "GrandMaster",
+        "content": "Any ideas?"
+    },
+    {
+        "action": "TALK",
+        "time": "14:12:44",
+        "time_int": 51164,
+        "user": "slamduk",
+        "content": "hard"
+    },
+    {
+        "action": "TALK",
+        "time": "14:13:05",
+        "time_int": 51185,
+        "user": "GrandMaster",
+        "content": "I think so."
+    },
+    {
+        "action": "TALK",
+        "time": "14:13:24",
+        "time_int": 51204,
+        "user": "Ikon",
+        "content": "?"
+    },
+    {
+        "action": "TALK",
+        "time": "14:13:46",
+        "time_int": 51226,
+        "user": "GrandMaster",
+        "content": "As I said before, I anlyzed this variation almost 20 years ago."
+    },
+    {
+        "action": "TALK",
+        "time": "14:14:16",
+        "time_int": 51256,
+        "user": "GrandMaster",
+        "content": "When I was collage student, I anlyzed it everyday."
+    },
+    {
+        "action": "TALK",
+        "time": "14:14:23",
+        "time_int": 51263,
+        "user": "chess",
+        "content": "great"
+    },
+    {
+        "action": "TALK",
+        "time": "14:14:37",
+        "time_int": 51277,
+        "user": "Guest757",
+        "content": "...."
+    },
+    {
+        "action": "TALK",
+        "time": "14:14:39",
+        "time_int": 51279,
+        "user": "GrandMaster",
+        "content": "I found next move at that time."
+    },
+    {
+        "action": "TALK",
+        "time": "14:15:03",
+        "time_int": 51303,
+        "user": "GrandMaster",
+        "content": "I concluded 23 is D4 better."
+    },
+    {
+        "action": "MOVE",
+        "time": "14:15:05",
+        "time_int": 51305,
+        "user": "GrandMaster",
+        "content": "44"
+    },
+    {
+        "action": "TALK",
+        "time": "14:15:19",
+        "time_int": 51319,
+        "user": "hobbang",
+        "content": "d5?"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:15:25",
+        "time_int": 51325,
+        "user": "GrandMaster",
+        "content": "45"
+    },
+    {
+        "action": "TALK",
+        "time": "14:15:27",
+        "time_int": 51327,
+        "user": "xuwu",
+        "content": "vcf threat"
+    },
+    {
+        "action": "TALK",
+        "time": "14:15:35",
+        "time_int": 51335,
+        "user": "GrandMaster",
+        "content": "24 is D5 strong."
+    },
+    {
+        "action": "MOVE",
+        "time": "14:15:45",
+        "time_int": 51345,
+        "user": "GrandMaster",
+        "content": "87"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:15:47",
+        "time_int": 51347,
+        "user": "GrandMaster",
+        "content": "96"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:15:52",
+        "time_int": 51352,
+        "user": "GrandMaster",
+        "content": "54"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:15:53",
+        "time_int": 51353,
+        "user": "GrandMaster",
+        "content": "43"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:15:54",
+        "time_int": 51354,
+        "user": "GrandMaster",
+        "content": "74"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:15:55",
+        "time_int": 51355,
+        "user": "GrandMaster",
+        "content": "77"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:15:56",
+        "time_int": 51356,
+        "user": "GrandMaster",
+        "content": "34"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:15:58",
+        "time_int": 51358,
+        "user": "GrandMaster",
+        "content": "64"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:16:01",
+        "time_int": 51361,
+        "user": "GrandMaster",
+        "content": "35"
+    },
+    {
+        "action": "TALK",
+        "time": "14:16:07",
+        "time_int": 51367,
+        "user": "xuwu",
+        "content": "GG"
+    },
+    {
+        "action": "TALK",
+        "time": "14:16:10",
+        "time_int": 51370,
+        "user": "GrandMaster",
+        "content": "33 is key move"
+    },
+    {
+        "action": "TALK",
+        "time": "14:16:12",
+        "time_int": 51372,
+        "user": "xiaolou",
+        "content": "gg"
+    },
+    {
+        "action": "TALK",
+        "time": "14:16:19",
+        "time_int": 51379,
+        "user": "hobbang",
+        "content": "gg"
+    },
+    {
+        "action": "TALK",
+        "time": "14:16:20",
+        "time_int": 51380,
+        "user": "slamduk",
+        "content": "great"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:16:20",
+        "time_int": 51380,
+        "user": "GrandMaster",
+        "content": "46"
+    },
+    {
+        "action": "TALK",
+        "time": "14:16:24",
+        "time_int": 51384,
+        "user": "GrandMaster",
+        "content": "only"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:16:29",
+        "time_int": 51389,
+        "user": "GrandMaster",
+        "content": "49"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:16:33",
+        "time_int": 51393,
+        "user": "GrandMaster",
+        "content": "36"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:16:35",
+        "time_int": 51395,
+        "user": "GrandMaster",
+        "content": "26"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:16:37",
+        "time_int": 51397,
+        "user": "GrandMaster",
+        "content": "53"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:16:38",
+        "time_int": 51398,
+        "user": "GrandMaster",
+        "content": "73"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:16:39",
+        "time_int": 51399,
+        "user": "GrandMaster",
+        "content": "72"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:16:41",
+        "time_int": 51401,
+        "user": "GrandMaster",
+        "content": "6b"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:16:49",
+        "time_int": 51409,
+        "user": "GrandMaster",
+        "content": "38"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:16:54",
+        "time_int": 51414,
+        "user": "GrandMaster",
+        "content": "6c"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:16:55",
+        "time_int": 51415,
+        "user": "GrandMaster",
+        "content": "6a"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:16:56",
+        "time_int": 51416,
+        "user": "GrandMaster",
+        "content": "5c"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:17:00",
+        "time_int": 51420,
+        "user": "GrandMaster",
+        "content": "4d"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:17:01",
+        "time_int": 51421,
+        "user": "GrandMaster",
+        "content": "7c"
+    },
+    {
+        "action": "TALK",
+        "time": "14:17:07",
+        "time_int": 51427,
+        "user": "GrandMaster",
+        "content": "OK?"
+    },
+    {
+        "action": "TALK",
+        "time": "14:17:08",
+        "time_int": 51428,
+        "user": "xuwu",
+        "content": "GG3"
+    },
+    {
+        "action": "TALK",
+        "time": "14:17:11",
+        "time_int": 51431,
+        "user": "xuwu",
+        "content": "y"
+    },
+    {
+        "action": "TALK",
+        "time": "14:17:12",
+        "time_int": 51432,
+        "user": "xiaolou",
+        "content": "gg"
+    },
+    {
+        "action": "TALK",
+        "time": "14:17:13",
+        "time_int": 51433,
+        "user": "Guest757",
+        "content": "cool"
+    },
+    {
+        "action": "GOTO",
+        "time": "14:17:13",
+        "time_int": 51433,
+        "user": "GrandMaster",
+        "content": 35
+    },
+    {
+        "action": "TALK",
+        "time": "14:17:14",
+        "time_int": 51434,
+        "user": "rosebud",
+        "content": "ok"
+    },
+    {
+        "action": "TALK",
+        "time": "14:17:14",
+        "time_int": 51434,
+        "user": "roger8961",
+        "content": "ok"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:17:19",
+        "time_int": 51439,
+        "user": "GrandMaster",
+        "content": "37"
+    },
+    {
+        "action": "TALK",
+        "time": "14:17:20",
+        "time_int": 51440,
+        "user": "konjin",
+        "content": "cool"
+    },
+    {
+        "action": "TALK",
+        "time": "14:17:26",
+        "time_int": 51446,
+        "user": "GrandMaster",
+        "content": "36 is better."
+    },
+    {
+        "action": "MOVE",
+        "time": "14:17:32",
+        "time_int": 51452,
+        "user": "GrandMaster",
+        "content": "55"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:17:36",
+        "time_int": 51456,
+        "user": "GrandMaster",
+        "content": "36"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:17:38",
+        "time_int": 51458,
+        "user": "GrandMaster",
+        "content": "26"
+    },
+    {
+        "action": "TALK",
+        "time": "14:17:39",
+        "time_int": 51459,
+        "user": "konjin",
+        "content": "but why you need 23? can not attack direct upside?"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:18:04",
+        "time_int": 51484,
+        "user": "GrandMaster",
+        "content": "53"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:18:05",
+        "time_int": 51485,
+        "user": "GrandMaster",
+        "content": "73"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:18:06",
+        "time_int": 51486,
+        "user": "GrandMaster",
+        "content": "72"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:18:09",
+        "time_int": 51489,
+        "user": "GrandMaster",
+        "content": "38"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:18:14",
+        "time_int": 51494,
+        "user": "GrandMaster",
+        "content": "27"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:18:17",
+        "time_int": 51497,
+        "user": "GrandMaster",
+        "content": "6a"
+    },
+    {
+        "action": "TALK",
+        "time": "14:18:35",
+        "time_int": 51515,
+        "user": "xuwu",
+        "content": "43 B7?"
+    },
+    {
+        "action": "TALK",
+        "time": "14:18:37",
+        "time_int": 51517,
+        "user": "GrandMaster",
+        "content": "I think no victory upperside."
+    },
+    {
+        "action": "BACK",
+        "time": "14:18:48",
+        "time_int": 51528,
+        "user": "GrandMaster",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time": "14:18:49",
+        "time_int": 51529,
+        "user": "GrandMaster",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time": "14:18:50",
+        "time_int": 51530,
+        "user": "GrandMaster",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time": "14:18:51",
+        "time_int": 51531,
+        "user": "GrandMaster",
+        "content": "27"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:18:53",
+        "time_int": 51533,
+        "user": "GrandMaster",
+        "content": "33"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:18:54",
+        "time_int": 51534,
+        "user": "GrandMaster",
+        "content": "23"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:18:59",
+        "time_int": 51539,
+        "user": "GrandMaster",
+        "content": "6b"
+    },
+    {
+        "action": "TALK",
+        "time": "14:19:04",
+        "time_int": 51544,
+        "user": "xuwu",
+        "content": "oh.."
+    },
+    {
+        "action": "TALK",
+        "time": "14:19:08",
+        "time_int": 51548,
+        "user": "konjin",
+        "content": "he he"
+    },
+    {
+        "action": "TALK",
+        "time": "14:19:08",
+        "time_int": 51548,
+        "user": "GrandMaster",
+        "content": "OK?"
+    },
+    {
+        "action": "TALK",
+        "time": "14:19:12",
+        "time_int": 51552,
+        "user": "xuwu",
+        "content": "y"
+    },
+    {
+        "action": "TALK",
+        "time": "14:19:12",
+        "time_int": 51552,
+        "user": "xiaolou",
+        "content": "ok"
+    },
+    {
+        "action": "TALK",
+        "time": "14:19:12",
+        "time_int": 51552,
+        "user": "konjin",
+        "content": "nice"
+    },
+    {
+        "action": "TALK",
+        "time": "14:19:13",
+        "time_int": 51553,
+        "user": "roger8961",
+        "content": "ok"
+    },
+    {
+        "action": "TALK",
+        "time": "14:19:14",
+        "time_int": 51554,
+        "user": "slamduk",
+        "content": "y"
+    },
+    {
+        "action": "TALK",
+        "time": "14:19:15",
+        "time_int": 51555,
+        "user": "rosebud",
+        "content": "ok"
+    },
+    {
+        "action": "TALK",
+        "time": "14:19:19",
+        "time_int": 51559,
+        "user": "weigui",
+        "content": "y"
+    },
+    {
+        "action": "TALK",
+        "time": "14:19:28",
+        "time_int": 51568,
+        "user": "Ikon",
+        "content": "y"
+    },
+    {
+        "action": "TALK",
+        "time": "14:19:35",
+        "time_int": 51575,
+        "user": "kfive",
+        "content": "y"
+    },
+    {
+        "action": "TALK",
+        "time": "14:19:40",
+        "time_int": 51580,
+        "user": "Liuchao",
+        "content": "43-c3"
+    },
+    {
+        "action": "TALK",
+        "time": "14:19:59",
+        "time_int": 51599,
+        "user": "GrandMaster",
+        "content": "When I was analyzing , I found it is not victory only upperside because of cut line."
+    },
+    {
+        "action": "TALK",
+        "time": "14:20:40",
+        "time_int": 51640,
+        "user": "verne",
+        "content": "."
+    },
+    {
+        "action": "TALK",
+        "time": "14:20:40",
+        "time_int": 51640,
+        "user": "GrandMaster",
+        "content": "So black had to help from the bottom."
+    },
+    {
+        "action": "GOTO",
+        "time": "14:20:47",
+        "time_int": 51647,
+        "user": "GrandMaster",
+        "content": 21
+    },
+    {
+        "action": "MOVE",
+        "time": "14:20:58",
+        "time_int": 51658,
+        "user": "GrandMaster",
+        "content": "55"
+    },
+    {
+        "action": "TALK",
+        "time": "14:21:27",
+        "time_int": 51687,
+        "user": "GrandMaster",
+        "content": "If 22, then black goes to right side."
+    },
+    {
+        "action": "MOVE",
+        "time": "14:21:29",
+        "time_int": 51689,
+        "user": "GrandMaster",
+        "content": "95"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:21:36",
+        "time_int": 51696,
+        "user": "GrandMaster",
+        "content": "84"
+    },
+    {
+        "action": "TALK",
+        "time": "14:21:42",
+        "time_int": 51702,
+        "user": "GrandMaster",
+        "content": "If 24,"
+    },
+    {
+        "action": "TALK",
+        "time": "14:21:57",
+        "time_int": 51717,
+        "user": "Guest757",
+        "content": "."
+    },
+    {
+        "action": "TALK",
+        "time": "14:22:01",
+        "time_int": 51721,
+        "user": "GrandMaster",
+        "content": "black can win I am sure."
+    },
+    {
+        "action": "TALK",
+        "time": "14:22:12",
+        "time_int": 51732,
+        "user": "GrandMaster",
+        "content": "Anybody challenge?"
+    },
+    {
+        "action": "TALK",
+        "time": "14:22:16",
+        "time_int": 51736,
+        "user": "kfive",
+        "content": "vcf?"
+    },
+    {
+        "action": "TALK",
+        "time": "14:22:19",
+        "time_int": 51739,
+        "user": "GrandMaster",
+        "content": "y"
+    },
+    {
+        "action": "TALK",
+        "time": "14:22:33",
+        "time_int": 51753,
+        "user": "roger8961",
+        "content": "G4?"
+    },
+    {
+        "action": "TALK",
+        "time": "14:22:35",
+        "time_int": 51755,
+        "user": "YeYuwuziqi",
+        "content": "vcf"
+    },
+    {
+        "action": "TALK",
+        "time": "14:22:38",
+        "time_int": 51758,
+        "user": "xiaolou",
+        "content": "me"
+    },
+    {
+        "action": "TALK",
+        "time": "14:22:47",
+        "time_int": 51767,
+        "user": "xuwu",
+        "content": "me"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:22:52",
+        "time_int": 51772,
+        "user": "xiaolou",
+        "content": "96"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:22:54",
+        "time_int": 51774,
+        "user": "GrandMaster",
+        "content": "87"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:22:56",
+        "time_int": 51776,
+        "user": "xiaolou",
+        "content": "74"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:22:58",
+        "time_int": 51778,
+        "user": "GrandMaster",
+        "content": "77"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:23:01",
+        "time_int": 51781,
+        "user": "xiaolou",
+        "content": "94"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:23:04",
+        "time_int": 51784,
+        "user": "GrandMaster",
+        "content": "93"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:23:05",
+        "time_int": 51785,
+        "user": "xiaolou",
+        "content": "72"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:23:06",
+        "time_int": 51786,
+        "user": "GrandMaster",
+        "content": "73"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:23:07",
+        "time_int": 51787,
+        "user": "xiaolou",
+        "content": "a5"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:23:09",
+        "time_int": 51789,
+        "user": "GrandMaster",
+        "content": "85"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:23:10",
+        "time_int": 51790,
+        "user": "xiaolou",
+        "content": "83"
+    },
+    {
+        "action": "TALK",
+        "time": "14:23:14",
+        "time_int": 51794,
+        "user": "GrandMaster",
+        "content": "good!"
+    },
+    {
+        "action": "TALK",
+        "time": "14:23:14",
+        "time_int": 51794,
+        "user": "xuwu",
+        "content": "GG"
+    },
+    {
+        "action": "TALK",
+        "time": "14:23:17",
+        "time_int": 51797,
+        "user": "hobbang",
+        "content": "gg"
+    },
+    {
+        "action": "TALK",
+        "time": "14:23:19",
+        "time_int": 51799,
+        "user": "xiaolou",
+        "content": "thx"
+    },
+    {
+        "action": "TALK",
+        "time": "14:23:27",
+        "time_int": 51807,
+        "user": "GrandMaster",
+        "content": "Thank you"
+    },
+    {
+        "action": "TALK",
+        "time": "14:24:00",
+        "time_int": 51840,
+        "user": "Guest757",
+        "content": "I AM HERE"
+    },
+    {
+        "action": "TALK",
+        "time": "14:24:06",
+        "time_int": 51846,
+        "user": "DragonUtopia",
+        "content": ":))"
+    },
+    {
+        "action": "TALK",
+        "time": "14:24:06",
+        "time_int": 51846,
+        "user": "xuwu",
+        "content": "i am first !haha"
+    },
+    {
+        "action": "TALK",
+        "time": "14:24:09",
+        "time_int": 51849,
+        "user": "konjin",
+        "content": "what 25 for 24-g3?"
+    },
+    {
+        "action": "CHECKRESULT",
+        "time": "14:24:23",
+        "time_int": 51863,
+        "user": "",
+        "content": " xuwu, kfive, slamduk, hobbang, yaya, ouyang, xiaolou, Ikon, YKS, weigui, sosei, Samsone, akira, roger8961, casar, Renju_YinLC, DragonUtopia, danfengyue, verne, tommy, mayhem, sunrain, cloud, whywhy, YeYuwuziqi, konjin, xinxin, Lithium, callings, MIMI, Liuchao, mima, chinezu, Whiz, Zelerny, moocheng, lq20008, Joe1980cn, killer21st, rosebud, renjunewbie."
+    },
+    {
+        "action": "TALK",
+        "time": "14:24:25",
+        "time_int": 51865,
+        "user": "hobbang",
+        "content": "I am 4th. :("
+    },
+    {
+        "action": "CREDIT",
+        "time": "14:24:28",
+        "time_int": 51868,
+        "user": "",
+        "content": " akira, callings, casar, chinezu, cloud, danfengyue, DragonUtopia, hobbang, Ikon, kfive, killer21st, konjin, Lithium, Liuchao, mayhem, mima, MIMI, moocheng, ouyang, Renju_YinLC, roger8961, rosebud, Samsone, slamduk, sosei, sunrain, tommy, verne, weigui, Whiz, xiaolou, xinxin, xuwu, yaya, YeYuwuziqi, YKS, Zelerny."
+    }
+]

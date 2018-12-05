@@ -1,0 +1,5609 @@
+[
+    {
+        "action": "RESET",
+        "time": "13:33:30",
+        "time_int": 48810,
+        "user": "",
+        "content": "016001HHHIJJIIGIIGIJGJJHJIIHKHKIIKLJKJ"
+    },
+    {
+        "action": "TALK",
+        "time": "13:33:39",
+        "time_int": 48819,
+        "user": "GrandMaster",
+        "content": "Welcome to the Online Renju Class analysis lesson!"
+    },
+    {
+        "action": "TALK",
+        "time": "13:33:42",
+        "time_int": 48822,
+        "user": "Timo",
+        "content": "hi"
+    },
+    {
+        "action": "EMOTE",
+        "time": "13:33:44",
+        "time_int": 48824,
+        "user": "sosei",
+        "content": " says hi to GM"
+    },
+    {
+        "action": "TALK",
+        "time": "13:33:45",
+        "time_int": 48825,
+        "user": "yzhnie",
+        "content": "Hello GM"
+    },
+    {
+        "action": "EMOTE",
+        "time": "13:33:46",
+        "time_int": 48826,
+        "user": "yboil",
+        "content": " says hi to GM"
+    },
+    {
+        "action": "TALK",
+        "time": "13:33:47",
+        "time_int": 48827,
+        "user": "endlessroad",
+        "content": "hi GM!"
+    },
+    {
+        "action": "TALK",
+        "time": "13:33:51",
+        "time_int": 48831,
+        "user": "konjin",
+        "content": "is it not theory?"
+    },
+    {
+        "action": "TALK",
+        "time": "13:33:53",
+        "time_int": 48833,
+        "user": "chess",
+        "content": "hi"
+    },
+    {
+        "action": "TALK",
+        "time": "13:33:56",
+        "time_int": 48836,
+        "user": "Whiz",
+        "content": "hi,GM"
+    },
+    {
+        "action": "TALK",
+        "time": "13:33:59",
+        "time_int": 48839,
+        "user": "yun_shou",
+        "content": "hi GM"
+    },
+    {
+        "action": "EMOTE",
+        "time": "13:33:59",
+        "time_int": 48839,
+        "user": "puma2005",
+        "content": " says hi to GM"
+    },
+    {
+        "action": "TALK",
+        "time": "13:34:08",
+        "time_int": 48848,
+        "user": "iris",
+        "content": "hi,GM"
+    },
+    {
+        "action": "TALK",
+        "time": "13:34:09",
+        "time_int": 48849,
+        "user": "SamSite",
+        "content": "theory on saturdays"
+    },
+    {
+        "action": "TALK",
+        "time": "13:34:12",
+        "time_int": 48852,
+        "user": "Guest159",
+        "content": "Hello GM"
+    },
+    {
+        "action": "TALK",
+        "time": "13:34:14",
+        "time_int": 48854,
+        "user": "sirasoni",
+        "content": "hi..GM..:)"
+    },
+    {
+        "action": "TALK",
+        "time": "13:34:16",
+        "time_int": 48856,
+        "user": "GrandMaster",
+        "content": "I am Istvan Virag, This is my second teaching in the Analysis Department. I am very glad to teach here."
+    },
+    {
+        "action": "TALK",
+        "time": "13:34:28",
+        "time_int": 48868,
+        "user": "Tornado",
+        "content": ":)"
+    },
+    {
+        "action": "TALK",
+        "time": "13:34:31",
+        "time_int": 48871,
+        "user": "konjin",
+        "content": "congrat !"
+    },
+    {
+        "action": "TALK",
+        "time": "13:34:41",
+        "time_int": 48881,
+        "user": "GrandMaster",
+        "content": "Now, we are ready to begin. Today we will revise some games from 5th ORC Championship tournament."
+    },
+    {
+        "action": "TALK",
+        "time": "13:34:41",
+        "time_int": 48881,
+        "user": "konjin",
+        "content": "we know you can do a good lesson!"
+    },
+    {
+        "action": "TALK",
+        "time": "13:34:52",
+        "time_int": 48892,
+        "user": "Tornado",
+        "content": "........."
+    },
+    {
+        "action": "TALK",
+        "time": "13:35:13",
+        "time_int": 48913,
+        "user": "GrandMaster",
+        "content": "Of course, we congratulate to Renju_Liu_t, he won the championship. It was great job!"
+    },
+    {
+        "action": "TALK",
+        "time": "13:35:29",
+        "time_int": 48929,
+        "user": "konjin",
+        "content": "gg !!"
+    },
+    {
+        "action": "TALK",
+        "time": "13:35:49",
+        "time_int": 48949,
+        "user": "GrandMaster",
+        "content": "Our subject today is \"Monkey games\" :-)"
+    },
+    {
+        "action": "TALK",
+        "time": "13:35:53",
+        "time_int": 48953,
+        "user": "yboil",
+        "content": "strong"
+    },
+    {
+        "action": "TALK",
+        "time": "13:36:11",
+        "time_int": 48971,
+        "user": "GrandMaster",
+        "content": "You can see in many times in offline tournaments that some games have absolutly identical move sequence."
+    },
+    {
+        "action": "TALK",
+        "time": "13:36:29",
+        "time_int": 48989,
+        "user": "GrandMaster",
+        "content": "Have you seen it already?"
+    },
+    {
+        "action": "TALK",
+        "time": "13:36:30",
+        "time_int": 48990,
+        "user": "SamSite",
+        "content": "this year very many"
+    },
+    {
+        "action": "TALK",
+        "time": "13:36:36",
+        "time_int": 48996,
+        "user": "konjin",
+        "content": "yes"
+    },
+    {
+        "action": "TALK",
+        "time": "13:36:58",
+        "time_int": 49018,
+        "user": "konjin",
+        "content": "a lot, seems like ppl learn moves by heart"
+    },
+    {
+        "action": "TALK",
+        "time": "13:37:11",
+        "time_int": 49031,
+        "user": "GrandMaster",
+        "content": "Who saw \"monkey games\" already?"
+    },
+    {
+        "action": "TALK",
+        "time": "13:37:34",
+        "time_int": 49054,
+        "user": "SamSite",
+        "content": "I looked at some games people talked about in forum"
+    },
+    {
+        "action": "TALK",
+        "time": "13:37:57",
+        "time_int": 49077,
+        "user": "yboil",
+        "content": "but I don't know"
+    },
+    {
+        "action": "TALK",
+        "time": "13:38:00",
+        "time_int": 49080,
+        "user": "GrandMaster",
+        "content": "Another question, Who have played monkey games already?"
+    },
+    {
+        "action": "TALK",
+        "time": "13:38:02",
+        "time_int": 49082,
+        "user": "eggttball",
+        "content": "I don't know what it is"
+    },
+    {
+        "action": "TALK",
+        "time": "13:38:09",
+        "time_int": 49089,
+        "user": "konjin",
+        "content": "no"
+    },
+    {
+        "action": "TALK",
+        "time": "13:38:25",
+        "time_int": 49105,
+        "user": "Timo",
+        "content": "me"
+    },
+    {
+        "action": "TALK",
+        "time": "13:38:54",
+        "time_int": 49134,
+        "user": "GrandMaster",
+        "content": "Monkey games means: moves are same on 2 or more boards"
+    },
+    {
+        "action": "TALK",
+        "time": "13:39:23",
+        "time_int": 49163,
+        "user": "GrandMaster",
+        "content": "Not only move sequence same in these games, but the progress is same."
+    },
+    {
+        "action": "TALK",
+        "time": "13:39:39",
+        "time_int": 49179,
+        "user": "GrandMaster",
+        "content": "What means that progress is same?"
+    },
+    {
+        "action": "TALK",
+        "time": "13:40:00",
+        "time_int": 49200,
+        "user": "hobbang",
+        "content": "same move?"
+    },
+    {
+        "action": "TALK",
+        "time": "13:40:10",
+        "time_int": 49210,
+        "user": "SamSite",
+        "content": "moves made in same order"
+    },
+    {
+        "action": "TALK",
+        "time": "13:40:13",
+        "time_int": 49213,
+        "user": "yzhnie",
+        "content": "time?"
+    },
+    {
+        "action": "TALK",
+        "time": "13:40:18",
+        "time_int": 49218,
+        "user": "GrandMaster",
+        "content": "It means that both (or more) board have same number of stones from beginning to end in all time."
+    },
+    {
+        "action": "TALK",
+        "time": "13:40:27",
+        "time_int": 49227,
+        "user": "GrandMaster",
+        "content": "Ok?"
+    },
+    {
+        "action": "TALK",
+        "time": "13:40:31",
+        "time_int": 49231,
+        "user": "HOT",
+        "content": "OK"
+    },
+    {
+        "action": "TALK",
+        "time": "13:40:31",
+        "time_int": 49231,
+        "user": "Timo",
+        "content": "ok"
+    },
+    {
+        "action": "TALK",
+        "time": "13:40:32",
+        "time_int": 49232,
+        "user": "endlessroad",
+        "content": "ok"
+    },
+    {
+        "action": "TALK",
+        "time": "13:40:33",
+        "time_int": 49233,
+        "user": "voshkod",
+        "content": "y"
+    },
+    {
+        "action": "TALK",
+        "time": "13:40:34",
+        "time_int": 49234,
+        "user": "konjin",
+        "content": "yes"
+    },
+    {
+        "action": "TALK",
+        "time": "13:40:35",
+        "time_int": 49235,
+        "user": "Joe1980cn",
+        "content": "yes"
+    },
+    {
+        "action": "TALK",
+        "time": "13:40:37",
+        "time_int": 49237,
+        "user": "Torsten",
+        "content": "one person plays black and white ?"
+    },
+    {
+        "action": "TALK",
+        "time": "13:40:37",
+        "time_int": 49237,
+        "user": "hobbang",
+        "content": "twins"
+    },
+    {
+        "action": "TALK",
+        "time": "13:40:59",
+        "time_int": 49259,
+        "user": "eggttball",
+        "content": "wow...form begin to end"
+    },
+    {
+        "action": "TALK",
+        "time": "13:41:00",
+        "time_int": 49260,
+        "user": "Torsten",
+        "content": "weak player against 2 strong ones?"
+    },
+    {
+        "action": "TALK",
+        "time": "13:41:23",
+        "time_int": 49283,
+        "user": "yboil",
+        "content": "Take a  example,please"
+    },
+    {
+        "action": "TALK",
+        "time": "13:41:31",
+        "time_int": 49291,
+        "user": "konjin",
+        "content": "hehe, torsten, i played \"monkey\" chess like that lont time ago"
+    },
+    {
+        "action": "TALK",
+        "time": "13:41:38",
+        "time_int": 49298,
+        "user": "GrandMaster",
+        "content": "Yes Torsten. There is another type of \"monkey game\" where same player plays two identical game but different colors. Then this player get at least 1-0 or 0-1 or 1\/2-1\/2 on both boards. But st is unfair morals!!!"
+    },
+    {
+        "action": "TALK",
+        "time": "13:41:46",
+        "time_int": 49306,
+        "user": "chess",
+        "content": "\"monkey\" chess?"
+    },
+    {
+        "action": "TALK",
+        "time": "13:42:08",
+        "time_int": 49328,
+        "user": "konjin",
+        "content": "yes, two games in the same time, one white one black"
+    },
+    {
+        "action": "TALK",
+        "time": "13:42:31",
+        "time_int": 49351,
+        "user": "yzhnie",
+        "content": "The player connect two strong players, hehe"
+    },
+    {
+        "action": "TALK",
+        "time": "13:42:32",
+        "time_int": 49352,
+        "user": "konjin",
+        "content": "and pass the white moves to the black player and viceversa"
+    },
+    {
+        "action": "TALK",
+        "time": "13:42:33",
+        "time_int": 49353,
+        "user": "GrandMaster",
+        "content": "But today we speak about \"fair monkey games\""
+    },
+    {
+        "action": "TALK",
+        "time": "13:43:09",
+        "time_int": 49389,
+        "user": "konjin",
+        "content": "yes"
+    },
+    {
+        "action": "TALK",
+        "time": "13:43:16",
+        "time_int": 49396,
+        "user": "GrandMaster",
+        "content": "Where one player have some identical games with same color! Ok?"
+    },
+    {
+        "action": "TALK",
+        "time": "13:43:39",
+        "time_int": 49419,
+        "user": "sirasoni",
+        "content": "ok"
+    },
+    {
+        "action": "TALK",
+        "time": "13:43:43",
+        "time_int": 49423,
+        "user": "yuchaw",
+        "content": "ok"
+    },
+    {
+        "action": "TALK",
+        "time": "13:43:43",
+        "time_int": 49423,
+        "user": "konjin",
+        "content": "as a simultaneos game against more opponents?"
+    },
+    {
+        "action": "TALK",
+        "time": "13:43:51",
+        "time_int": 49431,
+        "user": "Torsten",
+        "content": "Ok, but how does it happen? Isn't it quite unlikely?"
+    },
+    {
+        "action": "TALK",
+        "time": "13:43:55",
+        "time_int": 49435,
+        "user": "GrandMaster",
+        "content": "Yes konjin"
+    },
+    {
+        "action": "TALK",
+        "time": "13:43:55",
+        "time_int": 49435,
+        "user": "Timo",
+        "content": "ok"
+    },
+    {
+        "action": "TALK",
+        "time": "13:44:10",
+        "time_int": 49450,
+        "user": "GrandMaster",
+        "content": "Everybody understand?"
+    },
+    {
+        "action": "TALK",
+        "time": "13:44:14",
+        "time_int": 49454,
+        "user": "konjin",
+        "content": "yes"
+    },
+    {
+        "action": "TALK",
+        "time": "13:44:20",
+        "time_int": 49460,
+        "user": "eggttball",
+        "content": "ok"
+    },
+    {
+        "action": "TALK",
+        "time": "13:44:21",
+        "time_int": 49461,
+        "user": "Timo",
+        "content": "y"
+    },
+    {
+        "action": "TALK",
+        "time": "13:44:25",
+        "time_int": 49465,
+        "user": "endlessroad",
+        "content": "yes"
+    },
+    {
+        "action": "TALK",
+        "time": "13:44:34",
+        "time_int": 49474,
+        "user": "slamduk",
+        "content": "y"
+    },
+    {
+        "action": "TALK",
+        "time": "13:44:36",
+        "time_int": 49476,
+        "user": "YeYuwuziqi",
+        "content": "...."
+    },
+    {
+        "action": "TALK",
+        "time": "13:44:54",
+        "time_int": 49494,
+        "user": "yuchaw",
+        "content": "i am here"
+    },
+    {
+        "action": "TALK",
+        "time": "13:45:11",
+        "time_int": 49511,
+        "user": "konjin",
+        "content": "hit the button yuchae!"
+    },
+    {
+        "action": "CHECKRESULT",
+        "time": "13:45:14",
+        "time_int": 49514,
+        "user": "",
+        "content": " yzhnie, casar, Torsten, puma2005, endlessroad, sirasoni, Timo, Joe1980cn, hobbang, slamduk, xfeifeix, Tear, iris, Liuchao, Tornado, Phfay, voshkod, tommy, dudu, yboil, konjin, xuwu, HOT, sosei, weigui, shuwang, ouyang, Ikon, killer21st, Whiz, YeYuwuziqi, chess, SUPERAK47, wolfzhou, yun_shou, kawamura, yaya, johncid, eggttball."
+    },
+    {
+        "action": "TALK",
+        "time": "13:45:25",
+        "time_int": 49525,
+        "user": "yzhnie",
+        "content": ":)"
+    },
+    {
+        "action": "TALK",
+        "time": "13:45:30",
+        "time_int": 49530,
+        "user": "sirasoni",
+        "content": ":)"
+    },
+    {
+        "action": "TALK",
+        "time": "13:45:39",
+        "time_int": 49539,
+        "user": "Tornado",
+        "content": "monkey games means 1 vs N  ( N >= 2 )   ,right?"
+    },
+    {
+        "action": "TALK",
+        "time": "13:45:58",
+        "time_int": 49558,
+        "user": "GrandMaster",
+        "content": "Yes Tornado. Another property of these games that there is one \"master game\" and other games are \"replica\""
+    },
+    {
+        "action": "TALK",
+        "time": "13:46:40",
+        "time_int": 49600,
+        "user": "GrandMaster",
+        "content": "So the progress of games looks:\nEg. on \"master\" board move 31. played\nFew hours or days break?\nOn \"replica\" borad move 31. also played    etc"
+    },
+    {
+        "action": "TALK",
+        "time": "13:47:22",
+        "time_int": 49642,
+        "user": "GrandMaster",
+        "content": "Few players prefer using this tactics. There is no problem with it because all boards are public (no hidden boards)"
+    },
+    {
+        "action": "TALK",
+        "time": "13:47:38",
+        "time_int": 49658,
+        "user": "GrandMaster",
+        "content": "What is the advantage of this tactics? Please answer!"
+    },
+    {
+        "action": "TALK",
+        "time": "13:47:58",
+        "time_int": 49678,
+        "user": "yzhnie",
+        "content": "two or more attack one"
+    },
+    {
+        "action": "TALK",
+        "time": "13:48:17",
+        "time_int": 49697,
+        "user": "GrandMaster",
+        "content": "others?"
+    },
+    {
+        "action": "TALK",
+        "time": "13:48:19",
+        "time_int": 49699,
+        "user": "konjin",
+        "content": "follow strong players, learn"
+    },
+    {
+        "action": "TALK",
+        "time": "13:48:23",
+        "time_int": 49703,
+        "user": "slamduk",
+        "content": "save time"
+    },
+    {
+        "action": "TALK",
+        "time": "13:48:34",
+        "time_int": 49714,
+        "user": "Timo",
+        "content": "if i have a win, then i get two points"
+    },
+    {
+        "action": "TALK",
+        "time": "13:48:47",
+        "time_int": 49727,
+        "user": "killer21st",
+        "content": "make rare move"
+    },
+    {
+        "action": "TALK",
+        "time": "13:49:21",
+        "time_int": 49761,
+        "user": "GrandMaster",
+        "content": "Good answers!"
+    },
+    {
+        "action": "TALK",
+        "time": "13:49:31",
+        "time_int": 49771,
+        "user": "GrandMaster",
+        "content": "1. Copying of stronger player moves good idea for beginner: learning the theory and time sparing. The \"copier\" has more time to analyze critical games."
+    },
+    {
+        "action": "TALK",
+        "time": "13:49:47",
+        "time_int": 49787,
+        "user": "GrandMaster",
+        "content": "Agree?"
+    },
+    {
+        "action": "TALK",
+        "time": "13:49:53",
+        "time_int": 49793,
+        "user": "chess",
+        "content": "y"
+    },
+    {
+        "action": "TALK",
+        "time": "13:49:55",
+        "time_int": 49795,
+        "user": "yboil",
+        "content": "yes"
+    },
+    {
+        "action": "TALK",
+        "time": "13:49:57",
+        "time_int": 49797,
+        "user": "yzhnie",
+        "content": "y"
+    },
+    {
+        "action": "TALK",
+        "time": "13:50:01",
+        "time_int": 49801,
+        "user": "slamduk",
+        "content": ":)"
+    },
+    {
+        "action": "TALK",
+        "time": "13:50:02",
+        "time_int": 49802,
+        "user": "Ikon",
+        "content": "y"
+    },
+    {
+        "action": "TALK",
+        "time": "13:50:03",
+        "time_int": 49803,
+        "user": "konjin",
+        "content": "yes, you sayd it more clear"
+    },
+    {
+        "action": "TALK",
+        "time": "13:50:04",
+        "time_int": 49804,
+        "user": "endlessroad",
+        "content": "y"
+    },
+    {
+        "action": "TALK",
+        "time": "13:50:07",
+        "time_int": 49807,
+        "user": "SamSite",
+        "content": "copying is good only for the current tournament"
+    },
+    {
+        "action": "TALK",
+        "time": "13:50:12",
+        "time_int": 49812,
+        "user": "iris",
+        "content": "y"
+    },
+    {
+        "action": "TALK",
+        "time": "13:50:14",
+        "time_int": 49814,
+        "user": "Timo",
+        "content": "y"
+    },
+    {
+        "action": "TALK",
+        "time": "13:50:16",
+        "time_int": 49816,
+        "user": "eggttball",
+        "content": "y"
+    },
+    {
+        "action": "TALK",
+        "time": "13:50:34",
+        "time_int": 49834,
+        "user": "GrandMaster",
+        "content": "But, It has a drawback: if the stronger player plays poorly!"
+    },
+    {
+        "action": "TALK",
+        "time": "13:50:50",
+        "time_int": 49850,
+        "user": "killer21st",
+        "content": "yes.copiers are usual clever"
+    },
+    {
+        "action": "TALK",
+        "time": "13:50:53",
+        "time_int": 49853,
+        "user": "endlessroad",
+        "content": ":).."
+    },
+    {
+        "action": "TALK",
+        "time": "13:51:08",
+        "time_int": 49868,
+        "user": "SamSite",
+        "content": "or if next time someone plays a different move, the copier has not understood the previous moevs, and so won't be prepared for a surprise"
+    },
+    {
+        "action": "TALK",
+        "time": "13:51:27",
+        "time_int": 49887,
+        "user": "GrandMaster",
+        "content": "Yes Samsite"
+    },
+    {
+        "action": "TALK",
+        "time": "13:51:30",
+        "time_int": 49890,
+        "user": "GrandMaster",
+        "content": "Another advantage is:\n2. Set up identical openings on some borads and playing exactly same games getting same results: wins or draws. Here you need to know the theory very well. It is also time saving method."
+    },
+    {
+        "action": "TALK",
+        "time": "13:51:32",
+        "time_int": 49892,
+        "user": "wolfzhou",
+        "content": "."
+    },
+    {
+        "action": "TALK",
+        "time": "13:51:54",
+        "time_int": 49914,
+        "user": "killer21st",
+        "content": "but the question is whether the copier could understand the theory of stronger player."
+    },
+    {
+        "action": "TALK",
+        "time": "13:52:03",
+        "time_int": 49923,
+        "user": "wolfzhou",
+        "content": "."
+    },
+    {
+        "action": "TALK",
+        "time": "13:52:03",
+        "time_int": 49923,
+        "user": "SamSite",
+        "content": "yes"
+    },
+    {
+        "action": "TALK",
+        "time": "13:52:17",
+        "time_int": 49937,
+        "user": "konjin",
+        "content": "there could be also advantage for team playing"
+    },
+    {
+        "action": "TALK",
+        "time": "13:52:47",
+        "time_int": 49967,
+        "user": "SamSite",
+        "content": "for copying to be efficient, one must at one point anyway analyse, why such moves were played"
+    },
+    {
+        "action": "TALK",
+        "time": "13:52:49",
+        "time_int": 49969,
+        "user": "GrandMaster",
+        "content": "Yes, this tactics risky for beginner, but otherways also lose with simple way..."
+    },
+    {
+        "action": "TALK",
+        "time": "13:53:05",
+        "time_int": 49985,
+        "user": "GrandMaster",
+        "content": ":-)"
+    },
+    {
+        "action": "TALK",
+        "time": "13:53:33",
+        "time_int": 50013,
+        "user": "GrandMaster",
+        "content": "Second advantage was for advanced players."
+    },
+    {
+        "action": "TALK",
+        "time": "13:53:50",
+        "time_int": 50030,
+        "user": "konjin",
+        "content": "for example we are a team, all open d3, but one knows better 15-L10, other knows 15-j11, so depends on opponent's moves, one of us continue and we all win"
+    },
+    {
+        "action": "TALK",
+        "time": "13:54:19",
+        "time_int": 50059,
+        "user": "GrandMaster",
+        "content": "Yes, you need to know theory the very well. Agree?"
+    },
+    {
+        "action": "TALK",
+        "time": "13:54:28",
+        "time_int": 50068,
+        "user": "konjin",
+        "content": "yes"
+    },
+    {
+        "action": "TALK",
+        "time": "13:54:29",
+        "time_int": 50069,
+        "user": "HOT",
+        "content": "y"
+    },
+    {
+        "action": "TALK",
+        "time": "13:54:30",
+        "time_int": 50070,
+        "user": "Tornado",
+        "content": "yeah,could be something like that"
+    },
+    {
+        "action": "TALK",
+        "time": "13:54:33",
+        "time_int": 50073,
+        "user": "eggttball",
+        "content": "y"
+    },
+    {
+        "action": "TALK",
+        "time": "13:54:38",
+        "time_int": 50078,
+        "user": "endlessroad",
+        "content": "y"
+    },
+    {
+        "action": "TALK",
+        "time": "13:54:49",
+        "time_int": 50089,
+        "user": "iris",
+        "content": "y"
+    },
+    {
+        "action": "TALK",
+        "time": "13:55:02",
+        "time_int": 50102,
+        "user": "Timo",
+        "content": "y"
+    },
+    {
+        "action": "TALK",
+        "time": "13:55:11",
+        "time_int": 50111,
+        "user": "GrandMaster",
+        "content": "But, It has also a drawback: if you get same results like many LOSES :-)"
+    },
+    {
+        "action": "TALK",
+        "time": "13:55:21",
+        "time_int": 50121,
+        "user": "Tornado",
+        "content": ":)"
+    },
+    {
+        "action": "TALK",
+        "time": "13:55:54",
+        "time_int": 50154,
+        "user": "GrandMaster",
+        "content": "Becuse of your opponents can \"share\" analysis time. It means, if one of your opponents find a good move then rest of your opponents simply copy this move :-)"
+    },
+    {
+        "action": "TALK",
+        "time": "13:56:10",
+        "time_int": 50170,
+        "user": "Tornado",
+        "content": "so ,it seems that the result depends on the strongest player of each side.  :)"
+    },
+    {
+        "action": "TALK",
+        "time": "13:56:31",
+        "time_int": 50191,
+        "user": "GrandMaster",
+        "content": "and depends on fortune also"
+    },
+    {
+        "action": "TALK",
+        "time": "13:56:39",
+        "time_int": 50199,
+        "user": "slamduk",
+        "content": ":)"
+    },
+    {
+        "action": "TALK",
+        "time": "13:56:43",
+        "time_int": 50203,
+        "user": "GrandMaster",
+        "content": "A little mistake in analysis result in big deficit! Getting same loses in same time!"
+    },
+    {
+        "action": "TALK",
+        "time": "13:56:54",
+        "time_int": 50214,
+        "user": "yzhnie",
+        "content": "yes"
+    },
+    {
+        "action": "TALK",
+        "time": "13:56:58",
+        "time_int": 50218,
+        "user": "konjin",
+        "content": "that is why ppl do not make rule to stop this practice?"
+    },
+    {
+        "action": "TALK",
+        "time": "13:57:24",
+        "time_int": 50244,
+        "user": "konjin",
+        "content": "is is somewhat risky :D"
+    },
+    {
+        "action": "TALK",
+        "time": "13:57:39",
+        "time_int": 50259,
+        "user": "SamSite",
+        "content": "how could you make such a rule ? how do you prove, that someone is only copying? :)"
+    },
+    {
+        "action": "TALK",
+        "time": "13:57:59",
+        "time_int": 50279,
+        "user": "GrandMaster",
+        "content": "It is hard to create good rule about it, maybe best way to create hidden boards"
+    },
+    {
+        "action": "TALK",
+        "time": "13:58:22",
+        "time_int": 50302,
+        "user": "konjin",
+        "content": "true"
+    },
+    {
+        "action": "TALK",
+        "time": "13:58:23",
+        "time_int": 50303,
+        "user": "GrandMaster",
+        "content": "Understand what means hidden boards?"
+    },
+    {
+        "action": "TALK",
+        "time": "13:59:02",
+        "time_int": 50342,
+        "user": "yzhnie",
+        "content": "only players and admins can watch on?"
+    },
+    {
+        "action": "TALK",
+        "time": "13:59:02",
+        "time_int": 50342,
+        "user": "konjin",
+        "content": "as making some small offices for every 2 players"
+    },
+    {
+        "action": "TALK",
+        "time": "13:59:10",
+        "time_int": 50350,
+        "user": "GrandMaster",
+        "content": "But with hidden board, you cannot avoid about \"team work\"."
+    },
+    {
+        "action": "TALK",
+        "time": "13:59:17",
+        "time_int": 50357,
+        "user": "yzhnie",
+        "content": "sure"
+    },
+    {
+        "action": "TALK",
+        "time": "13:59:27",
+        "time_int": 50367,
+        "user": "GrandMaster",
+        "content": "Yes only two players can see that board"
+    },
+    {
+        "action": "TALK",
+        "time": "13:59:33",
+        "time_int": 50373,
+        "user": "luwenzhe",
+        "content": "What's the topic?"
+    },
+    {
+        "action": "TALK",
+        "time": "13:59:36",
+        "time_int": 50376,
+        "user": "SUPERAK47",
+        "content": "have your own idea is so help for you,in your games"
+    },
+    {
+        "action": "TALK",
+        "time": "14:00:01",
+        "time_int": 50401,
+        "user": "konjin",
+        "content": "agree superak"
+    },
+    {
+        "action": "TALK",
+        "time": "14:00:08",
+        "time_int": 50408,
+        "user": "GrandMaster",
+        "content": "The topic is \"monkey games\" in offline tournaments"
+    },
+    {
+        "action": "TALK",
+        "time": "14:00:14",
+        "time_int": 50414,
+        "user": "GrandMaster",
+        "content": "On the contrary, if you know somewhere a new theory line or tricky position then you can trap more opponents same time!!!"
+    },
+    {
+        "action": "TALK",
+        "time": "14:00:25",
+        "time_int": 50425,
+        "user": "GrandMaster",
+        "content": "Agree?"
+    },
+    {
+        "action": "TALK",
+        "time": "14:00:28",
+        "time_int": 50428,
+        "user": "konjin",
+        "content": "yes"
+    },
+    {
+        "action": "TALK",
+        "time": "14:00:30",
+        "time_int": 50430,
+        "user": "yzhnie",
+        "content": "yes :)"
+    },
+    {
+        "action": "TALK",
+        "time": "14:00:53",
+        "time_int": 50453,
+        "user": "GrandMaster",
+        "content": "It is risky, but without calculated risk you cannot gain good result!"
+    },
+    {
+        "action": "TALK",
+        "time": "14:00:59",
+        "time_int": 50459,
+        "user": "Tornado",
+        "content": "yeah, very stimulative"
+    },
+    {
+        "action": "TALK",
+        "time": "14:01:45",
+        "time_int": 50505,
+        "user": "GrandMaster",
+        "content": "So without risk, you can gain about average result"
+    },
+    {
+        "action": "TALK",
+        "time": "14:01:54",
+        "time_int": 50514,
+        "user": "GrandMaster",
+        "content": "Is it ok?"
+    },
+    {
+        "action": "TALK",
+        "time": "14:02:00",
+        "time_int": 50520,
+        "user": "Tornado",
+        "content": "yes"
+    },
+    {
+        "action": "TALK",
+        "time": "14:02:05",
+        "time_int": 50525,
+        "user": "Timo",
+        "content": "y"
+    },
+    {
+        "action": "TALK",
+        "time": "14:02:07",
+        "time_int": 50527,
+        "user": "eggttball",
+        "content": "ok"
+    },
+    {
+        "action": "TALK",
+        "time": "14:02:08",
+        "time_int": 50528,
+        "user": "endlessroad",
+        "content": "y"
+    },
+    {
+        "action": "TALK",
+        "time": "14:02:12",
+        "time_int": 50532,
+        "user": "xuwu",
+        "content": "y"
+    },
+    {
+        "action": "TALK",
+        "time": "14:02:21",
+        "time_int": 50541,
+        "user": "GrandMaster",
+        "content": "After this introduction, let's see examples. Are you ready?"
+    },
+    {
+        "action": "TALK",
+        "time": "14:02:30",
+        "time_int": 50550,
+        "user": "shuwang",
+        "content": "yes"
+    },
+    {
+        "action": "TALK",
+        "time": "14:02:32",
+        "time_int": 50552,
+        "user": "HOT",
+        "content": "go"
+    },
+    {
+        "action": "TALK",
+        "time": "14:02:35",
+        "time_int": 50555,
+        "user": "yzhnie",
+        "content": "y"
+    },
+    {
+        "action": "TALK",
+        "time": "14:02:35",
+        "time_int": 50555,
+        "user": "eggttball",
+        "content": "y"
+    },
+    {
+        "action": "TALK",
+        "time": "14:02:36",
+        "time_int": 50556,
+        "user": "yuchaw",
+        "content": "yes"
+    },
+    {
+        "action": "TALK",
+        "time": "14:02:42",
+        "time_int": 50562,
+        "user": "yboil",
+        "content": "yes~"
+    },
+    {
+        "action": "TALK",
+        "time": "14:02:43",
+        "time_int": 50563,
+        "user": "konjin",
+        "content": "yes"
+    },
+    {
+        "action": "TALK",
+        "time": "14:02:44",
+        "time_int": 50564,
+        "user": "endlessroad",
+        "content": "y"
+    },
+    {
+        "action": "TALK",
+        "time": "14:02:47",
+        "time_int": 50567,
+        "user": "GrandMaster",
+        "content": "Ok. Fasten seat belts :)"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:02:49",
+        "time_int": 50569,
+        "user": "GrandMaster",
+        "content": "89"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:02:51",
+        "time_int": 50571,
+        "user": "GrandMaster",
+        "content": "86"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:02:51",
+        "time_int": 50571,
+        "user": "GrandMaster",
+        "content": "9a"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:02:52",
+        "time_int": 50572,
+        "user": "GrandMaster",
+        "content": "96"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:02:52",
+        "time_int": 50572,
+        "user": "GrandMaster",
+        "content": "99"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:02:53",
+        "time_int": 50573,
+        "user": "GrandMaster",
+        "content": "79"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:02:53",
+        "time_int": 50573,
+        "user": "GrandMaster",
+        "content": "78"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:02:54",
+        "time_int": 50574,
+        "user": "GrandMaster",
+        "content": "ab"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:02:55",
+        "time_int": 50575,
+        "user": "GrandMaster",
+        "content": "97"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:02:55",
+        "time_int": 50575,
+        "user": "GrandMaster",
+        "content": "98"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:02:57",
+        "time_int": 50577,
+        "user": "GrandMaster",
+        "content": "b7"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:02:57",
+        "time_int": 50577,
+        "user": "GrandMaster",
+        "content": "76"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:02:58",
+        "time_int": 50578,
+        "user": "GrandMaster",
+        "content": "a6"
+    },
+    {
+        "action": "TALK",
+        "time": "14:03:21",
+        "time_int": 50601,
+        "user": "GrandMaster",
+        "content": "Here mcmanus played 7 games: 5 games with black color. His starategy was here to gain at least 3.5 points."
+    },
+    {
+        "action": "TALK",
+        "time": "14:03:51",
+        "time_int": 50631,
+        "user": "GrandMaster",
+        "content": "His plan was not successful because of he realized only 2.5 points."
+    },
+    {
+        "action": "TALK",
+        "time": "14:04:09",
+        "time_int": 50649,
+        "user": "GrandMaster",
+        "content": "And he had fortune with this 2.5 points"
+    },
+    {
+        "action": "TALK",
+        "time": "14:05:02",
+        "time_int": 50702,
+        "user": "GrandMaster",
+        "content": "If his opponent more hungry, then he can get only 1.5 points."
+    },
+    {
+        "action": "MOVE",
+        "time": "14:05:24",
+        "time_int": 50724,
+        "user": "GrandMaster",
+        "content": "68"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:05:25",
+        "time_int": 50725,
+        "user": "GrandMaster",
+        "content": "8a"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:05:27",
+        "time_int": 50727,
+        "user": "GrandMaster",
+        "content": "a8"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:05:28",
+        "time_int": 50728,
+        "user": "GrandMaster",
+        "content": "ba"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:05:29",
+        "time_int": 50729,
+        "user": "GrandMaster",
+        "content": "56"
+    },
+    {
+        "action": "TALK",
+        "time": "14:05:32",
+        "time_int": 50732,
+        "user": "GrandMaster",
+        "content": "With white, here he made theory mistake and Renju_Liu_t said \"thank you very much\". It is black sure win. If this game maybe draw then Renju_liu_t and me have same points, then Berger coefficient would decide."
+    },
+    {
+        "action": "MOVE",
+        "time": "14:06:04",
+        "time_int": 50764,
+        "user": "GrandMaster",
+        "content": "66"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:06:06",
+        "time_int": 50766,
+        "user": "GrandMaster",
+        "content": "aa"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:06:07",
+        "time_int": 50767,
+        "user": "GrandMaster",
+        "content": "a7"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:06:07",
+        "time_int": 50767,
+        "user": "GrandMaster",
+        "content": "a9"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:06:08",
+        "time_int": 50768,
+        "user": "GrandMaster",
+        "content": "ac"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:06:09",
+        "time_int": 50769,
+        "user": "GrandMaster",
+        "content": "87"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:06:10",
+        "time_int": 50770,
+        "user": "GrandMaster",
+        "content": "65"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:06:17",
+        "time_int": 50777,
+        "user": "GrandMaster",
+        "content": "95"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:06:17",
+        "time_int": 50777,
+        "user": "GrandMaster",
+        "content": "77"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:06:18",
+        "time_int": 50778,
+        "user": "GrandMaster",
+        "content": "d7"
+    },
+    {
+        "action": "TALK",
+        "time": "14:06:20",
+        "time_int": 50780,
+        "user": "GrandMaster",
+        "content": "It is black sure win"
+    },
+    {
+        "action": "TALK",
+        "time": "14:06:34",
+        "time_int": 50794,
+        "user": "GrandMaster",
+        "content": "Everybody can analyse it at home"
+    },
+    {
+        "action": "TALK",
+        "time": "14:06:47",
+        "time_int": 50807,
+        "user": "HOT",
+        "content": "OK"
+    },
+    {
+        "action": "GOTO",
+        "time": "14:06:49",
+        "time_int": 50809,
+        "user": "GrandMaster",
+        "content": 15
+    },
+    {
+        "action": "TALK",
+        "time": "14:06:55",
+        "time_int": 50815,
+        "user": "GrandMaster",
+        "content": "Another mcmanus's game with white stones was draw against Aurora."
+    },
+    {
+        "action": "MOVE",
+        "time": "14:07:06",
+        "time_int": 50826,
+        "user": "GrandMaster",
+        "content": "8a"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:07:08",
+        "time_int": 50828,
+        "user": "GrandMaster",
+        "content": "a8"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:07:10",
+        "time_int": 50830,
+        "user": "GrandMaster",
+        "content": "56"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:07:10",
+        "time_int": 50830,
+        "user": "GrandMaster",
+        "content": "67"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:07:11",
+        "time_int": 50831,
+        "user": "GrandMaster",
+        "content": "ba"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:07:13",
+        "time_int": 50833,
+        "user": "GrandMaster",
+        "content": "aa"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:07:14",
+        "time_int": 50834,
+        "user": "GrandMaster",
+        "content": "a9"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:07:15",
+        "time_int": 50835,
+        "user": "GrandMaster",
+        "content": "b8"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:07:15",
+        "time_int": 50835,
+        "user": "GrandMaster",
+        "content": "c8"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:07:16",
+        "time_int": 50836,
+        "user": "GrandMaster",
+        "content": "95"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:07:17",
+        "time_int": 50837,
+        "user": "GrandMaster",
+        "content": "77"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:07:18",
+        "time_int": 50838,
+        "user": "GrandMaster",
+        "content": "c9"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:07:19",
+        "time_int": 50839,
+        "user": "GrandMaster",
+        "content": "85"
+    },
+    {
+        "action": "TALK",
+        "time": "14:07:30",
+        "time_int": 50850,
+        "user": "GrandMaster",
+        "content": "This is the main theory line. All moves are forced."
+    },
+    {
+        "action": "TALK",
+        "time": "14:07:40",
+        "time_int": 50860,
+        "user": "GrandMaster",
+        "content": "What do you think about this position? Is it black win? Is it draw? Or is it white win?"
+    },
+    {
+        "action": "TALK",
+        "time": "14:07:51",
+        "time_int": 50871,
+        "user": "chess",
+        "content": "draw"
+    },
+    {
+        "action": "TALK",
+        "time": "14:07:54",
+        "time_int": 50874,
+        "user": "luwenzhe",
+        "content": "kind of draw"
+    },
+    {
+        "action": "TALK",
+        "time": "14:07:55",
+        "time_int": 50875,
+        "user": "SamSite",
+        "content": "draw"
+    },
+    {
+        "action": "TALK",
+        "time": "14:07:59",
+        "time_int": 50879,
+        "user": "Whiz",
+        "content": "draw"
+    },
+    {
+        "action": "TALK",
+        "time": "14:08:03",
+        "time_int": 50883,
+        "user": "YKS",
+        "content": "forced draw."
+    },
+    {
+        "action": "TALK",
+        "time": "14:08:04",
+        "time_int": 50884,
+        "user": "endlessroad",
+        "content": "draw"
+    },
+    {
+        "action": "TALK",
+        "time": "14:08:04",
+        "time_int": 50884,
+        "user": "whte",
+        "content": "draw"
+    },
+    {
+        "action": "TALK",
+        "time": "14:08:09",
+        "time_int": 50889,
+        "user": "Timo",
+        "content": "draw"
+    },
+    {
+        "action": "TALK",
+        "time": "14:08:20",
+        "time_int": 50900,
+        "user": "GrandMaster",
+        "content": "Yeah"
+    },
+    {
+        "action": "TALK",
+        "time": "14:08:35",
+        "time_int": 50915,
+        "user": "GrandMaster",
+        "content": "The best word here: \"forced draw\""
+    },
+    {
+        "action": "TALK",
+        "time": "14:08:38",
+        "time_int": 50918,
+        "user": "GrandMaster",
+        "content": "It is not obvious that it is sure draw. I have not seen any proof about yet."
+    },
+    {
+        "action": "TALK",
+        "time": "14:08:52",
+        "time_int": 50932,
+        "user": "GrandMaster",
+        "content": "I can say only that BLACK CAN FORCE DRAW, but black has long and strong tempo."
+    },
+    {
+        "action": "TALK",
+        "time": "14:09:08",
+        "time_int": 50948,
+        "user": "GrandMaster",
+        "content": "Ok?"
+    },
+    {
+        "action": "TALK",
+        "time": "14:09:13",
+        "time_int": 50953,
+        "user": "hobbang",
+        "content": "y"
+    },
+    {
+        "action": "TALK",
+        "time": "14:09:15",
+        "time_int": 50955,
+        "user": "sirasoni",
+        "content": "ok"
+    },
+    {
+        "action": "TALK",
+        "time": "14:09:15",
+        "time_int": 50955,
+        "user": "Whiz",
+        "content": "y"
+    },
+    {
+        "action": "TALK",
+        "time": "14:09:20",
+        "time_int": 50960,
+        "user": "endlessroad",
+        "content": "y"
+    },
+    {
+        "action": "TALK",
+        "time": "14:09:20",
+        "time_int": 50960,
+        "user": "eggttball",
+        "content": "k"
+    },
+    {
+        "action": "TALK",
+        "time": "14:09:21",
+        "time_int": 50961,
+        "user": "yzhnie",
+        "content": "y"
+    },
+    {
+        "action": "TALK",
+        "time": "14:09:23",
+        "time_int": 50963,
+        "user": "Tornado",
+        "content": "yeah"
+    },
+    {
+        "action": "TALK",
+        "time": "14:09:23",
+        "time_int": 50963,
+        "user": "GrandMaster",
+        "content": "On contrary, if somewhere any player makes a little mistake then opponent can win."
+    },
+    {
+        "action": "TALK",
+        "time": "14:09:24",
+        "time_int": 50964,
+        "user": "chess",
+        "content": "y"
+    },
+    {
+        "action": "TALK",
+        "time": "14:09:26",
+        "time_int": 50966,
+        "user": "HOT",
+        "content": "Y"
+    },
+    {
+        "action": "TALK",
+        "time": "14:09:37",
+        "time_int": 50977,
+        "user": "Timo",
+        "content": "y"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:09:38",
+        "time_int": 50978,
+        "user": "GrandMaster",
+        "content": "65"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:09:39",
+        "time_int": 50979,
+        "user": "GrandMaster",
+        "content": "66"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:09:40",
+        "time_int": 50980,
+        "user": "GrandMaster",
+        "content": "6a"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:09:41",
+        "time_int": 50981,
+        "user": "GrandMaster",
+        "content": "5a"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:09:42",
+        "time_int": 50982,
+        "user": "GrandMaster",
+        "content": "49"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:09:43",
+        "time_int": 50983,
+        "user": "GrandMaster",
+        "content": "58"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:09:44",
+        "time_int": 50984,
+        "user": "GrandMaster",
+        "content": "69"
+    },
+    {
+        "action": "TALK",
+        "time": "14:09:45",
+        "time_int": 50985,
+        "user": "SamSite",
+        "content": "a true theory-lover's position"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:09:47",
+        "time_int": 50987,
+        "user": "GrandMaster",
+        "content": "6b"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:09:48",
+        "time_int": 50988,
+        "user": "GrandMaster",
+        "content": "59"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:09:49",
+        "time_int": 50989,
+        "user": "GrandMaster",
+        "content": "39"
+    },
+    {
+        "action": "TALK",
+        "time": "14:09:57",
+        "time_int": 50997,
+        "user": "GrandMaster",
+        "content": "In this theory line mcmanus played 4 identical game with black stones."
+    },
+    {
+        "action": "TALK",
+        "time": "14:10:19",
+        "time_int": 51019,
+        "user": "SUPERAK47",
+        "content": "o"
+    },
+    {
+        "action": "TALK",
+        "time": "14:10:40",
+        "time_int": 51040,
+        "user": "SamSite",
+        "content": "I am GLAD I was not at final tournament :) I hate this position! :)"
+    },
+    {
+        "action": "TALK",
+        "time": "14:10:47",
+        "time_int": 51047,
+        "user": "GrandMaster",
+        "content": "He thought, he would get here 4 half points!"
+    },
+    {
+        "action": "TALK",
+        "time": "14:11:05",
+        "time_int": 51065,
+        "user": "GrandMaster",
+        "content": "What do you think, is it draw line or not? Please answer!"
+    },
+    {
+        "action": "TALK",
+        "time": "14:11:27",
+        "time_int": 51087,
+        "user": "yboil",
+        "content": "y"
+    },
+    {
+        "action": "TALK",
+        "time": "14:11:31",
+        "time_int": 51091,
+        "user": "SamSite",
+        "content": "draw"
+    },
+    {
+        "action": "TALK",
+        "time": "14:11:33",
+        "time_int": 51093,
+        "user": "Timo",
+        "content": "i dont know"
+    },
+    {
+        "action": "TALK",
+        "time": "14:11:40",
+        "time_int": 51100,
+        "user": "sirasoni",
+        "content": "i do not know"
+    },
+    {
+        "action": "TALK",
+        "time": "14:12:02",
+        "time_int": 51122,
+        "user": "Torsten",
+        "content": "black certainly do not try to win ..."
+    },
+    {
+        "action": "TALK",
+        "time": "14:12:29",
+        "time_int": 51149,
+        "user": "luwenzhe",
+        "content": "draw"
+    },
+    {
+        "action": "TALK",
+        "time": "14:12:32",
+        "time_int": 51152,
+        "user": "endlessroad",
+        "content": "draw"
+    },
+    {
+        "action": "TALK",
+        "time": "14:12:59",
+        "time_int": 51179,
+        "user": "GrandMaster",
+        "content": "Yes in this line: black can fill up the board and upper are will make a good defensive move"
+    },
+    {
+        "action": "TALK",
+        "time": "14:13:17",
+        "time_int": 51197,
+        "user": "GrandMaster",
+        "content": "Like this:"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:13:28",
+        "time_int": 51208,
+        "user": "GrandMaster",
+        "content": "48"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:13:29",
+        "time_int": 51209,
+        "user": "GrandMaster",
+        "content": "37"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:13:31",
+        "time_int": 51211,
+        "user": "GrandMaster",
+        "content": "4c"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:13:32",
+        "time_int": 51212,
+        "user": "GrandMaster",
+        "content": "5b"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:13:36",
+        "time_int": 51216,
+        "user": "GrandMaster",
+        "content": "4a"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:13:37",
+        "time_int": 51217,
+        "user": "GrandMaster",
+        "content": "4b"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:13:38",
+        "time_int": 51218,
+        "user": "GrandMaster",
+        "content": "3b"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:13:39",
+        "time_int": 51219,
+        "user": "GrandMaster",
+        "content": "2c"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:13:42",
+        "time_int": 51222,
+        "user": "GrandMaster",
+        "content": "46"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:13:44",
+        "time_int": 51224,
+        "user": "GrandMaster",
+        "content": "47"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:13:46",
+        "time_int": 51226,
+        "user": "GrandMaster",
+        "content": "35"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:13:48",
+        "time_int": 51228,
+        "user": "GrandMaster",
+        "content": "57"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:13:51",
+        "time_int": 51231,
+        "user": "GrandMaster",
+        "content": "54"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:13:52",
+        "time_int": 51232,
+        "user": "GrandMaster",
+        "content": "87"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:13:54",
+        "time_int": 51234,
+        "user": "GrandMaster",
+        "content": "a7"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:13:55",
+        "time_int": 51235,
+        "user": "GrandMaster",
+        "content": "da"
+    },
+    {
+        "action": "TALK",
+        "time": "14:14:05",
+        "time_int": 51245,
+        "user": "GrandMaster",
+        "content": "Ok?"
+    },
+    {
+        "action": "TALK",
+        "time": "14:14:08",
+        "time_int": 51248,
+        "user": "hobbang",
+        "content": "y"
+    },
+    {
+        "action": "TALK",
+        "time": "14:14:09",
+        "time_int": 51249,
+        "user": "xuwu",
+        "content": "y"
+    },
+    {
+        "action": "TALK",
+        "time": "14:14:09",
+        "time_int": 51249,
+        "user": "endlessroad",
+        "content": "ok"
+    },
+    {
+        "action": "TALK",
+        "time": "14:14:10",
+        "time_int": 51250,
+        "user": "Timo",
+        "content": "ok"
+    },
+    {
+        "action": "TALK",
+        "time": "14:14:11",
+        "time_int": 51251,
+        "user": "sirasoni",
+        "content": "ok"
+    },
+    {
+        "action": "TALK",
+        "time": "14:14:11",
+        "time_int": 51251,
+        "user": "yzhnie",
+        "content": "yes"
+    },
+    {
+        "action": "TALK",
+        "time": "14:14:12",
+        "time_int": 51252,
+        "user": "Torsten",
+        "content": "ok"
+    },
+    {
+        "action": "TALK",
+        "time": "14:14:16",
+        "time_int": 51256,
+        "user": "slamduk",
+        "content": "y"
+    },
+    {
+        "action": "TALK",
+        "time": "14:14:21",
+        "time_int": 51261,
+        "user": "yboil",
+        "content": "y"
+    },
+    {
+        "action": "TALK",
+        "time": "14:14:31",
+        "time_int": 51271,
+        "user": "wolfzhou",
+        "content": "."
+    },
+    {
+        "action": "MOVE",
+        "time": "14:14:55",
+        "time_int": 51295,
+        "user": "GrandMaster",
+        "content": "7b"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:14:56",
+        "time_int": 51296,
+        "user": "GrandMaster",
+        "content": "8c"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:15:13",
+        "time_int": 51313,
+        "user": "GrandMaster",
+        "content": "45"
+    },
+    {
+        "action": "TALK",
+        "time": "14:15:15",
+        "time_int": 51315,
+        "user": "GrandMaster",
+        "content": "Mcmanus continued in this way."
+    },
+    {
+        "action": "TALK",
+        "time": "14:15:24",
+        "time_int": 51324,
+        "user": "GrandMaster",
+        "content": "Where to defend?"
+    },
+    {
+        "action": "TALK",
+        "time": "14:15:32",
+        "time_int": 51332,
+        "user": "whte",
+        "content": "B5"
+    },
+    {
+        "action": "TALK",
+        "time": "14:15:34",
+        "time_int": 51334,
+        "user": "Whiz",
+        "content": "b5"
+    },
+    {
+        "action": "TALK",
+        "time": "14:15:36",
+        "time_int": 51336,
+        "user": "endlessroad",
+        "content": "B5"
+    },
+    {
+        "action": "TALK",
+        "time": "14:15:39",
+        "time_int": 51339,
+        "user": "hobbang",
+        "content": "b5"
+    },
+    {
+        "action": "TALK",
+        "time": "14:15:53",
+        "time_int": 51353,
+        "user": "GrandMaster",
+        "content": "Great students!"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:15:55",
+        "time_int": 51355,
+        "user": "GrandMaster",
+        "content": "25"
+    },
+    {
+        "action": "TALK",
+        "time": "14:15:58",
+        "time_int": 51358,
+        "user": "GrandMaster",
+        "content": "B5 only"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:16:10",
+        "time_int": 51370,
+        "user": "GrandMaster",
+        "content": "43"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:16:10",
+        "time_int": 51370,
+        "user": "GrandMaster",
+        "content": "32"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:16:13",
+        "time_int": 51373,
+        "user": "GrandMaster",
+        "content": "36"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:16:14",
+        "time_int": 51374,
+        "user": "GrandMaster",
+        "content": "27"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:16:15",
+        "time_int": 51375,
+        "user": "GrandMaster",
+        "content": "17"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:16:18",
+        "time_int": 51378,
+        "user": "GrandMaster",
+        "content": "63"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:16:20",
+        "time_int": 51380,
+        "user": "GrandMaster",
+        "content": "7c"
+    },
+    {
+        "action": "TALK",
+        "time": "14:16:36",
+        "time_int": 51396,
+        "user": "GrandMaster",
+        "content": "65 was mcmanus defensive move"
+    },
+    {
+        "action": "TALK",
+        "time": "14:16:52",
+        "time_int": 51412,
+        "user": "SamSite",
+        "content": "white attack"
+    },
+    {
+        "action": "TALK",
+        "time": "14:17:27",
+        "time_int": 51447,
+        "user": "GrandMaster",
+        "content": "There were 4 identical same game here:  mcmanus-voshkod\nmcmanus-Renju_YinLC\nmcmanus-virag\nmcmanus-Padovan"
+    },
+    {
+        "action": "TALK",
+        "time": "14:17:59",
+        "time_int": 51479,
+        "user": "GrandMaster",
+        "content": "What do you think now, is it draw line or not? Please answer!"
+    },
+    {
+        "action": "TALK",
+        "time": "14:18:33",
+        "time_int": 51513,
+        "user": "Timo",
+        "content": "draw"
+    },
+    {
+        "action": "TALK",
+        "time": "14:18:35",
+        "time_int": 51515,
+        "user": "Torsten",
+        "content": "still draw?"
+    },
+    {
+        "action": "TALK",
+        "time": "14:18:43",
+        "time_int": 51523,
+        "user": "GrandMaster",
+        "content": "please everybody answer"
+    },
+    {
+        "action": "TALK",
+        "time": "14:18:46",
+        "time_int": 51526,
+        "user": "yboil",
+        "content": "seem draw"
+    },
+    {
+        "action": "TALK",
+        "time": "14:18:47",
+        "time_int": 51527,
+        "user": "SamSite",
+        "content": "I think white can attack a bit"
+    },
+    {
+        "action": "TALK",
+        "time": "14:18:51",
+        "time_int": 51531,
+        "user": "Tornado",
+        "content": "I think it's draw"
+    },
+    {
+        "action": "TALK",
+        "time": "14:18:52",
+        "time_int": 51532,
+        "user": "xuwu",
+        "content": "not draw"
+    },
+    {
+        "action": "TALK",
+        "time": "14:19:00",
+        "time_int": 51540,
+        "user": "whte",
+        "content": "not clearly"
+    },
+    {
+        "action": "TALK",
+        "time": "14:19:02",
+        "time_int": 51542,
+        "user": "slamduk",
+        "content": "not clear"
+    },
+    {
+        "action": "TALK",
+        "time": "14:19:12",
+        "time_int": 51552,
+        "user": "endlessroad",
+        "content": "not sure  maybe draw"
+    },
+    {
+        "action": "TALK",
+        "time": "14:19:15",
+        "time_int": 51555,
+        "user": "SamSite",
+        "content": "not sure draw"
+    },
+    {
+        "action": "TALK",
+        "time": "14:19:25",
+        "time_int": 51565,
+        "user": "Whiz",
+        "content": "maybe draw"
+    },
+    {
+        "action": "TALK",
+        "time": "14:19:52",
+        "time_int": 51592,
+        "user": "yuchaw",
+        "content": "maybe draw"
+    },
+    {
+        "action": "TALK",
+        "time": "14:19:57",
+        "time_int": 51597,
+        "user": "Joe1980cn",
+        "content": "draw"
+    },
+    {
+        "action": "TALK",
+        "time": "14:20:28",
+        "time_int": 51628,
+        "user": "GrandMaster",
+        "content": "Many students said draw, abot 95 %, but I think all students agree that white has a tempo now"
+    },
+    {
+        "action": "TALK",
+        "time": "14:20:38",
+        "time_int": 51638,
+        "user": "chess",
+        "content": "y"
+    },
+    {
+        "action": "TALK",
+        "time": "14:20:39",
+        "time_int": 51639,
+        "user": "endlessroad",
+        "content": "y"
+    },
+    {
+        "action": "TALK",
+        "time": "14:20:39",
+        "time_int": 51639,
+        "user": "yzhnie",
+        "content": "yes"
+    },
+    {
+        "action": "TALK",
+        "time": "14:20:42",
+        "time_int": 51642,
+        "user": "HOT",
+        "content": "Y"
+    },
+    {
+        "action": "TALK",
+        "time": "14:20:43",
+        "time_int": 51643,
+        "user": "whte",
+        "content": "y"
+    },
+    {
+        "action": "TALK",
+        "time": "14:20:46",
+        "time_int": 51646,
+        "user": "xuwu",
+        "content": "Y"
+    },
+    {
+        "action": "TALK",
+        "time": "14:20:47",
+        "time_int": 51647,
+        "user": "yboil",
+        "content": "ty"
+    },
+    {
+        "action": "TALK",
+        "time": "14:20:51",
+        "time_int": 51651,
+        "user": "yboil",
+        "content": "y"
+    },
+    {
+        "action": "TALK",
+        "time": "14:20:51",
+        "time_int": 51651,
+        "user": "Timo",
+        "content": "y"
+    },
+    {
+        "action": "TALK",
+        "time": "14:20:54",
+        "time_int": 51654,
+        "user": "Ikon",
+        "content": "y"
+    },
+    {
+        "action": "TALK",
+        "time": "14:20:54",
+        "time_int": 51654,
+        "user": "Torsten",
+        "content": "yes, and quite long line of attack too"
+    },
+    {
+        "action": "TALK",
+        "time": "14:20:54",
+        "time_int": 51654,
+        "user": "Whiz",
+        "content": "y"
+    },
+    {
+        "action": "TALK",
+        "time": "14:20:58",
+        "time_int": 51658,
+        "user": "Joe1980cn",
+        "content": "y"
+    },
+    {
+        "action": "TALK",
+        "time": "14:21:21",
+        "time_int": 51681,
+        "user": "Tornado",
+        "content": "better than previous"
+    },
+    {
+        "action": "TALK",
+        "time": "14:21:24",
+        "time_int": 51684,
+        "user": "GrandMaster",
+        "content": "Next tow moves were:"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:21:27",
+        "time_int": 51687,
+        "user": "GrandMaster",
+        "content": "dc"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:21:38",
+        "time_int": 51698,
+        "user": "GrandMaster",
+        "content": "d9"
+    },
+    {
+        "action": "TALK",
+        "time": "14:21:51",
+        "time_int": 51711,
+        "user": "GrandMaster",
+        "content": "There was a big delay here, and finally voshkod and Renju_YinLC were impatient and they realized that only chance to win here by time."
+    },
+    {
+        "action": "TALK",
+        "time": "14:22:39",
+        "time_int": 51759,
+        "user": "chess",
+        "content": "。"
+    },
+    {
+        "action": "TALK",
+        "time": "14:22:49",
+        "time_int": 51769,
+        "user": "Tornado",
+        "content": "........"
+    },
+    {
+        "action": "TALK",
+        "time": "14:22:50",
+        "time_int": 51770,
+        "user": "GrandMaster",
+        "content": "So they continued the playing"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:22:57",
+        "time_int": 51777,
+        "user": "GrandMaster",
+        "content": "42"
+    },
+    {
+        "action": "TALK",
+        "time": "14:23:09",
+        "time_int": 51789,
+        "user": "GrandMaster",
+        "content": "They played absolutly same sequence from move 68 up to 104."
+    },
+    {
+        "action": "TALK",
+        "time": "14:23:28",
+        "time_int": 51808,
+        "user": "GrandMaster",
+        "content": "The move 68. d2 is very questionable. Why?"
+    },
+    {
+        "action": "TALK",
+        "time": "14:23:37",
+        "time_int": 51817,
+        "user": "SamSite",
+        "content": "no VCT"
+    },
+    {
+        "action": "TALK",
+        "time": "14:23:51",
+        "time_int": 51831,
+        "user": "GrandMaster",
+        "content": "Yes"
+    },
+    {
+        "action": "TALK",
+        "time": "14:23:55",
+        "time_int": 51835,
+        "user": "Torsten",
+        "content": "what was 66 then for ?"
+    },
+    {
+        "action": "TALK",
+        "time": "14:23:58",
+        "time_int": 51838,
+        "user": "GrandMaster",
+        "content": "If lower side black had a threat, then move 65 is unimportant."
+    },
+    {
+        "action": "TALK",
+        "time": "14:24:06",
+        "time_int": 51846,
+        "user": "konjin",
+        "content": "black can not win there, anyhow"
+    },
+    {
+        "action": "TALK",
+        "time": "14:24:11",
+        "time_int": 51851,
+        "user": "GrandMaster",
+        "content": "Agree?"
+    },
+    {
+        "action": "TALK",
+        "time": "14:24:14",
+        "time_int": 51854,
+        "user": "Timo",
+        "content": "y"
+    },
+    {
+        "action": "TALK",
+        "time": "14:24:14",
+        "time_int": 51854,
+        "user": "endlessroad",
+        "content": "y"
+    },
+    {
+        "action": "TALK",
+        "time": "14:24:16",
+        "time_int": 51856,
+        "user": "yzhnie",
+        "content": "yes"
+    },
+    {
+        "action": "TALK",
+        "time": "14:24:16",
+        "time_int": 51856,
+        "user": "eggttball",
+        "content": "y"
+    },
+    {
+        "action": "TALK",
+        "time": "14:24:17",
+        "time_int": 51857,
+        "user": "whte",
+        "content": "y"
+    },
+    {
+        "action": "TALK",
+        "time": "14:24:18",
+        "time_int": 51858,
+        "user": "chess",
+        "content": "y"
+    },
+    {
+        "action": "TALK",
+        "time": "14:24:21",
+        "time_int": 51861,
+        "user": "HOT",
+        "content": "yes waste"
+    },
+    {
+        "action": "TALK",
+        "time": "14:24:27",
+        "time_int": 51867,
+        "user": "SamSite",
+        "content": "68 is just wasted move"
+    },
+    {
+        "action": "TALK",
+        "time": "14:24:27",
+        "time_int": 51867,
+        "user": "hobbang",
+        "content": "y"
+    },
+    {
+        "action": "TALK",
+        "time": "14:24:32",
+        "time_int": 51872,
+        "user": "GrandMaster",
+        "content": "So I cannot understand 68. D2"
+    },
+    {
+        "action": "TALK",
+        "time": "14:24:49",
+        "time_int": 51889,
+        "user": "GrandMaster",
+        "content": "66 is understandable move yet, becuse of it was copied from board mcmanus-Padovan"
+    },
+    {
+        "action": "TALK",
+        "time": "14:25:02",
+        "time_int": 51902,
+        "user": "hobbang",
+        "content": "is 68-k12 your move?"
+    },
+    {
+        "action": "TALK",
+        "time": "14:25:25",
+        "time_int": 51925,
+        "user": "YKS",
+        "content": "66 is good move for White to win at Upper Right side."
+    },
+    {
+        "action": "TALK",
+        "time": "14:25:40",
+        "time_int": 51940,
+        "user": "GrandMaster",
+        "content": "but between 66 and 68 no relation"
+    },
+    {
+        "action": "TALK",
+        "time": "14:25:51",
+        "time_int": 51951,
+        "user": "Torsten",
+        "content": "of course 66 is good, but followed by 68 - k2 makes no sense"
+    },
+    {
+        "action": "TALK",
+        "time": "14:25:53",
+        "time_int": 51953,
+        "user": "konjin",
+        "content": "upright corner is the only chance for white"
+    },
+    {
+        "action": "TALK",
+        "time": "14:26:17",
+        "time_int": 51977,
+        "user": "xuwu",
+        "content": "but it is very hard to win."
+    },
+    {
+        "action": "TALK",
+        "time": "14:26:24",
+        "time_int": 51984,
+        "user": "GrandMaster",
+        "content": "Yes, I am happy that all studenst understand the position"
+    },
+    {
+        "action": "TALK",
+        "time": "14:26:40",
+        "time_int": 52000,
+        "user": "GrandMaster",
+        "content": "Games mcmanus-voshkod and mcmanus-Renju_YinLC ended as draw finally."
+    },
+    {
+        "action": "TALK",
+        "time": "14:26:51",
+        "time_int": 52011,
+        "user": "Tornado",
+        "content": "I think b10 is good for white"
+    },
+    {
+        "action": "TALK",
+        "time": "14:27:01",
+        "time_int": 52021,
+        "user": "YKS",
+        "content": "so both voshkod and Renju_LC both played this 68th?"
+    },
+    {
+        "action": "TALK",
+        "time": "14:27:26",
+        "time_int": 52046,
+        "user": "GrandMaster",
+        "content": "Yes both played same 68th"
+    },
+    {
+        "action": "TALK",
+        "time": "14:27:43",
+        "time_int": 52063,
+        "user": "GrandMaster",
+        "content": "and both played same sequence from 68 to 104 :-)"
+    },
+    {
+        "action": "TALK",
+        "time": "14:27:53",
+        "time_int": 52073,
+        "user": "HOT",
+        "content": "......"
+    },
+    {
+        "action": "TALK",
+        "time": "14:28:01",
+        "time_int": 52081,
+        "user": "Tornado",
+        "content": ":)"
+    },
+    {
+        "action": "BACK",
+        "time": "14:28:02",
+        "time_int": 52082,
+        "user": "GrandMaster",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time": "14:28:03",
+        "time_int": 52083,
+        "user": "GrandMaster",
+        "content": "bc"
+    },
+    {
+        "action": "TALK",
+        "time": "14:28:07",
+        "time_int": 52087,
+        "user": "YKS",
+        "content": "copying with no meaning at all. ?"
+    },
+    {
+        "action": "TALK",
+        "time": "14:28:07",
+        "time_int": 52087,
+        "user": "GrandMaster",
+        "content": "My move was here this 68. K12"
+    },
+    {
+        "action": "TALK",
+        "time": "14:28:23",
+        "time_int": 52103,
+        "user": "GrandMaster",
+        "content": "Mcmanus realized here that black is in big trouble."
+    },
+    {
+        "action": "TALK",
+        "time": "14:28:35",
+        "time_int": 52115,
+        "user": "YKS",
+        "content": "this 68th gives win."
+    },
+    {
+        "action": "TALK",
+        "time": "14:28:53",
+        "time_int": 52133,
+        "user": "GrandMaster",
+        "content": "So he changed his tactics, he paused this game, that voshkod and Renju_YinLC was not able to copy white victory sequence from this board."
+    },
+    {
+        "action": "TALK",
+        "time": "14:29:10",
+        "time_int": 52150,
+        "user": "Tornado",
+        "content": ":)"
+    },
+    {
+        "action": "TALK",
+        "time": "14:29:27",
+        "time_int": 52167,
+        "user": "Torsten",
+        "content": "smart he is :)"
+    },
+    {
+        "action": "TALK",
+        "time": "14:29:32",
+        "time_int": 52172,
+        "user": "GrandMaster",
+        "content": "So he let this game in run out of time without moving."
+    },
+    {
+        "action": "TALK",
+        "time": "14:29:32",
+        "time_int": 52172,
+        "user": "HOT",
+        "content": ":) good tactics"
+    },
+    {
+        "action": "TALK",
+        "time": "14:29:49",
+        "time_int": 52189,
+        "user": "Tornado",
+        "content": "strategy it is."
+    },
+    {
+        "action": "TALK",
+        "time": "14:29:51",
+        "time_int": 52191,
+        "user": "GrandMaster",
+        "content": "\"Run out of time\" equals RESIGN BUTTON :-)"
+    },
+    {
+        "action": "TALK",
+        "time": "14:30:00",
+        "time_int": 52200,
+        "user": "slamduk",
+        "content": "y"
+    },
+    {
+        "action": "TALK",
+        "time": "14:30:13",
+        "time_int": 52213,
+        "user": "GrandMaster",
+        "content": "but long resign :-)"
+    },
+    {
+        "action": "TALK",
+        "time": "14:30:14",
+        "time_int": 52214,
+        "user": "konjin",
+        "content": "yes, but he did not lose another 2 games"
+    },
+    {
+        "action": "TALK",
+        "time": "14:30:38",
+        "time_int": 52238,
+        "user": "konjin",
+        "content": ":P"
+    },
+    {
+        "action": "TALK",
+        "time": "14:30:41",
+        "time_int": 52241,
+        "user": "Torsten",
+        "content": "is it white win here after 69 - j13?"
+    },
+    {
+        "action": "TALK",
+        "time": "14:30:45",
+        "time_int": 52245,
+        "user": "GrandMaster",
+        "content": "Yes, It was a good tactics\/strategy decision from mcmanus, it earns for him two half points."
+    },
+    {
+        "action": "TALK",
+        "time": "14:31:24",
+        "time_int": 52284,
+        "user": "GrandMaster",
+        "content": "Let's invastigate this mysterious position."
+    },
+    {
+        "action": "TALK",
+        "time": "14:31:43",
+        "time_int": 52303,
+        "user": "Tornado",
+        "content": "ok :)"
+    },
+    {
+        "action": "TALK",
+        "time": "14:31:43",
+        "time_int": 52303,
+        "user": "GrandMaster",
+        "content": "Fermat mentioned this board in renjuClass forum"
+    },
+    {
+        "action": "TALK",
+        "time": "14:31:51",
+        "time_int": 52311,
+        "user": "konjin",
+        "content": "seems to be white win"
+    },
+    {
+        "action": "TALK",
+        "time": "14:32:02",
+        "time_int": 52322,
+        "user": "SamSite",
+        "content": "please tell how :)"
+    },
+    {
+        "action": "TALK",
+        "time": "14:32:06",
+        "time_int": 52326,
+        "user": "YKS",
+        "content": "66th & 68th is Wite wins."
+    },
+    {
+        "action": "TALK",
+        "time": "14:32:08",
+        "time_int": 52328,
+        "user": "GrandMaster",
+        "content": "He did not understand why mcmanus let it run out of time"
+    },
+    {
+        "action": "TALK",
+        "time": "14:32:18",
+        "time_int": 52338,
+        "user": "GrandMaster",
+        "content": "Do you know good black defence here?"
+    },
+    {
+        "action": "TALK",
+        "time": "14:32:24",
+        "time_int": 52344,
+        "user": "SamSite",
+        "content": "j13 must"
+    },
+    {
+        "action": "TALK",
+        "time": "14:32:24",
+        "time_int": 52344,
+        "user": "YKS",
+        "content": "seems same moves appeared before."
+    },
+    {
+        "action": "TALK",
+        "time": "14:32:24",
+        "time_int": 52344,
+        "user": "Torsten",
+        "content": "j13 maybe?"
+    },
+    {
+        "action": "TALK",
+        "time": "14:32:29",
+        "time_int": 52349,
+        "user": "GrandMaster",
+        "content": "Please answer!"
+    },
+    {
+        "action": "TALK",
+        "time": "14:32:32",
+        "time_int": 52352,
+        "user": "Torsten",
+        "content": "j13"
+    },
+    {
+        "action": "TALK",
+        "time": "14:32:35",
+        "time_int": 52355,
+        "user": "konjin",
+        "content": "no, it must j13"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:32:40",
+        "time_int": 52360,
+        "user": "GrandMaster",
+        "content": "ad"
+    },
+    {
+        "action": "TALK",
+        "time": "14:32:41",
+        "time_int": 52361,
+        "user": "endlessroad",
+        "content": "j13:P"
+    },
+    {
+        "action": "BACK",
+        "time": "14:32:49",
+        "time_int": 52369,
+        "user": "GrandMaster",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time": "14:32:50",
+        "time_int": 52370,
+        "user": "GrandMaster",
+        "content": "e9"
+    },
+    {
+        "action": "TALK",
+        "time": "14:32:56",
+        "time_int": 52376,
+        "user": "Torsten",
+        "content": "n9 bad"
+    },
+    {
+        "action": "TALK",
+        "time": "14:33:06",
+        "time_int": 52386,
+        "user": "GrandMaster",
+        "content": "N9 also possible, but not too good defence"
+    },
+    {
+        "action": "TALK",
+        "time": "14:33:15",
+        "time_int": 52395,
+        "user": "GrandMaster",
+        "content": "Easy wins"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:33:16",
+        "time_int": 52396,
+        "user": "GrandMaster",
+        "content": "cb"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:33:17",
+        "time_int": 52397,
+        "user": "GrandMaster",
+        "content": "ed"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:33:18",
+        "time_int": 52398,
+        "user": "GrandMaster",
+        "content": "ad"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:33:19",
+        "time_int": 52399,
+        "user": "GrandMaster",
+        "content": "9e"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:33:20",
+        "time_int": 52400,
+        "user": "GrandMaster",
+        "content": "cc"
+    },
+    {
+        "action": "TALK",
+        "time": "14:33:35",
+        "time_int": 52415,
+        "user": "sirasoni",
+        "content": "yes"
+    },
+    {
+        "action": "TALK",
+        "time": "14:33:36",
+        "time_int": 52416,
+        "user": "GrandMaster",
+        "content": "Everybody see the win?"
+    },
+    {
+        "action": "TALK",
+        "time": "14:33:41",
+        "time_int": 52421,
+        "user": "Torsten",
+        "content": "after n9 also win"
+    },
+    {
+        "action": "TALK",
+        "time": "14:33:44",
+        "time_int": 52424,
+        "user": "sirasoni",
+        "content": "i can"
+    },
+    {
+        "action": "TALK",
+        "time": "14:33:44",
+        "time_int": 52424,
+        "user": "SamSite",
+        "content": "y"
+    },
+    {
+        "action": "TALK",
+        "time": "14:33:48",
+        "time_int": 52428,
+        "user": "konjin",
+        "content": "if n9 then k13 vct"
+    },
+    {
+        "action": "BACK",
+        "time": "14:34:10",
+        "time_int": 52450,
+        "user": "GrandMaster",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time": "14:34:11",
+        "time_int": 52451,
+        "user": "GrandMaster",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time": "14:34:12",
+        "time_int": 52452,
+        "user": "GrandMaster",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time": "14:34:12",
+        "time_int": 52452,
+        "user": "GrandMaster",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time": "14:34:13",
+        "time_int": 52453,
+        "user": "GrandMaster",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time": "14:34:14",
+        "time_int": 52454,
+        "user": "GrandMaster",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time": "14:34:15",
+        "time_int": 52455,
+        "user": "GrandMaster",
+        "content": "ad"
+    },
+    {
+        "action": "TALK",
+        "time": "14:34:28",
+        "time_int": 52468,
+        "user": "GrandMaster",
+        "content": "What is the next move?"
+    },
+    {
+        "action": "TALK",
+        "time": "14:34:45",
+        "time_int": 52485,
+        "user": "whte",
+        "content": "J12"
+    },
+    {
+        "action": "TALK",
+        "time": "14:34:45",
+        "time_int": 52485,
+        "user": "konjin",
+        "content": "j12?"
+    },
+    {
+        "action": "TALK",
+        "time": "14:35:09",
+        "time_int": 52509,
+        "user": "Torsten",
+        "content": "o10 :)"
+    },
+    {
+        "action": "TALK",
+        "time": "14:35:19",
+        "time_int": 52519,
+        "user": "GrandMaster",
+        "content": "Others opinion?"
+    },
+    {
+        "action": "TALK",
+        "time": "14:35:35",
+        "time_int": 52535,
+        "user": "xuwu",
+        "content": "L12"
+    },
+    {
+        "action": "TALK",
+        "time": "14:35:51",
+        "time_int": 52551,
+        "user": "YKS",
+        "content": "simple L12?"
+    },
+    {
+        "action": "TALK",
+        "time": "14:36:08",
+        "time_int": 52568,
+        "user": "sirasoni",
+        "content": "N13?"
+    },
+    {
+        "action": "TALK",
+        "time": "14:36:15",
+        "time_int": 52575,
+        "user": "eggttball",
+        "content": "i12"
+    },
+    {
+        "action": "TALK",
+        "time": "14:36:17",
+        "time_int": 52577,
+        "user": "eggttball",
+        "content": "?"
+    },
+    {
+        "action": "TALK",
+        "time": "14:36:27",
+        "time_int": 52587,
+        "user": "konjin",
+        "content": "L12 not win"
+    },
+    {
+        "action": "TALK",
+        "time": "14:36:30",
+        "time_int": 52590,
+        "user": "GrandMaster",
+        "content": "Yes, simple L12, but hard to define what is the \"simple\" renju move :-)"
+    },
+    {
+        "action": "TALK",
+        "time": "14:36:34",
+        "time_int": 52594,
+        "user": "yboil",
+        "content": "j12"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:36:34",
+        "time_int": 52594,
+        "user": "GrandMaster",
+        "content": "ac"
+    },
+    {
+        "action": "TALK",
+        "time": "14:36:46",
+        "time_int": 52606,
+        "user": "GrandMaster",
+        "content": "sorry J12"
+    },
+    {
+        "action": "TALK",
+        "time": "14:36:54",
+        "time_int": 52614,
+        "user": "sirasoni",
+        "content": "+_+"
+    },
+    {
+        "action": "TALK",
+        "time": "14:37:02",
+        "time_int": 52622,
+        "user": "xuwu",
+        "content": "oh"
+    },
+    {
+        "action": "TALK",
+        "time": "14:37:08",
+        "time_int": 52628,
+        "user": "GrandMaster",
+        "content": "Let's see possible defences here"
+    },
+    {
+        "action": "TALK",
+        "time": "14:37:17",
+        "time_int": 52637,
+        "user": "Torsten",
+        "content": "i12"
+    },
+    {
+        "action": "TALK",
+        "time": "14:37:31",
+        "time_int": 52651,
+        "user": "konjin",
+        "content": "71 i12"
+    },
+    {
+        "action": "TALK",
+        "time": "14:37:33",
+        "time_int": 52653,
+        "user": "GrandMaster",
+        "content": "What do you think, what is the possible black defence here?"
+    },
+    {
+        "action": "TALK",
+        "time": "14:37:37",
+        "time_int": 52657,
+        "user": "SamSite",
+        "content": "i12"
+    },
+    {
+        "action": "TALK",
+        "time": "14:38:04",
+        "time_int": 52684,
+        "user": "konjin",
+        "content": "n12 - white vcf"
+    },
+    {
+        "action": "TALK",
+        "time": "14:38:06",
+        "time_int": 52686,
+        "user": "Tornado",
+        "content": "L12"
+    },
+    {
+        "action": "TALK",
+        "time": "14:38:09",
+        "time_int": 52689,
+        "user": "xuwu",
+        "content": "L12"
+    },
+    {
+        "action": "TALK",
+        "time": "14:38:14",
+        "time_int": 52694,
+        "user": "GrandMaster",
+        "content": "i12 is the best!"
+    },
+    {
+        "action": "TALK",
+        "time": "14:38:17",
+        "time_int": 52697,
+        "user": "konjin",
+        "content": "L12 white vct"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:38:25",
+        "time_int": 52705,
+        "user": "GrandMaster",
+        "content": "cc"
+    },
+    {
+        "action": "TALK",
+        "time": "14:38:26",
+        "time_int": 52706,
+        "user": "GrandMaster",
+        "content": "Some of you mentinoed L12"
+    },
+    {
+        "action": "TALK",
+        "time": "14:38:27",
+        "time_int": 52707,
+        "user": "demjaan",
+        "content": "is L12 white win?"
+    },
+    {
+        "action": "TALK",
+        "time": "14:38:33",
+        "time_int": 52713,
+        "user": "konjin",
+        "content": "i 12 only"
+    },
+    {
+        "action": "TALK",
+        "time": "14:38:44",
+        "time_int": 52724,
+        "user": "SamSite",
+        "content": "6 line ?"
+    },
+    {
+        "action": "TALK",
+        "time": "14:38:45",
+        "time_int": 52725,
+        "user": "Torsten",
+        "content": "L!2 easy white win"
+    },
+    {
+        "action": "TALK",
+        "time": "14:38:46",
+        "time_int": 52726,
+        "user": "whte",
+        "content": "I12 lose also"
+    },
+    {
+        "action": "TALK",
+        "time": "14:38:46",
+        "time_int": 52726,
+        "user": "konjin",
+        "content": "72 k13"
+    },
+    {
+        "action": "TALK",
+        "time": "14:38:59",
+        "time_int": 52739,
+        "user": "GrandMaster",
+        "content": "Who would like to show white win here?"
+    },
+    {
+        "action": "TALK",
+        "time": "14:39:03",
+        "time_int": 52743,
+        "user": "whte",
+        "content": "me"
+    },
+    {
+        "action": "TALK",
+        "time": "14:39:04",
+        "time_int": 52744,
+        "user": "konjin",
+        "content": "me"
+    },
+    {
+        "action": "TALK",
+        "time": "14:39:04",
+        "time_int": 52744,
+        "user": "Torsten",
+        "content": "me"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:39:17",
+        "time_int": 52757,
+        "user": "whte",
+        "content": "bd"
+    },
+    {
+        "action": "TALK",
+        "time": "14:39:18",
+        "time_int": 52758,
+        "user": "hobbang",
+        "content": "overline"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:39:19",
+        "time_int": 52759,
+        "user": "GrandMaster",
+        "content": "bb"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:39:22",
+        "time_int": 52762,
+        "user": "whte",
+        "content": "ed"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:39:23",
+        "time_int": 52763,
+        "user": "GrandMaster",
+        "content": "cb"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:39:24",
+        "time_int": 52764,
+        "user": "whte",
+        "content": "8d"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:39:27",
+        "time_int": 52767,
+        "user": "GrandMaster",
+        "content": "8b"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:39:28",
+        "time_int": 52768,
+        "user": "whte",
+        "content": "ce"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:39:30",
+        "time_int": 52770,
+        "user": "GrandMaster",
+        "content": "9b"
+    },
+    {
+        "action": "TALK",
+        "time": "14:39:36",
+        "time_int": 52776,
+        "user": "hobbang",
+        "content": "good"
+    },
+    {
+        "action": "TALK",
+        "time": "14:39:37",
+        "time_int": 52777,
+        "user": "xuwu",
+        "content": "GG"
+    },
+    {
+        "action": "TALK",
+        "time": "14:39:39",
+        "time_int": 52779,
+        "user": "GrandMaster",
+        "content": "Overline win. GG!"
+    },
+    {
+        "action": "TALK",
+        "time": "14:39:43",
+        "time_int": 52783,
+        "user": "konjin",
+        "content": "gg"
+    },
+    {
+        "action": "TALK",
+        "time": "14:39:45",
+        "time_int": 52785,
+        "user": "GrandMaster",
+        "content": "So easy wins :-)"
+    },
+    {
+        "action": "TALK",
+        "time": "14:39:46",
+        "time_int": 52786,
+        "user": "Torsten",
+        "content": "very nice :)"
+    },
+    {
+        "action": "TALK",
+        "time": "14:39:46",
+        "time_int": 52786,
+        "user": "whte",
+        "content": "thx"
+    },
+    {
+        "action": "TALK",
+        "time": "14:39:51",
+        "time_int": 52791,
+        "user": "GrandMaster",
+        "content": "Thanks whte"
+    },
+    {
+        "action": "TALK",
+        "time": "14:39:52",
+        "time_int": 52792,
+        "user": "HOT",
+        "content": "73 G10?"
+    },
+    {
+        "action": "TALK",
+        "time": "14:39:53",
+        "time_int": 52793,
+        "user": "SamSite",
+        "content": "g10 for black earlier ?"
+    },
+    {
+        "action": "BACK",
+        "time": "14:40:03",
+        "time_int": 52803,
+        "user": "GrandMaster",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time": "14:40:04",
+        "time_int": 52804,
+        "user": "GrandMaster",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time": "14:40:05",
+        "time_int": 52805,
+        "user": "GrandMaster",
+        "content": ""
+    },
+    {
+        "action": "TALK",
+        "time": "14:40:05",
+        "time_int": 52805,
+        "user": "Tornado",
+        "content": "nice! whte"
+    },
+    {
+        "action": "BACK",
+        "time": "14:40:06",
+        "time_int": 52806,
+        "user": "GrandMaster",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time": "14:40:06",
+        "time_int": 52806,
+        "user": "GrandMaster",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time": "14:40:08",
+        "time_int": 52808,
+        "user": "GrandMaster",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time": "14:40:10",
+        "time_int": 52810,
+        "user": "GrandMaster",
+        "content": ""
+    },
+    {
+        "action": "TALK",
+        "time": "14:40:10",
+        "time_int": 52810,
+        "user": "yzhnie",
+        "content": "gg"
+    },
+    {
+        "action": "TALK",
+        "time": "14:40:12",
+        "time_int": 52812,
+        "user": "SamSite",
+        "content": "oh it's 4x4"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:40:20",
+        "time_int": 52820,
+        "user": "GrandMaster",
+        "content": "7a"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:40:24",
+        "time_int": 52824,
+        "user": "GrandMaster",
+        "content": "7d"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:40:26",
+        "time_int": 52826,
+        "user": "GrandMaster",
+        "content": "bb"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:40:29",
+        "time_int": 52829,
+        "user": "GrandMaster",
+        "content": "8d"
+    },
+    {
+        "action": "TALK",
+        "time": "14:40:32",
+        "time_int": 52832,
+        "user": "GrandMaster",
+        "content": "Ok?"
+    },
+    {
+        "action": "TALK",
+        "time": "14:40:36",
+        "time_int": 52836,
+        "user": "whte",
+        "content": "y"
+    },
+    {
+        "action": "TALK",
+        "time": "14:40:41",
+        "time_int": 52841,
+        "user": "sirasoni",
+        "content": "ok"
+    },
+    {
+        "action": "TALK",
+        "time": "14:40:42",
+        "time_int": 52842,
+        "user": "yboil",
+        "content": "y"
+    },
+    {
+        "action": "TALK",
+        "time": "14:40:42",
+        "time_int": 52842,
+        "user": "HOT",
+        "content": "Y"
+    },
+    {
+        "action": "TALK",
+        "time": "14:40:47",
+        "time_int": 52847,
+        "user": "xuwu",
+        "content": "y"
+    },
+    {
+        "action": "TALK",
+        "time": "14:40:48",
+        "time_int": 52848,
+        "user": "Tornado",
+        "content": "y"
+    },
+    {
+        "action": "GOTO",
+        "time": "14:40:56",
+        "time_int": 52856,
+        "user": "GrandMaster",
+        "content": 71
+    },
+    {
+        "action": "TALK",
+        "time": "14:41:12",
+        "time_int": 52872,
+        "user": "SamSite",
+        "content": "how about i12 ?"
+    },
+    {
+        "action": "TALK",
+        "time": "14:41:22",
+        "time_int": 52882,
+        "user": "GrandMaster",
+        "content": "So we can conclude this 71 not so good defence."
+    },
+    {
+        "action": "BACK",
+        "time": "14:41:43",
+        "time_int": 52903,
+        "user": "GrandMaster",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time": "14:41:44",
+        "time_int": 52904,
+        "user": "GrandMaster",
+        "content": "ec"
+    },
+    {
+        "action": "TALK",
+        "time": "14:41:51",
+        "time_int": 52911,
+        "user": "konjin",
+        "content": "here vcf"
+    },
+    {
+        "action": "TALK",
+        "time": "14:41:58",
+        "time_int": 52918,
+        "user": "Torsten",
+        "content": "vcf"
+    },
+    {
+        "action": "TALK",
+        "time": "14:42:19",
+        "time_int": 52939,
+        "user": "yzhnie",
+        "content": "y"
+    },
+    {
+        "action": "TALK",
+        "time": "14:42:20",
+        "time_int": 52940,
+        "user": "GrandMaster",
+        "content": "This also not good, here white has a VCF. Evrybody can see VCF line?"
+    },
+    {
+        "action": "TALK",
+        "time": "14:42:24",
+        "time_int": 52944,
+        "user": "demjaan",
+        "content": "y"
+    },
+    {
+        "action": "TALK",
+        "time": "14:42:27",
+        "time_int": 52947,
+        "user": "whte",
+        "content": "y"
+    },
+    {
+        "action": "TALK",
+        "time": "14:42:27",
+        "time_int": 52947,
+        "user": "xuwu",
+        "content": "y"
+    },
+    {
+        "action": "TALK",
+        "time": "14:42:27",
+        "time_int": 52947,
+        "user": "HOT",
+        "content": "Y"
+    },
+    {
+        "action": "TALK",
+        "time": "14:42:28",
+        "time_int": 52948,
+        "user": "Torsten",
+        "content": "K"
+    },
+    {
+        "action": "TALK",
+        "time": "14:42:29",
+        "time_int": 52949,
+        "user": "Whiz",
+        "content": "y"
+    },
+    {
+        "action": "TALK",
+        "time": "14:42:30",
+        "time_int": 52950,
+        "user": "Tornado",
+        "content": "y"
+    },
+    {
+        "action": "TALK",
+        "time": "14:42:31",
+        "time_int": 52951,
+        "user": "puma2005",
+        "content": "y"
+    },
+    {
+        "action": "TALK",
+        "time": "14:42:33",
+        "time_int": 52953,
+        "user": "endlessroad",
+        "content": "y"
+    },
+    {
+        "action": "TALK",
+        "time": "14:42:33",
+        "time_int": 52953,
+        "user": "yuchaw",
+        "content": "yes"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:42:33",
+        "time_int": 52953,
+        "user": "GrandMaster",
+        "content": "9c"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:42:34",
+        "time_int": 52954,
+        "user": "GrandMaster",
+        "content": "cc"
+    },
+    {
+        "action": "TALK",
+        "time": "14:42:35",
+        "time_int": 52955,
+        "user": "Torsten",
+        "content": "line K"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:42:35",
+        "time_int": 52955,
+        "user": "GrandMaster",
+        "content": "9b"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:42:36",
+        "time_int": 52956,
+        "user": "GrandMaster",
+        "content": "9d"
+    },
+    {
+        "action": "TALK",
+        "time": "14:42:36",
+        "time_int": 52956,
+        "user": "YKS",
+        "content": "yes"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:42:37",
+        "time_int": 52957,
+        "user": "GrandMaster",
+        "content": "bd"
+    },
+    {
+        "action": "BACK",
+        "time": "14:42:39",
+        "time_int": 52959,
+        "user": "GrandMaster",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time": "14:42:40",
+        "time_int": 52960,
+        "user": "GrandMaster",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time": "14:42:41",
+        "time_int": 52961,
+        "user": "GrandMaster",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time": "14:42:42",
+        "time_int": 52962,
+        "user": "GrandMaster",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time": "14:42:42",
+        "time_int": 52962,
+        "user": "GrandMaster",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time": "14:42:43",
+        "time_int": 52963,
+        "user": "GrandMaster",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time": "14:42:44",
+        "time_int": 52964,
+        "user": "GrandMaster",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time": "14:42:45",
+        "time_int": 52965,
+        "user": "GrandMaster",
+        "content": "ac"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:42:47",
+        "time_int": 52967,
+        "user": "GrandMaster",
+        "content": "9c"
+    },
+    {
+        "action": "TALK",
+        "time": "14:42:59",
+        "time_int": 52979,
+        "user": "GrandMaster",
+        "content": "Now, we are here!"
+    },
+    {
+        "action": "TALK",
+        "time": "14:43:10",
+        "time_int": 52990,
+        "user": "YKS",
+        "content": "I am here"
+    },
+    {
+        "action": "TALK",
+        "time": "14:43:11",
+        "time_int": 52991,
+        "user": "GrandMaster",
+        "content": "What is the next white move?"
+    },
+    {
+        "action": "TALK",
+        "time": "14:43:14",
+        "time_int": 52994,
+        "user": "whte",
+        "content": "e12"
+    },
+    {
+        "action": "TALK",
+        "time": "14:43:21",
+        "time_int": 53001,
+        "user": "endlessroad",
+        "content": "y"
+    },
+    {
+        "action": "TALK",
+        "time": "14:43:34",
+        "time_int": 53014,
+        "user": "iris",
+        "content": "y"
+    },
+    {
+        "action": "TALK",
+        "time": "14:43:44",
+        "time_int": 53024,
+        "user": "GrandMaster",
+        "content": "please everybody give some advice for white"
+    },
+    {
+        "action": "TALK",
+        "time": "14:43:59",
+        "time_int": 53039,
+        "user": "SamSite",
+        "content": "L14"
+    },
+    {
+        "action": "TALK",
+        "time": "14:44:06",
+        "time_int": 53046,
+        "user": "yboil",
+        "content": "y"
+    },
+    {
+        "action": "TALK",
+        "time": "14:44:06",
+        "time_int": 53046,
+        "user": "yboil",
+        "content": "k13"
+    },
+    {
+        "action": "TALK",
+        "time": "14:44:06",
+        "time_int": 53046,
+        "user": "yboil",
+        "content": "k13"
+    },
+    {
+        "action": "TALK",
+        "time": "14:44:06",
+        "time_int": 53046,
+        "user": "SamSite",
+        "content": "no"
+    },
+    {
+        "action": "TALK",
+        "time": "14:44:16",
+        "time_int": 53056,
+        "user": "GrandMaster",
+        "content": "others?"
+    },
+    {
+        "action": "TALK",
+        "time": "14:44:19",
+        "time_int": 53059,
+        "user": "konjin",
+        "content": "difficult"
+    },
+    {
+        "action": "TALK",
+        "time": "14:44:20",
+        "time_int": 53060,
+        "user": "Torsten",
+        "content": "k13, and the after the only black defence e12"
+    },
+    {
+        "action": "TALK",
+        "time": "14:44:33",
+        "time_int": 53073,
+        "user": "konjin",
+        "content": "no idea"
+    },
+    {
+        "action": "TALK",
+        "time": "14:44:37",
+        "time_int": 53077,
+        "user": "kawamura",
+        "content": "L14"
+    },
+    {
+        "action": "TALK",
+        "time": "14:44:40",
+        "time_int": 53080,
+        "user": "xuwu",
+        "content": "K13"
+    },
+    {
+        "action": "TALK",
+        "time": "14:44:57",
+        "time_int": 53097,
+        "user": "yboil",
+        "content": "net speed is slow"
+    },
+    {
+        "action": "TALK",
+        "time": "14:45:01",
+        "time_int": 53101,
+        "user": "YKS",
+        "content": "L14"
+    },
+    {
+        "action": "TALK",
+        "time": "14:45:02",
+        "time_int": 53102,
+        "user": "konjin",
+        "content": "black can defens also g13, h11, after k13"
+    },
+    {
+        "action": "TALK",
+        "time": "14:45:05",
+        "time_int": 53105,
+        "user": "GrandMaster",
+        "content": "E12 is a safety move"
+    },
+    {
+        "action": "TALK",
+        "time": "14:45:17",
+        "time_int": 53117,
+        "user": "whte",
+        "content": "e12 sure win I think"
+    },
+    {
+        "action": "TALK",
+        "time": "14:45:27",
+        "time_int": 53127,
+        "user": "SamSite",
+        "content": "e12 seems very good"
+    },
+    {
+        "action": "TALK",
+        "time": "14:45:27",
+        "time_int": 53127,
+        "user": "yaya",
+        "content": "."
+    },
+    {
+        "action": "TALK",
+        "time": "14:45:29",
+        "time_int": 53129,
+        "user": "Torsten",
+        "content": "black must block k13 with fours and play 77-L14, then white e12 :)"
+    },
+    {
+        "action": "TALK",
+        "time": "14:45:31",
+        "time_int": 53131,
+        "user": "GrandMaster",
+        "content": "not direct win, white fear about black VCF line, but that line is absolutly fake"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:45:41",
+        "time_int": 53141,
+        "user": "GrandMaster",
+        "content": "5c"
+    },
+    {
+        "action": "TALK",
+        "time": "14:45:46",
+        "time_int": 53146,
+        "user": "Tornado",
+        "content": "what is the risk of K13?"
+    },
+    {
+        "action": "TALK",
+        "time": "14:46:03",
+        "time_int": 53163,
+        "user": "GrandMaster",
+        "content": "I explain your moves."
+    },
+    {
+        "action": "BACK",
+        "time": "14:46:05",
+        "time_int": 53165,
+        "user": "GrandMaster",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time": "14:46:06",
+        "time_int": 53166,
+        "user": "GrandMaster",
+        "content": "bd"
+    },
+    {
+        "action": "TALK",
+        "time": "14:46:13",
+        "time_int": 53173,
+        "user": "GrandMaster",
+        "content": "This is the most direct win"
+    },
+    {
+        "action": "TALK",
+        "time": "14:46:17",
+        "time_int": 53177,
+        "user": "Torsten",
+        "content": "yes"
+    },
+    {
+        "action": "TALK",
+        "time": "14:46:25",
+        "time_int": 53185,
+        "user": "xuwu",
+        "content": "y"
+    },
+    {
+        "action": "TALK",
+        "time": "14:46:31",
+        "time_int": 53191,
+        "user": "Torsten",
+        "content": "black must play fours and 77 L14"
+    },
+    {
+        "action": "TALK",
+        "time": "14:46:32",
+        "time_int": 53192,
+        "user": "whte",
+        "content": "y,it's also win"
+    },
+    {
+        "action": "TALK",
+        "time": "14:46:33",
+        "time_int": 53193,
+        "user": "yboil",
+        "content": "y"
+    },
+    {
+        "action": "TALK",
+        "time": "14:46:38",
+        "time_int": 53198,
+        "user": "Torsten",
+        "content": "then white e12"
+    },
+    {
+        "action": "TALK",
+        "time": "14:46:43",
+        "time_int": 53203,
+        "user": "GrandMaster",
+        "content": "If you understand the position, it is most simplest way"
+    },
+    {
+        "action": "TALK",
+        "time": "14:47:09",
+        "time_int": 53229,
+        "user": "GrandMaster",
+        "content": "Let's see who to defend black here"
+    },
+    {
+        "action": "TALK",
+        "time": "14:47:31",
+        "time_int": 53251,
+        "user": "GrandMaster",
+        "content": "This 72 is very strong move!"
+    },
+    {
+        "action": "TALK",
+        "time": "14:47:32",
+        "time_int": 53252,
+        "user": "chess",
+        "content": "。"
+    },
+    {
+        "action": "TALK",
+        "time": "14:47:35",
+        "time_int": 53255,
+        "user": "GrandMaster",
+        "content": "Threaten overline at L column and 4x4 threat at H11, so black need to eliminate 4x4 threat first."
+    },
+    {
+        "action": "TALK",
+        "time": "14:47:43",
+        "time_int": 53263,
+        "user": "GrandMaster",
+        "content": "Understand?"
+    },
+    {
+        "action": "TALK",
+        "time": "14:47:48",
+        "time_int": 53268,
+        "user": "demjaan",
+        "content": "y"
+    },
+    {
+        "action": "TALK",
+        "time": "14:47:51",
+        "time_int": 53271,
+        "user": "Torsten",
+        "content": "yes"
+    },
+    {
+        "action": "TALK",
+        "time": "14:47:55",
+        "time_int": 53275,
+        "user": "xuwu",
+        "content": "y"
+    },
+    {
+        "action": "TALK",
+        "time": "14:48:08",
+        "time_int": 53288,
+        "user": "endlessroad",
+        "content": "y"
+    },
+    {
+        "action": "TALK",
+        "time": "14:48:08",
+        "time_int": 53288,
+        "user": "puma2005",
+        "content": "y"
+    },
+    {
+        "action": "TALK",
+        "time": "14:48:13",
+        "time_int": 53293,
+        "user": "YKS",
+        "content": "y"
+    },
+    {
+        "action": "TALK",
+        "time": "14:48:14",
+        "time_int": 53294,
+        "user": "yboil",
+        "content": "y"
+    },
+    {
+        "action": "TALK",
+        "time": "14:48:19",
+        "time_int": 53299,
+        "user": "whte",
+        "content": "y"
+    },
+    {
+        "action": "TALK",
+        "time": "14:48:22",
+        "time_int": 53302,
+        "user": "sirasoni",
+        "content": "yes"
+    },
+    {
+        "action": "TALK",
+        "time": "14:48:26",
+        "time_int": 53306,
+        "user": "konjin",
+        "content": "yes"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:48:27",
+        "time_int": 53307,
+        "user": "GrandMaster",
+        "content": "7d"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:48:29",
+        "time_int": 53309,
+        "user": "GrandMaster",
+        "content": "7a"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:48:30",
+        "time_int": 53310,
+        "user": "GrandMaster",
+        "content": "7e"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:48:31",
+        "time_int": 53311,
+        "user": "GrandMaster",
+        "content": "7f"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:48:31",
+        "time_int": 53311,
+        "user": "GrandMaster",
+        "content": "8d"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:48:32",
+        "time_int": 53312,
+        "user": "GrandMaster",
+        "content": "6f"
+    },
+    {
+        "action": "TALK",
+        "time": "14:48:47",
+        "time_int": 53327,
+        "user": "GrandMaster",
+        "content": "This is the 4x4 elimination process :-)"
+    },
+    {
+        "action": "TALK",
+        "time": "14:48:52",
+        "time_int": 53332,
+        "user": "wolfzhou",
+        "content": "but now?"
+    },
+    {
+        "action": "TALK",
+        "time": "14:49:07",
+        "time_int": 53347,
+        "user": "Tornado",
+        "content": "black win"
+    },
+    {
+        "action": "TALK",
+        "time": "14:49:08",
+        "time_int": 53348,
+        "user": "GrandMaster",
+        "content": "Now, where to defend black?"
+    },
+    {
+        "action": "TALK",
+        "time": "14:49:19",
+        "time_int": 53359,
+        "user": "Tornado",
+        "content": "........"
+    },
+    {
+        "action": "TALK",
+        "time": "14:49:20",
+        "time_int": 53360,
+        "user": "Torsten",
+        "content": "k11"
+    },
+    {
+        "action": "TALK",
+        "time": "14:49:24",
+        "time_int": 53364,
+        "user": "GrandMaster",
+        "content": "No black VCF becuse of cut!"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:49:27",
+        "time_int": 53367,
+        "user": "GrandMaster",
+        "content": "6d"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:49:28",
+        "time_int": 53368,
+        "user": "GrandMaster",
+        "content": "9d"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:49:29",
+        "time_int": 53369,
+        "user": "GrandMaster",
+        "content": "5d"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:49:30",
+        "time_int": 53370,
+        "user": "GrandMaster",
+        "content": "4d"
+    },
+    {
+        "action": "TALK",
+        "time": "14:49:34",
+        "time_int": 53374,
+        "user": "konjin",
+        "content": "nice! white win !"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:49:34",
+        "time_int": 53374,
+        "user": "GrandMaster",
+        "content": "2a"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:49:35",
+        "time_int": 53375,
+        "user": "GrandMaster",
+        "content": "5c"
+    },
+    {
+        "action": "BACK",
+        "time": "14:49:39",
+        "time_int": 53379,
+        "user": "GrandMaster",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time": "14:49:39",
+        "time_int": 53379,
+        "user": "GrandMaster",
+        "content": ""
+    },
+    {
+        "action": "TALK",
+        "time": "14:49:40",
+        "time_int": 53380,
+        "user": "sirasoni",
+        "content": "- -"
+    },
+    {
+        "action": "BACK",
+        "time": "14:49:40",
+        "time_int": 53380,
+        "user": "GrandMaster",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time": "14:49:41",
+        "time_int": 53381,
+        "user": "GrandMaster",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time": "14:49:41",
+        "time_int": 53381,
+        "user": "GrandMaster",
+        "content": ""
+    },
+    {
+        "action": "TALK",
+        "time": "14:49:42",
+        "time_int": 53382,
+        "user": "wolfzhou",
+        "content": "o.."
+    },
+    {
+        "action": "BACK",
+        "time": "14:49:42",
+        "time_int": 53382,
+        "user": "GrandMaster",
+        "content": ""
+    },
+    {
+        "action": "TALK",
+        "time": "14:49:44",
+        "time_int": 53384,
+        "user": "demjaan",
+        "content": "poor black:\/"
+    },
+    {
+        "action": "TALK",
+        "time": "14:49:47",
+        "time_int": 53387,
+        "user": "Tornado",
+        "content": "O"
+    },
+    {
+        "action": "TALK",
+        "time": "14:49:47",
+        "time_int": 53387,
+        "user": "SamSite",
+        "content": "79 k11"
+    },
+    {
+        "action": "TALK",
+        "time": "14:49:49",
+        "time_int": 53389,
+        "user": "wolfzhou",
+        "content": "see"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:49:51",
+        "time_int": 53391,
+        "user": "GrandMaster",
+        "content": "bb"
+    },
+    {
+        "action": "TALK",
+        "time": "14:50:00",
+        "time_int": 53400,
+        "user": "konjin",
+        "content": "n10"
+    },
+    {
+        "action": "TALK",
+        "time": "14:50:01",
+        "time_int": 53401,
+        "user": "GrandMaster",
+        "content": "79 K11 the only hope :-)"
+    },
+    {
+        "action": "TALK",
+        "time": "14:50:07",
+        "time_int": 53407,
+        "user": "Torsten",
+        "content": "but white win :)"
+    },
+    {
+        "action": "TALK",
+        "time": "14:50:16",
+        "time_int": 53416,
+        "user": "konjin",
+        "content": "80 N10"
+    },
+    {
+        "action": "TALK",
+        "time": "14:50:25",
+        "time_int": 53425,
+        "user": "Torsten",
+        "content": "n10 great !"
+    },
+    {
+        "action": "TALK",
+        "time": "14:50:57",
+        "time_int": 53457,
+        "user": "GrandMaster",
+        "content": "And now. We got a 3 kyu renju problem in the upper right corner :-)"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:51:15",
+        "time_int": 53475,
+        "user": "GrandMaster",
+        "content": "ea"
+    },
+    {
+        "action": "TALK",
+        "time": "14:51:20",
+        "time_int": 53480,
+        "user": "sirasoni",
+        "content": ":)"
+    },
+    {
+        "action": "TALK",
+        "time": "14:51:21",
+        "time_int": 53481,
+        "user": "GrandMaster",
+        "content": "Can you see it?"
+    },
+    {
+        "action": "TALK",
+        "time": "14:51:25",
+        "time_int": 53485,
+        "user": "Torsten",
+        "content": "yes"
+    },
+    {
+        "action": "TALK",
+        "time": "14:51:28",
+        "time_int": 53488,
+        "user": "sirasoni",
+        "content": "yes"
+    },
+    {
+        "action": "TALK",
+        "time": "14:51:41",
+        "time_int": 53501,
+        "user": "Torsten",
+        "content": "overline line L"
+    },
+    {
+        "action": "TALK",
+        "time": "14:51:54",
+        "time_int": 53514,
+        "user": "whte",
+        "content": "81-i11?"
+    },
+    {
+        "action": "TALK",
+        "time": "14:52:05",
+        "time_int": 53525,
+        "user": "demjaan",
+        "content": "black can save now,not?"
+    },
+    {
+        "action": "BACK",
+        "time": "14:52:09",
+        "time_int": 53529,
+        "user": "GrandMaster",
+        "content": ""
+    },
+    {
+        "action": "TALK",
+        "time": "14:52:12",
+        "time_int": 53532,
+        "user": "SamSite",
+        "content": "y"
+    },
+    {
+        "action": "TALK",
+        "time": "14:52:12",
+        "time_int": 53532,
+        "user": "GrandMaster",
+        "content": "sorry"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:52:14",
+        "time_int": 53534,
+        "user": "GrandMaster",
+        "content": "9b"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:52:16",
+        "time_int": 53536,
+        "user": "GrandMaster",
+        "content": "ce"
+    },
+    {
+        "action": "TALK",
+        "time": "14:52:17",
+        "time_int": 53537,
+        "user": "whte",
+        "content": "y"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:52:18",
+        "time_int": 53538,
+        "user": "GrandMaster",
+        "content": "ea"
+    },
+    {
+        "action": "TALK",
+        "time": "14:52:21",
+        "time_int": 53541,
+        "user": "whte",
+        "content": "it's win"
+    },
+    {
+        "action": "TALK",
+        "time": "14:52:23",
+        "time_int": 53543,
+        "user": "GrandMaster",
+        "content": "80 is must"
+    },
+    {
+        "action": "TALK",
+        "time": "14:52:25",
+        "time_int": 53545,
+        "user": "Torsten",
+        "content": "yes the four first"
+    },
+    {
+        "action": "TALK",
+        "time": "14:52:27",
+        "time_int": 53547,
+        "user": "konjin",
+        "content": "oh, yes"
+    },
+    {
+        "action": "TALK",
+        "time": "14:52:29",
+        "time_int": 53549,
+        "user": "SamSite",
+        "content": "now good"
+    },
+    {
+        "action": "TALK",
+        "time": "14:52:32",
+        "time_int": 53552,
+        "user": "endlessroad",
+        "content": "y"
+    },
+    {
+        "action": "TALK",
+        "time": "14:52:33",
+        "time_int": 53553,
+        "user": "konjin",
+        "content": "more clear"
+    },
+    {
+        "action": "TALK",
+        "time": "14:52:36",
+        "time_int": 53556,
+        "user": "GrandMaster",
+        "content": "thanks whte"
+    },
+    {
+        "action": "TALK",
+        "time": "14:52:42",
+        "time_int": 53562,
+        "user": "whte",
+        "content": "thx"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:52:49",
+        "time_int": 53569,
+        "user": "GrandMaster",
+        "content": "cc"
+    },
+    {
+        "action": "TALK",
+        "time": "14:52:51",
+        "time_int": 53571,
+        "user": "yboil",
+        "content": "double win"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:52:58",
+        "time_int": 53578,
+        "user": "GrandMaster",
+        "content": "ed"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:52:59",
+        "time_int": 53579,
+        "user": "GrandMaster",
+        "content": "cb"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:53:00",
+        "time_int": 53580,
+        "user": "GrandMaster",
+        "content": "fa"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:53:01",
+        "time_int": 53581,
+        "user": "GrandMaster",
+        "content": "ca"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:53:02",
+        "time_int": 53582,
+        "user": "GrandMaster",
+        "content": "eb"
+    },
+    {
+        "action": "TALK",
+        "time": "14:53:09",
+        "time_int": 53589,
+        "user": "GrandMaster",
+        "content": "Black can use his unusable fours on the chance of winning by time."
+    },
+    {
+        "action": "TALK",
+        "time": "14:53:13",
+        "time_int": 53593,
+        "user": "GrandMaster",
+        "content": ":-)"
+    },
+    {
+        "action": "TALK",
+        "time": "14:53:26",
+        "time_int": 53606,
+        "user": "sirasoni",
+        "content": ":)"
+    },
+    {
+        "action": "TALK",
+        "time": "14:53:29",
+        "time_int": 53609,
+        "user": "GrandMaster",
+        "content": "Like this"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:53:31",
+        "time_int": 53611,
+        "user": "GrandMaster",
+        "content": "6d"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:53:32",
+        "time_int": 53612,
+        "user": "GrandMaster",
+        "content": "9d"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:53:32",
+        "time_int": 53612,
+        "user": "GrandMaster",
+        "content": "4d"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:53:33",
+        "time_int": 53613,
+        "user": "GrandMaster",
+        "content": "5d"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:53:34",
+        "time_int": 53614,
+        "user": "GrandMaster",
+        "content": "e8"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:53:34",
+        "time_int": 53614,
+        "user": "GrandMaster",
+        "content": "f7"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:53:35",
+        "time_int": 53615,
+        "user": "GrandMaster",
+        "content": "ee"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:53:36",
+        "time_int": 53616,
+        "user": "GrandMaster",
+        "content": "dd"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:53:38",
+        "time_int": 53618,
+        "user": "GrandMaster",
+        "content": "55"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:53:42",
+        "time_int": 53622,
+        "user": "GrandMaster",
+        "content": "75"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:53:43",
+        "time_int": 53623,
+        "user": "GrandMaster",
+        "content": "44"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:53:44",
+        "time_int": 53624,
+        "user": "GrandMaster",
+        "content": "42"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:53:46",
+        "time_int": 53626,
+        "user": "GrandMaster",
+        "content": "26"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:53:47",
+        "time_int": 53627,
+        "user": "GrandMaster",
+        "content": "53"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:53:58",
+        "time_int": 53638,
+        "user": "GrandMaster",
+        "content": "be"
+    },
+    {
+        "action": "TALK",
+        "time": "14:54:00",
+        "time_int": 53640,
+        "user": "SamSite",
+        "content": "101 to 102 and there's more fours :)"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:54:00",
+        "time_int": 53640,
+        "user": "GrandMaster",
+        "content": "fd"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:54:01",
+        "time_int": 53641,
+        "user": "GrandMaster",
+        "content": "cd"
+    },
+    {
+        "action": "TALK",
+        "time": "14:54:03",
+        "time_int": 53643,
+        "user": "YKS",
+        "content": "good tactice"
+    },
+    {
+        "action": "TALK",
+        "time": "14:54:17",
+        "time_int": 53657,
+        "user": "GrandMaster",
+        "content": "VCT sequence started at move 66 and ended at move 105. It is 39 move deep victory line."
+    },
+    {
+        "action": "TALK",
+        "time": "14:54:28",
+        "time_int": 53668,
+        "user": "whte",
+        "content": "105 may l15:)"
+    },
+    {
+        "action": "TALK",
+        "time": "14:54:33",
+        "time_int": 53673,
+        "user": "Torsten",
+        "content": "omg"
+    },
+    {
+        "action": "TALK",
+        "time": "14:54:35",
+        "time_int": 53675,
+        "user": "GrandMaster",
+        "content": "Samsite is right"
+    },
+    {
+        "action": "TALK",
+        "time": "14:54:40",
+        "time_int": 53680,
+        "user": "GrandMaster",
+        "content": "You can lengthen it to 46 move deep line :-)"
+    },
+    {
+        "action": "BACK",
+        "time": "14:54:42",
+        "time_int": 53682,
+        "user": "GrandMaster",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time": "14:54:42",
+        "time_int": 53682,
+        "user": "GrandMaster",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time": "14:54:42",
+        "time_int": 53682,
+        "user": "GrandMaster",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time": "14:54:43",
+        "time_int": 53683,
+        "user": "GrandMaster",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time": "14:54:43",
+        "time_int": 53683,
+        "user": "GrandMaster",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time": "14:54:43",
+        "time_int": 53683,
+        "user": "GrandMaster",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time": "14:54:44",
+        "time_int": 53684,
+        "user": "GrandMaster",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time": "14:54:45",
+        "time_int": 53685,
+        "user": "GrandMaster",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time": "14:54:46",
+        "time_int": 53686,
+        "user": "GrandMaster",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time": "14:54:50",
+        "time_int": 53690,
+        "user": "GrandMaster",
+        "content": "44"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:54:51",
+        "time_int": 53691,
+        "user": "GrandMaster",
+        "content": "42"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:54:51",
+        "time_int": 53691,
+        "user": "GrandMaster",
+        "content": "53"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:54:52",
+        "time_int": 53692,
+        "user": "GrandMaster",
+        "content": "26"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:54:55",
+        "time_int": 53695,
+        "user": "GrandMaster",
+        "content": "55"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:54:56",
+        "time_int": 53696,
+        "user": "GrandMaster",
+        "content": "75"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:54:57",
+        "time_int": 53697,
+        "user": "GrandMaster",
+        "content": "51"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:54:57",
+        "time_int": 53697,
+        "user": "GrandMaster",
+        "content": "52"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:54:58",
+        "time_int": 53698,
+        "user": "GrandMaster",
+        "content": "62"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:54:59",
+        "time_int": 53699,
+        "user": "GrandMaster",
+        "content": "71"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:54:59",
+        "time_int": 53699,
+        "user": "GrandMaster",
+        "content": "84"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:55:00",
+        "time_int": 53700,
+        "user": "GrandMaster",
+        "content": "73"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:55:01",
+        "time_int": 53701,
+        "user": "GrandMaster",
+        "content": "64"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:55:01",
+        "time_int": 53701,
+        "user": "GrandMaster",
+        "content": "74"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:55:02",
+        "time_int": 53702,
+        "user": "GrandMaster",
+        "content": "41"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:55:04",
+        "time_int": 53704,
+        "user": "GrandMaster",
+        "content": "72"
+    },
+    {
+        "action": "TALK",
+        "time": "14:55:15",
+        "time_int": 53715,
+        "user": "iris",
+        "content": "how about 83-n12 ?"
+    },
+    {
+        "action": "TALK",
+        "time": "14:55:35",
+        "time_int": 53735,
+        "user": "Torsten",
+        "content": "quick win"
+    },
+    {
+        "action": "TALK",
+        "time": "14:55:55",
+        "time_int": 53755,
+        "user": "xuwu",
+        "content": "y"
+    },
+    {
+        "action": "TALK",
+        "time": "14:55:55",
+        "time_int": 53755,
+        "user": "GrandMaster",
+        "content": "On pbm, if black has another 4-5 four threat then game is draw becuse of after 120 moves, the game is declared as draw :-)"
+    },
+    {
+        "action": "TALK",
+        "time": "14:55:56",
+        "time_int": 53756,
+        "user": "konjin",
+        "content": "84 m11 quick win"
+    },
+    {
+        "action": "TALK",
+        "time": "14:56:01",
+        "time_int": 53761,
+        "user": "whte",
+        "content": "if 83-n12,84-m11"
+    },
+    {
+        "action": "TALK",
+        "time": "14:56:09",
+        "time_int": 53769,
+        "user": "Tornado",
+        "content": "after m11 than vcf"
+    },
+    {
+        "action": "TALK",
+        "time": "14:56:14",
+        "time_int": 53774,
+        "user": "Torsten",
+        "content": "ye"
+    },
+    {
+        "action": "TALK",
+        "time": "14:56:24",
+        "time_int": 53784,
+        "user": "Tornado",
+        "content": "then"
+    },
+    {
+        "action": "TALK",
+        "time": "14:56:27",
+        "time_int": 53787,
+        "user": "Tornado",
+        "content": ":)"
+    },
+    {
+        "action": "TALK",
+        "time": "14:56:39",
+        "time_int": 53799,
+        "user": "GrandMaster",
+        "content": "Any other back defences very poor"
+    },
+    {
+        "action": "GOTO",
+        "time": "14:56:51",
+        "time_int": 53811,
+        "user": "GrandMaster",
+        "content": 72
+    },
+    {
+        "action": "TALK",
+        "time": "14:57:07",
+        "time_int": 53827,
+        "user": "GrandMaster",
+        "content": "This 72 is the victory move."
+    },
+    {
+        "action": "TALK",
+        "time": "14:57:09",
+        "time_int": 53829,
+        "user": "yboil",
+        "content": "73-h11?"
+    },
+    {
+        "action": "TALK",
+        "time": "14:57:12",
+        "time_int": 53832,
+        "user": "SamSite",
+        "content": "I think in offline tournaments point system should be changed"
+    },
+    {
+        "action": "TALK",
+        "time": "14:57:23",
+        "time_int": 53843,
+        "user": "SamSite",
+        "content": "so that draw is 1 point, where as win is 3 points"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:57:44",
+        "time_int": 53864,
+        "user": "GrandMaster",
+        "content": "8b"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:57:45",
+        "time_int": 53865,
+        "user": "GrandMaster",
+        "content": "7a"
+    },
+    {
+        "action": "TALK",
+        "time": "14:57:48",
+        "time_int": 53868,
+        "user": "konjin",
+        "content": "this win worth 4 points ! :)"
+    },
+    {
+        "action": "TALK",
+        "time": "14:58:14",
+        "time_int": 53894,
+        "user": "GrandMaster",
+        "content": "And after yboil?"
+    },
+    {
+        "action": "TALK",
+        "time": "14:58:22",
+        "time_int": 53902,
+        "user": "SamSite",
+        "content": "but this position wouldn't be so played, if winning was made more rewarding"
+    },
+    {
+        "action": "TALK",
+        "time": "14:58:25",
+        "time_int": 53905,
+        "user": "Torsten",
+        "content": "k14"
+    },
+    {
+        "action": "TALK",
+        "time": "14:58:28",
+        "time_int": 53908,
+        "user": "yboil",
+        "content": "75-k14"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:58:31",
+        "time_int": 53911,
+        "user": "GrandMaster",
+        "content": "be"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:58:31",
+        "time_int": 53911,
+        "user": "GrandMaster",
+        "content": "cf"
+    },
+    {
+        "action": "TALK",
+        "time": "14:58:35",
+        "time_int": 53915,
+        "user": "Torsten",
+        "content": "L14"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:58:45",
+        "time_int": 53925,
+        "user": "GrandMaster",
+        "content": "ce"
+    },
+    {
+        "action": "TALK",
+        "time": "14:58:58",
+        "time_int": 53938,
+        "user": "Torsten",
+        "content": "but now white has a sequence with 3x3 on e13"
+    },
+    {
+        "action": "TALK",
+        "time": "14:59:00",
+        "time_int": 53940,
+        "user": "SamSite",
+        "content": "now 3x3"
+    },
+    {
+        "action": "TALK",
+        "time": "14:59:20",
+        "time_int": 53960,
+        "user": "yboil",
+        "content": "oh my god"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:59:23",
+        "time_int": 53963,
+        "user": "GrandMaster",
+        "content": "5c"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:59:24",
+        "time_int": 53964,
+        "user": "GrandMaster",
+        "content": "4d"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:59:25",
+        "time_int": 53965,
+        "user": "GrandMaster",
+        "content": "7e"
+    },
+    {
+        "action": "TALK",
+        "time": "14:59:43",
+        "time_int": 53983,
+        "user": "GrandMaster",
+        "content": "Ok?"
+    },
+    {
+        "action": "TALK",
+        "time": "14:59:43",
+        "time_int": 53983,
+        "user": "yboil",
+        "content": "e-13 is 3*3"
+    },
+    {
+        "action": "TALK",
+        "time": "14:59:45",
+        "time_int": 53985,
+        "user": "Tornado",
+        "content": "yeah"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:59:48",
+        "time_int": 53988,
+        "user": "GrandMaster",
+        "content": "6d"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:59:48",
+        "time_int": 53988,
+        "user": "GrandMaster",
+        "content": "5e"
+    },
+    {
+        "action": "TALK",
+        "time": "14:59:49",
+        "time_int": 53989,
+        "user": "xuwu",
+        "content": "y"
+    },
+    {
+        "action": "TALK",
+        "time": "14:59:54",
+        "time_int": 53994,
+        "user": "endlessroad",
+        "content": "y"
+    },
+    {
+        "action": "TALK",
+        "time": "14:59:57",
+        "time_int": 53997,
+        "user": "GrandMaster",
+        "content": "In conclusion, I think it was good example for you, that you need to be very careful about \"monkey games\" :)"
+    },
+    {
+        "action": "TALK",
+        "time": "15:00:09",
+        "time_int": 54009,
+        "user": "GrandMaster",
+        "content": "Thank you for your attention! Now the lesson is over!"
+    },
+    {
+        "action": "TALK",
+        "time": "15:00:15",
+        "time_int": 54015,
+        "user": "Torsten",
+        "content": "not to play them with virag :)"
+    },
+    {
+        "action": "EMOTE",
+        "time": "15:00:19",
+        "time_int": 54019,
+        "user": "shuwang",
+        "content": " thanks virag"
+    },
+    {
+        "action": "TALK",
+        "time": "15:00:20",
+        "time_int": 54020,
+        "user": "konjin",
+        "content": "thanks for nice lesson !"
+    },
+    {
+        "action": "TALK",
+        "time": "15:00:25",
+        "time_int": 54025,
+        "user": "GrandMaster",
+        "content": "Those whose names appear in list below will get credit point for the lesson attendance."
+    },
+    {
+        "action": "TALK",
+        "time": "15:00:25",
+        "time_int": 54025,
+        "user": "chess",
+        "content": "after 68th ,white win?"
+    },
+    {
+        "action": "TALK",
+        "time": "15:00:27",
+        "time_int": 54027,
+        "user": "SamSite",
+        "content": "no monkey business with virag :)"
+    },
+    {
+        "action": "TALK",
+        "time": "15:00:28",
+        "time_int": 54028,
+        "user": "yboil",
+        "content": "yes~"
+    },
+    {
+        "action": "CREDIT",
+        "time": "15:00:30",
+        "time_int": 54030,
+        "user": "",
+        "content": " casar, chess, eggttball, endlessroad, hobbang, HOT, Ikon, iris, Joe1980cn, johncid, kawamura, killer21st, konjin, Liuchao, ouyang, puma2005, shuwang, sirasoni, slamduk, sosei, SUPERAK47, Tear, Timo, tommy, Tornado, Torsten, voshkod, weigui, Whiz, wolfzhou, xfeifeix, xuwu, yaya, yboil, yun_shou, yzhnie."
+    }
+]

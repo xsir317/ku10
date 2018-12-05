@@ -1,0 +1,4300 @@
+[
+    {
+        "action": "RESET",
+        "time": "13:43:10",
+        "time_int": 49390,
+        "user": "",
+        "content": "000000"
+    },
+    {
+        "action": "TALK",
+        "time": "13:43:15",
+        "time_int": 49395,
+        "user": "konjin",
+        "content": "hello gm"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:43:17",
+        "time_int": 49397,
+        "user": "GrandMaster",
+        "content": "88"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:43:17",
+        "time_int": 49397,
+        "user": "GrandMaster",
+        "content": "99"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:43:17",
+        "time_int": 49397,
+        "user": "GrandMaster",
+        "content": "87"
+    },
+    {
+        "action": "TALK",
+        "time": "13:43:21",
+        "time_int": 49401,
+        "user": "slappanu",
+        "content": "hi gm"
+    },
+    {
+        "action": "TALK",
+        "time": "13:43:28",
+        "time_int": 49408,
+        "user": "minuta",
+        "content": "hi"
+    },
+    {
+        "action": "TALK",
+        "time": "13:43:40",
+        "time_int": 49420,
+        "user": "luwenzhe",
+        "content": "hello, GM liut"
+    },
+    {
+        "action": "TALK",
+        "time": "13:43:40",
+        "time_int": 49420,
+        "user": "GrandMaster",
+        "content": "OK, we begin the lesson now."
+    },
+    {
+        "action": "TALK",
+        "time": "13:43:57",
+        "time_int": 49437,
+        "user": "Guest862",
+        "content": "."
+    },
+    {
+        "action": "TALK",
+        "time": "13:44:06",
+        "time_int": 49446,
+        "user": "xiaoxin",
+        "content": "?"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:44:21",
+        "time_int": 49461,
+        "user": "GrandMaster",
+        "content": "86"
+    },
+    {
+        "action": "TALK",
+        "time": "13:44:34",
+        "time_int": 49474,
+        "user": "GrandMaster",
+        "content": "Today we discuss the alternative 5th move"
+    },
+    {
+        "action": "TALK",
+        "time": "13:44:49",
+        "time_int": 49489,
+        "user": "slamduk",
+        "content": "nice"
+    },
+    {
+        "action": "TALK",
+        "time": "13:45:25",
+        "time_int": 49525,
+        "user": "GrandMaster",
+        "content": "that's 5-i8"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:45:28",
+        "time_int": 49528,
+        "user": "GrandMaster",
+        "content": "98"
+    },
+    {
+        "action": "TALK",
+        "time": "13:46:29",
+        "time_int": 49589,
+        "user": "Guest853",
+        "content": "the other is?"
+    },
+    {
+        "action": "TALK",
+        "time": "13:46:42",
+        "time_int": 49602,
+        "user": "someone",
+        "content": "g8"
+    },
+    {
+        "action": "TALK",
+        "time": "13:46:49",
+        "time_int": 49609,
+        "user": "slappanu",
+        "content": "g8"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:47:05",
+        "time_int": 49625,
+        "user": "GrandMaster",
+        "content": "78"
+    },
+    {
+        "action": "BACK",
+        "time": "13:47:09",
+        "time_int": 49629,
+        "user": "GrandMaster",
+        "content": ""
+    },
+    {
+        "action": "TALK",
+        "time": "13:47:31",
+        "time_int": 49651,
+        "user": "pzh",
+        "content": "?"
+    },
+    {
+        "action": "TALK",
+        "time": "13:47:37",
+        "time_int": 49657,
+        "user": "Guest862",
+        "content": ".."
+    },
+    {
+        "action": "TALK",
+        "time": "13:47:42",
+        "time_int": 49662,
+        "user": "GrandMaster",
+        "content": "white have some defence？"
+    },
+    {
+        "action": "TALK",
+        "time": "13:47:53",
+        "time_int": 49673,
+        "user": "Guest848",
+        "content": "jjj"
+    },
+    {
+        "action": "TALK",
+        "time": "13:47:58",
+        "time_int": 49678,
+        "user": "GrandMaster",
+        "content": "who suggest the next move?"
+    },
+    {
+        "action": "TALK",
+        "time": "13:48:03",
+        "time_int": 49683,
+        "user": "Guest848",
+        "content": "jj"
+    },
+    {
+        "action": "TALK",
+        "time": "13:48:05",
+        "time_int": 49685,
+        "user": "slappanu",
+        "content": "j8"
+    },
+    {
+        "action": "TALK",
+        "time": "13:48:12",
+        "time_int": 49692,
+        "user": "chancewu",
+        "content": "G8"
+    },
+    {
+        "action": "TALK",
+        "time": "13:48:14",
+        "time_int": 49694,
+        "user": "slamduk",
+        "content": "g8,j8"
+    },
+    {
+        "action": "TALK",
+        "time": "13:48:14",
+        "time_int": 49694,
+        "user": "someone",
+        "content": "j8"
+    },
+    {
+        "action": "TALK",
+        "time": "13:48:16",
+        "time_int": 49696,
+        "user": "Yue",
+        "content": "g8"
+    },
+    {
+        "action": "TALK",
+        "time": "13:48:16",
+        "time_int": 49696,
+        "user": "Torsten",
+        "content": "block the pair 1-5?"
+    },
+    {
+        "action": "TALK",
+        "time": "13:48:17",
+        "time_int": 49697,
+        "user": "Guest854",
+        "content": "G8"
+    },
+    {
+        "action": "TALK",
+        "time": "13:48:38",
+        "time_int": 49718,
+        "user": "GrandMaster",
+        "content": "The j8 is the strongest for white."
+    },
+    {
+        "action": "MOVE",
+        "time": "13:49:00",
+        "time_int": 49740,
+        "user": "GrandMaster",
+        "content": "89"
+    },
+    {
+        "action": "TALK",
+        "time": "13:49:23",
+        "time_int": 49763,
+        "user": "GrandMaster",
+        "content": "who want to show win?"
+    },
+    {
+        "action": "TALK",
+        "time": "13:50:07",
+        "time_int": 49807,
+        "user": "konjin",
+        "content": "me"
+    },
+    {
+        "action": "TALK",
+        "time": "13:50:13",
+        "time_int": 49813,
+        "user": "GrandMaster",
+        "content": "ok"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:50:29",
+        "time_int": 49829,
+        "user": "konjin",
+        "content": "a9"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:50:42",
+        "time_int": 49842,
+        "user": "GrandMaster",
+        "content": "76"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:50:52",
+        "time_int": 49852,
+        "user": "konjin",
+        "content": "a8"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:51:09",
+        "time_int": 49869,
+        "user": "GrandMaster",
+        "content": "b8"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:51:17",
+        "time_int": 49877,
+        "user": "konjin",
+        "content": "ab"
+    },
+    {
+        "action": "TALK",
+        "time": "13:51:44",
+        "time_int": 49904,
+        "user": "Guest862",
+        "content": "`"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:52:00",
+        "time_int": 49920,
+        "user": "GrandMaster",
+        "content": "aa"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:52:13",
+        "time_int": 49933,
+        "user": "konjin",
+        "content": "a6"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:52:22",
+        "time_int": 49942,
+        "user": "GrandMaster",
+        "content": "a5"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:52:28",
+        "time_int": 49948,
+        "user": "konjin",
+        "content": "79"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:52:30",
+        "time_int": 49950,
+        "user": "GrandMaster",
+        "content": "97"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:52:35",
+        "time_int": 49955,
+        "user": "konjin",
+        "content": "9b"
+    },
+    {
+        "action": "TALK",
+        "time": "13:52:39",
+        "time_int": 49959,
+        "user": "luwenzhe",
+        "content": "nice"
+    },
+    {
+        "action": "TALK",
+        "time": "13:52:48",
+        "time_int": 49968,
+        "user": "Guest858",
+        "content": "14 g8"
+    },
+    {
+        "action": "TALK",
+        "time": "13:52:49",
+        "time_int": 49969,
+        "user": "Torsten",
+        "content": "12 - j7 still..."
+    },
+    {
+        "action": "TALK",
+        "time": "13:52:54",
+        "time_int": 49974,
+        "user": "Guest862",
+        "content": ".."
+    },
+    {
+        "action": "TALK",
+        "time": "13:52:56",
+        "time_int": 49976,
+        "user": "GrandMaster",
+        "content": "double win"
+    },
+    {
+        "action": "TALK",
+        "time": "13:53:05",
+        "time_int": 49985,
+        "user": "GrandMaster",
+        "content": "thx"
+    },
+    {
+        "action": "TALK",
+        "time": "13:53:06",
+        "time_int": 49986,
+        "user": "konjin",
+        "content": "thanks"
+    },
+    {
+        "action": "TALK",
+        "time": "13:53:09",
+        "time_int": 49989,
+        "user": "Guest877",
+        "content": "good"
+    },
+    {
+        "action": "TALK",
+        "time": "13:53:13",
+        "time_int": 49993,
+        "user": "lq20008",
+        "content": "very nice"
+    },
+    {
+        "action": "GOTO",
+        "time": "13:53:23",
+        "time_int": 50003,
+        "user": "GrandMaster",
+        "content": 11
+    },
+    {
+        "action": "MOVE",
+        "time": "13:53:26",
+        "time_int": 50006,
+        "user": "GrandMaster",
+        "content": "a7"
+    },
+    {
+        "action": "TALK",
+        "time": "13:53:31",
+        "time_int": 50011,
+        "user": "konjin",
+        "content": "14 g8 win faster, 15 i7"
+    },
+    {
+        "action": "TALK",
+        "time": "13:53:44",
+        "time_int": 50024,
+        "user": "GrandMaster",
+        "content": "black  win"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:53:53",
+        "time_int": 50033,
+        "user": "GrandMaster",
+        "content": "cb"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:53:54",
+        "time_int": 50034,
+        "user": "GrandMaster",
+        "content": "ba"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:53:56",
+        "time_int": 50036,
+        "user": "GrandMaster",
+        "content": "bb"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:53:59",
+        "time_int": 50039,
+        "user": "GrandMaster",
+        "content": "9b"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:54:01",
+        "time_int": 50041,
+        "user": "GrandMaster",
+        "content": "ca"
+    },
+    {
+        "action": "TALK",
+        "time": "13:54:09",
+        "time_int": 50049,
+        "user": "Torsten",
+        "content": "nice :)"
+    },
+    {
+        "action": "TALK",
+        "time": "13:54:09",
+        "time_int": 50049,
+        "user": "GrandMaster",
+        "content": "double win"
+    },
+    {
+        "action": "TALK",
+        "time": "13:54:16",
+        "time_int": 50056,
+        "user": "GrandMaster",
+        "content": "see?"
+    },
+    {
+        "action": "TALK",
+        "time": "13:54:21",
+        "time_int": 50061,
+        "user": "pzh",
+        "content": "Y"
+    },
+    {
+        "action": "TALK",
+        "time": "13:54:21",
+        "time_int": 50061,
+        "user": "slamduk",
+        "content": "yes"
+    },
+    {
+        "action": "TALK",
+        "time": "13:54:23",
+        "time_int": 50063,
+        "user": "slappanu",
+        "content": "y"
+    },
+    {
+        "action": "TALK",
+        "time": "13:54:30",
+        "time_int": 50070,
+        "user": "renjunewbie",
+        "content": "y"
+    },
+    {
+        "action": "TALK",
+        "time": "13:54:31",
+        "time_int": 50071,
+        "user": "minuta",
+        "content": "y"
+    },
+    {
+        "action": "BACK",
+        "time": "13:54:36",
+        "time_int": 50076,
+        "user": "GrandMaster",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time": "13:54:37",
+        "time_int": 50077,
+        "user": "GrandMaster",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time": "13:54:39",
+        "time_int": 50079,
+        "user": "GrandMaster",
+        "content": "db"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:54:42",
+        "time_int": 50082,
+        "user": "GrandMaster",
+        "content": "ac"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:54:43",
+        "time_int": 50083,
+        "user": "GrandMaster",
+        "content": "aa"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:54:45",
+        "time_int": 50085,
+        "user": "GrandMaster",
+        "content": "ca"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:54:47",
+        "time_int": 50087,
+        "user": "GrandMaster",
+        "content": "9d"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:54:48",
+        "time_int": 50088,
+        "user": "GrandMaster",
+        "content": "cc"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:54:51",
+        "time_int": 50091,
+        "user": "GrandMaster",
+        "content": "cd"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:54:52",
+        "time_int": 50092,
+        "user": "GrandMaster",
+        "content": "bc"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:54:54",
+        "time_int": 50094,
+        "user": "GrandMaster",
+        "content": "dc"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:54:56",
+        "time_int": 50096,
+        "user": "GrandMaster",
+        "content": "c9"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:54:57",
+        "time_int": 50097,
+        "user": "GrandMaster",
+        "content": "c8"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:54:58",
+        "time_int": 50098,
+        "user": "GrandMaster",
+        "content": "d9"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:55:00",
+        "time_int": 50100,
+        "user": "GrandMaster",
+        "content": "e8"
+    },
+    {
+        "action": "TALK",
+        "time": "13:55:01",
+        "time_int": 50101,
+        "user": "Torsten",
+        "content": "vcf"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:55:01",
+        "time_int": 50101,
+        "user": "GrandMaster",
+        "content": "e9"
+    },
+    {
+        "action": "TALK",
+        "time": "13:55:06",
+        "time_int": 50106,
+        "user": "Yue",
+        "content": "：）"
+    },
+    {
+        "action": "TALK",
+        "time": "13:55:12",
+        "time_int": 50112,
+        "user": "konjin",
+        "content": "nice"
+    },
+    {
+        "action": "TALK",
+        "time": "13:55:14",
+        "time_int": 50114,
+        "user": "GrandMaster",
+        "content": "understand?"
+    },
+    {
+        "action": "TALK",
+        "time": "13:55:18",
+        "time_int": 50118,
+        "user": "Yue",
+        "content": "y"
+    },
+    {
+        "action": "TALK",
+        "time": "13:55:19",
+        "time_int": 50119,
+        "user": "konjin",
+        "content": "y"
+    },
+    {
+        "action": "TALK",
+        "time": "13:55:26",
+        "time_int": 50126,
+        "user": "Guest862",
+        "content": "y"
+    },
+    {
+        "action": "TALK",
+        "time": "13:55:30",
+        "time_int": 50130,
+        "user": "renjunewbie",
+        "content": "yes"
+    },
+    {
+        "action": "TALK",
+        "time": "13:55:30",
+        "time_int": 50130,
+        "user": "Samsone",
+        "content": "y"
+    },
+    {
+        "action": "TALK",
+        "time": "13:55:30",
+        "time_int": 50130,
+        "user": "chancewu",
+        "content": "Y"
+    },
+    {
+        "action": "TALK",
+        "time": "13:55:32",
+        "time_int": 50132,
+        "user": "pzh",
+        "content": "y"
+    },
+    {
+        "action": "TALK",
+        "time": "13:55:37",
+        "time_int": 50137,
+        "user": "slappanu",
+        "content": "y"
+    },
+    {
+        "action": "GOTO",
+        "time": "13:55:52",
+        "time_int": 50152,
+        "user": "GrandMaster",
+        "content": 8
+    },
+    {
+        "action": "BACK",
+        "time": "13:55:54",
+        "time_int": 50154,
+        "user": "GrandMaster",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time": "13:55:55",
+        "time_int": 50155,
+        "user": "GrandMaster",
+        "content": "ba"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:56:06",
+        "time_int": 50166,
+        "user": "GrandMaster",
+        "content": "78"
+    },
+    {
+        "action": "TALK",
+        "time": "13:56:21",
+        "time_int": 50181,
+        "user": "GrandMaster",
+        "content": "black  win"
+    },
+    {
+        "action": "TALK",
+        "time": "13:56:24",
+        "time_int": 50184,
+        "user": "Torsten",
+        "content": "yes"
+    },
+    {
+        "action": "TALK",
+        "time": "13:56:26",
+        "time_int": 50186,
+        "user": "Guest857",
+        "content": "shu le"
+    },
+    {
+        "action": "TALK",
+        "time": "13:56:27",
+        "time_int": 50187,
+        "user": "konjin",
+        "content": "yes"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:56:34",
+        "time_int": 50194,
+        "user": "GrandMaster",
+        "content": "68"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:56:36",
+        "time_int": 50196,
+        "user": "GrandMaster",
+        "content": "a7"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:56:39",
+        "time_int": 50199,
+        "user": "GrandMaster",
+        "content": "b8"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:56:41",
+        "time_int": 50201,
+        "user": "GrandMaster",
+        "content": "77"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:56:45",
+        "time_int": 50205,
+        "user": "GrandMaster",
+        "content": "97"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:56:46",
+        "time_int": 50206,
+        "user": "GrandMaster",
+        "content": "76"
+    },
+    {
+        "action": "TALK",
+        "time": "13:56:52",
+        "time_int": 50212,
+        "user": "GrandMaster",
+        "content": "see"
+    },
+    {
+        "action": "TALK",
+        "time": "13:56:53",
+        "time_int": 50213,
+        "user": "Yue",
+        "content": "ok."
+    },
+    {
+        "action": "TALK",
+        "time": "13:56:59",
+        "time_int": 50219,
+        "user": "Guest862",
+        "content": "y"
+    },
+    {
+        "action": "TALK",
+        "time": "13:57:01",
+        "time_int": 50221,
+        "user": "slappanu",
+        "content": "y"
+    },
+    {
+        "action": "GOTO",
+        "time": "13:57:16",
+        "time_int": 50236,
+        "user": "GrandMaster",
+        "content": 5
+    },
+    {
+        "action": "MOVE",
+        "time": "13:57:27",
+        "time_int": 50247,
+        "user": "GrandMaster",
+        "content": "a9"
+    },
+    {
+        "action": "TALK",
+        "time": "13:58:05",
+        "time_int": 50285,
+        "user": "GrandMaster",
+        "content": "who want to try?"
+    },
+    {
+        "action": "TALK",
+        "time": "13:59:03",
+        "time_int": 50343,
+        "user": "konjin",
+        "content": "i think is black win too"
+    },
+    {
+        "action": "TALK",
+        "time": "13:59:20",
+        "time_int": 50360,
+        "user": "Torsten",
+        "content": "me"
+    },
+    {
+        "action": "TALK",
+        "time": "13:59:26",
+        "time_int": 50366,
+        "user": "GrandMaster",
+        "content": "Let's be active!"
+    },
+    {
+        "action": "TALK",
+        "time": "13:59:52",
+        "time_int": 50392,
+        "user": "GrandMaster",
+        "content": "y"
+    },
+    {
+        "action": "TALK",
+        "time": "14:00:04",
+        "time_int": 50404,
+        "user": "Torsten",
+        "content": "I might try"
+    },
+    {
+        "action": "TALK",
+        "time": "14:00:06",
+        "time_int": 50406,
+        "user": "Guest862",
+        "content": ","
+    },
+    {
+        "action": "MOVE",
+        "time": "14:00:19",
+        "time_int": 50419,
+        "user": "Torsten",
+        "content": "78"
+    },
+    {
+        "action": "TALK",
+        "time": "14:00:33",
+        "time_int": 50433,
+        "user": "GrandMaster",
+        "content": "Don't mind if you make mistakes"
+    },
+    {
+        "action": "TALK",
+        "time": "14:00:52",
+        "time_int": 50452,
+        "user": "GrandMaster",
+        "content": "get a chance to practice your calculating skills"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:00:59",
+        "time_int": 50459,
+        "user": "GrandMaster",
+        "content": "68"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:01:00",
+        "time_int": 50460,
+        "user": "Torsten",
+        "content": "89"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:01:10",
+        "time_int": 50470,
+        "user": "GrandMaster",
+        "content": "77"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:01:29",
+        "time_int": 50489,
+        "user": "Torsten",
+        "content": "95"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:02:07",
+        "time_int": 50527,
+        "user": "GrandMaster",
+        "content": "69"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:02:09",
+        "time_int": 50529,
+        "user": "Torsten",
+        "content": "7a"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:02:26",
+        "time_int": 50546,
+        "user": "GrandMaster",
+        "content": "6b"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:02:31",
+        "time_int": 50551,
+        "user": "Torsten",
+        "content": "6a"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:02:44",
+        "time_int": 50564,
+        "user": "GrandMaster",
+        "content": "8a"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:02:46",
+        "time_int": 50566,
+        "user": "Torsten",
+        "content": "97"
+    },
+    {
+        "action": "TALK",
+        "time": "14:02:46",
+        "time_int": 50566,
+        "user": "Yue",
+        "content": "v"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:03:02",
+        "time_int": 50582,
+        "user": "GrandMaster",
+        "content": "a6"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:03:07",
+        "time_int": 50587,
+        "user": "Torsten",
+        "content": "96"
+    },
+    {
+        "action": "TALK",
+        "time": "14:03:22",
+        "time_int": 50602,
+        "user": "GrandMaster",
+        "content": "vcf"
+    },
+    {
+        "action": "TALK",
+        "time": "14:03:26",
+        "time_int": 50606,
+        "user": "Torsten",
+        "content": "yes"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:03:29",
+        "time_int": 50609,
+        "user": "GrandMaster",
+        "content": "a5"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:03:31",
+        "time_int": 50611,
+        "user": "Torsten",
+        "content": "a7"
+    },
+    {
+        "action": "TALK",
+        "time": "14:03:36",
+        "time_int": 50616,
+        "user": "GrandMaster",
+        "content": "see?"
+    },
+    {
+        "action": "TALK",
+        "time": "14:03:40",
+        "time_int": 50620,
+        "user": "slappanu",
+        "content": "y"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:03:42",
+        "time_int": 50622,
+        "user": "GrandMaster",
+        "content": "b6"
+    },
+    {
+        "action": "TALK",
+        "time": "14:03:42",
+        "time_int": 50622,
+        "user": "yuelee00",
+        "content": "y"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:03:44",
+        "time_int": 50624,
+        "user": "Torsten",
+        "content": "b8"
+    },
+    {
+        "action": "TALK",
+        "time": "14:03:49",
+        "time_int": 50629,
+        "user": "Yue",
+        "content": ":)"
+    },
+    {
+        "action": "TALK",
+        "time": "14:03:54",
+        "time_int": 50634,
+        "user": "Guest862",
+        "content": "y"
+    },
+    {
+        "action": "TALK",
+        "time": "14:03:56",
+        "time_int": 50636,
+        "user": "pzh",
+        "content": "y"
+    },
+    {
+        "action": "TALK",
+        "time": "14:04:02",
+        "time_int": 50642,
+        "user": "chancewu",
+        "content": "Y"
+    },
+    {
+        "action": "TALK",
+        "time": "14:04:16",
+        "time_int": 50656,
+        "user": "GrandMaster",
+        "content": "thx"
+    },
+    {
+        "action": "TALK",
+        "time": "14:04:19",
+        "time_int": 50659,
+        "user": "Torsten",
+        "content": "thanks"
+    },
+    {
+        "action": "TALK",
+        "time": "14:04:21",
+        "time_int": 50661,
+        "user": "Guest874",
+        "content": "1"
+    },
+    {
+        "action": "TALK",
+        "time": "14:04:38",
+        "time_int": 50678,
+        "user": "Torsten",
+        "content": "yet not a straight win"
+    },
+    {
+        "action": "GOTO",
+        "time": "14:04:49",
+        "time_int": 50689,
+        "user": "GrandMaster",
+        "content": 5
+    },
+    {
+        "action": "TALK",
+        "time": "14:05:34",
+        "time_int": 50734,
+        "user": "Guest877",
+        "content": "i am here"
+    },
+    {
+        "action": "CHECKRESULT",
+        "time": "14:05:47",
+        "time_int": 50747,
+        "user": "",
+        "content": " Samsone, Torsten, slamduk, Yue, Aurora, weigui, ethereal, konjin, minuta, xiaoxin, akira, luwenzhe, mayhem, pzh, slappanu, renjunewbie, roger8961, Renju_YinLC, dreamy, chancewu, Liuchao, Shangjin, yaya, Erica, whywhy, yuelee00, Laney, xuwu, xiaoxiaohua, voshkod, SamSite, benben, MIMI, tianxia, Lithium, tommy, kkg, Whiz, ouyang, mima, findfind, hallo, blueice, sosei, chinezu, yun_shou, shuwang."
+    },
+    {
+        "action": "MOVE",
+        "time": "14:05:59",
+        "time_int": 50759,
+        "user": "GrandMaster",
+        "content": "76"
+    },
+    {
+        "action": "TALK",
+        "time": "14:06:21",
+        "time_int": 50781,
+        "user": "GrandMaster",
+        "content": "Try to find black sure win  is a great help to improve your calculation"
+    },
+    {
+        "action": "TALK",
+        "time": "14:06:30",
+        "time_int": 50790,
+        "user": "Guest862",
+        "content": "f"
+    },
+    {
+        "action": "TALK",
+        "time": "14:06:39",
+        "time_int": 50799,
+        "user": "Torsten",
+        "content": "must it be VCT?"
+    },
+    {
+        "action": "TALK",
+        "time": "14:06:47",
+        "time_int": 50807,
+        "user": "GrandMaster",
+        "content": "Let's try one example attacking style."
+    },
+    {
+        "action": "TALK",
+        "time": "14:07:06",
+        "time_int": 50826,
+        "user": "GrandMaster",
+        "content": "who want to show?"
+    },
+    {
+        "action": "TALK",
+        "time": "14:07:53",
+        "time_int": 50873,
+        "user": "yaya",
+        "content": "."
+    },
+    {
+        "action": "TALK",
+        "time": "14:07:57",
+        "time_int": 50877,
+        "user": "Guest875",
+        "content": "example"
+    },
+    {
+        "action": "TALK",
+        "time": "14:08:00",
+        "time_int": 50880,
+        "user": "voshkod",
+        "content": "。"
+    },
+    {
+        "action": "TALK",
+        "time": "14:08:13",
+        "time_int": 50893,
+        "user": "konjin",
+        "content": "somehow the same, g8, black advantage"
+    },
+    {
+        "action": "TALK",
+        "time": "14:08:33",
+        "time_int": 50913,
+        "user": "Torsten",
+        "content": "yes"
+    },
+    {
+        "action": "TALK",
+        "time": "14:08:43",
+        "time_int": 50923,
+        "user": "Guest862",
+        "content": "~~"
+    },
+    {
+        "action": "TALK",
+        "time": "14:08:47",
+        "time_int": 50927,
+        "user": "Torsten",
+        "content": "great advantage, but straight style not easy.."
+    },
+    {
+        "action": "TALK",
+        "time": "14:09:04",
+        "time_int": 50944,
+        "user": "chancewu",
+        "content": "y ...if 8-j8..."
+    },
+    {
+        "action": "TALK",
+        "time": "14:09:09",
+        "time_int": 50949,
+        "user": "xuwu",
+        "content": "."
+    },
+    {
+        "action": "TALK",
+        "time": "14:10:20",
+        "time_int": 51020,
+        "user": "benben",
+        "content": "?"
+    },
+    {
+        "action": "TALK",
+        "time": "14:10:21",
+        "time_int": 51021,
+        "user": "Guest870",
+        "content": "?"
+    },
+    {
+        "action": "TALK",
+        "time": "14:10:24",
+        "time_int": 51024,
+        "user": "Guest862",
+        "content": "`"
+    },
+    {
+        "action": "TALK",
+        "time": "14:10:26",
+        "time_int": 51026,
+        "user": "slappanu",
+        "content": "maybe develope instead of vct......"
+    },
+    {
+        "action": "TALK",
+        "time": "14:10:26",
+        "time_int": 51026,
+        "user": "Erica",
+        "content": "."
+    },
+    {
+        "action": "TALK",
+        "time": "14:10:44",
+        "time_int": 51044,
+        "user": "slamduk",
+        "content": "me try"
+    },
+    {
+        "action": "TALK",
+        "time": "14:10:51",
+        "time_int": 51051,
+        "user": "GrandMaster",
+        "content": "who want to show?"
+    },
+    {
+        "action": "TALK",
+        "time": "14:10:57",
+        "time_int": 51057,
+        "user": "MIMI",
+        "content": "me"
+    },
+    {
+        "action": "TALK",
+        "time": "14:10:58",
+        "time_int": 51058,
+        "user": "luwenzhe",
+        "content": "slamduk!"
+    },
+    {
+        "action": "TALK",
+        "time": "14:10:58",
+        "time_int": 51058,
+        "user": "GrandMaster",
+        "content": "ok"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:11:17",
+        "time_int": 51077,
+        "user": "slamduk",
+        "content": "78"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:11:21",
+        "time_int": 51081,
+        "user": "GrandMaster",
+        "content": "a8"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:11:26",
+        "time_int": 51086,
+        "user": "slamduk",
+        "content": "96"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:11:31",
+        "time_int": 51091,
+        "user": "GrandMaster",
+        "content": "69"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:11:35",
+        "time_int": 51095,
+        "user": "slamduk",
+        "content": "97"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:11:38",
+        "time_int": 51098,
+        "user": "GrandMaster",
+        "content": "79"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:11:41",
+        "time_int": 51101,
+        "user": "slamduk",
+        "content": "89"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:11:43",
+        "time_int": 51103,
+        "user": "GrandMaster",
+        "content": "a7"
+    },
+    {
+        "action": "TALK",
+        "time": "14:12:03",
+        "time_int": 51123,
+        "user": "slamduk",
+        "content": "here is my puzzled :("
+    },
+    {
+        "action": "TALK",
+        "time": "14:12:13",
+        "time_int": 51133,
+        "user": "chancewu",
+        "content": "the same hehe..."
+    },
+    {
+        "action": "TALK",
+        "time": "14:12:26",
+        "time_int": 51146,
+        "user": "GrandMaster",
+        "content": "how to win here?"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:12:32",
+        "time_int": 51152,
+        "user": "slamduk",
+        "content": "a6"
+    },
+    {
+        "action": "TALK",
+        "time": "14:12:42",
+        "time_int": 51162,
+        "user": "MIMI",
+        "content": "11-j7 ?"
+    },
+    {
+        "action": "TALK",
+        "time": "14:13:09",
+        "time_int": 51189,
+        "user": "chancewu",
+        "content": "11 is importent ,i thought..."
+    },
+    {
+        "action": "MOVE",
+        "time": "14:13:21",
+        "time_int": 51201,
+        "user": "GrandMaster",
+        "content": "94"
+    },
+    {
+        "action": "TALK",
+        "time": "14:13:41",
+        "time_int": 51221,
+        "user": "slamduk",
+        "content": "seems no vcf,i give up :)"
+    },
+    {
+        "action": "TALK",
+        "time": "14:14:10",
+        "time_int": 51250,
+        "user": "chancewu",
+        "content": "- -let me try?"
+    },
+    {
+        "action": "TALK",
+        "time": "14:14:10",
+        "time_int": 51250,
+        "user": "GrandMaster",
+        "content": "you should think about the connection more"
+    },
+    {
+        "action": "TALK",
+        "time": "14:14:19",
+        "time_int": 51259,
+        "user": "GrandMaster",
+        "content": "ok"
+    },
+    {
+        "action": "TALK",
+        "time": "14:14:29",
+        "time_int": 51269,
+        "user": "GrandMaster",
+        "content": "thx slamduk"
+    },
+    {
+        "action": "TALK",
+        "time": "14:14:36",
+        "time_int": 51276,
+        "user": "slamduk",
+        "content": "thanks"
+    },
+    {
+        "action": "BACK",
+        "time": "14:14:52",
+        "time_int": 51292,
+        "user": "chancewu",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time": "14:14:53",
+        "time_int": 51293,
+        "user": "chancewu",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time": "14:14:54",
+        "time_int": 51294,
+        "user": "chancewu",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time": "14:14:54",
+        "time_int": 51294,
+        "user": "chancewu",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time": "14:14:56",
+        "time_int": 51296,
+        "user": "chancewu",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time": "14:14:56",
+        "time_int": 51296,
+        "user": "chancewu",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time": "14:14:58",
+        "time_int": 51298,
+        "user": "chancewu",
+        "content": "79"
+    },
+    {
+        "action": "TALK",
+        "time": "14:15:12",
+        "time_int": 51312,
+        "user": "Guest862",
+        "content": "."
+    },
+    {
+        "action": "MOVE",
+        "time": "14:15:29",
+        "time_int": 51329,
+        "user": "GrandMaster",
+        "content": "97"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:15:45",
+        "time_int": 51345,
+        "user": "chancewu",
+        "content": "75"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:16:07",
+        "time_int": 51367,
+        "user": "GrandMaster",
+        "content": "8a"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:16:15",
+        "time_int": 51375,
+        "user": "chancewu",
+        "content": "7b"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:16:35",
+        "time_int": 51395,
+        "user": "GrandMaster",
+        "content": "7a"
+    },
+    {
+        "action": "TALK",
+        "time": "14:16:59",
+        "time_int": 51419,
+        "user": "GrandMaster",
+        "content": "this seems white has advantage"
+    },
+    {
+        "action": "TALK",
+        "time": "14:17:15",
+        "time_int": 51435,
+        "user": "chancewu",
+        "content": "....y ...i am wrong...i give up"
+    },
+    {
+        "action": "TALK",
+        "time": "14:17:43",
+        "time_int": 51463,
+        "user": "Guest862",
+        "content": "."
+    },
+    {
+        "action": "TALK",
+        "time": "14:18:23",
+        "time_int": 51503,
+        "user": "chinezu",
+        "content": "."
+    },
+    {
+        "action": "TALK",
+        "time": "14:18:30",
+        "time_int": 51510,
+        "user": "GrandMaster",
+        "content": "thx"
+    },
+    {
+        "action": "TALK",
+        "time": "14:18:46",
+        "time_int": 51526,
+        "user": "chancewu",
+        "content": ":)"
+    },
+    {
+        "action": "TALK",
+        "time": "14:18:53",
+        "time_int": 51533,
+        "user": "GrandMaster",
+        "content": "try to use the connection"
+    },
+    {
+        "action": "TALK",
+        "time": "14:18:59",
+        "time_int": 51539,
+        "user": "slappanu",
+        "content": "can I try?"
+    },
+    {
+        "action": "TALK",
+        "time": "14:19:41",
+        "time_int": 51581,
+        "user": "GrandMaster",
+        "content": "how about others? how to attack as black"
+    },
+    {
+        "action": "GOTO",
+        "time": "14:19:48",
+        "time_int": 51588,
+        "user": "GrandMaster",
+        "content": 11
+    },
+    {
+        "action": "BACK",
+        "time": "14:19:50",
+        "time_int": 51590,
+        "user": "GrandMaster",
+        "content": ""
+    },
+    {
+        "action": "TALK",
+        "time": "14:20:06",
+        "time_int": 51606,
+        "user": "mayhem",
+        "content": "let me try"
+    },
+    {
+        "action": "TALK",
+        "time": "14:20:27",
+        "time_int": 51627,
+        "user": "Guest872",
+        "content": "7  j7?"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:20:36",
+        "time_int": 51636,
+        "user": "slappanu",
+        "content": "8a"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:20:49",
+        "time_int": 51649,
+        "user": "GrandMaster",
+        "content": "97"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:20:52",
+        "time_int": 51652,
+        "user": "slappanu",
+        "content": "75"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:21:11",
+        "time_int": 51671,
+        "user": "GrandMaster",
+        "content": "89"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:21:38",
+        "time_int": 51698,
+        "user": "slappanu",
+        "content": "68"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:21:41",
+        "time_int": 51701,
+        "user": "GrandMaster",
+        "content": "58"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:21:43",
+        "time_int": 51703,
+        "user": "slappanu",
+        "content": "79"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:21:51",
+        "time_int": 51711,
+        "user": "GrandMaster",
+        "content": "57"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:21:52",
+        "time_int": 51712,
+        "user": "slappanu",
+        "content": "85"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:22:08",
+        "time_int": 51728,
+        "user": "GrandMaster",
+        "content": "a5"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:22:14",
+        "time_int": 51734,
+        "user": "slappanu",
+        "content": "a9"
+    },
+    {
+        "action": "TALK",
+        "time": "14:22:56",
+        "time_int": 51776,
+        "user": "SamSite",
+        "content": "3x3"
+    },
+    {
+        "action": "TALK",
+        "time": "14:23:04",
+        "time_int": 51784,
+        "user": "GrandMaster",
+        "content": "how about others? how to attack as black"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:23:06",
+        "time_int": 51786,
+        "user": "GrandMaster",
+        "content": "59"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:23:14",
+        "time_int": 51794,
+        "user": "slappanu",
+        "content": "5a"
+    },
+    {
+        "action": "TALK",
+        "time": "14:23:15",
+        "time_int": 51795,
+        "user": "Guest872",
+        "content": "may i try?"
+    },
+    {
+        "action": "TALK",
+        "time": "14:23:18",
+        "time_int": 51798,
+        "user": "SamSite",
+        "content": "7-h9"
+    },
+    {
+        "action": "TALK",
+        "time": "14:23:19",
+        "time_int": 51799,
+        "user": "mayhem",
+        "content": "7 h9?"
+    },
+    {
+        "action": "TALK",
+        "time": "14:23:25",
+        "time_int": 51805,
+        "user": "slappanu",
+        "content": "seems I'm dead"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:23:29",
+        "time_int": 51809,
+        "user": "GrandMaster",
+        "content": "47"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:23:34",
+        "time_int": 51814,
+        "user": "slappanu",
+        "content": "7a"
+    },
+    {
+        "action": "TALK",
+        "time": "14:23:36",
+        "time_int": 51816,
+        "user": "Guest872",
+        "content": "7  j7?"
+    },
+    {
+        "action": "BACK",
+        "time": "14:23:38",
+        "time_int": 51818,
+        "user": "GrandMaster",
+        "content": ""
+    },
+    {
+        "action": "TALK",
+        "time": "14:23:38",
+        "time_int": 51818,
+        "user": "slappanu",
+        "content": "thx"
+    },
+    {
+        "action": "BACK",
+        "time": "14:23:39",
+        "time_int": 51819,
+        "user": "GrandMaster",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time": "14:23:40",
+        "time_int": 51820,
+        "user": "GrandMaster",
+        "content": ""
+    },
+    {
+        "action": "TALK",
+        "time": "14:23:43",
+        "time_int": 51823,
+        "user": "voshkod",
+        "content": "。"
+    },
+    {
+        "action": "TALK",
+        "time": "14:23:50",
+        "time_int": 51830,
+        "user": "GrandMaster",
+        "content": "thx"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:23:52",
+        "time_int": 51832,
+        "user": "GrandMaster",
+        "content": "ba"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:23:53",
+        "time_int": 51833,
+        "user": "GrandMaster",
+        "content": "cb"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:23:55",
+        "time_int": 51835,
+        "user": "GrandMaster",
+        "content": "56"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:24:09",
+        "time_int": 51849,
+        "user": "GrandMaster",
+        "content": "5b"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:24:09",
+        "time_int": 51849,
+        "user": "GrandMaster",
+        "content": "5a"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:24:10",
+        "time_int": 51850,
+        "user": "GrandMaster",
+        "content": "47"
+    },
+    {
+        "action": "TALK",
+        "time": "14:24:12",
+        "time_int": 51852,
+        "user": "GrandMaster",
+        "content": "3.3"
+    },
+    {
+        "action": "GOTO",
+        "time": "14:24:21",
+        "time_int": 51861,
+        "user": "GrandMaster",
+        "content": 10
+    },
+    {
+        "action": "TALK",
+        "time": "14:24:34",
+        "time_int": 51874,
+        "user": "GrandMaster",
+        "content": "Such attack cannot win, seemsSuch attack cannot win, seems"
+    },
+    {
+        "action": "TALK",
+        "time": "14:24:42",
+        "time_int": 51882,
+        "user": "Guest862",
+        "content": "hao hao"
+    },
+    {
+        "action": "TALK",
+        "time": "14:24:56",
+        "time_int": 51896,
+        "user": "Guest858",
+        "content": "9 f9"
+    },
+    {
+        "action": "TALK",
+        "time": "14:24:57",
+        "time_int": 51897,
+        "user": "SamSite",
+        "content": "i7 here"
+    },
+    {
+        "action": "TALK",
+        "time": "14:25:46",
+        "time_int": 51946,
+        "user": "Whiz",
+        "content": "11,5I??"
+    },
+    {
+        "action": "TALK",
+        "time": "14:25:51",
+        "time_int": 51951,
+        "user": "Guest862",
+        "content": "."
+    },
+    {
+        "action": "TALK",
+        "time": "14:26:01",
+        "time_int": 51961,
+        "user": "Shangjin",
+        "content": "刚才的21换一个位置呢？"
+    },
+    {
+        "action": "TALK",
+        "time": "14:26:10",
+        "time_int": 51970,
+        "user": "Shangjin",
+        "content": "Sorry"
+    },
+    {
+        "action": "TALK",
+        "time": "14:26:40",
+        "time_int": 52000,
+        "user": "Erica",
+        "content": "?"
+    },
+    {
+        "action": "TALK",
+        "time": "14:27:07",
+        "time_int": 52027,
+        "user": "Shangjin",
+        "content": "Had to say"
+    },
+    {
+        "action": "TALK",
+        "time": "14:27:50",
+        "time_int": 52070,
+        "user": "SamSite",
+        "content": "11-i7"
+    },
+    {
+        "action": "TALK",
+        "time": "14:28:04",
+        "time_int": 52084,
+        "user": "Guest877",
+        "content": "?"
+    },
+    {
+        "action": "TALK",
+        "time": "14:28:44",
+        "time_int": 52124,
+        "user": "Yue",
+        "content": "."
+    },
+    {
+        "action": "TALK",
+        "time": "14:29:09",
+        "time_int": 52149,
+        "user": "xuwu",
+        "content": "."
+    },
+    {
+        "action": "TALK",
+        "time": "14:29:11",
+        "time_int": 52151,
+        "user": "Guest862",
+        "content": "."
+    },
+    {
+        "action": "TALK",
+        "time": "14:29:14",
+        "time_int": 52154,
+        "user": "GrandMaster",
+        "content": "SamSite  you try .please"
+    },
+    {
+        "action": "TALK",
+        "time": "14:29:18",
+        "time_int": 52158,
+        "user": "SamSite",
+        "content": "ok"
+    },
+    {
+        "action": "TALK",
+        "time": "14:29:26",
+        "time_int": 52166,
+        "user": "GrandMaster",
+        "content": "Whiz??"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:29:40",
+        "time_int": 52180,
+        "user": "SamSite",
+        "content": "97"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:29:44",
+        "time_int": 52184,
+        "user": "GrandMaster",
+        "content": "79"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:29:48",
+        "time_int": 52188,
+        "user": "SamSite",
+        "content": "89"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:29:49",
+        "time_int": 52189,
+        "user": "GrandMaster",
+        "content": "a7"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:30:26",
+        "time_int": 52226,
+        "user": "SamSite",
+        "content": "67"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:30:42",
+        "time_int": 52242,
+        "user": "GrandMaster",
+        "content": "56"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:30:45",
+        "time_int": 52245,
+        "user": "SamSite",
+        "content": "95"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:30:51",
+        "time_int": 52251,
+        "user": "GrandMaster",
+        "content": "94"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:30:51",
+        "time_int": 52251,
+        "user": "SamSite",
+        "content": "b5"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:31:08",
+        "time_int": 52268,
+        "user": "GrandMaster",
+        "content": "b4"
+    },
+    {
+        "action": "TALK",
+        "time": "14:31:29",
+        "time_int": 52289,
+        "user": "GrandMaster",
+        "content": "Then?"
+    },
+    {
+        "action": "TALK",
+        "time": "14:31:34",
+        "time_int": 52294,
+        "user": "SamSite",
+        "content": "clever"
+    },
+    {
+        "action": "TALK",
+        "time": "14:31:40",
+        "time_int": 52300,
+        "user": "slamduk",
+        "content": "：）"
+    },
+    {
+        "action": "TALK",
+        "time": "14:31:45",
+        "time_int": 52305,
+        "user": "SamSite",
+        "content": "ok, I would go with 7-h9"
+    },
+    {
+        "action": "TALK",
+        "time": "14:32:06",
+        "time_int": 52326,
+        "user": "SamSite",
+        "content": "making these 2 threes seems poor idea"
+    },
+    {
+        "action": "TALK",
+        "time": "14:32:14",
+        "time_int": 52334,
+        "user": "SamSite",
+        "content": "g8 and i6"
+    },
+    {
+        "action": "TALK",
+        "time": "14:32:41",
+        "time_int": 52361,
+        "user": "luwenzhe",
+        "content": "go back?"
+    },
+    {
+        "action": "TALK",
+        "time": "14:33:07",
+        "time_int": 52387,
+        "user": "SamSite",
+        "content": "can go back ?"
+    },
+    {
+        "action": "TALK",
+        "time": "14:33:43",
+        "time_int": 52423,
+        "user": "GrandMaster",
+        "content": "thx SamSite"
+    },
+    {
+        "action": "TALK",
+        "time": "14:33:52",
+        "time_int": 52432,
+        "user": "GrandMaster",
+        "content": "ok"
+    },
+    {
+        "action": "BACK",
+        "time": "14:33:55",
+        "time_int": 52435,
+        "user": "GrandMaster",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time": "14:33:56",
+        "time_int": 52436,
+        "user": "GrandMaster",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time": "14:34:00",
+        "time_int": 52440,
+        "user": "GrandMaster",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time": "14:34:00",
+        "time_int": 52440,
+        "user": "GrandMaster",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time": "14:34:01",
+        "time_int": 52441,
+        "user": "GrandMaster",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time": "14:34:05",
+        "time_int": 52445,
+        "user": "GrandMaster",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time": "14:34:06",
+        "time_int": 52446,
+        "user": "GrandMaster",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time": "14:34:08",
+        "time_int": 52448,
+        "user": "GrandMaster",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time": "14:34:08",
+        "time_int": 52448,
+        "user": "GrandMaster",
+        "content": ""
+    },
+    {
+        "action": "TALK",
+        "time": "14:34:41",
+        "time_int": 52481,
+        "user": "Guest862",
+        "content": "."
+    },
+    {
+        "action": "TALK",
+        "time": "14:34:54",
+        "time_int": 52494,
+        "user": "GrandMaster",
+        "content": "to where?"
+    },
+    {
+        "action": "TALK",
+        "time": "14:35:04",
+        "time_int": 52504,
+        "user": "SamSite",
+        "content": "I would not play 7-g8"
+    },
+    {
+        "action": "BACK",
+        "time": "14:35:09",
+        "time_int": 52509,
+        "user": "GrandMaster",
+        "content": ""
+    },
+    {
+        "action": "TALK",
+        "time": "14:35:10",
+        "time_int": 52510,
+        "user": "SamSite",
+        "content": "too direct"
+    },
+    {
+        "action": "BACK",
+        "time": "14:35:10",
+        "time_int": 52510,
+        "user": "GrandMaster",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time": "14:35:12",
+        "time_int": 52512,
+        "user": "GrandMaster",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time": "14:35:13",
+        "time_int": 52513,
+        "user": "GrandMaster",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time": "14:35:15",
+        "time_int": 52515,
+        "user": "GrandMaster",
+        "content": ""
+    },
+    {
+        "action": "TALK",
+        "time": "14:35:18",
+        "time_int": 52518,
+        "user": "Guest872",
+        "content": "7 j7 ?"
+    },
+    {
+        "action": "TALK",
+        "time": "14:35:20",
+        "time_int": 52520,
+        "user": "chinezu",
+        "content": "."
+    },
+    {
+        "action": "TALK",
+        "time": "14:35:24",
+        "time_int": 52524,
+        "user": "chinezu",
+        "content": "."
+    },
+    {
+        "action": "MOVE",
+        "time": "14:35:30",
+        "time_int": 52530,
+        "user": "SamSite",
+        "content": "89"
+    },
+    {
+        "action": "TALK",
+        "time": "14:35:30",
+        "time_int": 52530,
+        "user": "Liuchao",
+        "content": "7 j7 white win"
+    },
+    {
+        "action": "TALK",
+        "time": "14:35:36",
+        "time_int": 52536,
+        "user": "chinezu",
+        "content": "."
+    },
+    {
+        "action": "TALK",
+        "time": "14:35:36",
+        "time_int": 52536,
+        "user": "SamSite",
+        "content": "here maybe"
+    },
+    {
+        "action": "TALK",
+        "time": "14:35:55",
+        "time_int": 52555,
+        "user": "xiaoxin",
+        "content": "j7"
+    },
+    {
+        "action": "TALK",
+        "time": "14:36:11",
+        "time_int": 52571,
+        "user": "Torsten",
+        "content": "yes, SamSite, that might do :)"
+    },
+    {
+        "action": "TALK",
+        "time": "14:36:25",
+        "time_int": 52585,
+        "user": "chancewu",
+        "content": "umm..."
+    },
+    {
+        "action": "TALK",
+        "time": "14:36:33",
+        "time_int": 52593,
+        "user": "Torsten",
+        "content": "this 7 looks like black win"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:36:40",
+        "time_int": 52600,
+        "user": "GrandMaster",
+        "content": "66"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:37:03",
+        "time_int": 52623,
+        "user": "SamSite",
+        "content": "96"
+    },
+    {
+        "action": "TALK",
+        "time": "14:37:10",
+        "time_int": 52630,
+        "user": "GrandMaster",
+        "content": "Let's see this is same to which other opening?"
+    },
+    {
+        "action": "TALK",
+        "time": "14:37:40",
+        "time_int": 52660,
+        "user": "Guest862",
+        "content": "."
+    },
+    {
+        "action": "MOVE",
+        "time": "14:37:42",
+        "time_int": 52662,
+        "user": "GrandMaster",
+        "content": "a7"
+    },
+    {
+        "action": "TALK",
+        "time": "14:38:12",
+        "time_int": 52692,
+        "user": "Torsten",
+        "content": "black win now"
+    },
+    {
+        "action": "TALK",
+        "time": "14:38:40",
+        "time_int": 52720,
+        "user": "Guest872",
+        "content": "7 j7 white which 8 is win?"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:38:42",
+        "time_int": 52722,
+        "user": "SamSite",
+        "content": "69"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:38:53",
+        "time_int": 52733,
+        "user": "GrandMaster",
+        "content": "78"
+    },
+    {
+        "action": "TALK",
+        "time": "14:38:59",
+        "time_int": 52739,
+        "user": "Liuchao",
+        "content": "i6"
+    },
+    {
+        "action": "TALK",
+        "time": "14:39:10",
+        "time_int": 52750,
+        "user": "Guest858",
+        "content": "12 d6"
+    },
+    {
+        "action": "TALK",
+        "time": "14:39:17",
+        "time_int": 52757,
+        "user": "Guest858",
+        "content": "faul"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:39:30",
+        "time_int": 52770,
+        "user": "SamSite",
+        "content": "7a"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:39:38",
+        "time_int": 52778,
+        "user": "GrandMaster",
+        "content": "8a"
+    },
+    {
+        "action": "TALK",
+        "time": "14:40:09",
+        "time_int": 52809,
+        "user": "Torsten",
+        "content": "Guest872, maybe 8 - g7 ..."
+    },
+    {
+        "action": "MOVE",
+        "time": "14:40:22",
+        "time_int": 52822,
+        "user": "SamSite",
+        "content": "8b"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:40:29",
+        "time_int": 52829,
+        "user": "GrandMaster",
+        "content": "9c"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:40:31",
+        "time_int": 52831,
+        "user": "SamSite",
+        "content": "6b"
+    },
+    {
+        "action": "BACK",
+        "time": "14:41:10",
+        "time_int": 52870,
+        "user": "GrandMaster",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time": "14:41:11",
+        "time_int": 52871,
+        "user": "GrandMaster",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time": "14:41:12",
+        "time_int": 52872,
+        "user": "GrandMaster",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time": "14:41:13",
+        "time_int": 52873,
+        "user": "GrandMaster",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time": "14:41:15",
+        "time_int": 52875,
+        "user": "GrandMaster",
+        "content": "8b"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:41:31",
+        "time_int": 52891,
+        "user": "SamSite",
+        "content": "6a"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:41:36",
+        "time_int": 52896,
+        "user": "GrandMaster",
+        "content": "6b"
+    },
+    {
+        "action": "TALK",
+        "time": "14:41:53",
+        "time_int": 52913,
+        "user": "GrandMaster",
+        "content": "Please don't offer your ideas when others are trying. Thanks"
+    },
+    {
+        "action": "TALK",
+        "time": "14:42:18",
+        "time_int": 52938,
+        "user": "Guest862",
+        "content": "."
+    },
+    {
+        "action": "TALK",
+        "time": "14:42:18",
+        "time_int": 52938,
+        "user": "Guest862",
+        "content": "."
+    },
+    {
+        "action": "TALK",
+        "time": "14:42:23",
+        "time_int": 52943,
+        "user": "SamSite",
+        "content": "maybe I need the f11"
+    },
+    {
+        "action": "BACK",
+        "time": "14:42:36",
+        "time_int": 52956,
+        "user": "SamSite",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time": "14:42:36",
+        "time_int": 52956,
+        "user": "SamSite",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time": "14:42:37",
+        "time_int": 52957,
+        "user": "SamSite",
+        "content": "6b"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:42:38",
+        "time_int": 52958,
+        "user": "SamSite",
+        "content": "5c"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:42:38",
+        "time_int": 52958,
+        "user": "SamSite",
+        "content": "6a"
+    },
+    {
+        "action": "TALK",
+        "time": "14:42:51",
+        "time_int": 52971,
+        "user": "SamSite",
+        "content": "like this better"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:43:00",
+        "time_int": 52980,
+        "user": "GrandMaster",
+        "content": "6c"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:43:04",
+        "time_int": 52984,
+        "user": "SamSite",
+        "content": "79"
+    },
+    {
+        "action": "TALK",
+        "time": "14:43:14",
+        "time_int": 52994,
+        "user": "SamSite",
+        "content": "win"
+    },
+    {
+        "action": "TALK",
+        "time": "14:43:16",
+        "time_int": 52996,
+        "user": "GrandMaster",
+        "content": "In fact it is very simple here. You just need to pay attention to the sequence"
+    },
+    {
+        "action": "TALK",
+        "time": "14:43:23",
+        "time_int": 53003,
+        "user": "SamSite",
+        "content": "yes"
+    },
+    {
+        "action": "TALK",
+        "time": "14:43:40",
+        "time_int": 53020,
+        "user": "Torsten",
+        "content": "7 - h9 was the key move"
+    },
+    {
+        "action": "TALK",
+        "time": "14:43:44",
+        "time_int": 53024,
+        "user": "SamSite",
+        "content": "y"
+    },
+    {
+        "action": "TALK",
+        "time": "14:43:48",
+        "time_int": 53028,
+        "user": "GrandMaster",
+        "content": "until 13,black is powerful here."
+    },
+    {
+        "action": "TALK",
+        "time": "14:43:57",
+        "time_int": 53037,
+        "user": "GrandMaster",
+        "content": "thx"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:44:06",
+        "time_int": 53046,
+        "user": "GrandMaster",
+        "content": "5b"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:44:27",
+        "time_int": 53067,
+        "user": "GrandMaster",
+        "content": "5a"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:44:29",
+        "time_int": 53069,
+        "user": "GrandMaster",
+        "content": "4a"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:44:29",
+        "time_int": 53069,
+        "user": "GrandMaster",
+        "content": "49"
+    },
+    {
+        "action": "TALK",
+        "time": "14:44:29",
+        "time_int": 53069,
+        "user": "SamSite",
+        "content": "thx"
+    },
+    {
+        "action": "TALK",
+        "time": "14:44:34",
+        "time_int": 53074,
+        "user": "GrandMaster",
+        "content": "see?"
+    },
+    {
+        "action": "TALK",
+        "time": "14:44:38",
+        "time_int": 53078,
+        "user": "Yue",
+        "content": "y"
+    },
+    {
+        "action": "TALK",
+        "time": "14:44:43",
+        "time_int": 53083,
+        "user": "Guest852",
+        "content": "if 8-G8 ?"
+    },
+    {
+        "action": "TALK",
+        "time": "14:44:51",
+        "time_int": 53091,
+        "user": "Guest858",
+        "content": "if 12 D6"
+    },
+    {
+        "action": "TALK",
+        "time": "14:44:53",
+        "time_int": 53093,
+        "user": "Guest858",
+        "content": "?"
+    },
+    {
+        "action": "GOTO",
+        "time": "14:45:05",
+        "time_int": 53105,
+        "user": "GrandMaster",
+        "content": 13
+    },
+    {
+        "action": "BACK",
+        "time": "14:45:06",
+        "time_int": 53106,
+        "user": "GrandMaster",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time": "14:45:11",
+        "time_int": 53111,
+        "user": "GrandMaster",
+        "content": "8b"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:45:12",
+        "time_int": 53112,
+        "user": "GrandMaster",
+        "content": "8a"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:45:13",
+        "time_int": 53113,
+        "user": "GrandMaster",
+        "content": "7a"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:45:28",
+        "time_int": 53128,
+        "user": "GrandMaster",
+        "content": "58"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:45:29",
+        "time_int": 53129,
+        "user": "GrandMaster",
+        "content": "6b"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:45:31",
+        "time_int": 53131,
+        "user": "GrandMaster",
+        "content": "5c"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:45:31",
+        "time_int": 53131,
+        "user": "GrandMaster",
+        "content": "7b"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:45:32",
+        "time_int": 53132,
+        "user": "GrandMaster",
+        "content": "5b"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:45:53",
+        "time_int": 53153,
+        "user": "GrandMaster",
+        "content": "7c"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:45:54",
+        "time_int": 53154,
+        "user": "GrandMaster",
+        "content": "5a"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:45:55",
+        "time_int": 53155,
+        "user": "GrandMaster",
+        "content": "59"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:45:58",
+        "time_int": 53158,
+        "user": "GrandMaster",
+        "content": "7d"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:46:16",
+        "time_int": 53176,
+        "user": "GrandMaster",
+        "content": "9d"
+    },
+    {
+        "action": "TALK",
+        "time": "14:46:33",
+        "time_int": 53193,
+        "user": "GrandMaster",
+        "content": "double win"
+    },
+    {
+        "action": "TALK",
+        "time": "14:46:36",
+        "time_int": 53196,
+        "user": "Torsten",
+        "content": "yes"
+    },
+    {
+        "action": "TALK",
+        "time": "14:46:39",
+        "time_int": 53199,
+        "user": "luwenzhe",
+        "content": "nice"
+    },
+    {
+        "action": "TALK",
+        "time": "14:46:47",
+        "time_int": 53207,
+        "user": "konjin",
+        "content": "nice"
+    },
+    {
+        "action": "TALK",
+        "time": "14:46:49",
+        "time_int": 53209,
+        "user": "Yue",
+        "content": "y"
+    },
+    {
+        "action": "TALK",
+        "time": "14:46:51",
+        "time_int": 53211,
+        "user": "chancewu",
+        "content": "y"
+    },
+    {
+        "action": "TALK",
+        "time": "14:46:56",
+        "time_int": 53216,
+        "user": "weigui",
+        "content": "Y"
+    },
+    {
+        "action": "GOTO",
+        "time": "14:47:04",
+        "time_int": 53224,
+        "user": "GrandMaster",
+        "content": 15
+    },
+    {
+        "action": "MOVE",
+        "time": "14:47:05",
+        "time_int": 53225,
+        "user": "GrandMaster",
+        "content": "9c"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:47:07",
+        "time_int": 53227,
+        "user": "GrandMaster",
+        "content": "6b"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:47:08",
+        "time_int": 53228,
+        "user": "GrandMaster",
+        "content": "5c"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:47:09",
+        "time_int": 53229,
+        "user": "GrandMaster",
+        "content": "6a"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:47:25",
+        "time_int": 53245,
+        "user": "GrandMaster",
+        "content": "6c"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:47:28",
+        "time_int": 53248,
+        "user": "GrandMaster",
+        "content": "7b"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:47:30",
+        "time_int": 53250,
+        "user": "GrandMaster",
+        "content": "5b"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:47:37",
+        "time_int": 53257,
+        "user": "GrandMaster",
+        "content": "7c"
+    },
+    {
+        "action": "TALK",
+        "time": "14:47:37",
+        "time_int": 53257,
+        "user": "SamSite",
+        "content": "7-g8 is not needed, because after 7-h9 white 8-g8 is not so strong maybe"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:47:50",
+        "time_int": 53270,
+        "user": "GrandMaster",
+        "content": "4a"
+    },
+    {
+        "action": "BACK",
+        "time": "14:47:51",
+        "time_int": 53271,
+        "user": "GrandMaster",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time": "14:47:52",
+        "time_int": 53272,
+        "user": "GrandMaster",
+        "content": "7d"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:47:53",
+        "time_int": 53273,
+        "user": "GrandMaster",
+        "content": "4a"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:47:57",
+        "time_int": 53277,
+        "user": "GrandMaster",
+        "content": "49"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:48:11",
+        "time_int": 53291,
+        "user": "GrandMaster",
+        "content": "59"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:48:13",
+        "time_int": 53293,
+        "user": "GrandMaster",
+        "content": "48"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:48:14",
+        "time_int": 53294,
+        "user": "GrandMaster",
+        "content": "68"
+    },
+    {
+        "action": "TALK",
+        "time": "14:48:20",
+        "time_int": 53300,
+        "user": "GrandMaster",
+        "content": "see?"
+    },
+    {
+        "action": "TALK",
+        "time": "14:48:24",
+        "time_int": 53304,
+        "user": "Yue",
+        "content": "yes"
+    },
+    {
+        "action": "TALK",
+        "time": "14:48:25",
+        "time_int": 53305,
+        "user": "Erica",
+        "content": "y"
+    },
+    {
+        "action": "TALK",
+        "time": "14:48:26",
+        "time_int": 53306,
+        "user": "mima",
+        "content": "y"
+    },
+    {
+        "action": "TALK",
+        "time": "14:48:27",
+        "time_int": 53307,
+        "user": "slappanu",
+        "content": "y"
+    },
+    {
+        "action": "TALK",
+        "time": "14:48:27",
+        "time_int": 53307,
+        "user": "chancewu",
+        "content": "y"
+    },
+    {
+        "action": "TALK",
+        "time": "14:48:32",
+        "time_int": 53312,
+        "user": "findfind",
+        "content": "yyyyy"
+    },
+    {
+        "action": "TALK",
+        "time": "14:48:33",
+        "time_int": 53313,
+        "user": "weigui",
+        "content": "Y"
+    },
+    {
+        "action": "TALK",
+        "time": "14:48:38",
+        "time_int": 53318,
+        "user": "scotie",
+        "content": "y"
+    },
+    {
+        "action": "TALK",
+        "time": "14:48:39",
+        "time_int": 53319,
+        "user": "GrandMaster",
+        "content": "any questions?"
+    },
+    {
+        "action": "TALK",
+        "time": "14:48:42",
+        "time_int": 53322,
+        "user": "Guest877",
+        "content": "H9 is strong"
+    },
+    {
+        "action": "TALK",
+        "time": "14:48:45",
+        "time_int": 53325,
+        "user": "slappanu",
+        "content": "12 d6"
+    },
+    {
+        "action": "TALK",
+        "time": "14:48:46",
+        "time_int": 53326,
+        "user": "Guest858",
+        "content": "if 12 D6?"
+    },
+    {
+        "action": "TALK",
+        "time": "14:48:56",
+        "time_int": 53336,
+        "user": "GrandMaster",
+        "content": "15It's a win move."
+    },
+    {
+        "action": "TALK",
+        "time": "14:49:02",
+        "time_int": 53342,
+        "user": "Guest862",
+        "content": "."
+    },
+    {
+        "action": "TALK",
+        "time": "14:49:31",
+        "time_int": 53371,
+        "user": "Guest852",
+        "content": "how to kill if change 8 to G8"
+    },
+    {
+        "action": "TALK",
+        "time": "14:49:38",
+        "time_int": 53378,
+        "user": "Torsten",
+        "content": "10 - j7 is sure black win"
+    },
+    {
+        "action": "GOTO",
+        "time": "14:49:47",
+        "time_int": 53387,
+        "user": "GrandMaster",
+        "content": 8
+    },
+    {
+        "action": "BACK",
+        "time": "14:49:49",
+        "time_int": 53389,
+        "user": "GrandMaster",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time": "14:49:50",
+        "time_int": 53390,
+        "user": "GrandMaster",
+        "content": "78"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:50:10",
+        "time_int": 53410,
+        "user": "GrandMaster",
+        "content": "7a"
+    },
+    {
+        "action": "TALK",
+        "time": "14:50:23",
+        "time_int": 53423,
+        "user": "Torsten",
+        "content": "up"
+    },
+    {
+        "action": "TALK",
+        "time": "14:50:32",
+        "time_int": 53432,
+        "user": "Guest872",
+        "content": "9 j7 sure win"
+    },
+    {
+        "action": "TALK",
+        "time": "14:50:47",
+        "time_int": 53447,
+        "user": "Guest858",
+        "content": "no"
+    },
+    {
+        "action": "TALK",
+        "time": "14:50:55",
+        "time_int": 53455,
+        "user": "GrandMaster",
+        "content": "Up or down?"
+    },
+    {
+        "action": "TALK",
+        "time": "14:50:58",
+        "time_int": 53458,
+        "user": "Torsten",
+        "content": "up"
+    },
+    {
+        "action": "TALK",
+        "time": "14:51:06",
+        "time_int": 53466,
+        "user": "GrandMaster",
+        "content": "y"
+    },
+    {
+        "action": "TALK",
+        "time": "14:51:07",
+        "time_int": 53467,
+        "user": "voshkod",
+        "content": "u"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:51:11",
+        "time_int": 53471,
+        "user": "GrandMaster",
+        "content": "6b"
+    },
+    {
+        "action": "TALK",
+        "time": "14:51:11",
+        "time_int": 53471,
+        "user": "konjin",
+        "content": "up"
+    },
+    {
+        "action": "TALK",
+        "time": "14:51:12",
+        "time_int": 53472,
+        "user": "Guest877",
+        "content": "up"
+    },
+    {
+        "action": "BACK",
+        "time": "14:51:13",
+        "time_int": 53473,
+        "user": "GrandMaster",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time": "14:51:14",
+        "time_int": 53474,
+        "user": "GrandMaster",
+        "content": "a7"
+    },
+    {
+        "action": "TALK",
+        "time": "14:51:16",
+        "time_int": 53476,
+        "user": "Shangjin",
+        "content": "up"
+    },
+    {
+        "action": "TALK",
+        "time": "14:51:17",
+        "time_int": 53477,
+        "user": "konjin",
+        "content": "down is suicide"
+    },
+    {
+        "action": "TALK",
+        "time": "14:51:24",
+        "time_int": 53484,
+        "user": "scotie",
+        "content": "up"
+    },
+    {
+        "action": "TALK",
+        "time": "14:51:29",
+        "time_int": 53489,
+        "user": "Yue",
+        "content": "u"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:51:30",
+        "time_int": 53490,
+        "user": "GrandMaster",
+        "content": "8a"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:51:30",
+        "time_int": 53490,
+        "user": "GrandMaster",
+        "content": "8b"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:51:31",
+        "time_int": 53491,
+        "user": "GrandMaster",
+        "content": "6a"
+    },
+    {
+        "action": "TALK",
+        "time": "14:51:49",
+        "time_int": 53509,
+        "user": "GrandMaster",
+        "content": "black win"
+    },
+    {
+        "action": "BACK",
+        "time": "14:51:53",
+        "time_int": 53513,
+        "user": "GrandMaster",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time": "14:51:54",
+        "time_int": 53514,
+        "user": "GrandMaster",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time": "14:51:55",
+        "time_int": 53515,
+        "user": "GrandMaster",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time": "14:51:57",
+        "time_int": 53517,
+        "user": "GrandMaster",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time": "14:51:58",
+        "time_int": 53518,
+        "user": "GrandMaster",
+        "content": "6b"
+    },
+    {
+        "action": "TALK",
+        "time": "14:52:28",
+        "time_int": 53548,
+        "user": "GrandMaster",
+        "content": "konjin you try,please"
+    },
+    {
+        "action": "TALK",
+        "time": "14:52:30",
+        "time_int": 53550,
+        "user": "Guest872",
+        "content": "j6"
+    },
+    {
+        "action": "TALK",
+        "time": "14:52:31",
+        "time_int": 53551,
+        "user": "yuelee00",
+        "content": "f10"
+    },
+    {
+        "action": "TALK",
+        "time": "14:52:38",
+        "time_int": 53558,
+        "user": "Guest862",
+        "content": "."
+    },
+    {
+        "action": "TALK",
+        "time": "14:52:46",
+        "time_int": 53566,
+        "user": "Guest872",
+        "content": "w j6.."
+    },
+    {
+        "action": "TALK",
+        "time": "14:52:53",
+        "time_int": 53573,
+        "user": "Guest872",
+        "content": "white j6 :("
+    },
+    {
+        "action": "MOVE",
+        "time": "14:53:02",
+        "time_int": 53582,
+        "user": "GrandMaster",
+        "content": "a6"
+    },
+    {
+        "action": "BACK",
+        "time": "14:53:05",
+        "time_int": 53585,
+        "user": "GrandMaster",
+        "content": ""
+    },
+    {
+        "action": "TALK",
+        "time": "14:53:16",
+        "time_int": 53596,
+        "user": "konjin",
+        "content": "yes, i can try"
+    },
+    {
+        "action": "TALK",
+        "time": "14:53:27",
+        "time_int": 53607,
+        "user": "Guest857",
+        "content": "f10"
+    },
+    {
+        "action": "TALK",
+        "time": "14:53:28",
+        "time_int": 53608,
+        "user": "GrandMaster",
+        "content": "try to use the connection"
+    },
+    {
+        "action": "TALK",
+        "time": "14:53:37",
+        "time_int": 53617,
+        "user": "Guest857",
+        "content": "11    f10"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:53:47",
+        "time_int": 53627,
+        "user": "konjin",
+        "content": "a8"
+    },
+    {
+        "action": "TALK",
+        "time": "14:53:59",
+        "time_int": 53639,
+        "user": "Torsten",
+        "content": "aw, I finaly got it with the connection :)"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:54:32",
+        "time_int": 53672,
+        "user": "GrandMaster",
+        "content": "a7"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:54:41",
+        "time_int": 53681,
+        "user": "konjin",
+        "content": "a9"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:55:08",
+        "time_int": 53708,
+        "user": "GrandMaster",
+        "content": "9a"
+    },
+    {
+        "action": "TALK",
+        "time": "14:55:12",
+        "time_int": 53712,
+        "user": "Torsten",
+        "content": "14 - h11 ?"
+    },
+    {
+        "action": "BACK",
+        "time": "14:55:17",
+        "time_int": 53717,
+        "user": "GrandMaster",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time": "14:55:20",
+        "time_int": 53720,
+        "user": "GrandMaster",
+        "content": "8b"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:55:37",
+        "time_int": 53737,
+        "user": "konjin",
+        "content": "b9"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:55:51",
+        "time_int": 53751,
+        "user": "GrandMaster",
+        "content": "ba"
+    },
+    {
+        "action": "TALK",
+        "time": "14:55:52",
+        "time_int": 53752,
+        "user": "konjin",
+        "content": "you helped me with 12"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:56:00",
+        "time_int": 53760,
+        "user": "konjin",
+        "content": "c8"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:56:02",
+        "time_int": 53762,
+        "user": "GrandMaster",
+        "content": "b8"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:56:08",
+        "time_int": 53768,
+        "user": "GrandMaster",
+        "content": "ca"
+    },
+    {
+        "action": "BACK",
+        "time": "14:56:10",
+        "time_int": 53770,
+        "user": "GrandMaster",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time": "14:56:12",
+        "time_int": 53772,
+        "user": "konjin",
+        "content": "ca"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:56:13",
+        "time_int": 53773,
+        "user": "GrandMaster",
+        "content": "db"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:56:19",
+        "time_int": 53779,
+        "user": "konjin",
+        "content": "c9"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:56:21",
+        "time_int": 53781,
+        "user": "GrandMaster",
+        "content": "cb"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:56:26",
+        "time_int": 53786,
+        "user": "konjin",
+        "content": "d7"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:56:42",
+        "time_int": 53802,
+        "user": "GrandMaster",
+        "content": "aa"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:56:48",
+        "time_int": 53808,
+        "user": "konjin",
+        "content": "e8"
+    },
+    {
+        "action": "TALK",
+        "time": "14:56:58",
+        "time_int": 53818,
+        "user": "GrandMaster",
+        "content": "see the win?"
+    },
+    {
+        "action": "TALK",
+        "time": "14:57:02",
+        "time_int": 53822,
+        "user": "yuelee00",
+        "content": "y"
+    },
+    {
+        "action": "TALK",
+        "time": "14:57:02",
+        "time_int": 53822,
+        "user": "Yue",
+        "content": "y"
+    },
+    {
+        "action": "TALK",
+        "time": "14:57:02",
+        "time_int": 53822,
+        "user": "voshkod",
+        "content": "y"
+    },
+    {
+        "action": "TALK",
+        "time": "14:57:03",
+        "time_int": 53823,
+        "user": "scotie",
+        "content": "y"
+    },
+    {
+        "action": "TALK",
+        "time": "14:57:03",
+        "time_int": 53823,
+        "user": "chinezu",
+        "content": "y"
+    },
+    {
+        "action": "TALK",
+        "time": "14:57:03",
+        "time_int": 53823,
+        "user": "chancewu",
+        "content": "y"
+    },
+    {
+        "action": "TALK",
+        "time": "14:57:03",
+        "time_int": 53823,
+        "user": "Samsone",
+        "content": "y"
+    },
+    {
+        "action": "TALK",
+        "time": "14:57:04",
+        "time_int": 53824,
+        "user": "slappanu",
+        "content": "y"
+    },
+    {
+        "action": "TALK",
+        "time": "14:57:08",
+        "time_int": 53828,
+        "user": "konjin",
+        "content": "double win"
+    },
+    {
+        "action": "TALK",
+        "time": "14:57:10",
+        "time_int": 53830,
+        "user": "GrandMaster",
+        "content": "double win"
+    },
+    {
+        "action": "TALK",
+        "time": "14:57:23",
+        "time_int": 53843,
+        "user": "Torsten",
+        "content": "the 12 was good I think"
+    },
+    {
+        "action": "TALK",
+        "time": "14:57:31",
+        "time_int": 53851,
+        "user": "Guest857",
+        "content": "23  k10?"
+    },
+    {
+        "action": "GOTO",
+        "time": "14:57:35",
+        "time_int": 53855,
+        "user": "GrandMaster",
+        "content": 12
+    },
+    {
+        "action": "BACK",
+        "time": "14:57:39",
+        "time_int": 53859,
+        "user": "GrandMaster",
+        "content": ""
+    },
+    {
+        "action": "TALK",
+        "time": "14:57:43",
+        "time_int": 53863,
+        "user": "konjin",
+        "content": "12 g7 i can not win"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:58:07",
+        "time_int": 53887,
+        "user": "GrandMaster",
+        "content": "77"
+    },
+    {
+        "action": "TALK",
+        "time": "14:58:13",
+        "time_int": 53893,
+        "user": "Guest862",
+        "content": "."
+    },
+    {
+        "action": "TALK",
+        "time": "14:58:19",
+        "time_int": 53899,
+        "user": "Torsten",
+        "content": "what good is 12 - g7 for white?"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:58:51",
+        "time_int": 53931,
+        "user": "konjin",
+        "content": "aa"
+    },
+    {
+        "action": "BACK",
+        "time": "14:58:53",
+        "time_int": 53933,
+        "user": "konjin",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time": "14:58:56",
+        "time_int": 53936,
+        "user": "konjin",
+        "content": "79"
+    },
+    {
+        "action": "TALK",
+        "time": "14:59:18",
+        "time_int": 53958,
+        "user": "konjin",
+        "content": "he has long attack"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:59:25",
+        "time_int": 53965,
+        "user": "GrandMaster",
+        "content": "95"
+    },
+    {
+        "action": "TALK",
+        "time": "14:59:32",
+        "time_int": 53972,
+        "user": "konjin",
+        "content": "i can not see so far"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:59:40",
+        "time_int": 53980,
+        "user": "konjin",
+        "content": "68"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:59:43",
+        "time_int": 53983,
+        "user": "GrandMaster",
+        "content": "8a"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:59:50",
+        "time_int": 53990,
+        "user": "konjin",
+        "content": "a6"
+    },
+    {
+        "action": "TALK",
+        "time": "15:00:05",
+        "time_int": 54005,
+        "user": "Guest857",
+        "content": "k3"
+    },
+    {
+        "action": "TALK",
+        "time": "15:00:08",
+        "time_int": 54008,
+        "user": "Torsten",
+        "content": "but after 13  - g5 white has no attack whatsoever"
+    },
+    {
+        "action": "MOVE",
+        "time": "15:00:15",
+        "time_int": 54015,
+        "user": "GrandMaster",
+        "content": "75"
+    },
+    {
+        "action": "TALK",
+        "time": "15:00:15",
+        "time_int": 54015,
+        "user": "whywhy",
+        "content": "11 k8?"
+    },
+    {
+        "action": "MOVE",
+        "time": "15:00:18",
+        "time_int": 54018,
+        "user": "konjin",
+        "content": "74"
+    },
+    {
+        "action": "MOVE",
+        "time": "15:00:19",
+        "time_int": 54019,
+        "user": "GrandMaster",
+        "content": "b3"
+    },
+    {
+        "action": "MOVE",
+        "time": "15:00:19",
+        "time_int": 54019,
+        "user": "GrandMaster",
+        "content": "a4"
+    },
+    {
+        "action": "MOVE",
+        "time": "15:00:21",
+        "time_int": 54021,
+        "user": "GrandMaster",
+        "content": "b5"
+    },
+    {
+        "action": "MOVE",
+        "time": "15:00:37",
+        "time_int": 54037,
+        "user": "konjin",
+        "content": "85"
+    },
+    {
+        "action": "TALK",
+        "time": "15:01:22",
+        "time_int": 54082,
+        "user": "konjin",
+        "content": "11 j8 is theory"
+    },
+    {
+        "action": "TALK",
+        "time": "15:01:46",
+        "time_int": 54106,
+        "user": "whywhy",
+        "content": "how about k8"
+    },
+    {
+        "action": "TALK",
+        "time": "15:01:52",
+        "time_int": 54112,
+        "user": "konjin",
+        "content": "no idea"
+    },
+    {
+        "action": "TALK",
+        "time": "15:01:52",
+        "time_int": 54112,
+        "user": "whywhy",
+        "content": "white cant play 12 g7 then"
+    },
+    {
+        "action": "MOVE",
+        "time": "15:02:00",
+        "time_int": 54120,
+        "user": "GrandMaster",
+        "content": "96"
+    },
+    {
+        "action": "MOVE",
+        "time": "15:02:22",
+        "time_int": 54142,
+        "user": "konjin",
+        "content": "66"
+    },
+    {
+        "action": "MOVE",
+        "time": "15:02:59",
+        "time_int": 54179,
+        "user": "GrandMaster",
+        "content": "94"
+    },
+    {
+        "action": "MOVE",
+        "time": "15:03:10",
+        "time_int": 54190,
+        "user": "konjin",
+        "content": "93"
+    },
+    {
+        "action": "BACK",
+        "time": "15:03:17",
+        "time_int": 54197,
+        "user": "konjin",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time": "15:03:20",
+        "time_int": 54200,
+        "user": "konjin",
+        "content": "6a"
+    },
+    {
+        "action": "MOVE",
+        "time": "15:03:21",
+        "time_int": 54201,
+        "user": "konjin",
+        "content": "97"
+    },
+    {
+        "action": "MOVE",
+        "time": "15:03:23",
+        "time_int": 54203,
+        "user": "konjin",
+        "content": "93"
+    },
+    {
+        "action": "MOVE",
+        "time": "15:03:25",
+        "time_int": 54205,
+        "user": "GrandMaster",
+        "content": "69"
+    },
+    {
+        "action": "TALK",
+        "time": "15:03:45",
+        "time_int": 54225,
+        "user": "konjin",
+        "content": "i give up"
+    },
+    {
+        "action": "TALK",
+        "time": "15:03:52",
+        "time_int": 54232,
+        "user": "Guest862",
+        "content": "."
+    },
+    {
+        "action": "TALK",
+        "time": "15:04:03",
+        "time_int": 54243,
+        "user": "konjin",
+        "content": "no attack"
+    },
+    {
+        "action": "TALK",
+        "time": "15:04:16",
+        "time_int": 54256,
+        "user": "GrandMaster",
+        "content": "thx"
+    },
+    {
+        "action": "TALK",
+        "time": "15:04:20",
+        "time_int": 54260,
+        "user": "konjin",
+        "content": "thanks"
+    },
+    {
+        "action": "TALK",
+        "time": "15:04:47",
+        "time_int": 54287,
+        "user": "Torsten",
+        "content": "13 - g5 would win, I believe"
+    },
+    {
+        "action": "TALK",
+        "time": "15:05:19",
+        "time_int": 54319,
+        "user": "Guest872",
+        "content": "15 h10 i believe win"
+    },
+    {
+        "action": "TALK",
+        "time": "15:05:44",
+        "time_int": 54344,
+        "user": "GrandMaster",
+        "content": "seems white use G7 defence, black can win now"
+    },
+    {
+        "action": "GOTO",
+        "time": "15:06:08",
+        "time_int": 54368,
+        "user": "GrandMaster",
+        "content": 6
+    },
+    {
+        "action": "TALK",
+        "time": "15:06:11",
+        "time_int": 54371,
+        "user": "GrandMaster",
+        "content": "I plan to leave this problem as your homework"
+    },
+    {
+        "action": "TALK",
+        "time": "15:06:15",
+        "time_int": 54375,
+        "user": "whywhy",
+        "content": "lets try 11 k8"
+    },
+    {
+        "action": "TALK",
+        "time": "15:06:19",
+        "time_int": 54379,
+        "user": "GrandMaster",
+        "content": "How do you think?"
+    },
+    {
+        "action": "TALK",
+        "time": "15:06:23",
+        "time_int": 54383,
+        "user": "konjin",
+        "content": ":D"
+    },
+    {
+        "action": "TALK",
+        "time": "15:06:32",
+        "time_int": 54392,
+        "user": "yuelee00",
+        "content": ":)"
+    },
+    {
+        "action": "TALK",
+        "time": "15:06:34",
+        "time_int": 54394,
+        "user": "Yue",
+        "content": "ok."
+    },
+    {
+        "action": "TALK",
+        "time": "15:06:37",
+        "time_int": 54397,
+        "user": "Torsten",
+        "content": "a lot of options :)"
+    },
+    {
+        "action": "TALK",
+        "time": "15:06:41",
+        "time_int": 54401,
+        "user": "konjin",
+        "content": "make it advanced :P please :D"
+    },
+    {
+        "action": "TALK",
+        "time": "15:06:42",
+        "time_int": 54402,
+        "user": "luwenzhe",
+        "content": ":)"
+    },
+    {
+        "action": "TALK",
+        "time": "15:06:58",
+        "time_int": 54418,
+        "user": "whywhy",
+        "content": "lots of branches to check"
+    },
+    {
+        "action": "TALK",
+        "time": "15:06:59",
+        "time_int": 54419,
+        "user": "Torsten",
+        "content": "yeah, it is not that hard, but a lot of work :)"
+    },
+    {
+        "action": "TALK",
+        "time": "15:07:51",
+        "time_int": 54471,
+        "user": "xiaoxin",
+        "content": "?"
+    },
+    {
+        "action": "TALK",
+        "time": "15:07:59",
+        "time_int": 54479,
+        "user": "yuelee00",
+        "content": "."
+    },
+    {
+        "action": "TALK",
+        "time": "15:08:00",
+        "time_int": 54480,
+        "user": "Yue",
+        "content": "."
+    },
+    {
+        "action": "TALK",
+        "time": "15:08:04",
+        "time_int": 54484,
+        "user": "Guest852",
+        "content": "too difficult for me"
+    },
+    {
+        "action": "TALK",
+        "time": "15:08:28",
+        "time_int": 54508,
+        "user": "Guest862",
+        "content": "."
+    },
+    {
+        "action": "TALK",
+        "time": "15:08:29",
+        "time_int": 54509,
+        "user": "chinezu",
+        "content": "."
+    },
+    {
+        "action": "TALK",
+        "time": "15:08:41",
+        "time_int": 54521,
+        "user": "GrandMaster",
+        "content": "We will discuss other 6 next time"
+    },
+    {
+        "action": "BACK",
+        "time": "15:08:43",
+        "time_int": 54523,
+        "user": "GrandMaster",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time": "15:08:44",
+        "time_int": 54524,
+        "user": "GrandMaster",
+        "content": "a8"
+    },
+    {
+        "action": "TALK",
+        "time": "15:08:54",
+        "time_int": 54534,
+        "user": "luwenzhe",
+        "content": "nice"
+    },
+    {
+        "action": "TALK",
+        "time": "15:09:03",
+        "time_int": 54543,
+        "user": "konjin",
+        "content": "ok"
+    },
+    {
+        "action": "TALK",
+        "time": "15:09:04",
+        "time_int": 54544,
+        "user": "GrandMaster",
+        "content": "The 6 is the strongest for white."
+    },
+    {
+        "action": "BACK",
+        "time": "15:09:07",
+        "time_int": 54547,
+        "user": "GrandMaster",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time": "15:09:08",
+        "time_int": 54548,
+        "user": "GrandMaster",
+        "content": "76"
+    },
+    {
+        "action": "TALK",
+        "time": "15:09:08",
+        "time_int": 54548,
+        "user": "Yue",
+        "content": ":)"
+    },
+    {
+        "action": "TALK",
+        "time": "15:09:25",
+        "time_int": 54565,
+        "user": "scotie",
+        "content": "i am here"
+    },
+    {
+        "action": "TALK",
+        "time": "15:09:29",
+        "time_int": 54569,
+        "user": "Guest877",
+        "content": "iam here"
+    },
+    {
+        "action": "TALK",
+        "time": "15:09:42",
+        "time_int": 54582,
+        "user": "Torsten",
+        "content": "6 - g6 might surprise the opponent though."
+    },
+    {
+        "action": "TALK",
+        "time": "15:09:45",
+        "time_int": 54585,
+        "user": "Guest858",
+        "content": "I am here"
+    },
+    {
+        "action": "TALK",
+        "time": "15:09:55",
+        "time_int": 54595,
+        "user": "slappanu",
+        "content": "blitz tournament"
+    },
+    {
+        "action": "CHECKRESULT",
+        "time": "15:09:57",
+        "time_int": 54597,
+        "user": "",
+        "content": " xiaoxin, slappanu, yuelee00, Samsone, slamduk, Yue, whywhy, chancewu, minuta, Torsten, ethereal, Andry, Liuchao, MIMI, pzh, Laney, tianxia, mayhem, dreamy, xiaoxiaohua, voshkod, Erica, konjin, kkg, benben, Shangjin, Renju_YinLC, xuwu, yun_shou, findfind, weigui, slaty, ouyang, yaya, mima, Aurora, chinezu, renjunewbie, Whiz, tommy, akira, blueice, luwenzhe."
+    },
+    {
+        "action": "TALK",
+        "time": "15:09:59",
+        "time_int": 54599,
+        "user": "luwenzhe",
+        "content": "wow, last one"
+    },
+    {
+        "action": "TALK",
+        "time": "15:10:18",
+        "time_int": 54618,
+        "user": "GrandMaster",
+        "content": "class is over，thanks for coming"
+    },
+    {
+        "action": "TALK",
+        "time": "15:10:22",
+        "time_int": 54622,
+        "user": "luwenzhe",
+        "content": "Thank GM Liut"
+    },
+    {
+        "action": "TALK",
+        "time": "15:10:26",
+        "time_int": 54626,
+        "user": "whywhy",
+        "content": "thanks for lesson"
+    },
+    {
+        "action": "TALK",
+        "time": "15:10:26",
+        "time_int": 54626,
+        "user": "Torsten",
+        "content": "thanks, GM"
+    },
+    {
+        "action": "CREDIT",
+        "time": "15:10:27",
+        "time_int": 54627,
+        "user": "",
+        "content": " akira, Aurora, benben, blueice, chancewu, chinezu, dreamy, Erica, ethereal, findfind, kkg, konjin, Laney, Liuchao, luwenzhe, mayhem, mima, MIMI, minuta, ouyang, pzh, renjunewbie, Renju_YinLC, Samsone, Shangjin, slamduk, slappanu, tianxia, tommy, Torsten, voshkod, weigui, Whiz, whywhy, xiaoxiaohua, xiaoxin, xuwu, yaya, Yue, yuelee00, yun_shou."
+    }
+]

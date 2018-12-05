@@ -1,0 +1,5189 @@
+[
+    {
+        "action": "RESET",
+        "time": "12:00:21",
+        "time_int": 43221,
+        "user": "",
+        "content": "000000"
+    },
+    {
+        "action": "TALK",
+        "time": "12:00:28",
+        "time_int": 43228,
+        "user": "zjrenju11",
+        "content": "04小子想西部MM？"
+    },
+    {
+        "action": "TALK",
+        "time": "12:00:44",
+        "time_int": 43244,
+        "user": "zjrenju01",
+        "content": "zjrenju11,你是？"
+    },
+    {
+        "action": "TALK",
+        "time": "12:00:44",
+        "time_int": 43244,
+        "user": "zjrenju04",
+        "content": "多话"
+    },
+    {
+        "action": "TALK",
+        "time": "12:00:55",
+        "time_int": 43255,
+        "user": "zjrenju04",
+        "content": "哈哈"
+    },
+    {
+        "action": "TALK",
+        "time": "12:00:58",
+        "time_int": 43258,
+        "user": "zjrenju50",
+        "content": "啊"
+    },
+    {
+        "action": "TALK",
+        "time": "12:01:10",
+        "time_int": 43270,
+        "user": "zjrenju04",
+        "content": "查你了吧"
+    },
+    {
+        "action": "TALK",
+        "time": "12:01:30",
+        "time_int": 43290,
+        "user": "zjrenju34",
+        "content": "555555555555555"
+    },
+    {
+        "action": "TALK",
+        "time": "12:01:34",
+        "time_int": 43294,
+        "user": "zjrenju34",
+        "content": "我点不到"
+    },
+    {
+        "action": "TALK",
+        "time": "12:01:34",
+        "time_int": 43294,
+        "user": "zjrenju23",
+        "content": "晕，我的网速这么慢"
+    },
+    {
+        "action": "TALK",
+        "time": "12:01:38",
+        "time_int": 43298,
+        "user": "weigui",
+        "content": "欢迎大家来到浙江和西部的联合教室.今天的课由西部的君子为大家讲解"
+    },
+    {
+        "action": "CHECKRESULT",
+        "time": "12:01:38",
+        "time_int": 43298,
+        "user": "",
+        "content": " mayhem, zjrenju06, weigui, zjrenju50, zjrenju04, zjrenju47, zjrenju11, xibu25, zjrenju01, ouyang, zjrenju23."
+    },
+    {
+        "action": "TALK",
+        "time": "12:01:45",
+        "time_int": 43305,
+        "user": "GrandMaster",
+        "content": "好，我们开始吧：）"
+    },
+    {
+        "action": "TALK",
+        "time": "12:01:49",
+        "time_int": 43309,
+        "user": "zjrenju11",
+        "content": "好了。上课时封嘴巴。"
+    },
+    {
+        "action": "MOVE",
+        "time": "12:02:19",
+        "time_int": 43339,
+        "user": "GrandMaster",
+        "content": "88"
+    },
+    {
+        "action": "MOVE",
+        "time": "12:02:28",
+        "time_int": 43348,
+        "user": "GrandMaster",
+        "content": "99"
+    },
+    {
+        "action": "MOVE",
+        "time": "12:02:34",
+        "time_int": 43354,
+        "user": "GrandMaster",
+        "content": "98"
+    },
+    {
+        "action": "TALK",
+        "time": "12:03:01",
+        "time_int": 43381,
+        "user": "GrandMaster",
+        "content": "今天我们来看下，白4手在G8黑的一些变化"
+    },
+    {
+        "action": "MOVE",
+        "time": "12:03:05",
+        "time_int": 43385,
+        "user": "GrandMaster",
+        "content": "78"
+    },
+    {
+        "action": "TALK",
+        "time": "12:03:39",
+        "time_int": 43419,
+        "user": "GrandMaster",
+        "content": "我们先看下必胜点，H7的一些走法"
+    },
+    {
+        "action": "MOVE",
+        "time": "12:03:45",
+        "time_int": 43425,
+        "user": "GrandMaster",
+        "content": "87"
+    },
+    {
+        "action": "MOVE",
+        "time": "12:04:08",
+        "time_int": 43448,
+        "user": "GrandMaster",
+        "content": "89"
+    },
+    {
+        "action": "TALK",
+        "time": "12:04:36",
+        "time_int": 43476,
+        "user": "GrandMaster",
+        "content": "这个，哪位能上来给大家演示一下？"
+    },
+    {
+        "action": "TALK",
+        "time": "12:05:24",
+        "time_int": 43524,
+        "user": "zjrenju11",
+        "content": "04吧"
+    },
+    {
+        "action": "TALK",
+        "time": "12:05:26",
+        "time_int": 43526,
+        "user": "GrandMaster",
+        "content": "有没有哪位想上来给大家演示一下？"
+    },
+    {
+        "action": "TALK",
+        "time": "12:05:42",
+        "time_int": 43542,
+        "user": "weigui",
+        "content": "我?"
+    },
+    {
+        "action": "TALK",
+        "time": "12:05:51",
+        "time_int": 43551,
+        "user": "GrandMaster",
+        "content": "好"
+    },
+    {
+        "action": "MOVE",
+        "time": "12:06:02",
+        "time_int": 43562,
+        "user": "weigui",
+        "content": "a9"
+    },
+    {
+        "action": "TALK",
+        "time": "12:06:10",
+        "time_int": 43570,
+        "user": "GrandMaster",
+        "content": "请：）"
+    },
+    {
+        "action": "MOVE",
+        "time": "12:06:27",
+        "time_int": 43587,
+        "user": "GrandMaster",
+        "content": "ba"
+    },
+    {
+        "action": "TALK",
+        "time": "12:06:31",
+        "time_int": 43591,
+        "user": "weigui",
+        "content": "都我下黑白?"
+    },
+    {
+        "action": "MOVE",
+        "time": "12:06:35",
+        "time_int": 43595,
+        "user": "weigui",
+        "content": "76"
+    },
+    {
+        "action": "TALK",
+        "time": "12:06:47",
+        "time_int": 43607,
+        "user": "GrandMaster",
+        "content": "先看这个8手"
+    },
+    {
+        "action": "TALK",
+        "time": "12:06:51",
+        "time_int": 43611,
+        "user": "GrandMaster",
+        "content": "我下白：）"
+    },
+    {
+        "action": "MOVE",
+        "time": "12:06:56",
+        "time_int": 43616,
+        "user": "GrandMaster",
+        "content": "65"
+    },
+    {
+        "action": "TALK",
+        "time": "12:06:57",
+        "time_int": 43617,
+        "user": "weigui",
+        "content": "好"
+    },
+    {
+        "action": "MOVE",
+        "time": "12:06:59",
+        "time_int": 43619,
+        "user": "weigui",
+        "content": "67"
+    },
+    {
+        "action": "MOVE",
+        "time": "12:07:24",
+        "time_int": 43644,
+        "user": "GrandMaster",
+        "content": "85"
+    },
+    {
+        "action": "MOVE",
+        "time": "12:07:28",
+        "time_int": 43648,
+        "user": "weigui",
+        "content": "97"
+    },
+    {
+        "action": "MOVE",
+        "time": "12:07:42",
+        "time_int": 43662,
+        "user": "GrandMaster",
+        "content": "a7"
+    },
+    {
+        "action": "MOVE",
+        "time": "12:07:45",
+        "time_int": 43665,
+        "user": "weigui",
+        "content": "a6"
+    },
+    {
+        "action": "TALK",
+        "time": "12:07:51",
+        "time_int": 43671,
+        "user": "GrandMaster",
+        "content": "我的网速有点慢"
+    },
+    {
+        "action": "MOVE",
+        "time": "12:08:04",
+        "time_int": 43684,
+        "user": "GrandMaster",
+        "content": "b5"
+    },
+    {
+        "action": "MOVE",
+        "time": "12:08:09",
+        "time_int": 43689,
+        "user": "weigui",
+        "content": "86"
+    },
+    {
+        "action": "TALK",
+        "time": "12:08:55",
+        "time_int": 43735,
+        "user": "zjrenju14",
+        "content": "机器其慢哈"
+    },
+    {
+        "action": "TALK",
+        "time": "12:09:02",
+        "time_int": 43742,
+        "user": "GrandMaster",
+        "content": "黑17的思路很开阔，看的很远，借白的活三自己形成很好的连接"
+    },
+    {
+        "action": "MOVE",
+        "time": "12:09:07",
+        "time_int": 43747,
+        "user": "GrandMaster",
+        "content": "96"
+    },
+    {
+        "action": "MOVE",
+        "time": "12:09:09",
+        "time_int": 43749,
+        "user": "weigui",
+        "content": "b8"
+    },
+    {
+        "action": "MOVE",
+        "time": "12:09:30",
+        "time_int": 43770,
+        "user": "GrandMaster",
+        "content": "75"
+    },
+    {
+        "action": "MOVE",
+        "time": "12:09:33",
+        "time_int": 43773,
+        "user": "weigui",
+        "content": "95"
+    },
+    {
+        "action": "TALK",
+        "time": "12:09:49",
+        "time_int": 43789,
+        "user": "GrandMaster",
+        "content": "到这，黑21双43做杀，胜"
+    },
+    {
+        "action": "BACK",
+        "time": "12:09:58",
+        "time_int": 43798,
+        "user": "GrandMaster",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time": "12:10:04",
+        "time_int": 43804,
+        "user": "GrandMaster",
+        "content": ""
+    },
+    {
+        "action": "TALK",
+        "time": "12:10:08",
+        "time_int": 43808,
+        "user": "weigui",
+        "content": "这里17的位置很重要"
+    },
+    {
+        "action": "MOVE",
+        "time": "12:10:10",
+        "time_int": 43810,
+        "user": "GrandMaster",
+        "content": "a8"
+    },
+    {
+        "action": "MOVE",
+        "time": "12:10:18",
+        "time_int": 43818,
+        "user": "weigui",
+        "content": "68"
+    },
+    {
+        "action": "TALK",
+        "time": "12:10:28",
+        "time_int": 43828,
+        "user": "weigui",
+        "content": "这样21这里双杀"
+    },
+    {
+        "action": "TALK",
+        "time": "12:10:29",
+        "time_int": 43829,
+        "user": "GrandMaster",
+        "content": "如果20在J8，那么黑还是有手段杀"
+    },
+    {
+        "action": "TALK",
+        "time": "12:10:40",
+        "time_int": 43840,
+        "user": "GrandMaster",
+        "content": "还是同样，双43做杀"
+    },
+    {
+        "action": "TALK",
+        "time": "12:10:56",
+        "time_int": 43856,
+        "user": "GrandMaster",
+        "content": "这个应该没什么问题"
+    },
+    {
+        "action": "TALK",
+        "time": "12:11:09",
+        "time_int": 43869,
+        "user": "GrandMaster",
+        "content": "8变化一下"
+    },
+    {
+        "action": "GOTO",
+        "time": "12:11:13",
+        "time_int": 43873,
+        "user": "GrandMaster",
+        "content": 7
+    },
+    {
+        "action": "TALK",
+        "time": "12:11:24",
+        "time_int": 43884,
+        "user": "GrandMaster",
+        "content": "还又你来给大家演示吧：）"
+    },
+    {
+        "action": "MOVE",
+        "time": "12:11:28",
+        "time_int": 43888,
+        "user": "GrandMaster",
+        "content": "76"
+    },
+    {
+        "action": "MOVE",
+        "time": "12:11:30",
+        "time_int": 43890,
+        "user": "weigui",
+        "content": "b8"
+    },
+    {
+        "action": "TALK",
+        "time": "12:11:57",
+        "time_int": 43917,
+        "user": "weigui",
+        "content": "这个9也是关键手."
+    },
+    {
+        "action": "TALK",
+        "time": "12:12:21",
+        "time_int": 43941,
+        "user": "GrandMaster",
+        "content": "9手也是很妙的一手，思路开阔，同时盘活了自己的了解，白没有手段进攻"
+    },
+    {
+        "action": "TALK",
+        "time": "12:12:21",
+        "time_int": 43941,
+        "user": "weigui",
+        "content": "对白产生了很多牵制"
+    },
+    {
+        "action": "MOVE",
+        "time": "12:12:29",
+        "time_int": 43949,
+        "user": "GrandMaster",
+        "content": "a8"
+    },
+    {
+        "action": "MOVE",
+        "time": "12:12:34",
+        "time_int": 43954,
+        "user": "weigui",
+        "content": "b7"
+    },
+    {
+        "action": "TALK",
+        "time": "12:12:49",
+        "time_int": 43969,
+        "user": "zjrenju11",
+        "content": "9-K10-i10?"
+    },
+    {
+        "action": "MOVE",
+        "time": "12:12:57",
+        "time_int": 43977,
+        "user": "GrandMaster",
+        "content": "b9"
+    },
+    {
+        "action": "MOVE",
+        "time": "12:13:03",
+        "time_int": 43983,
+        "user": "weigui",
+        "content": "97"
+    },
+    {
+        "action": "MOVE",
+        "time": "12:13:21",
+        "time_int": 44001,
+        "user": "GrandMaster",
+        "content": "a7"
+    },
+    {
+        "action": "MOVE",
+        "time": "12:13:25",
+        "time_int": 44005,
+        "user": "weigui",
+        "content": "a6"
+    },
+    {
+        "action": "TALK",
+        "time": "12:13:36",
+        "time_int": 44016,
+        "user": "GrandMaster",
+        "content": "连接，对不起，打错字了"
+    },
+    {
+        "action": "TALK",
+        "time": "12:14:15",
+        "time_int": 44055,
+        "user": "GrandMaster",
+        "content": "这个15也很好，充分体现了计算的准确"
+    },
+    {
+        "action": "MOVE",
+        "time": "12:14:23",
+        "time_int": 44063,
+        "user": "GrandMaster",
+        "content": "79"
+    },
+    {
+        "action": "MOVE",
+        "time": "12:14:25",
+        "time_int": 44065,
+        "user": "weigui",
+        "content": "b5"
+    },
+    {
+        "action": "MOVE",
+        "time": "12:14:34",
+        "time_int": 44074,
+        "user": "GrandMaster",
+        "content": "c4"
+    },
+    {
+        "action": "MOVE",
+        "time": "12:14:35",
+        "time_int": 44075,
+        "user": "weigui",
+        "content": "77"
+    },
+    {
+        "action": "MOVE",
+        "time": "12:15:00",
+        "time_int": 44100,
+        "user": "GrandMaster",
+        "content": "b6"
+    },
+    {
+        "action": "MOVE",
+        "time": "12:15:07",
+        "time_int": 44107,
+        "user": "weigui",
+        "content": "95"
+    },
+    {
+        "action": "MOVE",
+        "time": "12:15:14",
+        "time_int": 44114,
+        "user": "GrandMaster",
+        "content": "84"
+    },
+    {
+        "action": "MOVE",
+        "time": "12:15:17",
+        "time_int": 44117,
+        "user": "weigui",
+        "content": "c7"
+    },
+    {
+        "action": "MOVE",
+        "time": "12:15:25",
+        "time_int": 44125,
+        "user": "GrandMaster",
+        "content": "d6"
+    },
+    {
+        "action": "MOVE",
+        "time": "12:15:27",
+        "time_int": 44127,
+        "user": "weigui",
+        "content": "c5"
+    },
+    {
+        "action": "MOVE",
+        "time": "12:15:38",
+        "time_int": 44138,
+        "user": "GrandMaster",
+        "content": "a5"
+    },
+    {
+        "action": "MOVE",
+        "time": "12:15:40",
+        "time_int": 44140,
+        "user": "weigui",
+        "content": "a4"
+    },
+    {
+        "action": "MOVE",
+        "time": "12:15:51",
+        "time_int": 44151,
+        "user": "GrandMaster",
+        "content": "86"
+    },
+    {
+        "action": "MOVE",
+        "time": "12:15:53",
+        "time_int": 44153,
+        "user": "weigui",
+        "content": "c8"
+    },
+    {
+        "action": "TALK",
+        "time": "12:16:06",
+        "time_int": 44166,
+        "user": "GrandMaster",
+        "content": "29手，黑杀棋"
+    },
+    {
+        "action": "TALK",
+        "time": "12:16:30",
+        "time_int": 44190,
+        "user": "zjrenju36",
+        "content": "好像不大对"
+    },
+    {
+        "action": "TALK",
+        "time": "12:16:34",
+        "time_int": 44194,
+        "user": "GrandMaster",
+        "content": "我们在看下16反向又如何呢"
+    },
+    {
+        "action": "TALK",
+        "time": "12:16:45",
+        "time_int": 44205,
+        "user": "zjrenju36",
+        "content": "白F9呢?"
+    },
+    {
+        "action": "TALK",
+        "time": "12:16:57",
+        "time_int": 44217,
+        "user": "GrandMaster",
+        "content": "哪手？"
+    },
+    {
+        "action": "TALK",
+        "time": "12:17:03",
+        "time_int": 44223,
+        "user": "zjrenju36",
+        "content": "就28"
+    },
+    {
+        "action": "TALK",
+        "time": "12:17:09",
+        "time_int": 44229,
+        "user": "zjrenju36",
+        "content": "28手"
+    },
+    {
+        "action": "BACK",
+        "time": "12:17:23",
+        "time_int": 44243,
+        "user": "GrandMaster",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time": "12:17:28",
+        "time_int": 44248,
+        "user": "GrandMaster",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time": "12:17:33",
+        "time_int": 44253,
+        "user": "GrandMaster",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time": "12:17:38",
+        "time_int": 44258,
+        "user": "GrandMaster",
+        "content": "68"
+    },
+    {
+        "action": "TALK",
+        "time": "12:17:55",
+        "time_int": 44275,
+        "user": "zjrenju36",
+        "content": "我知道怎么杀"
+    },
+    {
+        "action": "BACK",
+        "time": "12:17:57",
+        "time_int": 44277,
+        "user": "GrandMaster",
+        "content": ""
+    },
+    {
+        "action": "TALK",
+        "time": "12:18:17",
+        "time_int": 44297,
+        "user": "mayhem",
+        "content": "25不用活三吧"
+    },
+    {
+        "action": "MOVE",
+        "time": "12:18:19",
+        "time_int": 44299,
+        "user": "GrandMaster",
+        "content": "a4"
+    },
+    {
+        "action": "MOVE",
+        "time": "12:18:32",
+        "time_int": 44312,
+        "user": "GrandMaster",
+        "content": "69"
+    },
+    {
+        "action": "MOVE",
+        "time": "12:18:47",
+        "time_int": 44327,
+        "user": "GrandMaster",
+        "content": "59"
+    },
+    {
+        "action": "TALK",
+        "time": "12:18:54",
+        "time_int": 44334,
+        "user": "GrandMaster",
+        "content": "浪费一手棋而已"
+    },
+    {
+        "action": "TALK",
+        "time": "12:19:12",
+        "time_int": 44352,
+        "user": "zjrenju02",
+        "content": "不仅是浪费一手棋而已"
+    },
+    {
+        "action": "TALK",
+        "time": "12:19:15",
+        "time_int": 44355,
+        "user": "mayhem",
+        "content": "25开始VCF"
+    },
+    {
+        "action": "TALK",
+        "time": "12:19:17",
+        "time_int": 44357,
+        "user": "zjrenju47",
+        "content": "黑上面V"
+    },
+    {
+        "action": "TALK",
+        "time": "12:19:28",
+        "time_int": 44368,
+        "user": "zjrenju36",
+        "content": "现在走L6就没有杀了"
+    },
+    {
+        "action": "TALK",
+        "time": "12:19:45",
+        "time_int": 44385,
+        "user": "GrandMaster",
+        "content": "是有点问题，有长连"
+    },
+    {
+        "action": "TALK",
+        "time": "12:19:56",
+        "time_int": 44396,
+        "user": "zjrenju36",
+        "content": "我来试试?"
+    },
+    {
+        "action": "TALK",
+        "time": "12:19:59",
+        "time_int": 44399,
+        "user": "zjrenju22",
+        "content": "25V不了吧"
+    },
+    {
+        "action": "BACK",
+        "time": "12:20:21",
+        "time_int": 44421,
+        "user": "zjrenju36",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time": "12:20:22",
+        "time_int": 44422,
+        "user": "zjrenju36",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time": "12:20:23",
+        "time_int": 44423,
+        "user": "zjrenju36",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time": "12:20:23",
+        "time_int": 44423,
+        "user": "zjrenju36",
+        "content": ""
+    },
+    {
+        "action": "TALK",
+        "time": "12:20:24",
+        "time_int": 44424,
+        "user": "zjrenju02",
+        "content": "25本来V的，活三就没V了，只有44"
+    },
+    {
+        "action": "BACK",
+        "time": "12:20:24",
+        "time_int": 44424,
+        "user": "zjrenju36",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time": "12:20:30",
+        "time_int": 44430,
+        "user": "zjrenju36",
+        "content": "cb"
+    },
+    {
+        "action": "TALK",
+        "time": "12:20:32",
+        "time_int": 44432,
+        "user": "GrandMaster",
+        "content": "好，谢谢伟鬼"
+    },
+    {
+        "action": "TALK",
+        "time": "12:20:40",
+        "time_int": 44440,
+        "user": "GrandMaster",
+        "content": "那你来给我们大家走下看看"
+    },
+    {
+        "action": "MOVE",
+        "time": "12:20:43",
+        "time_int": 44443,
+        "user": "GrandMaster",
+        "content": "ba"
+    },
+    {
+        "action": "TALK",
+        "time": "12:20:45",
+        "time_int": 44445,
+        "user": "zjrenju36",
+        "content": "好"
+    },
+    {
+        "action": "MOVE",
+        "time": "12:20:47",
+        "time_int": 44447,
+        "user": "zjrenju36",
+        "content": "c8"
+    },
+    {
+        "action": "TALK",
+        "time": "12:20:59",
+        "time_int": 44459,
+        "user": "GrandMaster",
+        "content": "这样，黑V"
+    },
+    {
+        "action": "MOVE",
+        "time": "12:21:04",
+        "time_int": 44464,
+        "user": "GrandMaster",
+        "content": "d9"
+    },
+    {
+        "action": "MOVE",
+        "time": "12:21:06",
+        "time_int": 44466,
+        "user": "zjrenju36",
+        "content": "c9"
+    },
+    {
+        "action": "MOVE",
+        "time": "12:21:14",
+        "time_int": 44474,
+        "user": "GrandMaster",
+        "content": "ca"
+    },
+    {
+        "action": "MOVE",
+        "time": "12:21:15",
+        "time_int": 44475,
+        "user": "zjrenju36",
+        "content": "c5"
+    },
+    {
+        "action": "EMOTE",
+        "time": "12:21:19",
+        "time_int": 44479,
+        "user": "zjrenju14",
+        "content": " smiles to  13"
+    },
+    {
+        "action": "TALK",
+        "time": "12:21:35",
+        "time_int": 44495,
+        "user": "zjrenju36",
+        "content": "就是这样的:)"
+    },
+    {
+        "action": "TALK",
+        "time": "12:21:39",
+        "time_int": 44499,
+        "user": "zjrenju34",
+        "content": ":)"
+    },
+    {
+        "action": "TALK",
+        "time": "12:21:40",
+        "time_int": 44500,
+        "user": "weigui",
+        "content": "恩:)"
+    },
+    {
+        "action": "TALK",
+        "time": "12:21:48",
+        "time_int": 44508,
+        "user": "zjrenju11",
+        "content": "飞飞.不错！"
+    },
+    {
+        "action": "TALK",
+        "time": "12:21:55",
+        "time_int": 44515,
+        "user": "GrandMaster",
+        "content": "恩，刚才的活三是不正确的"
+    },
+    {
+        "action": "TALK",
+        "time": "12:21:57",
+        "time_int": 44517,
+        "user": "zjrenju36",
+        "content": "呵呵谢谢:)"
+    },
+    {
+        "action": "TALK",
+        "time": "12:22:10",
+        "time_int": 44530,
+        "user": "zjrenju47",
+        "content": "掌声~~~~~~~~~鲜花~~~~~~~~~~~~~`"
+    },
+    {
+        "action": "TALK",
+        "time": "12:22:20",
+        "time_int": 44540,
+        "user": "zjrenju34",
+        "content": "36.厉害"
+    },
+    {
+        "action": "TALK",
+        "time": "12:22:24",
+        "time_int": 44544,
+        "user": "GrandMaster",
+        "content": "呵呵，谢谢你"
+    },
+    {
+        "action": "TALK",
+        "time": "12:22:39",
+        "time_int": 44559,
+        "user": "zjrenju36",
+        "content": "我研究过啦:)呵呵"
+    },
+    {
+        "action": "TALK",
+        "time": "12:22:43",
+        "time_int": 44563,
+        "user": "GrandMaster",
+        "content": "这个是正确的走法，应该没问题了吧？"
+    },
+    {
+        "action": "GOTO",
+        "time": "12:23:07",
+        "time_int": 44587,
+        "user": "GrandMaster",
+        "content": 15
+    },
+    {
+        "action": "MOVE",
+        "time": "12:23:29",
+        "time_int": 44609,
+        "user": "GrandMaster",
+        "content": "b5"
+    },
+    {
+        "action": "TALK",
+        "time": "12:23:46",
+        "time_int": 44626,
+        "user": "GrandMaster",
+        "content": "16反向防守，哪位上来走走看？"
+    },
+    {
+        "action": "TALK",
+        "time": "12:23:53",
+        "time_int": 44633,
+        "user": "GrandMaster",
+        "content": "36，还来吗？：）"
+    },
+    {
+        "action": "TALK",
+        "time": "12:24:01",
+        "time_int": 44641,
+        "user": "zjrenju36",
+        "content": "好啊"
+    },
+    {
+        "action": "TALK",
+        "time": "12:24:10",
+        "time_int": 44650,
+        "user": "GrandMaster",
+        "content": "这都是一些基本的追胜的东西"
+    },
+    {
+        "action": "MOVE",
+        "time": "12:24:22",
+        "time_int": 44662,
+        "user": "zjrenju36",
+        "content": "95"
+    },
+    {
+        "action": "MOVE",
+        "time": "12:24:44",
+        "time_int": 44684,
+        "user": "GrandMaster",
+        "content": "84"
+    },
+    {
+        "action": "MOVE",
+        "time": "12:24:47",
+        "time_int": 44687,
+        "user": "zjrenju36",
+        "content": "c7"
+    },
+    {
+        "action": "MOVE",
+        "time": "12:25:22",
+        "time_int": 44722,
+        "user": "GrandMaster",
+        "content": "d6"
+    },
+    {
+        "action": "MOVE",
+        "time": "12:25:26",
+        "time_int": 44726,
+        "user": "zjrenju36",
+        "content": "b6"
+    },
+    {
+        "action": "MOVE",
+        "time": "12:25:38",
+        "time_int": 44738,
+        "user": "GrandMaster",
+        "content": "94"
+    },
+    {
+        "action": "MOVE",
+        "time": "12:25:43",
+        "time_int": 44743,
+        "user": "zjrenju36",
+        "content": "d8"
+    },
+    {
+        "action": "TALK",
+        "time": "12:25:57",
+        "time_int": 44757,
+        "user": "GrandMaster",
+        "content": "这个21很好，开辟了一条另外的线路，连接上面"
+    },
+    {
+        "action": "MOVE",
+        "time": "12:26:01",
+        "time_int": 44761,
+        "user": "GrandMaster",
+        "content": "e9"
+    },
+    {
+        "action": "MOVE",
+        "time": "12:26:03",
+        "time_int": 44763,
+        "user": "zjrenju36",
+        "content": "c9"
+    },
+    {
+        "action": "TALK",
+        "time": "12:26:06",
+        "time_int": 44766,
+        "user": "zjrenju04",
+        "content": "21变复杂"
+    },
+    {
+        "action": "TALK",
+        "time": "12:26:13",
+        "time_int": 44773,
+        "user": "zjrenju04",
+        "content": "了"
+    },
+    {
+        "action": "TALK",
+        "time": "12:26:25",
+        "time_int": 44785,
+        "user": "GrandMaster",
+        "content": "那04有更好的走法？"
+    },
+    {
+        "action": "TALK",
+        "time": "12:26:39",
+        "time_int": 44799,
+        "user": "zjrenju47",
+        "content": "直接L10？"
+    },
+    {
+        "action": "TALK",
+        "time": "12:26:46",
+        "time_int": 44806,
+        "user": "zjrenju04",
+        "content": "看错"
+    },
+    {
+        "action": "TALK",
+        "time": "12:26:51",
+        "time_int": 44811,
+        "user": "zjrenju04",
+        "content": "当没说"
+    },
+    {
+        "action": "TALK",
+        "time": "12:26:53",
+        "time_int": 44813,
+        "user": "GrandMaster",
+        "content": "我认为这1不错"
+    },
+    {
+        "action": "TALK",
+        "time": "12:26:59",
+        "time_int": 44819,
+        "user": "GrandMaster",
+        "content": "呵呵：）"
+    },
+    {
+        "action": "TALK",
+        "time": "12:27:05",
+        "time_int": 44825,
+        "user": "zjrenju05",
+        "content": "我迟到了？"
+    },
+    {
+        "action": "TALK",
+        "time": "12:27:13",
+        "time_int": 44833,
+        "user": "zjrenju05",
+        "content": "点名没有啊？"
+    },
+    {
+        "action": "TALK",
+        "time": "12:27:15",
+        "time_int": 44835,
+        "user": "GrandMaster",
+        "content": "好，谢谢这位，36朋友"
+    },
+    {
+        "action": "TALK",
+        "time": "12:27:21",
+        "time_int": 44841,
+        "user": "zjrenju36",
+        "content": ":)"
+    },
+    {
+        "action": "BACK",
+        "time": "12:28:34",
+        "time_int": 44914,
+        "user": "GrandMaster",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time": "12:28:39",
+        "time_int": 44919,
+        "user": "GrandMaster",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time": "12:28:39",
+        "time_int": 44919,
+        "user": "GrandMaster",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time": "12:28:39",
+        "time_int": 44919,
+        "user": "GrandMaster",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time": "12:28:39",
+        "time_int": 44919,
+        "user": "GrandMaster",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time": "12:28:39",
+        "time_int": 44919,
+        "user": "GrandMaster",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time": "12:28:39",
+        "time_int": 44919,
+        "user": "GrandMaster",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time": "12:28:39",
+        "time_int": 44919,
+        "user": "GrandMaster",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time": "12:28:39",
+        "time_int": 44919,
+        "user": "GrandMaster",
+        "content": ""
+    },
+    {
+        "action": "GOTO",
+        "time": "12:28:51",
+        "time_int": 44931,
+        "user": "GrandMaster",
+        "content": 11
+    },
+    {
+        "action": "BACK",
+        "time": "12:29:09",
+        "time_int": 44949,
+        "user": "GrandMaster",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time": "12:29:24",
+        "time_int": 44964,
+        "user": "GrandMaster",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time": "12:29:24",
+        "time_int": 44964,
+        "user": "GrandMaster",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time": "12:29:24",
+        "time_int": 44964,
+        "user": "GrandMaster",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time": "12:29:24",
+        "time_int": 44964,
+        "user": "GrandMaster",
+        "content": ""
+    },
+    {
+        "action": "GOTO",
+        "time": "12:29:28",
+        "time_int": 44968,
+        "user": "GrandMaster",
+        "content": 6
+    },
+    {
+        "action": "MOVE",
+        "time": "12:29:33",
+        "time_int": 44973,
+        "user": "GrandMaster",
+        "content": "a9"
+    },
+    {
+        "action": "MOVE",
+        "time": "12:29:47",
+        "time_int": 44987,
+        "user": "GrandMaster",
+        "content": "ba"
+    },
+    {
+        "action": "MOVE",
+        "time": "12:29:56",
+        "time_int": 44996,
+        "user": "GrandMaster",
+        "content": "76"
+    },
+    {
+        "action": "MOVE",
+        "time": "12:30:02",
+        "time_int": 45002,
+        "user": "GrandMaster",
+        "content": "65"
+    },
+    {
+        "action": "MOVE",
+        "time": "12:30:11",
+        "time_int": 45011,
+        "user": "GrandMaster",
+        "content": "67"
+    },
+    {
+        "action": "MOVE",
+        "time": "12:30:21",
+        "time_int": 45021,
+        "user": "GrandMaster",
+        "content": "97"
+    },
+    {
+        "action": "TALK",
+        "time": "12:30:44",
+        "time_int": 45044,
+        "user": "GrandMaster",
+        "content": "大家看下这个，看上去似乎很简单，但我觉得这里面有很好的连接做棋的思路在里面"
+    },
+    {
+        "action": "TALK",
+        "time": "12:31:04",
+        "time_int": 45064,
+        "user": "GrandMaster",
+        "content": "这个，哪位上来演示一下？"
+    },
+    {
+        "action": "TALK",
+        "time": "12:31:25",
+        "time_int": 45085,
+        "user": "zjrenju36",
+        "content": "我再来:P"
+    },
+    {
+        "action": "TALK",
+        "time": "12:31:36",
+        "time_int": 45096,
+        "user": "GrandMaster",
+        "content": "都是必胜的，来走走"
+    },
+    {
+        "action": "TALK",
+        "time": "12:31:41",
+        "time_int": 45101,
+        "user": "GrandMaster",
+        "content": "好"
+    },
+    {
+        "action": "MOVE",
+        "time": "12:31:50",
+        "time_int": 45110,
+        "user": "zjrenju36",
+        "content": "85"
+    },
+    {
+        "action": "MOVE",
+        "time": "12:32:19",
+        "time_int": 45139,
+        "user": "GrandMaster",
+        "content": "94"
+    },
+    {
+        "action": "MOVE",
+        "time": "12:32:25",
+        "time_int": 45145,
+        "user": "zjrenju36",
+        "content": "86"
+    },
+    {
+        "action": "MOVE",
+        "time": "12:32:34",
+        "time_int": 45154,
+        "user": "GrandMaster",
+        "content": "84"
+    },
+    {
+        "action": "MOVE",
+        "time": "12:32:35",
+        "time_int": 45155,
+        "user": "zjrenju36",
+        "content": "96"
+    },
+    {
+        "action": "MOVE",
+        "time": "12:32:49",
+        "time_int": 45169,
+        "user": "GrandMaster",
+        "content": "a6"
+    },
+    {
+        "action": "MOVE",
+        "time": "12:32:51",
+        "time_int": 45171,
+        "user": "zjrenju36",
+        "content": "56"
+    },
+    {
+        "action": "MOVE",
+        "time": "12:32:59",
+        "time_int": 45179,
+        "user": "GrandMaster",
+        "content": "66"
+    },
+    {
+        "action": "MOVE",
+        "time": "12:33:00",
+        "time_int": 45180,
+        "user": "zjrenju36",
+        "content": "58"
+    },
+    {
+        "action": "MOVE",
+        "time": "12:33:30",
+        "time_int": 45210,
+        "user": "GrandMaster",
+        "content": "49"
+    },
+    {
+        "action": "TALK",
+        "time": "12:33:43",
+        "time_int": 45223,
+        "user": "zjrenju36",
+        "content": "如果开雨月的话这个可能有盘端问题"
+    },
+    {
+        "action": "MOVE",
+        "time": "12:33:46",
+        "time_int": 45226,
+        "user": "zjrenju36",
+        "content": "57"
+    },
+    {
+        "action": "TALK",
+        "time": "12:33:59",
+        "time_int": 45239,
+        "user": "GrandMaster",
+        "content": "嗯"
+    },
+    {
+        "action": "MOVE",
+        "time": "12:34:04",
+        "time_int": 45244,
+        "user": "GrandMaster",
+        "content": "59"
+    },
+    {
+        "action": "MOVE",
+        "time": "12:34:05",
+        "time_int": 45245,
+        "user": "zjrenju36",
+        "content": "47"
+    },
+    {
+        "action": "MOVE",
+        "time": "12:34:25",
+        "time_int": 45265,
+        "user": "GrandMaster",
+        "content": "77"
+    },
+    {
+        "action": "MOVE",
+        "time": "12:34:27",
+        "time_int": 45267,
+        "user": "zjrenju36",
+        "content": "69"
+    },
+    {
+        "action": "TALK",
+        "time": "12:34:39",
+        "time_int": 45279,
+        "user": "zjrenju02",
+        "content": "没问题，也可以赢"
+    },
+    {
+        "action": "TALK",
+        "time": "12:35:06",
+        "time_int": 45306,
+        "user": "GrandMaster",
+        "content": "这盘最精彩的我觉得就是利用了盘面上的这个黑7手"
+    },
+    {
+        "action": "TALK",
+        "time": "12:35:38",
+        "time_int": 45338,
+        "user": "GrandMaster",
+        "content": "体现了进攻者的大局观念,充分利用盘面上的每个子"
+    },
+    {
+        "action": "MOVE",
+        "time": "12:35:44",
+        "time_int": 45344,
+        "user": "GrandMaster",
+        "content": "7a"
+    },
+    {
+        "action": "MOVE",
+        "time": "12:35:48",
+        "time_int": 45348,
+        "user": "zjrenju36",
+        "content": "36"
+    },
+    {
+        "action": "MOVE",
+        "time": "12:36:02",
+        "time_int": 45362,
+        "user": "GrandMaster",
+        "content": "25"
+    },
+    {
+        "action": "MOVE",
+        "time": "12:36:04",
+        "time_int": 45364,
+        "user": "zjrenju36",
+        "content": "27"
+    },
+    {
+        "action": "MOVE",
+        "time": "12:36:22",
+        "time_int": 45382,
+        "user": "GrandMaster",
+        "content": "37"
+    },
+    {
+        "action": "MOVE",
+        "time": "12:36:23",
+        "time_int": 45383,
+        "user": "zjrenju36",
+        "content": "54"
+    },
+    {
+        "action": "TALK",
+        "time": "12:36:35",
+        "time_int": 45395,
+        "user": "GrandMaster",
+        "content": "黑33手，43杀"
+    },
+    {
+        "action": "TALK",
+        "time": "12:36:57",
+        "time_int": 45417,
+        "user": "GrandMaster",
+        "content": "整盘的黑进攻的线路很漂亮，思路也好"
+    },
+    {
+        "action": "TALK",
+        "time": "12:37:09",
+        "time_int": 45429,
+        "user": "zjrenju15",
+        "content": "大家好``好久不见了"
+    },
+    {
+        "action": "TALK",
+        "time": "12:37:24",
+        "time_int": 45444,
+        "user": "GrandMaster",
+        "content": "虽然这是谱,但我们在进攻中也可以借鉴一下这种思路"
+    },
+    {
+        "action": "TALK",
+        "time": "12:37:45",
+        "time_int": 45465,
+        "user": "GrandMaster",
+        "content": "好，下面我们看看6手的变化"
+    },
+    {
+        "action": "TALK",
+        "time": "12:37:59",
+        "time_int": 45479,
+        "user": "GrandMaster",
+        "content": "谢谢这位36同志"
+    },
+    {
+        "action": "GOTO",
+        "time": "12:38:04",
+        "time_int": 45484,
+        "user": "GrandMaster",
+        "content": 5
+    },
+    {
+        "action": "TALK",
+        "time": "12:38:07",
+        "time_int": 45487,
+        "user": "zjrenju36",
+        "content": ":)"
+    },
+    {
+        "action": "TALK",
+        "time": "12:38:24",
+        "time_int": 45504,
+        "user": "zjrenju03",
+        "content": "好同志"
+    },
+    {
+        "action": "MOVE",
+        "time": "12:38:26",
+        "time_int": 45506,
+        "user": "GrandMaster",
+        "content": "86"
+    },
+    {
+        "action": "TALK",
+        "time": "12:38:33",
+        "time_int": 45513,
+        "user": "zjrenju36",
+        "content": "好兄弟:)"
+    },
+    {
+        "action": "TALK",
+        "time": "12:38:40",
+        "time_int": 45520,
+        "user": "zjrenju03",
+        "content": "呵呵"
+    },
+    {
+        "action": "MOVE",
+        "time": "12:38:41",
+        "time_int": 45521,
+        "user": "GrandMaster",
+        "content": "a7"
+    },
+    {
+        "action": "MOVE",
+        "time": "12:38:58",
+        "time_int": 45538,
+        "user": "GrandMaster",
+        "content": "77"
+    },
+    {
+        "action": "TALK",
+        "time": "12:39:09",
+        "time_int": 45549,
+        "user": "zjrenju05",
+        "content": "好学生"
+    },
+    {
+        "action": "TALK",
+        "time": "12:39:17",
+        "time_int": 45557,
+        "user": "zjrenju22",
+        "content": "好孩子"
+    },
+    {
+        "action": "TALK",
+        "time": "12:39:23",
+        "time_int": 45563,
+        "user": "GrandMaster",
+        "content": "这个8手，黑是必胜的，哪位上来演示一下?"
+    },
+    {
+        "action": "TALK",
+        "time": "12:39:41",
+        "time_int": 45581,
+        "user": "zjrenju36",
+        "content": "不好意思再说我了:P"
+    },
+    {
+        "action": "TALK",
+        "time": "12:39:50",
+        "time_int": 45590,
+        "user": "GrandMaster",
+        "content": "呵呵"
+    },
+    {
+        "action": "TALK",
+        "time": "12:39:57",
+        "time_int": 45597,
+        "user": "GrandMaster",
+        "content": "你太厉害了，换个人吧"
+    },
+    {
+        "action": "TALK",
+        "time": "12:40:08",
+        "time_int": 45608,
+        "user": "zjrenju36",
+        "content": "恩:)"
+    },
+    {
+        "action": "TALK",
+        "time": "12:40:14",
+        "time_int": 45614,
+        "user": "zjrenju03",
+        "content": "我"
+    },
+    {
+        "action": "TALK",
+        "time": "12:40:18",
+        "time_int": 45618,
+        "user": "zjrenju05",
+        "content": "36。歇会哈"
+    },
+    {
+        "action": "TALK",
+        "time": "12:40:19",
+        "time_int": 45619,
+        "user": "zjrenju36",
+        "content": "厉害,不敢:)"
+    },
+    {
+        "action": "TALK",
+        "time": "12:40:25",
+        "time_int": 45625,
+        "user": "zjrenju36",
+        "content": "恩"
+    },
+    {
+        "action": "TALK",
+        "time": "12:40:40",
+        "time_int": 45640,
+        "user": "GrandMaster",
+        "content": "好"
+    },
+    {
+        "action": "MOVE",
+        "time": "12:40:46",
+        "time_int": 45646,
+        "user": "zjrenju03",
+        "content": "89"
+    },
+    {
+        "action": "MOVE",
+        "time": "12:40:54",
+        "time_int": 45654,
+        "user": "GrandMaster",
+        "content": "7a"
+    },
+    {
+        "action": "MOVE",
+        "time": "12:41:04",
+        "time_int": 45664,
+        "user": "zjrenju03",
+        "content": "79"
+    },
+    {
+        "action": "TALK",
+        "time": "12:41:06",
+        "time_int": 45666,
+        "user": "zjrenju22",
+        "content": "我开个renlib，上面都有这些：P"
+    },
+    {
+        "action": "MOVE",
+        "time": "12:41:55",
+        "time_int": 45715,
+        "user": "GrandMaster",
+        "content": "a6"
+    },
+    {
+        "action": "MOVE",
+        "time": "12:42:07",
+        "time_int": 45727,
+        "user": "zjrenju03",
+        "content": "a9"
+    },
+    {
+        "action": "TALK",
+        "time": "12:42:17",
+        "time_int": 45737,
+        "user": "zjrenju36",
+        "content": "这个12较强的防守"
+    },
+    {
+        "action": "MOVE",
+        "time": "12:42:36",
+        "time_int": 45756,
+        "user": "GrandMaster",
+        "content": "ba"
+    },
+    {
+        "action": "MOVE",
+        "time": "12:43:01",
+        "time_int": 45781,
+        "user": "zjrenju03",
+        "content": "6a"
+    },
+    {
+        "action": "MOVE",
+        "time": "12:43:20",
+        "time_int": 45800,
+        "user": "GrandMaster",
+        "content": "5b"
+    },
+    {
+        "action": "TALK",
+        "time": "12:43:23",
+        "time_int": 45803,
+        "user": "zjrenju02",
+        "content": "13-K8不就速胜了"
+    },
+    {
+        "action": "MOVE",
+        "time": "12:43:50",
+        "time_int": 45830,
+        "user": "zjrenju03",
+        "content": "b8"
+    },
+    {
+        "action": "MOVE",
+        "time": "12:44:01",
+        "time_int": 45841,
+        "user": "GrandMaster",
+        "content": "c7"
+    },
+    {
+        "action": "MOVE",
+        "time": "12:44:25",
+        "time_int": 45865,
+        "user": "zjrenju03",
+        "content": "85"
+    },
+    {
+        "action": "MOVE",
+        "time": "12:44:38",
+        "time_int": 45878,
+        "user": "GrandMaster",
+        "content": "96"
+    },
+    {
+        "action": "MOVE",
+        "time": "12:44:40",
+        "time_int": 45880,
+        "user": "zjrenju03",
+        "content": "76"
+    },
+    {
+        "action": "MOVE",
+        "time": "12:44:49",
+        "time_int": 45889,
+        "user": "GrandMaster",
+        "content": "65"
+    },
+    {
+        "action": "MOVE",
+        "time": "12:44:53",
+        "time_int": 45893,
+        "user": "zjrenju03",
+        "content": "69"
+    },
+    {
+        "action": "MOVE",
+        "time": "12:45:34",
+        "time_int": 45934,
+        "user": "GrandMaster",
+        "content": "68"
+    },
+    {
+        "action": "MOVE",
+        "time": "12:45:39",
+        "time_int": 45939,
+        "user": "zjrenju03",
+        "content": "59"
+    },
+    {
+        "action": "MOVE",
+        "time": "12:45:51",
+        "time_int": 45951,
+        "user": "GrandMaster",
+        "content": "49"
+    },
+    {
+        "action": "MOVE",
+        "time": "12:45:53",
+        "time_int": 45953,
+        "user": "zjrenju03",
+        "content": "7b"
+    },
+    {
+        "action": "MOVE",
+        "time": "12:46:19",
+        "time_int": 45979,
+        "user": "GrandMaster",
+        "content": "8c"
+    },
+    {
+        "action": "MOVE",
+        "time": "12:46:23",
+        "time_int": 45983,
+        "user": "zjrenju03",
+        "content": "8b"
+    },
+    {
+        "action": "TALK",
+        "time": "12:46:43",
+        "time_int": 46003,
+        "user": "zjrenju04",
+        "content": "精彩"
+    },
+    {
+        "action": "TALK",
+        "time": "12:46:49",
+        "time_int": 46009,
+        "user": "GrandMaster",
+        "content": "好，以下黑VCF了"
+    },
+    {
+        "action": "MOVE",
+        "time": "12:46:49",
+        "time_int": 46009,
+        "user": "GrandMaster",
+        "content": "8a"
+    },
+    {
+        "action": "MOVE",
+        "time": "12:46:53",
+        "time_int": 46013,
+        "user": "zjrenju03",
+        "content": "a8"
+    },
+    {
+        "action": "MOVE",
+        "time": "12:47:01",
+        "time_int": 46021,
+        "user": "GrandMaster",
+        "content": "c8"
+    },
+    {
+        "action": "MOVE",
+        "time": "12:47:06",
+        "time_int": 46026,
+        "user": "zjrenju03",
+        "content": "9a"
+    },
+    {
+        "action": "TALK",
+        "time": "12:47:16",
+        "time_int": 46036,
+        "user": "zjrenju11",
+        "content": "03潮水高！"
+    },
+    {
+        "action": "TALK",
+        "time": "12:47:19",
+        "time_int": 46039,
+        "user": "zjrenju05",
+        "content": "哇~厉害"
+    },
+    {
+        "action": "MOVE",
+        "time": "12:47:21",
+        "time_int": 46041,
+        "user": "GrandMaster",
+        "content": "7c"
+    },
+    {
+        "action": "MOVE",
+        "time": "12:47:31",
+        "time_int": 46051,
+        "user": "zjrenju03",
+        "content": "ab"
+    },
+    {
+        "action": "TALK",
+        "time": "12:47:44",
+        "time_int": 46064,
+        "user": "GrandMaster",
+        "content": "这盘的进攻也是非常精彩"
+    },
+    {
+        "action": "TALK",
+        "time": "12:47:44",
+        "time_int": 46064,
+        "user": "zjrenju22",
+        "content": "23活三不可以吗?"
+    },
+    {
+        "action": "TALK",
+        "time": "12:47:51",
+        "time_int": 46071,
+        "user": "zjrenju04",
+        "content": "呵潮水当然高了"
+    },
+    {
+        "action": "TALK",
+        "time": "12:48:03",
+        "time_int": 46083,
+        "user": "zjrenju04",
+        "content": "11你看过吗"
+    },
+    {
+        "action": "TALK",
+        "time": "12:48:03",
+        "time_int": 46083,
+        "user": "GrandMaster",
+        "content": "黑利用左面的连接进行进攻"
+    },
+    {
+        "action": "TALK",
+        "time": "12:48:07",
+        "time_int": 46087,
+        "user": "zjrenju05",
+        "content": "晕。04拍马P"
+    },
+    {
+        "action": "TALK",
+        "time": "12:48:10",
+        "time_int": 46090,
+        "user": "zilch_z",
+        "content": "33为什么不能在35？"
+    },
+    {
+        "action": "TALK",
+        "time": "12:48:20",
+        "time_int": 46100,
+        "user": "zjrenju34",
+        "content": "94"
+    },
+    {
+        "action": "TALK",
+        "time": "12:48:30",
+        "time_int": 46110,
+        "user": "zjrenju04",
+        "content": "05去你的我说潮水"
+    },
+    {
+        "action": "TALK",
+        "time": "12:48:40",
+        "time_int": 46120,
+        "user": "zjrenju03",
+        "content": "一样的吧"
+    },
+    {
+        "action": "TALK",
+        "time": "12:48:47",
+        "time_int": 46127,
+        "user": "zjrenju03",
+        "content": "白反不了"
+    },
+    {
+        "action": "TALK",
+        "time": "12:49:02",
+        "time_int": 46142,
+        "user": "zjrenju05",
+        "content": "04是嘛P精"
+    },
+    {
+        "action": "TALK",
+        "time": "12:49:03",
+        "time_int": 46143,
+        "user": "zjrenju11",
+        "content": "在英国19个中国黑工被潮水淹死了。"
+    },
+    {
+        "action": "TALK",
+        "time": "12:49:04",
+        "time_int": 46144,
+        "user": "GrandMaster",
+        "content": "23如果活三的话，白有反击"
+    },
+    {
+        "action": "TALK",
+        "time": "12:49:10",
+        "time_int": 46150,
+        "user": "weigui",
+        "content": "33可以在35.但这个点是必须下的.顺序的问题"
+    },
+    {
+        "action": "TALK",
+        "time": "12:49:25",
+        "time_int": 46165,
+        "user": "GrandMaster",
+        "content": "22，你自己看一下"
+    },
+    {
+        "action": "TALK",
+        "time": "12:49:37",
+        "time_int": 46177,
+        "user": "zjrenju03",
+        "content": "反了再反,"
+    },
+    {
+        "action": "TALK",
+        "time": "12:50:01",
+        "time_int": 46201,
+        "user": "zjrenju04",
+        "content": "一浪又一浪"
+    },
+    {
+        "action": "TALK",
+        "time": "12:50:06",
+        "time_int": 46206,
+        "user": "zjrenju03",
+        "content": "11家伙说什么,不是我淹的"
+    },
+    {
+        "action": "TALK",
+        "time": "12:50:06",
+        "time_int": 46206,
+        "user": "GrandMaster",
+        "content": "那样不仅毁了整个进攻线路，也给白造成一个活四的反击"
+    },
+    {
+        "action": "TALK",
+        "time": "12:50:27",
+        "time_int": 46227,
+        "user": "zjrenju99",
+        "content": "：）"
+    },
+    {
+        "action": "TALK",
+        "time": "12:50:47",
+        "time_int": 46247,
+        "user": "zjrenju05",
+        "content": "94"
+    },
+    {
+        "action": "TALK",
+        "time": "12:50:52",
+        "time_int": 46252,
+        "user": "zjrenju22",
+        "content": "我知道了"
+    },
+    {
+        "action": "TALK",
+        "time": "12:50:58",
+        "time_int": 46258,
+        "user": "zjrenju22",
+        "content": "谢谢"
+    },
+    {
+        "action": "TALK",
+        "time": "12:51:07",
+        "time_int": 46267,
+        "user": "GrandMaster",
+        "content": "谢谢这位03朋友"
+    },
+    {
+        "action": "TALK",
+        "time": "12:51:11",
+        "time_int": 46271,
+        "user": "zjrenju02",
+        "content": "13直接K8不就行了，哪要杀这么长"
+    },
+    {
+        "action": "GOTO",
+        "time": "12:51:15",
+        "time_int": 46275,
+        "user": "GrandMaster",
+        "content": 7
+    },
+    {
+        "action": "TALK",
+        "time": "12:52:00",
+        "time_int": 46320,
+        "user": "zjrenju11",
+        "content": "那让02下下"
+    },
+    {
+        "action": "TALK",
+        "time": "12:52:12",
+        "time_int": 46332,
+        "user": "GrandMaster",
+        "content": "那样？"
+    },
+    {
+        "action": "TALK",
+        "time": "12:52:17",
+        "time_int": 46337,
+        "user": "zjrenju05",
+        "content": "02上"
+    },
+    {
+        "action": "TALK",
+        "time": "12:52:51",
+        "time_int": 46371,
+        "user": "zjrenju02",
+        "content": "算了，继续吧。那个12大弱防，没必要花太多时间"
+    },
+    {
+        "action": "TALK",
+        "time": "12:53:26",
+        "time_int": 46406,
+        "user": "GrandMaster",
+        "content": "呵呵"
+    },
+    {
+        "action": "TALK",
+        "time": "12:53:48",
+        "time_int": 46428,
+        "user": "GrandMaster",
+        "content": "这种必胜的形状你给我找出来个比较强的？"
+    },
+    {
+        "action": "TALK",
+        "time": "12:53:57",
+        "time_int": 46437,
+        "user": "zjrenju01",
+        "content": "12下J8怎么样？"
+    },
+    {
+        "action": "TALK",
+        "time": "12:54:17",
+        "time_int": 46457,
+        "user": "zjrenju02",
+        "content": "12最强J9"
+    },
+    {
+        "action": "MOVE",
+        "time": "12:54:18",
+        "time_int": 46458,
+        "user": "GrandMaster",
+        "content": "77"
+    },
+    {
+        "action": "TALK",
+        "time": "12:54:49",
+        "time_int": 46489,
+        "user": "zjrenju03",
+        "content": "J8?"
+    },
+    {
+        "action": "MOVE",
+        "time": "12:54:51",
+        "time_int": 46491,
+        "user": "GrandMaster",
+        "content": "89"
+    },
+    {
+        "action": "TALK",
+        "time": "12:54:56",
+        "time_int": 46496,
+        "user": "zjrenju02",
+        "content": "不过也速胜"
+    },
+    {
+        "action": "MOVE",
+        "time": "12:55:08",
+        "time_int": 46508,
+        "user": "GrandMaster",
+        "content": "7a"
+    },
+    {
+        "action": "MOVE",
+        "time": "12:55:18",
+        "time_int": 46518,
+        "user": "GrandMaster",
+        "content": "79"
+    },
+    {
+        "action": "TALK",
+        "time": "12:55:44",
+        "time_int": 46544,
+        "user": "GrandMaster",
+        "content": "12强吗？"
+    },
+    {
+        "action": "TALK",
+        "time": "12:55:49",
+        "time_int": 46549,
+        "user": "GrandMaster",
+        "content": "J9？"
+    },
+    {
+        "action": "TALK",
+        "time": "12:56:01",
+        "time_int": 46561,
+        "user": "GrandMaster",
+        "content": "老变化了"
+    },
+    {
+        "action": "TALK",
+        "time": "12:56:06",
+        "time_int": 46566,
+        "user": "zjrenju02",
+        "content": "比J6强"
+    },
+    {
+        "action": "TALK",
+        "time": "12:56:28",
+        "time_int": 46588,
+        "user": "zjrenju02",
+        "content": "不过这个8本来就太弱了"
+    },
+    {
+        "action": "TALK",
+        "time": "12:56:55",
+        "time_int": 46615,
+        "user": "GrandMaster",
+        "content": "这是一种变化"
+    },
+    {
+        "action": "TALK",
+        "time": "12:57:01",
+        "time_int": 46621,
+        "user": "GrandMaster",
+        "content": "这个8要讲"
+    },
+    {
+        "action": "TALK",
+        "time": "12:57:19",
+        "time_int": 46639,
+        "user": "zjrenju05",
+        "content": "02。别打搅老师上课"
+    },
+    {
+        "action": "TALK",
+        "time": "12:57:36",
+        "time_int": 46656,
+        "user": "GrandMaster",
+        "content": "就好比你现在成人了，难道你小的时候就没存在过？"
+    },
+    {
+        "action": "TALK",
+        "time": "12:57:55",
+        "time_int": 46675,
+        "user": "GrandMaster",
+        "content": "任何东西都是又简单演变到复杂"
+    },
+    {
+        "action": "TALK",
+        "time": "12:58:09",
+        "time_int": 46689,
+        "user": "zjrenju02",
+        "content": "我闭嘴，你请继续"
+    },
+    {
+        "action": "TALK",
+        "time": "12:58:13",
+        "time_int": 46693,
+        "user": "GrandMaster",
+        "content": "你的观点我感觉很荒谬"
+    },
+    {
+        "action": "MOVE",
+        "time": "12:58:25",
+        "time_int": 46705,
+        "user": "GrandMaster",
+        "content": "a9"
+    },
+    {
+        "action": "TALK",
+        "time": "12:58:33",
+        "time_int": 46713,
+        "user": "GrandMaster",
+        "content": "接下来，看他说的这个12"
+    },
+    {
+        "action": "TALK",
+        "time": "12:58:53",
+        "time_int": 46733,
+        "user": "GrandMaster",
+        "content": "黑同样有很强硬的手段进攻"
+    },
+    {
+        "action": "TALK",
+        "time": "12:59:05",
+        "time_int": 46745,
+        "user": "zjrenju36",
+        "content": "通一个变化,也可以其他点胜"
+    },
+    {
+        "action": "TALK",
+        "time": "12:59:08",
+        "time_int": 46748,
+        "user": "GrandMaster",
+        "content": "哪位来给大家演示一下？"
+    },
+    {
+        "action": "TALK",
+        "time": "13:00:10",
+        "time_int": 46810,
+        "user": "GrandMaster",
+        "content": "没有？"
+    },
+    {
+        "action": "TALK",
+        "time": "13:00:23",
+        "time_int": 46823,
+        "user": "zjrenju36",
+        "content": "那我来吧?:)"
+    },
+    {
+        "action": "TALK",
+        "time": "13:00:39",
+        "time_int": 46839,
+        "user": "zjrenju34",
+        "content": "36呵呵"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:00:43",
+        "time_int": 46843,
+        "user": "zjrenju36",
+        "content": "97"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:00:52",
+        "time_int": 46852,
+        "user": "GrandMaster",
+        "content": "a6"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:00:54",
+        "time_int": 46854,
+        "user": "zjrenju36",
+        "content": "96"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:01:28",
+        "time_int": 46888,
+        "user": "GrandMaster",
+        "content": "b7"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:01:40",
+        "time_int": 46900,
+        "user": "zjrenju36",
+        "content": "85"
+    },
+    {
+        "action": "TALK",
+        "time": "13:02:03",
+        "time_int": 46923,
+        "user": "GrandMaster",
+        "content": "现在白两种选择"
+    },
+    {
+        "action": "TALK",
+        "time": "13:02:06",
+        "time_int": 46926,
+        "user": "zjrenju36",
+        "content": "K8较强一点"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:02:10",
+        "time_int": 46930,
+        "user": "GrandMaster",
+        "content": "74"
+    },
+    {
+        "action": "TALK",
+        "time": "13:02:15",
+        "time_int": 46935,
+        "user": "zjrenju36",
+        "content": "对我来说"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:02:18",
+        "time_int": 46938,
+        "user": "zjrenju36",
+        "content": "8a"
+    },
+    {
+        "action": "TALK",
+        "time": "13:02:23",
+        "time_int": 46943,
+        "user": "GrandMaster",
+        "content": "先看G4"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:02:29",
+        "time_int": 46949,
+        "user": "GrandMaster",
+        "content": "8b"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:02:31",
+        "time_int": 46951,
+        "user": "zjrenju36",
+        "content": "68"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:02:49",
+        "time_int": 46969,
+        "user": "GrandMaster",
+        "content": "57"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:02:51",
+        "time_int": 46971,
+        "user": "zjrenju36",
+        "content": "67"
+    },
+    {
+        "action": "TALK",
+        "time": "13:03:12",
+        "time_int": 46992,
+        "user": "GrandMaster",
+        "content": "这样，黑胜"
+    },
+    {
+        "action": "TALK",
+        "time": "13:03:28",
+        "time_int": 47008,
+        "user": "zjrenju36",
+        "content": "4--8--18的冲没有用的"
+    },
+    {
+        "action": "TALK",
+        "time": "13:03:35",
+        "time_int": 47015,
+        "user": "GrandMaster",
+        "content": "18手如果反方向防守，控制一下黑的4，如何呢"
+    },
+    {
+        "action": "GOTO",
+        "time": "13:03:43",
+        "time_int": 47023,
+        "user": "GrandMaster",
+        "content": 17
+    },
+    {
+        "action": "MOVE",
+        "time": "13:03:50",
+        "time_int": 47030,
+        "user": "GrandMaster",
+        "content": "b8"
+    },
+    {
+        "action": "TALK",
+        "time": "13:04:12",
+        "time_int": 47052,
+        "user": "zjrenju36",
+        "content": "就不能向刚才那样杀了"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:04:16",
+        "time_int": 47056,
+        "user": "zjrenju36",
+        "content": "95"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:04:23",
+        "time_int": 47063,
+        "user": "GrandMaster",
+        "content": "94"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:04:26",
+        "time_int": 47066,
+        "user": "zjrenju36",
+        "content": "65"
+    },
+    {
+        "action": "TALK",
+        "time": "13:04:33",
+        "time_int": 47073,
+        "user": "GrandMaster",
+        "content": "当然黑有其他的进攻手段"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:04:37",
+        "time_int": 47077,
+        "user": "GrandMaster",
+        "content": "75"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:04:43",
+        "time_int": 47083,
+        "user": "zjrenju36",
+        "content": "49"
+    },
+    {
+        "action": "TALK",
+        "time": "13:04:53",
+        "time_int": 47093,
+        "user": "zjrenju36",
+        "content": "E9也可以杀"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:05:31",
+        "time_int": 47131,
+        "user": "GrandMaster",
+        "content": "67"
+    },
+    {
+        "action": "TALK",
+        "time": "13:05:32",
+        "time_int": 47132,
+        "user": "zjrenju50",
+        "content": "36你的是D9咧"
+    },
+    {
+        "action": "TALK",
+        "time": "13:05:32",
+        "time_int": 47132,
+        "user": "zjrenju15",
+        "content": "明天补考~~先下了，88"
+    },
+    {
+        "action": "TALK",
+        "time": "13:05:33",
+        "time_int": 47133,
+        "user": "zjrenju36",
+        "content": "4--8--12的冲动不了的"
+    },
+    {
+        "action": "TALK",
+        "time": "13:05:56",
+        "time_int": 47156,
+        "user": "zjrenju36",
+        "content": "是啊,但E9也可以杀"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:06:30",
+        "time_int": 47190,
+        "user": "zjrenju36",
+        "content": "74"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:06:38",
+        "time_int": 47198,
+        "user": "GrandMaster",
+        "content": "63"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:06:50",
+        "time_int": 47210,
+        "user": "zjrenju36",
+        "content": "56"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:07:06",
+        "time_int": 47226,
+        "user": "GrandMaster",
+        "content": "47"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:07:07",
+        "time_int": 47227,
+        "user": "zjrenju36",
+        "content": "57"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:07:21",
+        "time_int": 47241,
+        "user": "GrandMaster",
+        "content": "58"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:07:25",
+        "time_int": 47245,
+        "user": "zjrenju36",
+        "content": "8a"
+    },
+    {
+        "action": "TALK",
+        "time": "13:07:57",
+        "time_int": 47277,
+        "user": "GrandMaster",
+        "content": "到这，黑31胜"
+    },
+    {
+        "action": "TALK",
+        "time": "13:08:29",
+        "time_int": 47309,
+        "user": "GrandMaster",
+        "content": "当然也有另外的防守，不过黑都可以取胜"
+    },
+    {
+        "action": "GOTO",
+        "time": "13:09:00",
+        "time_int": 47340,
+        "user": "GrandMaster",
+        "content": 7
+    },
+    {
+        "action": "MOVE",
+        "time": "13:09:44",
+        "time_int": 47384,
+        "user": "GrandMaster",
+        "content": "76"
+    },
+    {
+        "action": "TALK",
+        "time": "13:09:58",
+        "time_int": 47398,
+        "user": "GrandMaster",
+        "content": "看一下这个8的变化"
+    },
+    {
+        "action": "TALK",
+        "time": "13:10:04",
+        "time_int": 47404,
+        "user": "zjrenju36",
+        "content": "这个好强,偶不会了"
+    },
+    {
+        "action": "TALK",
+        "time": "13:10:06",
+        "time_int": 47406,
+        "user": "GrandMaster",
+        "content": "哪位来给大家演示一下？"
+    },
+    {
+        "action": "TALK",
+        "time": "13:11:38",
+        "time_int": 47498,
+        "user": "weigui",
+        "content": "没人来吗"
+    },
+    {
+        "action": "TALK",
+        "time": "13:11:43",
+        "time_int": 47503,
+        "user": "GrandMaster",
+        "content": "谁能来演示一下？"
+    },
+    {
+        "action": "TALK",
+        "time": "13:11:53",
+        "time_int": 47513,
+        "user": "weigui",
+        "content": "那我吧"
+    },
+    {
+        "action": "TALK",
+        "time": "13:11:56",
+        "time_int": 47516,
+        "user": "GrandMaster",
+        "content": "伟鬼？"
+    },
+    {
+        "action": "TALK",
+        "time": "13:12:16",
+        "time_int": 47536,
+        "user": "weigui",
+        "content": "我来吧"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:12:35",
+        "time_int": 47555,
+        "user": "weigui",
+        "content": "89"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:13:01",
+        "time_int": 47581,
+        "user": "GrandMaster",
+        "content": "b6"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:13:05",
+        "time_int": 47585,
+        "user": "weigui",
+        "content": "b8"
+    },
+    {
+        "action": "TALK",
+        "time": "13:14:01",
+        "time_int": 47641,
+        "user": "zjrenju36",
+        "content": "G7强点吧?"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:14:19",
+        "time_int": 47659,
+        "user": "GrandMaster",
+        "content": "a6"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:14:22",
+        "time_int": 47662,
+        "user": "weigui",
+        "content": "96"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:14:29",
+        "time_int": 47669,
+        "user": "GrandMaster",
+        "content": "c9"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:14:32",
+        "time_int": 47672,
+        "user": "weigui",
+        "content": "ba"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:15:10",
+        "time_int": 47710,
+        "user": "GrandMaster",
+        "content": "9a"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:15:39",
+        "time_int": 47739,
+        "user": "weigui",
+        "content": "b9"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:16:25",
+        "time_int": 47785,
+        "user": "GrandMaster",
+        "content": "bb"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:16:30",
+        "time_int": 47790,
+        "user": "weigui",
+        "content": "9b"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:16:44",
+        "time_int": 47804,
+        "user": "GrandMaster",
+        "content": "8a"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:16:54",
+        "time_int": 47814,
+        "user": "weigui",
+        "content": "c8"
+    },
+    {
+        "action": "TALK",
+        "time": "13:17:12",
+        "time_int": 47832,
+        "user": "GrandMaster",
+        "content": "黑胜，这个变化大概就是这样"
+    },
+    {
+        "action": "GOTO",
+        "time": "13:18:26",
+        "time_int": 47906,
+        "user": "GrandMaster",
+        "content": 6
+    },
+    {
+        "action": "TALK",
+        "time": "13:18:37",
+        "time_int": 47917,
+        "user": "GrandMaster",
+        "content": "谢谢伟鬼"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:18:52",
+        "time_int": 47932,
+        "user": "GrandMaster",
+        "content": "a7"
+    },
+    {
+        "action": "TALK",
+        "time": "13:18:53",
+        "time_int": 47933,
+        "user": "zjrenju23",
+        "content": "刚才20J10呢"
+    },
+    {
+        "action": "TALK",
+        "time": "13:19:14",
+        "time_int": 47954,
+        "user": "zjrenju06",
+        "content": "刚才20有点问题"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:19:44",
+        "time_int": 47984,
+        "user": "GrandMaster",
+        "content": "76"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:19:52",
+        "time_int": 47992,
+        "user": "GrandMaster",
+        "content": "89"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:20:03",
+        "time_int": 48003,
+        "user": "GrandMaster",
+        "content": "b6"
+    },
+    {
+        "action": "TALK",
+        "time": "13:20:05",
+        "time_int": 48005,
+        "user": "weigui",
+        "content": "黑VCF"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:20:12",
+        "time_int": 48012,
+        "user": "GrandMaster",
+        "content": "b8"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:20:27",
+        "time_int": 48027,
+        "user": "GrandMaster",
+        "content": "a6"
+    },
+    {
+        "action": "TALK",
+        "time": "13:20:30",
+        "time_int": 48030,
+        "user": "zjrenju23",
+        "content": "有反吧"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:20:33",
+        "time_int": 48033,
+        "user": "GrandMaster",
+        "content": "c9"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:20:39",
+        "time_int": 48039,
+        "user": "GrandMaster",
+        "content": "96"
+    },
+    {
+        "action": "TALK",
+        "time": "13:20:44",
+        "time_int": 48044,
+        "user": "zjrenju50",
+        "content": "晕"
+    },
+    {
+        "action": "BACK",
+        "time": "13:20:53",
+        "time_int": 48053,
+        "user": "GrandMaster",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time": "13:20:58",
+        "time_int": 48058,
+        "user": "GrandMaster",
+        "content": ""
+    },
+    {
+        "action": "TALK",
+        "time": "13:21:22",
+        "time_int": 48082,
+        "user": "GrandMaster",
+        "content": "我这网速太慢了"
+    },
+    {
+        "action": "BACK",
+        "time": "13:21:28",
+        "time_int": 48088,
+        "user": "GrandMaster",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time": "13:21:42",
+        "time_int": 48102,
+        "user": "GrandMaster",
+        "content": "a6"
+    },
+    {
+        "action": "TALK",
+        "time": "13:22:12",
+        "time_int": 48132,
+        "user": "weigui",
+        "content": "GM.你点我来摆"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:22:44",
+        "time_int": 48164,
+        "user": "weigui",
+        "content": "96"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:22:45",
+        "time_int": 48165,
+        "user": "weigui",
+        "content": "c9"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:22:46",
+        "time_int": 48166,
+        "user": "weigui",
+        "content": "ba"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:22:49",
+        "time_int": 48169,
+        "user": "weigui",
+        "content": "9a"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:22:50",
+        "time_int": 48170,
+        "user": "weigui",
+        "content": "b9"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:22:51",
+        "time_int": 48171,
+        "user": "weigui",
+        "content": "b7"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:22:52",
+        "time_int": 48172,
+        "user": "weigui",
+        "content": "9b"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:22:52",
+        "time_int": 48172,
+        "user": "weigui",
+        "content": "a8"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:22:54",
+        "time_int": 48174,
+        "user": "weigui",
+        "content": "6b"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:22:55",
+        "time_int": 48175,
+        "user": "weigui",
+        "content": "7a"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:22:56",
+        "time_int": 48176,
+        "user": "weigui",
+        "content": "8b"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:22:56",
+        "time_int": 48176,
+        "user": "weigui",
+        "content": "8a"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:22:57",
+        "time_int": 48177,
+        "user": "weigui",
+        "content": "7b"
+    },
+    {
+        "action": "TALK",
+        "time": "13:23:04",
+        "time_int": 48184,
+        "user": "zjrenju04",
+        "content": "？"
+    },
+    {
+        "action": "TALK",
+        "time": "13:23:07",
+        "time_int": 48187,
+        "user": "zilch_z",
+        "content": "？"
+    },
+    {
+        "action": "BACK",
+        "time": "13:23:08",
+        "time_int": 48188,
+        "user": "weigui",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time": "13:23:09",
+        "time_int": 48189,
+        "user": "weigui",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time": "13:23:10",
+        "time_int": 48190,
+        "user": "weigui",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time": "13:23:10",
+        "time_int": 48190,
+        "user": "weigui",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time": "13:23:11",
+        "time_int": 48191,
+        "user": "weigui",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time": "13:23:12",
+        "time_int": 48192,
+        "user": "weigui",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time": "13:23:12",
+        "time_int": 48192,
+        "user": "weigui",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time": "13:23:14",
+        "time_int": 48194,
+        "user": "weigui",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time": "13:23:15",
+        "time_int": 48195,
+        "user": "weigui",
+        "content": "bb"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:23:17",
+        "time_int": 48197,
+        "user": "weigui",
+        "content": "9b"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:23:18",
+        "time_int": 48198,
+        "user": "weigui",
+        "content": "a8"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:23:19",
+        "time_int": 48199,
+        "user": "weigui",
+        "content": "6b"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:23:20",
+        "time_int": 48200,
+        "user": "weigui",
+        "content": "7a"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:23:21",
+        "time_int": 48201,
+        "user": "weigui",
+        "content": "8b"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:23:21",
+        "time_int": 48201,
+        "user": "weigui",
+        "content": "8a"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:23:22",
+        "time_int": 48202,
+        "user": "weigui",
+        "content": "7b"
+    },
+    {
+        "action": "TALK",
+        "time": "13:23:24",
+        "time_int": 48204,
+        "user": "weigui",
+        "content": "黑VCF胜"
+    },
+    {
+        "action": "BACK",
+        "time": "13:23:27",
+        "time_int": 48207,
+        "user": "weigui",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time": "13:23:28",
+        "time_int": 48208,
+        "user": "weigui",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time": "13:23:28",
+        "time_int": 48208,
+        "user": "weigui",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time": "13:23:29",
+        "time_int": 48209,
+        "user": "weigui",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time": "13:23:30",
+        "time_int": 48210,
+        "user": "weigui",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time": "13:23:31",
+        "time_int": 48211,
+        "user": "weigui",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time": "13:23:32",
+        "time_int": 48212,
+        "user": "weigui",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time": "13:23:33",
+        "time_int": 48213,
+        "user": "weigui",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time": "13:23:35",
+        "time_int": 48215,
+        "user": "weigui",
+        "content": "b7"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:23:36",
+        "time_int": 48216,
+        "user": "weigui",
+        "content": "9b"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:23:37",
+        "time_int": 48217,
+        "user": "weigui",
+        "content": "a8"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:23:38",
+        "time_int": 48218,
+        "user": "weigui",
+        "content": "cb"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:23:39",
+        "time_int": 48219,
+        "user": "weigui",
+        "content": "a9"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:23:41",
+        "time_int": 48221,
+        "user": "weigui",
+        "content": "bb"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:23:42",
+        "time_int": 48222,
+        "user": "weigui",
+        "content": "bc"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:23:43",
+        "time_int": 48223,
+        "user": "weigui",
+        "content": "ab"
+    },
+    {
+        "action": "TALK",
+        "time": "13:23:56",
+        "time_int": 48236,
+        "user": "GrandMaster",
+        "content": "20哪问题？"
+    },
+    {
+        "action": "TALK",
+        "time": "13:24:00",
+        "time_int": 48240,
+        "user": "weigui",
+        "content": "刚才18手反了.不好意思"
+    },
+    {
+        "action": "TALK",
+        "time": "13:24:17",
+        "time_int": 48257,
+        "user": "weigui",
+        "content": "现在有问题了吗"
+    },
+    {
+        "action": "TALK",
+        "time": "13:24:38",
+        "time_int": 48278,
+        "user": "zjrenju23",
+        "content": "18上面，20J10"
+    },
+    {
+        "action": "BACK",
+        "time": "13:24:45",
+        "time_int": 48285,
+        "user": "weigui",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time": "13:24:46",
+        "time_int": 48286,
+        "user": "weigui",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time": "13:24:46",
+        "time_int": 48286,
+        "user": "weigui",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time": "13:24:47",
+        "time_int": 48287,
+        "user": "weigui",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time": "13:24:48",
+        "time_int": 48288,
+        "user": "weigui",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time": "13:24:49",
+        "time_int": 48289,
+        "user": "weigui",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time": "13:24:51",
+        "time_int": 48291,
+        "user": "weigui",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time": "13:24:51",
+        "time_int": 48291,
+        "user": "weigui",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time": "13:24:53",
+        "time_int": 48293,
+        "user": "weigui",
+        "content": "bb"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:24:55",
+        "time_int": 48295,
+        "user": "weigui",
+        "content": "9b"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:24:57",
+        "time_int": 48297,
+        "user": "weigui",
+        "content": "aa"
+    },
+    {
+        "action": "TALK",
+        "time": "13:25:25",
+        "time_int": 48325,
+        "user": "weigui",
+        "content": "这个?"
+    },
+    {
+        "action": "TALK",
+        "time": "13:25:33",
+        "time_int": 48333,
+        "user": "zjrenju23",
+        "content": "对"
+    },
+    {
+        "action": "TALK",
+        "time": "13:25:39",
+        "time_int": 48339,
+        "user": "zjrenju34",
+        "content": "一样 杀呀"
+    },
+    {
+        "action": "TALK",
+        "time": "13:25:50",
+        "time_int": 48350,
+        "user": "zjrenju04",
+        "content": "反"
+    },
+    {
+        "action": "TALK",
+        "time": "13:26:14",
+        "time_int": 48374,
+        "user": "zjrenju23",
+        "content": "我没想出来只好问了，我笨"
+    },
+    {
+        "action": "TALK",
+        "time": "13:26:38",
+        "time_int": 48398,
+        "user": "zjrenju04",
+        "content": "呵23高手"
+    },
+    {
+        "action": "TALK",
+        "time": "13:27:02",
+        "time_int": 48422,
+        "user": "zjrenju23",
+        "content": "04咱俩老乡别拆台"
+    },
+    {
+        "action": "TALK",
+        "time": "13:27:21",
+        "time_int": 48441,
+        "user": "zjrenju04",
+        "content": "呵噢"
+    },
+    {
+        "action": "TALK",
+        "time": "13:27:22",
+        "time_int": 48442,
+        "user": "zjrenju27",
+        "content": "19不好吧"
+    },
+    {
+        "action": "TALK",
+        "time": "13:27:29",
+        "time_int": 48449,
+        "user": "zjrenju22",
+        "content": "走人了，拜拜各位"
+    },
+    {
+        "action": "TALK",
+        "time": "13:27:30",
+        "time_int": 48450,
+        "user": "zjrenju23",
+        "content": "：）"
+    },
+    {
+        "action": "TALK",
+        "time": "13:27:30",
+        "time_int": 48450,
+        "user": "GrandMaster",
+        "content": "这个20我看错了，现在黑杀不了"
+    },
+    {
+        "action": "TALK",
+        "time": "13:28:04",
+        "time_int": 48484,
+        "user": "zjrenju36",
+        "content": "19手先占20手的位置"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:28:05",
+        "time_int": 48485,
+        "user": "weigui",
+        "content": "8a"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:28:06",
+        "time_int": 48486,
+        "user": "weigui",
+        "content": "8b"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:28:06",
+        "time_int": 48486,
+        "user": "weigui",
+        "content": "79"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:28:09",
+        "time_int": 48489,
+        "user": "weigui",
+        "content": "68"
+    },
+    {
+        "action": "TALK",
+        "time": "13:28:14",
+        "time_int": 48494,
+        "user": "zjrenju27",
+        "content": "L9该是正招"
+    },
+    {
+        "action": "BACK",
+        "time": "13:28:21",
+        "time_int": 48501,
+        "user": "weigui",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time": "13:28:22",
+        "time_int": 48502,
+        "user": "weigui",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time": "13:28:23",
+        "time_int": 48503,
+        "user": "weigui",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time": "13:28:23",
+        "time_int": 48503,
+        "user": "weigui",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time": "13:28:24",
+        "time_int": 48504,
+        "user": "weigui",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time": "13:28:25",
+        "time_int": 48505,
+        "user": "weigui",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time": "13:28:25",
+        "time_int": 48505,
+        "user": "weigui",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time": "13:28:26",
+        "time_int": 48506,
+        "user": "weigui",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time": "13:28:27",
+        "time_int": 48507,
+        "user": "weigui",
+        "content": "9b"
+    },
+    {
+        "action": "TALK",
+        "time": "13:28:30",
+        "time_int": 48510,
+        "user": "GrandMaster",
+        "content": "他的次序走错了，我随意下了那么一手"
+    },
+    {
+        "action": "TALK",
+        "time": "13:28:51",
+        "time_int": 48531,
+        "user": "weigui",
+        "content": "这个17应该是对的"
+    },
+    {
+        "action": "TALK",
+        "time": "13:29:08",
+        "time_int": 48548,
+        "user": "GrandMaster",
+        "content": "不该先活三"
+    },
+    {
+        "action": "TALK",
+        "time": "13:29:33",
+        "time_int": 48573,
+        "user": "zjrenju36",
+        "content": "不过哥哥先活3也可以胜"
+    },
+    {
+        "action": "TALK",
+        "time": "13:29:36",
+        "time_int": 48576,
+        "user": "zjrenju04",
+        "content": "J10"
+    },
+    {
+        "action": "TALK",
+        "time": "13:29:38",
+        "time_int": 48578,
+        "user": "zjrenju04",
+        "content": "`？"
+    },
+    {
+        "action": "TALK",
+        "time": "13:29:50",
+        "time_int": 48590,
+        "user": "zjrenju34",
+        "content": "我走了.各位.88"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:30:10",
+        "time_int": 48610,
+        "user": "GrandMaster",
+        "content": "8a"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:30:17",
+        "time_int": 48617,
+        "user": "weigui",
+        "content": "b9"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:30:40",
+        "time_int": 48640,
+        "user": "GrandMaster",
+        "content": "bb"
+    },
+    {
+        "action": "TALK",
+        "time": "13:30:45",
+        "time_int": 48645,
+        "user": "GrandMaster",
+        "content": "现在黑杀"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:30:52",
+        "time_int": 48652,
+        "user": "weigui",
+        "content": "c8"
+    },
+    {
+        "action": "TALK",
+        "time": "13:30:59",
+        "time_int": 48659,
+        "user": "zjrenju50",
+        "content": "19可以K11不？"
+    },
+    {
+        "action": "BACK",
+        "time": "13:31:13",
+        "time_int": 48673,
+        "user": "GrandMaster",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time": "13:31:18",
+        "time_int": 48678,
+        "user": "GrandMaster",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time": "13:31:28",
+        "time_int": 48688,
+        "user": "GrandMaster",
+        "content": ""
+    },
+    {
+        "action": "TALK",
+        "time": "13:31:32",
+        "time_int": 48692,
+        "user": "zjrenju23",
+        "content": "强烈要求点名！！"
+    },
+    {
+        "action": "TALK",
+        "time": "13:31:41",
+        "time_int": 48701,
+        "user": "zjrenju36",
+        "content": "不可以,有反"
+    },
+    {
+        "action": "BACK",
+        "time": "13:31:46",
+        "time_int": 48706,
+        "user": "GrandMaster",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time": "13:31:55",
+        "time_int": 48715,
+        "user": "GrandMaster",
+        "content": "aa"
+    },
+    {
+        "action": "TALK",
+        "time": "13:31:58",
+        "time_int": 48718,
+        "user": "zjrenju04",
+        "content": "18J10？"
+    },
+    {
+        "action": "TALK",
+        "time": "13:32:15",
+        "time_int": 48735,
+        "user": "zjrenju50",
+        "content": "555555555555"
+    },
+    {
+        "action": "TALK",
+        "time": "13:32:17",
+        "time_int": 48737,
+        "user": "GrandMaster",
+        "content": "现在这个18手走在这的话，不行"
+    },
+    {
+        "action": "CHECKRESULT",
+        "time": "13:32:18",
+        "time_int": 48738,
+        "user": "",
+        "content": " zjrenju06, weigui, zjrenju47, zjrenju04, zjrenju11, zjrenju36, zjrenju03, zjrenju99, ouyang, zilch_z."
+    },
+    {
+        "action": "TALK",
+        "time": "13:32:21",
+        "time_int": 48741,
+        "user": "zjrenju50",
+        "content": "I　AM HERE"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:32:23",
+        "time_int": 48743,
+        "user": "weigui",
+        "content": "bb"
+    },
+    {
+        "action": "TALK",
+        "time": "13:32:27",
+        "time_int": 48747,
+        "user": "zjrenju27",
+        "content": "HERE"
+    },
+    {
+        "action": "TALK",
+        "time": "13:32:33",
+        "time_int": 48753,
+        "user": "zjrenju50",
+        "content": "丫"
+    },
+    {
+        "action": "TALK",
+        "time": "13:32:44",
+        "time_int": 48764,
+        "user": "zjrenju23",
+        "content": "啊？我没点上？"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:32:45",
+        "time_int": 48765,
+        "user": "GrandMaster",
+        "content": "b9"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:32:47",
+        "time_int": 48767,
+        "user": "weigui",
+        "content": "8b"
+    },
+    {
+        "action": "TALK",
+        "time": "13:32:56",
+        "time_int": 48776,
+        "user": "zjrenju04",
+        "content": "啊哦"
+    },
+    {
+        "action": "TALK",
+        "time": "13:32:57",
+        "time_int": 48777,
+        "user": "ouyang",
+        "content": "呵呵。。。23"
+    },
+    {
+        "action": "TALK",
+        "time": "13:32:58",
+        "time_int": 48778,
+        "user": "GrandMaster",
+        "content": "现在对了"
+    },
+    {
+        "action": "TALK",
+        "time": "13:33:13",
+        "time_int": 48793,
+        "user": "GrandMaster",
+        "content": "刚才次序上出了点问题"
+    },
+    {
+        "action": "TALK",
+        "time": "13:33:35",
+        "time_int": 48815,
+        "user": "zjrenju47",
+        "content": "50  。。。。。。。。。"
+    },
+    {
+        "action": "TALK",
+        "time": "13:33:42",
+        "time_int": 48822,
+        "user": "zjrenju43",
+        "content": "我怎么老错过嘛"
+    },
+    {
+        "action": "TALK",
+        "time": "13:34:10",
+        "time_int": 48850,
+        "user": "zjrenju43",
+        "content": "（"
+    },
+    {
+        "action": "TALK",
+        "time": "13:34:15",
+        "time_int": 48855,
+        "user": "zjrenju50",
+        "content": "你不叫我"
+    },
+    {
+        "action": "TALK",
+        "time": "13:34:20",
+        "time_int": 48860,
+        "user": "weigui",
+        "content": "好这里大家了解了是因为17的顺序的问题"
+    },
+    {
+        "action": "GOTO",
+        "time": "13:34:45",
+        "time_int": 48885,
+        "user": "GrandMaster",
+        "content": 6
+    },
+    {
+        "action": "MOVE",
+        "time": "13:34:53",
+        "time_int": 48893,
+        "user": "GrandMaster",
+        "content": "a7"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:35:02",
+        "time_int": 48902,
+        "user": "GrandMaster",
+        "content": "a9"
+    },
+    {
+        "action": "TALK",
+        "time": "13:35:06",
+        "time_int": 48906,
+        "user": "weigui",
+        "content": "我们回到刚才的7.请老师继续为大家讲解"
+    },
+    {
+        "action": "TALK",
+        "time": "13:35:30",
+        "time_int": 48930,
+        "user": "GrandMaster",
+        "content": "这个是通刚才的变化的"
+    },
+    {
+        "action": "BACK",
+        "time": "13:35:53",
+        "time_int": 48953,
+        "user": "GrandMaster",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time": "13:35:59",
+        "time_int": 48959,
+        "user": "GrandMaster",
+        "content": "a8"
+    },
+    {
+        "action": "TALK",
+        "time": "13:36:09",
+        "time_int": 48969,
+        "user": "GrandMaster",
+        "content": "看下这个8手"
+    },
+    {
+        "action": "TALK",
+        "time": "13:36:37",
+        "time_int": 48997,
+        "user": "GrandMaster",
+        "content": "谁能来演示一下，怎么走？"
+    },
+    {
+        "action": "TALK",
+        "time": "13:37:26",
+        "time_int": 49046,
+        "user": "zjrenju36",
+        "content": "我来吧?"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:37:40",
+        "time_int": 49060,
+        "user": "zjrenju36",
+        "content": "97"
+    },
+    {
+        "action": "TALK",
+        "time": "13:37:45",
+        "time_int": 49065,
+        "user": "GrandMaster",
+        "content": "这个是弱防"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:37:59",
+        "time_int": 49079,
+        "user": "GrandMaster",
+        "content": "b7"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:38:01",
+        "time_int": 49081,
+        "user": "zjrenju36",
+        "content": "8a"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:38:30",
+        "time_int": 49110,
+        "user": "GrandMaster",
+        "content": "b6"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:38:33",
+        "time_int": 49113,
+        "user": "zjrenju36",
+        "content": "6a"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:38:59",
+        "time_int": 49139,
+        "user": "GrandMaster",
+        "content": "c6"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:39:01",
+        "time_int": 49141,
+        "user": "zjrenju36",
+        "content": "d5"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:39:10",
+        "time_int": 49150,
+        "user": "GrandMaster",
+        "content": "a6"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:39:13",
+        "time_int": 49153,
+        "user": "zjrenju36",
+        "content": "96"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:39:23",
+        "time_int": 49163,
+        "user": "GrandMaster",
+        "content": "7a"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:39:41",
+        "time_int": 49181,
+        "user": "zjrenju36",
+        "content": "76"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:40:00",
+        "time_int": 49200,
+        "user": "GrandMaster",
+        "content": "65"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:40:02",
+        "time_int": 49202,
+        "user": "zjrenju36",
+        "content": "67"
+    },
+    {
+        "action": "TALK",
+        "time": "13:40:06",
+        "time_int": 49206,
+        "user": "zjrenju50",
+        "content": "G9可以不？"
+    },
+    {
+        "action": "TALK",
+        "time": "13:40:08",
+        "time_int": 49208,
+        "user": "zilch_z",
+        "content": "19可以G9吗？"
+    },
+    {
+        "action": "TALK",
+        "time": "13:40:09",
+        "time_int": 49209,
+        "user": "zjrenju50",
+        "content": "19"
+    },
+    {
+        "action": "TALK",
+        "time": "13:40:09",
+        "time_int": 49209,
+        "user": "GrandMaster",
+        "content": "到这黑胜了"
+    },
+    {
+        "action": "TALK",
+        "time": "13:40:17",
+        "time_int": 49217,
+        "user": "GrandMaster",
+        "content": "在个变化比较简单"
+    },
+    {
+        "action": "TALK",
+        "time": "13:40:59",
+        "time_int": 49259,
+        "user": "zjrenju50",
+        "content": "或者F8"
+    },
+    {
+        "action": "TALK",
+        "time": "13:41:01",
+        "time_int": 49261,
+        "user": "zjrenju50",
+        "content": "19"
+    },
+    {
+        "action": "TALK",
+        "time": "13:41:03",
+        "time_int": 49263,
+        "user": "zjrenju23",
+        "content": "也可以吧"
+    },
+    {
+        "action": "TALK",
+        "time": "13:41:16",
+        "time_int": 49276,
+        "user": "zjrenju23",
+        "content": "F8不行"
+    },
+    {
+        "action": "TALK",
+        "time": "13:41:26",
+        "time_int": 49286,
+        "user": "GrandMaster",
+        "content": "可以，一样胜"
+    },
+    {
+        "action": "GOTO",
+        "time": "13:41:59",
+        "time_int": 49319,
+        "user": "GrandMaster",
+        "content": 5
+    },
+    {
+        "action": "MOVE",
+        "time": "13:42:09",
+        "time_int": 49329,
+        "user": "GrandMaster",
+        "content": "a7"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:42:14",
+        "time_int": 49334,
+        "user": "zjrenju36",
+        "content": "a9"
+    },
+    {
+        "action": "TALK",
+        "time": "13:42:31",
+        "time_int": 49351,
+        "user": "GrandMaster",
+        "content": "换个6，这个6手是属于占黑好点的棋"
+    },
+    {
+        "action": "BACK",
+        "time": "13:42:39",
+        "time_int": 49359,
+        "user": "zjrenju36",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time": "13:42:40",
+        "time_int": 49360,
+        "user": "zjrenju36",
+        "content": ""
+    },
+    {
+        "action": "TALK",
+        "time": "13:42:53",
+        "time_int": 49373,
+        "user": "GrandMaster",
+        "content": "那就还由36来吧"
+    },
+    {
+        "action": "TALK",
+        "time": "13:43:04",
+        "time_int": 49384,
+        "user": "zjrenju36",
+        "content": "换哪里"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:43:05",
+        "time_int": 49385,
+        "user": "GrandMaster",
+        "content": "a7"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:43:08",
+        "time_int": 49388,
+        "user": "zjrenju36",
+        "content": "a9"
+    },
+    {
+        "action": "TALK",
+        "time": "13:43:26",
+        "time_int": 49406,
+        "user": "GrandMaster",
+        "content": "就是这个"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:43:31",
+        "time_int": 49411,
+        "user": "GrandMaster",
+        "content": "76"
+    },
+    {
+        "action": "TALK",
+        "time": "13:43:32",
+        "time_int": 49412,
+        "user": "zjrenju36",
+        "content": "哦"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:43:34",
+        "time_int": 49414,
+        "user": "zjrenju36",
+        "content": "ba"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:43:48",
+        "time_int": 49428,
+        "user": "GrandMaster",
+        "content": "cb"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:44:02",
+        "time_int": 49442,
+        "user": "zjrenju36",
+        "content": "b8"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:44:33",
+        "time_int": 49473,
+        "user": "GrandMaster",
+        "content": "a8"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:44:42",
+        "time_int": 49482,
+        "user": "zjrenju36",
+        "content": "9a"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:44:49",
+        "time_int": 49489,
+        "user": "GrandMaster",
+        "content": "8b"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:45:07",
+        "time_int": 49507,
+        "user": "zjrenju36",
+        "content": "86"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:45:15",
+        "time_int": 49515,
+        "user": "GrandMaster",
+        "content": "89"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:45:20",
+        "time_int": 49520,
+        "user": "zjrenju36",
+        "content": "b7"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:45:40",
+        "time_int": 49540,
+        "user": "GrandMaster",
+        "content": "b6"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:45:45",
+        "time_int": 49545,
+        "user": "zjrenju36",
+        "content": "a6"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:46:01",
+        "time_int": 49561,
+        "user": "GrandMaster",
+        "content": "95"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:46:05",
+        "time_int": 49565,
+        "user": "zjrenju36",
+        "content": "ca"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:46:36",
+        "time_int": 49596,
+        "user": "GrandMaster",
+        "content": "aa"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:46:42",
+        "time_int": 49602,
+        "user": "zjrenju36",
+        "content": "bb"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:46:55",
+        "time_int": 49615,
+        "user": "GrandMaster",
+        "content": "b9"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:46:56",
+        "time_int": 49616,
+        "user": "zjrenju36",
+        "content": "d9"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:47:10",
+        "time_int": 49630,
+        "user": "GrandMaster",
+        "content": "e8"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:47:11",
+        "time_int": 49631,
+        "user": "zjrenju36",
+        "content": "d8"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:47:57",
+        "time_int": 49677,
+        "user": "GrandMaster",
+        "content": "da"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:48:06",
+        "time_int": 49686,
+        "user": "zjrenju36",
+        "content": "c7"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:48:15",
+        "time_int": 49695,
+        "user": "GrandMaster",
+        "content": "d6"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:48:16",
+        "time_int": 49696,
+        "user": "zjrenju36",
+        "content": "c8"
+    },
+    {
+        "action": "TALK",
+        "time": "13:48:34",
+        "time_int": 49714,
+        "user": "GrandMaster",
+        "content": "好，到这黑43胜"
+    },
+    {
+        "action": "TALK",
+        "time": "13:48:49",
+        "time_int": 49729,
+        "user": "GrandMaster",
+        "content": "这个应该没问题吧？"
+    },
+    {
+        "action": "TALK",
+        "time": "13:48:57",
+        "time_int": 49737,
+        "user": "zjrenju47",
+        "content": "没有"
+    },
+    {
+        "action": "TALK",
+        "time": "13:49:30",
+        "time_int": 49770,
+        "user": "GrandMaster",
+        "content": "那好，我们看8手变化"
+    },
+    {
+        "action": "GOTO",
+        "time": "13:49:35",
+        "time_int": 49775,
+        "user": "GrandMaster",
+        "content": 7
+    },
+    {
+        "action": "MOVE",
+        "time": "13:49:41",
+        "time_int": 49781,
+        "user": "GrandMaster",
+        "content": "ba"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:49:47",
+        "time_int": 49787,
+        "user": "zjrenju36",
+        "content": "86"
+    },
+    {
+        "action": "TALK",
+        "time": "13:49:50",
+        "time_int": 49790,
+        "user": "GrandMaster",
+        "content": "反方向，怎么样"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:49:58",
+        "time_int": 49798,
+        "user": "GrandMaster",
+        "content": "85"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:50:03",
+        "time_int": 49803,
+        "user": "zjrenju36",
+        "content": "97"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:50:51",
+        "time_int": 49851,
+        "user": "GrandMaster",
+        "content": "76"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:51:17",
+        "time_int": 49877,
+        "user": "zjrenju36",
+        "content": "79"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:51:38",
+        "time_int": 49898,
+        "user": "GrandMaster",
+        "content": "6a"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:51:49",
+        "time_int": 49909,
+        "user": "zjrenju36",
+        "content": "8a"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:51:58",
+        "time_int": 49918,
+        "user": "GrandMaster",
+        "content": "89"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:51:59",
+        "time_int": 49919,
+        "user": "zjrenju36",
+        "content": "68"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:52:11",
+        "time_int": 49931,
+        "user": "GrandMaster",
+        "content": "57"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:52:13",
+        "time_int": 49933,
+        "user": "zjrenju36",
+        "content": "a8"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:52:27",
+        "time_int": 49947,
+        "user": "GrandMaster",
+        "content": "b9"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:52:40",
+        "time_int": 49960,
+        "user": "zjrenju36",
+        "content": "95"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:52:49",
+        "time_int": 49969,
+        "user": "GrandMaster",
+        "content": "77"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:52:51",
+        "time_int": 49971,
+        "user": "zjrenju36",
+        "content": "a6"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:53:02",
+        "time_int": 49982,
+        "user": "GrandMaster",
+        "content": "b5"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:53:04",
+        "time_int": 49984,
+        "user": "zjrenju36",
+        "content": "c8"
+    },
+    {
+        "action": "TALK",
+        "time": "13:53:30",
+        "time_int": 50010,
+        "user": "GrandMaster",
+        "content": "黑25胜"
+    },
+    {
+        "action": "TALK",
+        "time": "13:54:00",
+        "time_int": 50040,
+        "user": "GrandMaster",
+        "content": "当然白12也有别的选择，不过黑都可以胜，那些胜法都比较简单，我们就不一一介绍了"
+    },
+    {
+        "action": "TALK",
+        "time": "13:54:10",
+        "time_int": 50050,
+        "user": "GrandMaster",
+        "content": "这个大家没问题吧？"
+    },
+    {
+        "action": "TALK",
+        "time": "13:54:27",
+        "time_int": 50067,
+        "user": "zjrenju11",
+        "content": "是的。"
+    },
+    {
+        "action": "TALK",
+        "time": "13:54:28",
+        "time_int": 50068,
+        "user": "zjrenju47",
+        "content": "恩"
+    },
+    {
+        "action": "TALK",
+        "time": "13:54:29",
+        "time_int": 50069,
+        "user": "weigui",
+        "content": "没"
+    },
+    {
+        "action": "TALK",
+        "time": "13:54:47",
+        "time_int": 50087,
+        "user": "zjrenju23",
+        "content": "20反"
+    },
+    {
+        "action": "TALK",
+        "time": "13:54:55",
+        "time_int": 50095,
+        "user": "GrandMaster",
+        "content": "没有的话，我们在换另外的6看看"
+    },
+    {
+        "action": "TALK",
+        "time": "13:55:04",
+        "time_int": 50104,
+        "user": "GrandMaster",
+        "content": "20反？"
+    },
+    {
+        "action": "TALK",
+        "time": "13:55:12",
+        "time_int": 50112,
+        "user": "GrandMaster",
+        "content": "那样黑V了"
+    },
+    {
+        "action": "GOTO",
+        "time": "13:55:18",
+        "time_int": 50118,
+        "user": "GrandMaster",
+        "content": 19
+    },
+    {
+        "action": "TALK",
+        "time": "13:55:25",
+        "time_int": 50125,
+        "user": "zjrenju23",
+        "content": "嗯，一时没看明白，太快了"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:55:30",
+        "time_int": 50130,
+        "user": "GrandMaster",
+        "content": "75"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:55:32",
+        "time_int": 50132,
+        "user": "zjrenju36",
+        "content": "b9"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:55:41",
+        "time_int": 50141,
+        "user": "GrandMaster",
+        "content": "ca"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:55:42",
+        "time_int": 50142,
+        "user": "zjrenju36",
+        "content": "c8"
+    },
+    {
+        "action": "TALK",
+        "time": "13:55:54",
+        "time_int": 50154,
+        "user": "zjrenju23",
+        "content": "呵呵，谢谢"
+    },
+    {
+        "action": "TALK",
+        "time": "13:55:55",
+        "time_int": 50155,
+        "user": "GrandMaster",
+        "content": "这个黑V了"
+    },
+    {
+        "action": "TALK",
+        "time": "13:55:57",
+        "time_int": 50157,
+        "user": "zjrenju11",
+        "content": "10反呢？"
+    },
+    {
+        "action": "TALK",
+        "time": "13:56:17",
+        "time_int": 50177,
+        "user": "GrandMaster",
+        "content": "哦，我们可以看一下"
+    },
+    {
+        "action": "TALK",
+        "time": "13:56:24",
+        "time_int": 50184,
+        "user": "GrandMaster",
+        "content": "那样黑的优势更大"
+    },
+    {
+        "action": "GOTO",
+        "time": "13:56:28",
+        "time_int": 50188,
+        "user": "GrandMaster",
+        "content": 9
+    },
+    {
+        "action": "TALK",
+        "time": "13:56:34",
+        "time_int": 50194,
+        "user": "zjrenju23",
+        "content": "10反应该好胜，下面太壮了"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:56:36",
+        "time_int": 50196,
+        "user": "GrandMaster",
+        "content": "89"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:56:41",
+        "time_int": 50201,
+        "user": "zjrenju36",
+        "content": "76"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:56:51",
+        "time_int": 50211,
+        "user": "GrandMaster",
+        "content": "65"
+    },
+    {
+        "action": "TALK",
+        "time": "13:57:01",
+        "time_int": 50221,
+        "user": "zjrenju04",
+        "content": "反11"
+    },
+    {
+        "action": "TALK",
+        "time": "13:57:03",
+        "time_int": 50223,
+        "user": "zjrenju04",
+        "content": "哈"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:57:04",
+        "time_int": 50224,
+        "user": "zjrenju36",
+        "content": "96"
+    },
+    {
+        "action": "TALK",
+        "time": "13:57:16",
+        "time_int": 50236,
+        "user": "zjrenju11",
+        "content": "04反了。"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:57:26",
+        "time_int": 50246,
+        "user": "GrandMaster",
+        "content": "a6"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:57:52",
+        "time_int": 50272,
+        "user": "zjrenju36",
+        "content": "85"
+    },
+    {
+        "action": "TALK",
+        "time": "13:58:01",
+        "time_int": 50281,
+        "user": "zjrenju04",
+        "content": "是你反的呀"
+    },
+    {
+        "action": "TALK",
+        "time": "13:58:23",
+        "time_int": 50303,
+        "user": "zjrenju11",
+        "content": "04闭上你嘴巴。"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:58:35",
+        "time_int": 50315,
+        "user": "GrandMaster",
+        "content": "84"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:58:39",
+        "time_int": 50319,
+        "user": "zjrenju36",
+        "content": "67"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:58:52",
+        "time_int": 50332,
+        "user": "GrandMaster",
+        "content": "58"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:58:57",
+        "time_int": 50337,
+        "user": "zjrenju36",
+        "content": "94"
+    },
+    {
+        "action": "TALK",
+        "time": "13:59:02",
+        "time_int": 50342,
+        "user": "zjrenju11",
+        "content": "没了"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:59:05",
+        "time_int": 50345,
+        "user": "GrandMaster",
+        "content": "a3"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:59:07",
+        "time_int": 50347,
+        "user": "zjrenju36",
+        "content": "95"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:59:15",
+        "time_int": 50355,
+        "user": "GrandMaster",
+        "content": "97"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:59:16",
+        "time_int": 50356,
+        "user": "zjrenju36",
+        "content": "b5"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:59:25",
+        "time_int": 50365,
+        "user": "GrandMaster",
+        "content": "a5"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:59:26",
+        "time_int": 50366,
+        "user": "zjrenju36",
+        "content": "a4"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:59:37",
+        "time_int": 50377,
+        "user": "GrandMaster",
+        "content": "b3"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:59:39",
+        "time_int": 50379,
+        "user": "zjrenju36",
+        "content": "93"
+    },
+    {
+        "action": "TALK",
+        "time": "13:59:49",
+        "time_int": 50389,
+        "user": "GrandMaster",
+        "content": "很好，这就是10反的变化"
+    },
+    {
+        "action": "TALK",
+        "time": "13:59:57",
+        "time_int": 50397,
+        "user": "GrandMaster",
+        "content": "到这43杀"
+    },
+    {
+        "action": "TALK",
+        "time": "14:00:25",
+        "time_int": 50425,
+        "user": "GrandMaster",
+        "content": "谢谢36，我们在走一个变化"
+    },
+    {
+        "action": "GOTO",
+        "time": "14:00:30",
+        "time_int": 50430,
+        "user": "GrandMaster",
+        "content": 5
+    },
+    {
+        "action": "MOVE",
+        "time": "14:00:38",
+        "time_int": 50438,
+        "user": "GrandMaster",
+        "content": "a8"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:00:48",
+        "time_int": 50448,
+        "user": "zjrenju36",
+        "content": "a9"
+    },
+    {
+        "action": "TALK",
+        "time": "14:00:56",
+        "time_int": 50456,
+        "user": "GrandMaster",
+        "content": "白6有很多手段，很多变化都是在这形成的"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:01:09",
+        "time_int": 50469,
+        "user": "GrandMaster",
+        "content": "76"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:01:17",
+        "time_int": 50477,
+        "user": "zjrenju36",
+        "content": "8a"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:01:23",
+        "time_int": 50483,
+        "user": "GrandMaster",
+        "content": "89"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:01:24",
+        "time_int": 50484,
+        "user": "zjrenju36",
+        "content": "9a"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:01:54",
+        "time_int": 50514,
+        "user": "GrandMaster",
+        "content": "aa"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:02:12",
+        "time_int": 50532,
+        "user": "zjrenju36",
+        "content": "8b"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:02:24",
+        "time_int": 50544,
+        "user": "GrandMaster",
+        "content": "7c"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:02:37",
+        "time_int": 50557,
+        "user": "zjrenju36",
+        "content": "79"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:03:07",
+        "time_int": 50587,
+        "user": "GrandMaster",
+        "content": "6a"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:03:26",
+        "time_int": 50606,
+        "user": "zjrenju36",
+        "content": "b7"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:03:47",
+        "time_int": 50627,
+        "user": "GrandMaster",
+        "content": "b8"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:03:59",
+        "time_int": 50639,
+        "user": "zjrenju36",
+        "content": "97"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:04:49",
+        "time_int": 50689,
+        "user": "GrandMaster",
+        "content": "a7"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:04:53",
+        "time_int": 50693,
+        "user": "zjrenju36",
+        "content": "a6"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:04:59",
+        "time_int": 50699,
+        "user": "GrandMaster",
+        "content": "b5"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:05:00",
+        "time_int": 50700,
+        "user": "zjrenju36",
+        "content": "c8"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:05:28",
+        "time_int": 50728,
+        "user": "GrandMaster",
+        "content": "d9"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:05:54",
+        "time_int": 50754,
+        "user": "zjrenju36",
+        "content": "c9"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:06:31",
+        "time_int": 50791,
+        "user": "GrandMaster",
+        "content": "ca"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:06:34",
+        "time_int": 50794,
+        "user": "zjrenju36",
+        "content": "68"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:06:43",
+        "time_int": 50803,
+        "user": "GrandMaster",
+        "content": "57"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:06:46",
+        "time_int": 50806,
+        "user": "zjrenju36",
+        "content": "ab"
+    },
+    {
+        "action": "TALK",
+        "time": "14:07:03",
+        "time_int": 50823,
+        "user": "GrandMaster",
+        "content": "好，黑29手双43做杀"
+    },
+    {
+        "action": "TALK",
+        "time": "14:07:25",
+        "time_int": 50845,
+        "user": "GrandMaster",
+        "content": "当然有很多其他的选择，我们下星期在看"
+    },
+    {
+        "action": "TALK",
+        "time": "14:07:32",
+        "time_int": 50852,
+        "user": "GrandMaster",
+        "content": "今天时间到了"
+    },
+    {
+        "action": "TALK",
+        "time": "14:07:33",
+        "time_int": 50853,
+        "user": "zjrenju11",
+        "content": "17I11？"
+    },
+    {
+        "action": "TALK",
+        "time": "14:07:59",
+        "time_int": 50879,
+        "user": "weigui",
+        "content": "好.谢谢GM.今天的课到这里结束."
+    },
+    {
+        "action": "CREDIT",
+        "time": "14:08:04",
+        "time_int": 50884,
+        "user": "",
+        "content": " ouyang, weigui, zjrenju04, zjrenju06, zjrenju11, zjrenju47."
+    }
+]

@@ -1,0 +1,4384 @@
+[
+    {
+        "action": "RESET",
+        "time": "12:14:00",
+        "time_int": 44040,
+        "user": "",
+        "content": "001000BM"
+    },
+    {
+        "action": "TALK",
+        "time": "12:14:16",
+        "time_int": 44056,
+        "user": "chinarenju34",
+        "content": "吓 我一跳"
+    },
+    {
+        "action": "TALK",
+        "time": "12:14:21",
+        "time_int": 44061,
+        "user": "wzqclass193",
+        "content": "1"
+    },
+    {
+        "action": "TALK",
+        "time": "12:14:42",
+        "time_int": 44082,
+        "user": "wzqclass70",
+        "content": "."
+    },
+    {
+        "action": "TALK",
+        "time": "12:14:43",
+        "time_int": 44083,
+        "user": "wzqclass76",
+        "content": "热身完毕"
+    },
+    {
+        "action": "TALK",
+        "time": "12:14:51",
+        "time_int": 44091,
+        "user": "wzqclass192",
+        "content": "有我,嘻嘻"
+    },
+    {
+        "action": "CHECKRESULT",
+        "time": "12:14:56",
+        "time_int": 44096,
+        "user": "",
+        "content": " wzqclass09, wzqclass110, wzqclass133, wzqclass103, wzqclass65, ssrenju55, wzqclass80, wzqclass66, wzqclass39, wzqclass76, wzqclass99, wzqclass149, wzqclass126, wzqclass87, wzqclass91, wzqclass36, wzqclass125, wzqclass183, wzqclass104, wzqclass95, ice, chinarenju34, chinarenju37, wzqclass182, wzqclass193, wzqclass118, wzqclass02, wzqclass185, wzqclass171, wzqclass189, wzqclass34, wzqclass58, wzqclass81, wzqclass132, wzqclass105, wzqclass192, wzqclass190, wzqclass29, wzqclass179, wzqclass56, ssrenju14, wzqclass177, wzqclass181, wzqclass70, wzqclass176."
+    },
+    {
+        "action": "TALK",
+        "time": "12:14:58",
+        "time_int": 44098,
+        "user": "wzqclass182",
+        "content": "不知道是谁惨了"
+    },
+    {
+        "action": "TALK",
+        "time": "12:15:00",
+        "time_int": 44100,
+        "user": "wzqclass189",
+        "content": "放松"
+    },
+    {
+        "action": "TALK",
+        "time": "12:15:05",
+        "time_int": 44105,
+        "user": "GrandMaster",
+        "content": "猜先后由我开局"
+    },
+    {
+        "action": "TALK",
+        "time": "12:15:06",
+        "time_int": 44106,
+        "user": "wzqclass189",
+        "content": "可以了"
+    },
+    {
+        "action": "MOVE",
+        "time": "12:15:07",
+        "time_int": 44107,
+        "user": "GrandMaster",
+        "content": "88"
+    },
+    {
+        "action": "MOVE",
+        "time": "12:15:08",
+        "time_int": 44108,
+        "user": "GrandMaster",
+        "content": "89"
+    },
+    {
+        "action": "TALK",
+        "time": "12:15:08",
+        "time_int": 44108,
+        "user": "wzqclass10",
+        "content": "......."
+    },
+    {
+        "action": "MOVE",
+        "time": "12:15:09",
+        "time_int": 44109,
+        "user": "GrandMaster",
+        "content": "86"
+    },
+    {
+        "action": "TALK",
+        "time": "12:15:16",
+        "time_int": 44116,
+        "user": "wzqclass166",
+        "content": "11"
+    },
+    {
+        "action": "TALK",
+        "time": "12:15:52",
+        "time_int": 44152,
+        "user": "GrandMaster",
+        "content": "我也不知道开什么，赛前蔡力捷叫我开瑞星，其他的也没有什么把握"
+    },
+    {
+        "action": "TALK",
+        "time": "12:16:24",
+        "time_int": 44184,
+        "user": "GrandMaster",
+        "content": "目的就是阻击顾炜，目标在于能守和"
+    },
+    {
+        "action": "TALK",
+        "time": "12:16:26",
+        "time_int": 44186,
+        "user": "wzqclass95",
+        "content": "。"
+    },
+    {
+        "action": "TALK",
+        "time": "12:16:40",
+        "time_int": 44200,
+        "user": "GrandMaster",
+        "content": "顾老师没有忧郁"
+    },
+    {
+        "action": "TALK",
+        "time": "12:16:40",
+        "time_int": 44200,
+        "user": "wzqclass76",
+        "content": "大定式？"
+    },
+    {
+        "action": "TALK",
+        "time": "12:16:46",
+        "time_int": 44206,
+        "user": "GrandMaster",
+        "content": "没有交换"
+    },
+    {
+        "action": "MOVE",
+        "time": "12:17:05",
+        "time_int": 44225,
+        "user": "GrandMaster",
+        "content": "7a"
+    },
+    {
+        "action": "BACK",
+        "time": "12:17:11",
+        "time_int": 44231,
+        "user": "GrandMaster",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time": "12:17:13",
+        "time_int": 44233,
+        "user": "GrandMaster",
+        "content": "9a"
+    },
+    {
+        "action": "TALK",
+        "time": "12:17:15",
+        "time_int": 44235,
+        "user": "GrandMaster",
+        "content": "这个白4"
+    },
+    {
+        "action": "BACK",
+        "time": "12:17:16",
+        "time_int": 44236,
+        "user": "GrandMaster",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time": "12:17:17",
+        "time_int": 44237,
+        "user": "GrandMaster",
+        "content": "7a"
+    },
+    {
+        "action": "TALK",
+        "time": "12:17:31",
+        "time_int": 44251,
+        "user": "GrandMaster",
+        "content": "实战下了G10而不是I10"
+    },
+    {
+        "action": "TALK",
+        "time": "12:17:40",
+        "time_int": 44260,
+        "user": "GrandMaster",
+        "content": "为了就是让对手不习惯"
+    },
+    {
+        "action": "TALK",
+        "time": "12:17:49",
+        "time_int": 44269,
+        "user": "wzqclass193",
+        "content": "不都一样吗？"
+    },
+    {
+        "action": "TALK",
+        "time": "12:17:57",
+        "time_int": 44277,
+        "user": "wzqclass99",
+        "content": "42"
+    },
+    {
+        "action": "TALK",
+        "time": "12:18:04",
+        "time_int": 44284,
+        "user": "wzqclass166",
+        "content": "94a"
+    },
+    {
+        "action": "TALK",
+        "time": "12:18:18",
+        "time_int": 44298,
+        "user": "GrandMaster",
+        "content": "一般来说我们总是把右边作为自己习惯的一边"
+    },
+    {
+        "action": "TALK",
+        "time": "12:18:21",
+        "time_int": 44301,
+        "user": "wzqclass105",
+        "content": ".."
+    },
+    {
+        "action": "MOVE",
+        "time": "12:18:22",
+        "time_int": 44302,
+        "user": "GrandMaster",
+        "content": "76"
+    },
+    {
+        "action": "TALK",
+        "time": "12:18:22",
+        "time_int": 44302,
+        "user": "wzqclass95",
+        "content": "实战当中感觉就不一样了"
+    },
+    {
+        "action": "TALK",
+        "time": "12:18:23",
+        "time_int": 44303,
+        "user": "chinarenju34",
+        "content": "老师叫什么名字"
+    },
+    {
+        "action": "TALK",
+        "time": "12:18:27",
+        "time_int": 44307,
+        "user": "wzqclass176",
+        "content": "哦."
+    },
+    {
+        "action": "MOVE",
+        "time": "12:18:38",
+        "time_int": 44318,
+        "user": "GrandMaster",
+        "content": "79"
+    },
+    {
+        "action": "MOVE",
+        "time": "12:18:41",
+        "time_int": 44321,
+        "user": "GrandMaster",
+        "content": "99"
+    },
+    {
+        "action": "MOVE",
+        "time": "12:18:42",
+        "time_int": 44322,
+        "user": "GrandMaster",
+        "content": "98"
+    },
+    {
+        "action": "MOVE",
+        "time": "12:18:44",
+        "time_int": 44324,
+        "user": "GrandMaster",
+        "content": "6b"
+    },
+    {
+        "action": "TALK",
+        "time": "12:19:01",
+        "time_int": 44341,
+        "user": "wzqclass103",
+        "content": "chinarenju34，老师是chess"
+    },
+    {
+        "action": "TALK",
+        "time": "12:19:10",
+        "time_int": 44350,
+        "user": "wzqclass125",
+        "content": "心理战术"
+    },
+    {
+        "action": "MOVE",
+        "time": "12:19:22",
+        "time_int": 44362,
+        "user": "GrandMaster",
+        "content": "77"
+    },
+    {
+        "action": "TALK",
+        "time": "12:19:24",
+        "time_int": 44364,
+        "user": "GrandMaster",
+        "content": "前10手双方都没有轻易变招"
+    },
+    {
+        "action": "MOVE",
+        "time": "12:19:29",
+        "time_int": 44369,
+        "user": "GrandMaster",
+        "content": "78"
+    },
+    {
+        "action": "TALK",
+        "time": "12:19:32",
+        "time_int": 44372,
+        "user": "wzqclass29",
+        "content": "."
+    },
+    {
+        "action": "TALK",
+        "time": "12:19:37",
+        "time_int": 44377,
+        "user": "GrandMaster",
+        "content": "11有几个下法"
+    },
+    {
+        "action": "BACK",
+        "time": "12:19:39",
+        "time_int": 44379,
+        "user": "GrandMaster",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time": "12:19:46",
+        "time_int": 44386,
+        "user": "GrandMaster",
+        "content": "7b"
+    },
+    {
+        "action": "BACK",
+        "time": "12:19:47",
+        "time_int": 44387,
+        "user": "GrandMaster",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time": "12:19:48",
+        "time_int": 44388,
+        "user": "GrandMaster",
+        "content": "87"
+    },
+    {
+        "action": "TALK",
+        "time": "12:19:52",
+        "time_int": 44392,
+        "user": "wzqclass183",
+        "content": "\/"
+    },
+    {
+        "action": "TALK",
+        "time": "12:19:57",
+        "time_int": 44397,
+        "user": "wzqclass193",
+        "content": "哪个强？"
+    },
+    {
+        "action": "TALK",
+        "time": "12:19:58",
+        "time_int": 44398,
+        "user": "GrandMaster",
+        "content": "这3个相对来说比较强"
+    },
+    {
+        "action": "BACK",
+        "time": "12:20:01",
+        "time_int": 44401,
+        "user": "GrandMaster",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time": "12:20:07",
+        "time_int": 44407,
+        "user": "GrandMaster",
+        "content": "67"
+    },
+    {
+        "action": "BACK",
+        "time": "12:20:08",
+        "time_int": 44408,
+        "user": "GrandMaster",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time": "12:20:13",
+        "time_int": 44413,
+        "user": "GrandMaster",
+        "content": "8a"
+    },
+    {
+        "action": "BACK",
+        "time": "12:20:14",
+        "time_int": 44414,
+        "user": "GrandMaster",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time": "12:20:15",
+        "time_int": 44415,
+        "user": "GrandMaster",
+        "content": "a8"
+    },
+    {
+        "action": "BACK",
+        "time": "12:20:17",
+        "time_int": 44417,
+        "user": "GrandMaster",
+        "content": ""
+    },
+    {
+        "action": "TALK",
+        "time": "12:20:21",
+        "time_int": 44421,
+        "user": "ice",
+        "content": "chess007?"
+    },
+    {
+        "action": "TALK",
+        "time": "12:20:29",
+        "time_int": 44429,
+        "user": "GrandMaster",
+        "content": "还有几个也偶尔有人会走"
+    },
+    {
+        "action": "TALK",
+        "time": "12:20:29",
+        "time_int": 44429,
+        "user": "ssrenju55",
+        "content": "恩.."
+    },
+    {
+        "action": "TALK",
+        "time": "12:20:41",
+        "time_int": 44441,
+        "user": "GrandMaster",
+        "content": "但是黑棋不大好"
+    },
+    {
+        "action": "TALK",
+        "time": "12:20:41",
+        "time_int": 44441,
+        "user": "wzqclass183",
+        "content": "\/\/\/"
+    },
+    {
+        "action": "TALK",
+        "time": "12:20:47",
+        "time_int": 44447,
+        "user": "ice",
+        "content": "坏人。一直不跟我下棋"
+    },
+    {
+        "action": "TALK",
+        "time": "12:20:56",
+        "time_int": 44456,
+        "user": "wzqclass133",
+        "content": "。。。。。。。"
+    },
+    {
+        "action": "TALK",
+        "time": "12:21:05",
+        "time_int": 44465,
+        "user": "GrandMaster",
+        "content": "但是实战中如果你有较深的研究还是可以下的"
+    },
+    {
+        "action": "MOVE",
+        "time": "12:21:07",
+        "time_int": 44467,
+        "user": "GrandMaster",
+        "content": "78"
+    },
+    {
+        "action": "TALK",
+        "time": "12:21:20",
+        "time_int": 44480,
+        "user": "GrandMaster",
+        "content": "我下了这个最常见的11，因为其他的都不熟悉"
+    },
+    {
+        "action": "TALK",
+        "time": "12:21:44",
+        "time_int": 44504,
+        "user": "GrandMaster",
+        "content": "这个时候顾老师想了好久才下了12"
+    },
+    {
+        "action": "TALK",
+        "time": "12:21:53",
+        "time_int": 44513,
+        "user": "wzqclass193",
+        "content": "12有骗吗"
+    },
+    {
+        "action": "MOVE",
+        "time": "12:21:53",
+        "time_int": 44513,
+        "user": "GrandMaster",
+        "content": "58"
+    },
+    {
+        "action": "TALK",
+        "time": "12:22:07",
+        "time_int": 44527,
+        "user": "GrandMaster",
+        "content": "这个12大家平时应该不常看见吧"
+    },
+    {
+        "action": "TALK",
+        "time": "12:22:12",
+        "time_int": 44532,
+        "user": "wzqclass132",
+        "content": "嗯"
+    },
+    {
+        "action": "TALK",
+        "time": "12:22:13",
+        "time_int": 44533,
+        "user": "wzqclass125",
+        "content": "en"
+    },
+    {
+        "action": "TALK",
+        "time": "12:22:14",
+        "time_int": 44534,
+        "user": "GrandMaster",
+        "content": "虽然有人走"
+    },
+    {
+        "action": "TALK",
+        "time": "12:22:19",
+        "time_int": 44539,
+        "user": "wzqclass193",
+        "content": "白12是变招，最早见于2000年在镇江“林机杯”比赛A组同北京陈伟六段（当时）的实战中。"
+    },
+    {
+        "action": "TALK",
+        "time": "12:22:19",
+        "time_int": 44539,
+        "user": "GrandMaster",
+        "content": "但是比较少"
+    },
+    {
+        "action": "BACK",
+        "time": "12:22:22",
+        "time_int": 44542,
+        "user": "GrandMaster",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time": "12:22:23",
+        "time_int": 44543,
+        "user": "GrandMaster",
+        "content": "57"
+    },
+    {
+        "action": "TALK",
+        "time": "12:22:30",
+        "time_int": 44550,
+        "user": "wzqclass176",
+        "content": "我喜欢"
+    },
+    {
+        "action": "TALK",
+        "time": "12:22:33",
+        "time_int": 44553,
+        "user": "GrandMaster",
+        "content": "最流行的几个12"
+    },
+    {
+        "action": "BACK",
+        "time": "12:22:34",
+        "time_int": 44554,
+        "user": "GrandMaster",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time": "12:22:36",
+        "time_int": 44556,
+        "user": "GrandMaster",
+        "content": "8a"
+    },
+    {
+        "action": "TALK",
+        "time": "12:22:36",
+        "time_int": 44556,
+        "user": "wzqclass125",
+        "content": "恩"
+    },
+    {
+        "action": "BACK",
+        "time": "12:22:38",
+        "time_int": 44558,
+        "user": "GrandMaster",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time": "12:22:38",
+        "time_int": 44558,
+        "user": "GrandMaster",
+        "content": "96"
+    },
+    {
+        "action": "TALK",
+        "time": "12:22:40",
+        "time_int": 44560,
+        "user": "wzqclass189",
+        "content": "222"
+    },
+    {
+        "action": "TALK",
+        "time": "12:22:46",
+        "time_int": 44566,
+        "user": "GrandMaster",
+        "content": "这3个走的比较多"
+    },
+    {
+        "action": "TALK",
+        "time": "12:22:51",
+        "time_int": 44571,
+        "user": "wzqclass189",
+        "content": "镇江有过这样滴比赛阿"
+    },
+    {
+        "action": "TALK",
+        "time": "12:23:06",
+        "time_int": 44586,
+        "user": "wzqclass193",
+        "content": "我有刚才那个12"
+    },
+    {
+        "action": "TALK",
+        "time": "12:23:16",
+        "time_int": 44596,
+        "user": "GrandMaster",
+        "content": "特别是世界杯上团角和2路跳的特别多"
+    },
+    {
+        "action": "BACK",
+        "time": "12:23:19",
+        "time_int": 44599,
+        "user": "GrandMaster",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time": "12:23:21",
+        "time_int": 44601,
+        "user": "GrandMaster",
+        "content": "69"
+    },
+    {
+        "action": "BACK",
+        "time": "12:23:23",
+        "time_int": 44603,
+        "user": "GrandMaster",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time": "12:23:24",
+        "time_int": 44604,
+        "user": "GrandMaster",
+        "content": "59"
+    },
+    {
+        "action": "TALK",
+        "time": "12:23:43",
+        "time_int": 44623,
+        "user": "GrandMaster",
+        "content": "这2个也有，不过白棋可能比较被动"
+    },
+    {
+        "action": "BACK",
+        "time": "12:23:48",
+        "time_int": 44628,
+        "user": "GrandMaster",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time": "12:23:49",
+        "time_int": 44629,
+        "user": "GrandMaster",
+        "content": "69"
+    },
+    {
+        "action": "BACK",
+        "time": "12:23:50",
+        "time_int": 44630,
+        "user": "GrandMaster",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time": "12:23:54",
+        "time_int": 44634,
+        "user": "GrandMaster",
+        "content": "58"
+    },
+    {
+        "action": "TALK",
+        "time": "12:24:02",
+        "time_int": 44642,
+        "user": "ice",
+        "content": "会么"
+    },
+    {
+        "action": "TALK",
+        "time": "12:24:10",
+        "time_int": 44650,
+        "user": "wzqclass193",
+        "content": "老师的黑下在哪？"
+    },
+    {
+        "action": "TALK",
+        "time": "12:24:36",
+        "time_int": 44676,
+        "user": "GrandMaster",
+        "content": "这个12是顾老师考虑后下的，他觉得一般的12可能大家都熟悉，前面定试摆完空间就差不多了"
+    },
+    {
+        "action": "TALK",
+        "time": "12:24:49",
+        "time_int": 44689,
+        "user": "wzqclass76",
+        "content": "12就是怕和才变的吧"
+    },
+    {
+        "action": "TALK",
+        "time": "12:24:54",
+        "time_int": 44694,
+        "user": "GrandMaster",
+        "content": "因此他不想和棋，求变"
+    },
+    {
+        "action": "TALK",
+        "time": "12:25:02",
+        "time_int": 44702,
+        "user": "wzqclass176",
+        "content": "哦."
+    },
+    {
+        "action": "MOVE",
+        "time": "12:25:04",
+        "time_int": 44704,
+        "user": "GrandMaster",
+        "content": "69"
+    },
+    {
+        "action": "MOVE",
+        "time": "12:25:18",
+        "time_int": 44718,
+        "user": "GrandMaster",
+        "content": "96"
+    },
+    {
+        "action": "MOVE",
+        "time": "12:25:24",
+        "time_int": 44724,
+        "user": "GrandMaster",
+        "content": "a7"
+    },
+    {
+        "action": "TALK",
+        "time": "12:25:40",
+        "time_int": 44740,
+        "user": "GrandMaster",
+        "content": "我也没有敢贸然进攻"
+    },
+    {
+        "action": "TALK",
+        "time": "12:25:47",
+        "time_int": 44747,
+        "user": "GrandMaster",
+        "content": "对这个12的研究也不多"
+    },
+    {
+        "action": "BACK",
+        "time": "12:25:57",
+        "time_int": 44757,
+        "user": "GrandMaster",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time": "12:25:58",
+        "time_int": 44758,
+        "user": "GrandMaster",
+        "content": "57"
+    },
+    {
+        "action": "TALK",
+        "time": "12:26:18",
+        "time_int": 44778,
+        "user": "GrandMaster",
+        "content": "比赛后，蔡力捷和我说这个15是最强的"
+    },
+    {
+        "action": "TALK",
+        "time": "12:26:19",
+        "time_int": 44779,
+        "user": "wzqclass193",
+        "content": "老师的13是正招"
+    },
+    {
+        "action": "TALK",
+        "time": "12:26:22",
+        "time_int": 44782,
+        "user": "ice",
+        "content": "哦"
+    },
+    {
+        "action": "TALK",
+        "time": "12:26:24",
+        "time_int": 44784,
+        "user": "GrandMaster",
+        "content": "后面黑非常好走"
+    },
+    {
+        "action": "MOVE",
+        "time": "12:26:38",
+        "time_int": 44798,
+        "user": "GrandMaster",
+        "content": "a7"
+    },
+    {
+        "action": "BACK",
+        "time": "12:26:40",
+        "time_int": 44800,
+        "user": "GrandMaster",
+        "content": ""
+    },
+    {
+        "action": "TALK",
+        "time": "12:26:52",
+        "time_int": 44812,
+        "user": "GrandMaster",
+        "content": "但是白棋的这个冲4始终存在"
+    },
+    {
+        "action": "TALK",
+        "time": "12:27:05",
+        "time_int": 44825,
+        "user": "GrandMaster",
+        "content": "让我有所顾忌"
+    },
+    {
+        "action": "BACK",
+        "time": "12:27:09",
+        "time_int": 44829,
+        "user": "GrandMaster",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time": "12:27:11",
+        "time_int": 44831,
+        "user": "GrandMaster",
+        "content": "a7"
+    },
+    {
+        "action": "TALK",
+        "time": "12:27:27",
+        "time_int": 44847,
+        "user": "GrandMaster",
+        "content": "因此实战中我直接盖了这个眠三"
+    },
+    {
+        "action": "MOVE",
+        "time": "12:27:29",
+        "time_int": 44849,
+        "user": "GrandMaster",
+        "content": "57"
+    },
+    {
+        "action": "TALK",
+        "time": "12:27:41",
+        "time_int": 44861,
+        "user": "wzqclass29",
+        "content": "`"
+    },
+    {
+        "action": "TALK",
+        "time": "12:27:42",
+        "time_int": 44862,
+        "user": "GrandMaster",
+        "content": "果然白棋抢先占了这个点"
+    },
+    {
+        "action": "TALK",
+        "time": "12:28:08",
+        "time_int": 44888,
+        "user": "GrandMaster",
+        "content": "现在白棋有3个活二"
+    },
+    {
+        "action": "TALK",
+        "time": "12:28:16",
+        "time_int": 44896,
+        "user": "GrandMaster",
+        "content": "大家觉得挡哪个比较好“"
+    },
+    {
+        "action": "TALK",
+        "time": "12:28:31",
+        "time_int": 44911,
+        "user": "wzqclass193",
+        "content": "6E如何"
+    },
+    {
+        "action": "MOVE",
+        "time": "12:28:36",
+        "time_int": 44916,
+        "user": "GrandMaster",
+        "content": "56"
+    },
+    {
+        "action": "MOVE",
+        "time": "12:28:44",
+        "time_int": 44924,
+        "user": "GrandMaster",
+        "content": "68"
+    },
+    {
+        "action": "MOVE",
+        "time": "12:28:46",
+        "time_int": 44926,
+        "user": "GrandMaster",
+        "content": "46"
+    },
+    {
+        "action": "MOVE",
+        "time": "12:28:47",
+        "time_int": 44927,
+        "user": "GrandMaster",
+        "content": "66"
+    },
+    {
+        "action": "TALK",
+        "time": "12:28:58",
+        "time_int": 44938,
+        "user": "GrandMaster",
+        "content": "这样？"
+    },
+    {
+        "action": "TALK",
+        "time": "12:29:11",
+        "time_int": 44951,
+        "user": "wzqclass179",
+        "content": "1111"
+    },
+    {
+        "action": "TALK",
+        "time": "12:29:18",
+        "time_int": 44958,
+        "user": "GrandMaster",
+        "content": "我比赛是考虑过这个点"
+    },
+    {
+        "action": "TALK",
+        "time": "12:29:57",
+        "time_int": 44997,
+        "user": "GrandMaster",
+        "content": "但是后面的变化比较复杂，黑棋现在暂时没有先手，要去防白棋，这个形状比赛难防"
+    },
+    {
+        "action": "TALK",
+        "time": "12:29:58",
+        "time_int": 44998,
+        "user": "wzqclass193",
+        "content": "感觉白还是有优的"
+    },
+    {
+        "action": "TALK",
+        "time": "12:30:09",
+        "time_int": 45009,
+        "user": "chinarenju34",
+        "content": "F8"
+    },
+    {
+        "action": "TALK",
+        "time": "12:30:11",
+        "time_int": 45011,
+        "user": "GrandMaster",
+        "content": "比较"
+    },
+    {
+        "action": "GOTO",
+        "time": "12:30:18",
+        "time_int": 45018,
+        "user": "GrandMaster",
+        "content": 16
+    },
+    {
+        "action": "MOVE",
+        "time": "12:30:22",
+        "time_int": 45022,
+        "user": "GrandMaster",
+        "content": "68"
+    },
+    {
+        "action": "TALK",
+        "time": "12:30:28",
+        "time_int": 45028,
+        "user": "wzqclass176",
+        "content": "恩"
+    },
+    {
+        "action": "TALK",
+        "time": "12:30:35",
+        "time_int": 45035,
+        "user": "GrandMaster",
+        "content": "实战我利用先手防了F8"
+    },
+    {
+        "action": "TALK",
+        "time": "12:30:37",
+        "time_int": 45037,
+        "user": "wzqclass125",
+        "content": "恩"
+    },
+    {
+        "action": "TALK",
+        "time": "12:30:38",
+        "time_int": 45038,
+        "user": "wzqclass193",
+        "content": "我谱上是8F"
+    },
+    {
+        "action": "TALK",
+        "time": "12:30:44",
+        "time_int": 45044,
+        "user": "wzqclass176",
+        "content": "哦."
+    },
+    {
+        "action": "TALK",
+        "time": "12:30:49",
+        "time_int": 45049,
+        "user": "GrandMaster",
+        "content": "然后看白怎么选择"
+    },
+    {
+        "action": "MOVE",
+        "time": "12:31:00",
+        "time_int": 45060,
+        "user": "GrandMaster",
+        "content": "6a"
+    },
+    {
+        "action": "BACK",
+        "time": "12:31:01",
+        "time_int": 45061,
+        "user": "GrandMaster",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time": "12:31:02",
+        "time_int": 45062,
+        "user": "GrandMaster",
+        "content": "67"
+    },
+    {
+        "action": "TALK",
+        "time": "12:31:02",
+        "time_int": 45062,
+        "user": "wzqclass193",
+        "content": "10F吧"
+    },
+    {
+        "action": "TALK",
+        "time": "12:31:07",
+        "time_int": 45067,
+        "user": "ice",
+        "content": "改中间"
+    },
+    {
+        "action": "TALK",
+        "time": "12:31:17",
+        "time_int": 45077,
+        "user": "GrandMaster",
+        "content": "实战顾老师走的比较积极主动"
+    },
+    {
+        "action": "TALK",
+        "time": "12:31:25",
+        "time_int": 45085,
+        "user": "GrandMaster",
+        "content": "没有走F10"
+    },
+    {
+        "action": "TALK",
+        "time": "12:31:26",
+        "time_int": 45086,
+        "user": "wzqclass105",
+        "content": "..."
+    },
+    {
+        "action": "BACK",
+        "time": "12:31:27",
+        "time_int": 45087,
+        "user": "GrandMaster",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time": "12:31:29",
+        "time_int": 45089,
+        "user": "GrandMaster",
+        "content": "6a"
+    },
+    {
+        "action": "MOVE",
+        "time": "12:31:30",
+        "time_int": 45090,
+        "user": "GrandMaster",
+        "content": "5a"
+    },
+    {
+        "action": "TALK",
+        "time": "12:31:47",
+        "time_int": 45107,
+        "user": "wzqclass193",
+        "content": "黑没有攻势，我觉得还是守好"
+    },
+    {
+        "action": "TALK",
+        "time": "12:31:55",
+        "time_int": 45115,
+        "user": "GrandMaster",
+        "content": "这样的话，黑棋在左上角有了优势，白要去防守"
+    },
+    {
+        "action": "MOVE",
+        "time": "12:32:00",
+        "time_int": 45120,
+        "user": "GrandMaster",
+        "content": "4b"
+    },
+    {
+        "action": "BACK",
+        "time": "12:32:13",
+        "time_int": 45133,
+        "user": "GrandMaster",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time": "12:32:15",
+        "time_int": 45135,
+        "user": "GrandMaster",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time": "12:32:17",
+        "time_int": 45137,
+        "user": "GrandMaster",
+        "content": ""
+    },
+    {
+        "action": "TALK",
+        "time": "12:32:17",
+        "time_int": 45137,
+        "user": "wzqclass193",
+        "content": "只要没杀就行了"
+    },
+    {
+        "action": "BACK",
+        "time": "12:32:18",
+        "time_int": 45138,
+        "user": "GrandMaster",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time": "12:32:19",
+        "time_int": 45139,
+        "user": "GrandMaster",
+        "content": "67"
+    },
+    {
+        "action": "BACK",
+        "time": "12:32:21",
+        "time_int": 45141,
+        "user": "GrandMaster",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time": "12:32:24",
+        "time_int": 45144,
+        "user": "GrandMaster",
+        "content": "68"
+    },
+    {
+        "action": "TALK",
+        "time": "12:32:32",
+        "time_int": 45152,
+        "user": "wzqclass179",
+        "content": "11"
+    },
+    {
+        "action": "MOVE",
+        "time": "12:32:33",
+        "time_int": 45153,
+        "user": "GrandMaster",
+        "content": "67"
+    },
+    {
+        "action": "TALK",
+        "time": "12:32:38",
+        "time_int": 45158,
+        "user": "wzqclass182",
+        "content": "22"
+    },
+    {
+        "action": "TALK",
+        "time": "12:32:40",
+        "time_int": 45160,
+        "user": "GrandMaster",
+        "content": "走了这个18"
+    },
+    {
+        "action": "TALK",
+        "time": "12:32:50",
+        "time_int": 45170,
+        "user": "wzqclass183",
+        "content": "\/\/"
+    },
+    {
+        "action": "TALK",
+        "time": "12:32:59",
+        "time_int": 45179,
+        "user": "GrandMaster",
+        "content": "我没有犹豫直接挡了外面"
+    },
+    {
+        "action": "MOVE",
+        "time": "12:33:00",
+        "time_int": 45180,
+        "user": "GrandMaster",
+        "content": "47"
+    },
+    {
+        "action": "TALK",
+        "time": "12:33:01",
+        "time_int": 45181,
+        "user": "wzqclass176",
+        "content": "??????????????"
+    },
+    {
+        "action": "TALK",
+        "time": "12:33:39",
+        "time_int": 45219,
+        "user": "GrandMaster",
+        "content": "挡里面的话白棋在左边就能够舒舒服服的进攻了"
+    },
+    {
+        "action": "MOVE",
+        "time": "12:33:41",
+        "time_int": 45221,
+        "user": "GrandMaster",
+        "content": "5a"
+    },
+    {
+        "action": "TALK",
+        "time": "12:34:15",
+        "time_int": 45255,
+        "user": "GrandMaster",
+        "content": "现在白虽然有先手，但是优势并不大"
+    },
+    {
+        "action": "MOVE",
+        "time": "12:34:23",
+        "time_int": 45263,
+        "user": "GrandMaster",
+        "content": "59"
+    },
+    {
+        "action": "MOVE",
+        "time": "12:34:49",
+        "time_int": 45289,
+        "user": "GrandMaster",
+        "content": "6a"
+    },
+    {
+        "action": "MOVE",
+        "time": "12:34:57",
+        "time_int": 45297,
+        "user": "GrandMaster",
+        "content": "4a"
+    },
+    {
+        "action": "TALK",
+        "time": "12:34:58",
+        "time_int": 45298,
+        "user": "wzqclass76",
+        "content": "没有优"
+    },
+    {
+        "action": "TALK",
+        "time": "12:35:10",
+        "time_int": 45310,
+        "user": "wzqclass103",
+        "content": "21先冲4会怎么样？"
+    },
+    {
+        "action": "TALK",
+        "time": "12:35:15",
+        "time_int": 45315,
+        "user": "findfind",
+        "content": "hi students"
+    },
+    {
+        "action": "TALK",
+        "time": "12:35:18",
+        "time_int": 45318,
+        "user": "wzqclass103",
+        "content": "救崇findfind"
+    },
+    {
+        "action": "TALK",
+        "time": "12:35:23",
+        "time_int": 45323,
+        "user": "findfind",
+        "content": "你好"
+    },
+    {
+        "action": "TALK",
+        "time": "12:35:24",
+        "time_int": 45324,
+        "user": "GrandMaster",
+        "content": "经过这些交换后左边基本已经被黑棋控制住了"
+    },
+    {
+        "action": "BACK",
+        "time": "12:35:26",
+        "time_int": 45326,
+        "user": "GrandMaster",
+        "content": ""
+    },
+    {
+        "action": "TALK",
+        "time": "12:35:28",
+        "time_int": 45328,
+        "user": "wzqclass193",
+        "content": "还是不冲的好"
+    },
+    {
+        "action": "BACK",
+        "time": "12:35:30",
+        "time_int": 45330,
+        "user": "GrandMaster",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time": "12:35:33",
+        "time_int": 45333,
+        "user": "GrandMaster",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time": "12:35:34",
+        "time_int": 45334,
+        "user": "GrandMaster",
+        "content": "6a"
+    },
+    {
+        "action": "MOVE",
+        "time": "12:35:34",
+        "time_int": 45334,
+        "user": "GrandMaster",
+        "content": "6c"
+    },
+    {
+        "action": "MOVE",
+        "time": "12:35:36",
+        "time_int": 45336,
+        "user": "GrandMaster",
+        "content": "59"
+    },
+    {
+        "action": "MOVE",
+        "time": "12:35:41",
+        "time_int": 45341,
+        "user": "GrandMaster",
+        "content": "7b"
+    },
+    {
+        "action": "TALK",
+        "time": "12:35:44",
+        "time_int": 45344,
+        "user": "wzqclass193",
+        "content": "冲白棋要占外势了"
+    },
+    {
+        "action": "TALK",
+        "time": "12:35:48",
+        "time_int": 45348,
+        "user": "GrandMaster",
+        "content": "这样不好吧"
+    },
+    {
+        "action": "TALK",
+        "time": "12:35:54",
+        "time_int": 45354,
+        "user": "ice",
+        "content": "挺好"
+    },
+    {
+        "action": "TALK",
+        "time": "12:36:09",
+        "time_int": 45369,
+        "user": "ice",
+        "content": "黑的舒服"
+    },
+    {
+        "action": "TALK",
+        "time": "12:36:11",
+        "time_int": 45371,
+        "user": "GrandMaster",
+        "content": "白棋在上面占了外势"
+    },
+    {
+        "action": "TALK",
+        "time": "12:36:17",
+        "time_int": 45377,
+        "user": "wzqclass103",
+        "content": "嗯。"
+    },
+    {
+        "action": "TALK",
+        "time": "12:36:20",
+        "time_int": 45380,
+        "user": "wzqclass103",
+        "content": "thx"
+    },
+    {
+        "action": "TALK",
+        "time": "12:36:21",
+        "time_int": 45381,
+        "user": "ice",
+        "content": "黑上去补一手"
+    },
+    {
+        "action": "TALK",
+        "time": "12:36:35",
+        "time_int": 45395,
+        "user": "GrandMaster",
+        "content": "黑在左边也没棋仍然要去防白棋"
+    },
+    {
+        "action": "BACK",
+        "time": "12:36:41",
+        "time_int": 45401,
+        "user": "GrandMaster",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time": "12:36:42",
+        "time_int": 45402,
+        "user": "GrandMaster",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time": "12:36:43",
+        "time_int": 45403,
+        "user": "GrandMaster",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time": "12:36:44",
+        "time_int": 45404,
+        "user": "GrandMaster",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time": "12:36:45",
+        "time_int": 45405,
+        "user": "GrandMaster",
+        "content": "59"
+    },
+    {
+        "action": "MOVE",
+        "time": "12:36:47",
+        "time_int": 45407,
+        "user": "GrandMaster",
+        "content": "6a"
+    },
+    {
+        "action": "MOVE",
+        "time": "12:36:48",
+        "time_int": 45408,
+        "user": "GrandMaster",
+        "content": "4a"
+    },
+    {
+        "action": "TALK",
+        "time": "12:36:58",
+        "time_int": 45418,
+        "user": "wzqclass99",
+        "content": "恩"
+    },
+    {
+        "action": "TALK",
+        "time": "12:37:13",
+        "time_int": 45433,
+        "user": "wzqclass105",
+        "content": "``"
+    },
+    {
+        "action": "TALK",
+        "time": "12:37:15",
+        "time_int": 45435,
+        "user": "GrandMaster",
+        "content": "这个形状来看白棋明显没有刚才那个形状有利于进攻"
+    },
+    {
+        "action": "MOVE",
+        "time": "12:37:19",
+        "time_int": 45439,
+        "user": "GrandMaster",
+        "content": "7b"
+    },
+    {
+        "action": "TALK",
+        "time": "12:37:27",
+        "time_int": 45447,
+        "user": "wzqclass76",
+        "content": "24怎么都得防"
+    },
+    {
+        "action": "TALK",
+        "time": "12:38:12",
+        "time_int": 45492,
+        "user": "GrandMaster",
+        "content": "这样交换后，黑的左边有个眠三，以后还能对白棋有牵制"
+    },
+    {
+        "action": "TALK",
+        "time": "12:38:16",
+        "time_int": 45496,
+        "user": "wzqclass182",
+        "content": "22"
+    },
+    {
+        "action": "MOVE",
+        "time": "12:38:17",
+        "time_int": 45497,
+        "user": "GrandMaster",
+        "content": "9a"
+    },
+    {
+        "action": "TALK",
+        "time": "12:38:35",
+        "time_int": 45515,
+        "user": "GrandMaster",
+        "content": "25我选择挡在了这里"
+    },
+    {
+        "action": "BACK",
+        "time": "12:38:37",
+        "time_int": 45517,
+        "user": "GrandMaster",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time": "12:38:38",
+        "time_int": 45518,
+        "user": "GrandMaster",
+        "content": "7c"
+    },
+    {
+        "action": "BACK",
+        "time": "12:38:41",
+        "time_int": 45521,
+        "user": "GrandMaster",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time": "12:38:44",
+        "time_int": 45524,
+        "user": "GrandMaster",
+        "content": "9a"
+    },
+    {
+        "action": "TALK",
+        "time": "12:38:56",
+        "time_int": 45536,
+        "user": "GrandMaster",
+        "content": "右边的空间要比上面大很多"
+    },
+    {
+        "action": "TALK",
+        "time": "12:39:00",
+        "time_int": 45540,
+        "user": "wzqclass193",
+        "content": "现在黑优了吧"
+    },
+    {
+        "action": "TALK",
+        "time": "12:39:08",
+        "time_int": 45548,
+        "user": "wzqclass95",
+        "content": "25进攻好些"
+    },
+    {
+        "action": "TALK",
+        "time": "12:39:18",
+        "time_int": 45558,
+        "user": "GrandMaster",
+        "content": "因此如果白棋要想赢，一定要在右边才能出棋"
+    },
+    {
+        "action": "TALK",
+        "time": "12:39:35",
+        "time_int": 45575,
+        "user": "ice",
+        "content": "25黑不防"
+    },
+    {
+        "action": "TALK",
+        "time": "12:39:40",
+        "time_int": 45580,
+        "user": "GrandMaster",
+        "content": "上面无论怎么走，黑都能防干净"
+    },
+    {
+        "action": "TALK",
+        "time": "12:39:40",
+        "time_int": 45580,
+        "user": "ice",
+        "content": "白有vct么"
+    },
+    {
+        "action": "TALK",
+        "time": "12:39:45",
+        "time_int": 45585,
+        "user": "wzqclass76",
+        "content": "25为什么要防"
+    },
+    {
+        "action": "TALK",
+        "time": "12:39:49",
+        "time_int": 45589,
+        "user": "GrandMaster",
+        "content": "白没有VCT"
+    },
+    {
+        "action": "TALK",
+        "time": "12:39:56",
+        "time_int": 45596,
+        "user": "wzqclass103",
+        "content": "因为黑棋的策略就是保平争胜。"
+    },
+    {
+        "action": "TALK",
+        "time": "12:40:00",
+        "time_int": 45600,
+        "user": "ice",
+        "content": "直接f6"
+    },
+    {
+        "action": "TALK",
+        "time": "12:40:05",
+        "time_int": 45605,
+        "user": "ice",
+        "content": "e6 \/\/。"
+    },
+    {
+        "action": "TALK",
+        "time": "12:40:08",
+        "time_int": 45608,
+        "user": "GrandMaster",
+        "content": "但是这盘棋的战术和目的并不是为了取胜"
+    },
+    {
+        "action": "TALK",
+        "time": "12:40:11",
+        "time_int": 45611,
+        "user": "wzqclass103",
+        "content": "GM说过这盘棋的目的就是保平。"
+    },
+    {
+        "action": "TALK",
+        "time": "12:40:19",
+        "time_int": 45619,
+        "user": "wzqclass29",
+        "content": "."
+    },
+    {
+        "action": "TALK",
+        "time": "12:40:32",
+        "time_int": 45632,
+        "user": "GrandMaster",
+        "content": "如果要对攻的话，很可能落入对方的圈套"
+    },
+    {
+        "action": "TALK",
+        "time": "12:40:36",
+        "time_int": 45636,
+        "user": "wzqclass95",
+        "content": "保平争胜啊"
+    },
+    {
+        "action": "TALK",
+        "time": "12:40:44",
+        "time_int": 45644,
+        "user": "ice",
+        "content": "下面交换即使不能胜也不会丢了先手"
+    },
+    {
+        "action": "TALK",
+        "time": "12:40:53",
+        "time_int": 45653,
+        "user": "ssrenju55",
+        "content": "现在白满郁闷的..."
+    },
+    {
+        "action": "TALK",
+        "time": "12:40:54",
+        "time_int": 45654,
+        "user": "wzqclass176",
+        "content": "??????????????????"
+    },
+    {
+        "action": "TALK",
+        "time": "12:40:54",
+        "time_int": 45654,
+        "user": "wzqclass176",
+        "content": "恩"
+    },
+    {
+        "action": "TALK",
+        "time": "12:41:02",
+        "time_int": 45662,
+        "user": "GrandMaster",
+        "content": "一但攻的不好会给白棋很强的反击手段"
+    },
+    {
+        "action": "TALK",
+        "time": "12:41:40",
+        "time_int": 45700,
+        "user": "GrandMaster",
+        "content": "白棋这个时候也顾忌黑棋，因此在下面进行交换"
+    },
+    {
+        "action": "MOVE",
+        "time": "12:41:46",
+        "time_int": 45706,
+        "user": "GrandMaster",
+        "content": "65"
+    },
+    {
+        "action": "MOVE",
+        "time": "12:42:01",
+        "time_int": 45721,
+        "user": "GrandMaster",
+        "content": "75"
+    },
+    {
+        "action": "TALK",
+        "time": "12:42:01",
+        "time_int": 45721,
+        "user": "wzqclass176",
+        "content": "??????????????\/\/"
+    },
+    {
+        "action": "TALK",
+        "time": "12:42:13",
+        "time_int": 45733,
+        "user": "wzqclass179",
+        "content": "琳珂，没掉呢"
+    },
+    {
+        "action": "TALK",
+        "time": "12:42:19",
+        "time_int": 45739,
+        "user": "wzqclass192",
+        "content": "."
+    },
+    {
+        "action": "TALK",
+        "time": "12:42:23",
+        "time_int": 45743,
+        "user": "GrandMaster",
+        "content": "想在下面寻找突破口"
+    },
+    {
+        "action": "TALK",
+        "time": "12:42:24",
+        "time_int": 45744,
+        "user": "wzqclass183",
+        "content": "\/"
+    },
+    {
+        "action": "TALK",
+        "time": "12:42:36",
+        "time_int": 45756,
+        "user": "wzqclass76",
+        "content": "好象白24后并没有棋"
+    },
+    {
+        "action": "TALK",
+        "time": "12:42:56",
+        "time_int": 45776,
+        "user": "wzqclass166",
+        "content": "1"
+    },
+    {
+        "action": "TALK",
+        "time": "12:42:57",
+        "time_int": 45777,
+        "user": "GrandMaster",
+        "content": "争取能够在下面借到子联系上面再进攻"
+    },
+    {
+        "action": "TALK",
+        "time": "12:43:00",
+        "time_int": 45780,
+        "user": "wzqclass176",
+        "content": "??????????"
+    },
+    {
+        "action": "TALK",
+        "time": "12:43:03",
+        "time_int": 45783,
+        "user": "wzqclass95",
+        "content": "25也可以27=I7更加积极一点"
+    },
+    {
+        "action": "TALK",
+        "time": "12:43:10",
+        "time_int": 45790,
+        "user": "GrandMaster",
+        "content": "恩"
+    },
+    {
+        "action": "MOVE",
+        "time": "12:43:16",
+        "time_int": 45796,
+        "user": "GrandMaster",
+        "content": "97"
+    },
+    {
+        "action": "MOVE",
+        "time": "12:43:20",
+        "time_int": 45800,
+        "user": "GrandMaster",
+        "content": "87"
+    },
+    {
+        "action": "MOVE",
+        "time": "12:43:24",
+        "time_int": 45804,
+        "user": "GrandMaster",
+        "content": "64"
+    },
+    {
+        "action": "TALK",
+        "time": "12:43:52",
+        "time_int": 45832,
+        "user": "GrandMaster",
+        "content": "为了阻止白棋的联系"
+    },
+    {
+        "action": "TALK",
+        "time": "12:44:04",
+        "time_int": 45844,
+        "user": "ice",
+        "content": "f3"
+    },
+    {
+        "action": "TALK",
+        "time": "12:44:04",
+        "time_int": 45844,
+        "user": "GrandMaster",
+        "content": "黑棋必须切断白棋的联系"
+    },
+    {
+        "action": "MOVE",
+        "time": "12:44:16",
+        "time_int": 45856,
+        "user": "GrandMaster",
+        "content": "84"
+    },
+    {
+        "action": "MOVE",
+        "time": "12:44:17",
+        "time_int": 45857,
+        "user": "GrandMaster",
+        "content": "85"
+    },
+    {
+        "action": "MOVE",
+        "time": "12:44:18",
+        "time_int": 45858,
+        "user": "GrandMaster",
+        "content": "63"
+    },
+    {
+        "action": "TALK",
+        "time": "12:44:46",
+        "time_int": 45886,
+        "user": "GrandMaster",
+        "content": "同时能够利用到左边的黑棋给白棋制造点麻烦"
+    },
+    {
+        "action": "TALK",
+        "time": "12:44:48",
+        "time_int": 45888,
+        "user": "wzqclass163",
+        "content": ".."
+    },
+    {
+        "action": "MOVE",
+        "time": "12:44:55",
+        "time_int": 45895,
+        "user": "GrandMaster",
+        "content": "46"
+    },
+    {
+        "action": "MOVE",
+        "time": "12:44:59",
+        "time_int": 45899,
+        "user": "GrandMaster",
+        "content": "55"
+    },
+    {
+        "action": "MOVE",
+        "time": "12:45:06",
+        "time_int": 45906,
+        "user": "GrandMaster",
+        "content": "a8"
+    },
+    {
+        "action": "TALK",
+        "time": "12:45:56",
+        "time_int": 45956,
+        "user": "GrandMaster",
+        "content": "大家可以看到5-31-33-35一个八卦防守，把下面都防干净了"
+    },
+    {
+        "action": "TALK",
+        "time": "12:46:12",
+        "time_int": 45972,
+        "user": "ssrenju55",
+        "content": "呵呵~恩.."
+    },
+    {
+        "action": "TALK",
+        "time": "12:46:31",
+        "time_int": 45991,
+        "user": "ssrenju55",
+        "content": "突袭的厉害了.."
+    },
+    {
+        "action": "CHECKRESULT",
+        "time": "12:46:58",
+        "time_int": 46018,
+        "user": "",
+        "content": " wzqclass133, wzqclass182, wzqclass95, ssrenju55, wzqclass99, wzqclass105, wzqclass84, ice, wzqclass87, wzqclass70, wzqclass125, wzqclass58, wzqclass103, wzqclass110, wzqclass09, wzqclass179, wzqclass171, wzqclass02, wzqclass126, wzqclass56, wzqclass163, wzqclass91, wzqclass177, ssrenju14, wzqclass36, wzqclass183, wzqclass66, wzqclass76, wzqclass29, wzqclass132, ssrenju49, wzqclass189, wzqclass193, wzqclass101, wzqclass181, wzqclass149, wzqclass190, wzqclass185, wzqclass118, xinxin, wzqclass34, wzqclass39, wzqclass104, wzqclass145, wzqclass176."
+    },
+    {
+        "action": "TALK",
+        "time": "12:47:30",
+        "time_int": 46050,
+        "user": "wzqclass192",
+        "content": "555.WC"
+    },
+    {
+        "action": "TALK",
+        "time": "12:47:31",
+        "time_int": 46051,
+        "user": "wzqclass185",
+        "content": "176 哈哈"
+    },
+    {
+        "action": "TALK",
+        "time": "12:47:37",
+        "time_int": 46057,
+        "user": "GrandMaster",
+        "content": "现在黑棋占了外势，白棋有点担心左边了"
+    },
+    {
+        "action": "TALK",
+        "time": "12:47:39",
+        "time_int": 46059,
+        "user": "wzqclass29",
+        "content": "..."
+    },
+    {
+        "action": "TALK",
+        "time": "12:47:45",
+        "time_int": 46065,
+        "user": "wzqclass176",
+        "content": "哈哈,第一总是我的."
+    },
+    {
+        "action": "MOVE",
+        "time": "12:47:49",
+        "time_int": 46069,
+        "user": "GrandMaster",
+        "content": "c8"
+    },
+    {
+        "action": "TALK",
+        "time": "12:47:55",
+        "time_int": 46075,
+        "user": "wzqclass58",
+        "content": "176太历害"
+    },
+    {
+        "action": "TALK",
+        "time": "12:48:01",
+        "time_int": 46081,
+        "user": "wzqclass185",
+        "content": "9494"
+    },
+    {
+        "action": "TALK",
+        "time": "12:48:05",
+        "time_int": 46085,
+        "user": "wzqclass179",
+        "content": "是啊：）"
+    },
+    {
+        "action": "TALK",
+        "time": "12:48:06",
+        "time_int": 46086,
+        "user": "wzqclass105",
+        "content": "`"
+    },
+    {
+        "action": "TALK",
+        "time": "12:48:11",
+        "time_int": 46091,
+        "user": "wzqclass132",
+        "content": "蓝"
+    },
+    {
+        "action": "TALK",
+        "time": "12:48:16",
+        "time_int": 46096,
+        "user": "wzqclass182",
+        "content": "不愧是水晶"
+    },
+    {
+        "action": "TALK",
+        "time": "12:48:17",
+        "time_int": 46097,
+        "user": "wzqclass193",
+        "content": "37下10L如何？"
+    },
+    {
+        "action": "TALK",
+        "time": "12:48:22",
+        "time_int": 46102,
+        "user": "GrandMaster",
+        "content": "黑棋先抢占左边的空间和要点"
+    },
+    {
+        "action": "BACK",
+        "time": "12:48:22",
+        "time_int": 46102,
+        "user": "GrandMaster",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time": "12:48:23",
+        "time_int": 46103,
+        "user": "GrandMaster",
+        "content": "ca"
+    },
+    {
+        "action": "TALK",
+        "time": "12:48:37",
+        "time_int": 46117,
+        "user": "GrandMaster",
+        "content": "这个可能比较积极"
+    },
+    {
+        "action": "MOVE",
+        "time": "12:48:39",
+        "time_int": 46119,
+        "user": "GrandMaster",
+        "content": "aa"
+    },
+    {
+        "action": "TALK",
+        "time": "12:49:11",
+        "time_int": 46151,
+        "user": "GrandMaster",
+        "content": "实战如果这样的话黑棋就能够掌握住先手"
+    },
+    {
+        "action": "TALK",
+        "time": "12:49:47",
+        "time_int": 46187,
+        "user": "GrandMaster",
+        "content": "不过在这样大家都比较平衡的局面中如何进攻，需要花时间去想"
+    },
+    {
+        "action": "TALK",
+        "time": "12:49:56",
+        "time_int": 46196,
+        "user": "GrandMaster",
+        "content": "比赛时间是60-0-0"
+    },
+    {
+        "action": "TALK",
+        "time": "12:50:00",
+        "time_int": 46200,
+        "user": "wzqclass95",
+        "content": "38顾伟会走H12"
+    },
+    {
+        "action": "BACK",
+        "time": "12:50:05",
+        "time_int": 46205,
+        "user": "GrandMaster",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time": "12:50:07",
+        "time_int": 46207,
+        "user": "GrandMaster",
+        "content": "8c"
+    },
+    {
+        "action": "BACK",
+        "time": "12:50:13",
+        "time_int": 46213,
+        "user": "GrandMaster",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time": "12:50:14",
+        "time_int": 46214,
+        "user": "GrandMaster",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time": "12:50:15",
+        "time_int": 46215,
+        "user": "GrandMaster",
+        "content": "c8"
+    },
+    {
+        "action": "MOVE",
+        "time": "12:50:17",
+        "time_int": 46217,
+        "user": "GrandMaster",
+        "content": "8c"
+    },
+    {
+        "action": "MOVE",
+        "time": "12:50:20",
+        "time_int": 46220,
+        "user": "GrandMaster",
+        "content": "7d"
+    },
+    {
+        "action": "TALK",
+        "time": "12:50:39",
+        "time_int": 46239,
+        "user": "GrandMaster",
+        "content": "如果这样的话39直接挡上"
+    },
+    {
+        "action": "TALK",
+        "time": "12:50:51",
+        "time_int": 46251,
+        "user": "GrandMaster",
+        "content": "白很难走吧"
+    },
+    {
+        "action": "TALK",
+        "time": "12:51:05",
+        "time_int": 46265,
+        "user": "wzqclass176",
+        "content": "??????????????"
+    },
+    {
+        "action": "TALK",
+        "time": "12:51:28",
+        "time_int": 46288,
+        "user": "GrandMaster",
+        "content": "39和37还间接防了一条斜线"
+    },
+    {
+        "action": "MOVE",
+        "time": "12:51:34",
+        "time_int": 46294,
+        "user": "GrandMaster",
+        "content": "b9"
+    },
+    {
+        "action": "BACK",
+        "time": "12:51:35",
+        "time_int": 46295,
+        "user": "GrandMaster",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time": "12:51:38",
+        "time_int": 46298,
+        "user": "GrandMaster",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time": "12:51:38",
+        "time_int": 46298,
+        "user": "GrandMaster",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time": "12:51:43",
+        "time_int": 46303,
+        "user": "GrandMaster",
+        "content": "aa"
+    },
+    {
+        "action": "TALK",
+        "time": "12:51:59",
+        "time_int": 46319,
+        "user": "GrandMaster",
+        "content": "实战38走了这个点"
+    },
+    {
+        "action": "TALK",
+        "time": "12:52:01",
+        "time_int": 46321,
+        "user": "GrandMaster",
+        "content": "J10"
+    },
+    {
+        "action": "TALK",
+        "time": "12:52:26",
+        "time_int": 46346,
+        "user": "GrandMaster",
+        "content": "这个被大家称做66点的"
+    },
+    {
+        "action": "TALK",
+        "time": "12:52:28",
+        "time_int": 46348,
+        "user": "ice",
+        "content": "L10 呢"
+    },
+    {
+        "action": "TALK",
+        "time": "12:52:39",
+        "time_int": 46359,
+        "user": "ice",
+        "content": "38"
+    },
+    {
+        "action": "TALK",
+        "time": "12:52:45",
+        "time_int": 46365,
+        "user": "GrandMaster",
+        "content": "这个点是黑白都想占的点"
+    },
+    {
+        "action": "TALK",
+        "time": "12:52:51",
+        "time_int": 46371,
+        "user": "wzqclass132",
+        "content": "66点是什么意思？"
+    },
+    {
+        "action": "BACK",
+        "time": "12:52:54",
+        "time_int": 46374,
+        "user": "GrandMaster",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time": "12:52:55",
+        "time_int": 46375,
+        "user": "GrandMaster",
+        "content": "ca"
+    },
+    {
+        "action": "TALK",
+        "time": "12:53:10",
+        "time_int": 46390,
+        "user": "GrandMaster",
+        "content": "这个38好象离的远了点"
+    },
+    {
+        "action": "TALK",
+        "time": "12:53:18",
+        "time_int": 46398,
+        "user": "wzqclass125",
+        "content": "离边界"
+    },
+    {
+        "action": "BACK",
+        "time": "12:53:29",
+        "time_int": 46409,
+        "user": "GrandMaster",
+        "content": ""
+    },
+    {
+        "action": "TALK",
+        "time": "12:53:30",
+        "time_int": 46410,
+        "user": "wzqclass193",
+        "content": "38没什么联系"
+    },
+    {
+        "action": "TALK",
+        "time": "12:53:35",
+        "time_int": 46415,
+        "user": "GrandMaster",
+        "content": "恩"
+    },
+    {
+        "action": "MOVE",
+        "time": "12:53:37",
+        "time_int": 46417,
+        "user": "GrandMaster",
+        "content": "aa"
+    },
+    {
+        "action": "TALK",
+        "time": "12:53:38",
+        "time_int": 46418,
+        "user": "ice",
+        "content": "防守棋"
+    },
+    {
+        "action": "MOVE",
+        "time": "12:53:43",
+        "time_int": 46423,
+        "user": "GrandMaster",
+        "content": "7d"
+    },
+    {
+        "action": "TALK",
+        "time": "12:53:57",
+        "time_int": 46437,
+        "user": "GrandMaster",
+        "content": "我仍然防了这个39"
+    },
+    {
+        "action": "TALK",
+        "time": "12:54:19",
+        "time_int": 46459,
+        "user": "wzqclass193",
+        "content": "现在白要考虑左边的形势了"
+    },
+    {
+        "action": "TALK",
+        "time": "12:54:23",
+        "time_int": 46463,
+        "user": "GrandMaster",
+        "content": "尽可能的去压缩白棋在上面的空间"
+    },
+    {
+        "action": "MOVE",
+        "time": "12:54:31",
+        "time_int": 46471,
+        "user": "GrandMaster",
+        "content": "8b"
+    },
+    {
+        "action": "MOVE",
+        "time": "12:54:34",
+        "time_int": 46474,
+        "user": "GrandMaster",
+        "content": "ab"
+    },
+    {
+        "action": "MOVE",
+        "time": "12:55:00",
+        "time_int": 46500,
+        "user": "GrandMaster",
+        "content": "8c"
+    },
+    {
+        "action": "TALK",
+        "time": "12:55:24",
+        "time_int": 46524,
+        "user": "GrandMaster",
+        "content": "白棋继续在上面寻找机会"
+    },
+    {
+        "action": "MOVE",
+        "time": "12:55:42",
+        "time_int": 46542,
+        "user": "GrandMaster",
+        "content": "8d"
+    },
+    {
+        "action": "MOVE",
+        "time": "12:55:49",
+        "time_int": 46549,
+        "user": "GrandMaster",
+        "content": "9c"
+    },
+    {
+        "action": "TALK",
+        "time": "12:56:04",
+        "time_int": 46564,
+        "user": "wzqclass181",
+        "content": "1111"
+    },
+    {
+        "action": "TALK",
+        "time": "12:56:26",
+        "time_int": 46586,
+        "user": "GrandMaster",
+        "content": "似乎白棋在上面有点出棋的感觉了"
+    },
+    {
+        "action": "TALK",
+        "time": "12:56:42",
+        "time_int": 46602,
+        "user": "wzqclass95",
+        "content": "你的棋右边不是更好"
+    },
+    {
+        "action": "TALK",
+        "time": "12:56:46",
+        "time_int": 46606,
+        "user": "wzqclass176",
+        "content": "111111111111"
+    },
+    {
+        "action": "TALK",
+        "time": "12:56:52",
+        "time_int": 46612,
+        "user": "GrandMaster",
+        "content": "恩"
+    },
+    {
+        "action": "MOVE",
+        "time": "12:56:54",
+        "time_int": 46614,
+        "user": "GrandMaster",
+        "content": "bc"
+    },
+    {
+        "action": "TALK",
+        "time": "12:57:08",
+        "time_int": 46628,
+        "user": "wzqclass105",
+        "content": "`"
+    },
+    {
+        "action": "TALK",
+        "time": "12:57:10",
+        "time_int": 46630,
+        "user": "GrandMaster",
+        "content": "继续压缩空间"
+    },
+    {
+        "action": "TALK",
+        "time": "12:57:14",
+        "time_int": 46634,
+        "user": "wzqclass183",
+        "content": "\/\/\/\/\/"
+    },
+    {
+        "action": "TALK",
+        "time": "12:57:15",
+        "time_int": 46635,
+        "user": "wzqclass95",
+        "content": "左边说错"
+    },
+    {
+        "action": "TALK",
+        "time": "12:57:44",
+        "time_int": 46664,
+        "user": "GrandMaster",
+        "content": "这个时候顾老师觉得黑棋上面左右能够联系起来"
+    },
+    {
+        "action": "TALK",
+        "time": "12:58:17",
+        "time_int": 46697,
+        "user": "GrandMaster",
+        "content": "所以对他有了一定的威胁，如果在盲目进攻很可能会攻崩掉"
+    },
+    {
+        "action": "MOVE",
+        "time": "12:58:20",
+        "time_int": 46700,
+        "user": "GrandMaster",
+        "content": "6c"
+    },
+    {
+        "action": "MOVE",
+        "time": "12:58:27",
+        "time_int": 46707,
+        "user": "GrandMaster",
+        "content": "7c"
+    },
+    {
+        "action": "TALK",
+        "time": "12:58:43",
+        "time_int": 46723,
+        "user": "GrandMaster",
+        "content": "46利用先手防了一手"
+    },
+    {
+        "action": "MOVE",
+        "time": "12:58:51",
+        "time_int": 46731,
+        "user": "GrandMaster",
+        "content": "cb"
+    },
+    {
+        "action": "TALK",
+        "time": "12:59:14",
+        "time_int": 46754,
+        "user": "GrandMaster",
+        "content": "上面的2个眠三一个也没冲"
+    },
+    {
+        "action": "TALK",
+        "time": "12:59:18",
+        "time_int": 46758,
+        "user": "wzqclass29",
+        "content": "."
+    },
+    {
+        "action": "TALK",
+        "time": "12:59:20",
+        "time_int": 46760,
+        "user": "GrandMaster",
+        "content": "走了L11"
+    },
+    {
+        "action": "MOVE",
+        "time": "12:59:49",
+        "time_int": 46789,
+        "user": "GrandMaster",
+        "content": "ad"
+    },
+    {
+        "action": "MOVE",
+        "time": "12:59:52",
+        "time_int": 46792,
+        "user": "GrandMaster",
+        "content": "9d"
+    },
+    {
+        "action": "MOVE",
+        "time": "12:59:53",
+        "time_int": 46793,
+        "user": "GrandMaster",
+        "content": "ae"
+    },
+    {
+        "action": "MOVE",
+        "time": "12:59:58",
+        "time_int": 46798,
+        "user": "GrandMaster",
+        "content": "cd"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:00:04",
+        "time_int": 46804,
+        "user": "GrandMaster",
+        "content": "9e"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:00:10",
+        "time_int": 46810,
+        "user": "GrandMaster",
+        "content": "af"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:00:17",
+        "time_int": 46817,
+        "user": "GrandMaster",
+        "content": "ce"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:00:18",
+        "time_int": 46818,
+        "user": "GrandMaster",
+        "content": "be"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:00:19",
+        "time_int": 46819,
+        "user": "GrandMaster",
+        "content": "dc"
+    },
+    {
+        "action": "TALK",
+        "time": "13:00:47",
+        "time_int": 46847,
+        "user": "GrandMaster",
+        "content": "把上面都交换干净后，现在只剩下右下脚了"
+    },
+    {
+        "action": "TALK",
+        "time": "13:01:03",
+        "time_int": 46863,
+        "user": "GrandMaster",
+        "content": "角"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:01:12",
+        "time_int": 46872,
+        "user": "GrandMaster",
+        "content": "c6"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:01:18",
+        "time_int": 46878,
+        "user": "GrandMaster",
+        "content": "a6"
+    },
+    {
+        "action": "TALK",
+        "time": "13:01:25",
+        "time_int": 46885,
+        "user": "findfind",
+        "content": "i am here"
+    },
+    {
+        "action": "TALK",
+        "time": "13:01:32",
+        "time_int": 46892,
+        "user": "wzqclass182",
+        "content": "^-^"
+    },
+    {
+        "action": "TALK",
+        "time": "13:01:37",
+        "time_int": 46897,
+        "user": "ssrenju55",
+        "content": "..........- -||..FF..."
+    },
+    {
+        "action": "TALK",
+        "time": "13:01:40",
+        "time_int": 46900,
+        "user": "wzqclass105",
+        "content": "`"
+    },
+    {
+        "action": "TALK",
+        "time": "13:01:41",
+        "time_int": 46901,
+        "user": "GrandMaster",
+        "content": "hi ff"
+    },
+    {
+        "action": "TALK",
+        "time": "13:01:46",
+        "time_int": 46906,
+        "user": "findfind",
+        "content": "Y"
+    },
+    {
+        "action": "TALK",
+        "time": "13:01:47",
+        "time_int": 46907,
+        "user": "wzqclass103",
+        "content": "FF you are late."
+    },
+    {
+        "action": "TALK",
+        "time": "13:01:52",
+        "time_int": 46912,
+        "user": "findfind",
+        "content": ".."
+    },
+    {
+        "action": "TALK",
+        "time": "13:01:53",
+        "time_int": 46913,
+        "user": "findfind",
+        "content": ":9"
+    },
+    {
+        "action": "TALK",
+        "time": "13:01:56",
+        "time_int": 46916,
+        "user": "findfind",
+        "content": ":(("
+    },
+    {
+        "action": "TALK",
+        "time": "13:02:00",
+        "time_int": 46920,
+        "user": "wzqclass185",
+        "content": "y"
+    },
+    {
+        "action": "TALK",
+        "time": "13:02:06",
+        "time_int": 46926,
+        "user": "wzqclass176",
+        "content": "111111111"
+    },
+    {
+        "action": "TALK",
+        "time": "13:02:06",
+        "time_int": 46926,
+        "user": "findfind",
+        "content": "who is gm?"
+    },
+    {
+        "action": "TALK",
+        "time": "13:02:12",
+        "time_int": 46932,
+        "user": "wzqclass103",
+        "content": "chess"
+    },
+    {
+        "action": "TALK",
+        "time": "13:02:16",
+        "time_int": 46936,
+        "user": "wzqclass192",
+        "content": "007"
+    },
+    {
+        "action": "TALK",
+        "time": "13:02:16",
+        "time_int": 46936,
+        "user": "findfind",
+        "content": "haha"
+    },
+    {
+        "action": "TALK",
+        "time": "13:02:19",
+        "time_int": 46939,
+        "user": "ssrenju55",
+        "content": "Y"
+    },
+    {
+        "action": "TALK",
+        "time": "13:02:19",
+        "time_int": 46939,
+        "user": "findfind",
+        "content": "great"
+    },
+    {
+        "action": "TALK",
+        "time": "13:02:28",
+        "time_int": 46948,
+        "user": "ssrenju55",
+        "content": ":)"
+    },
+    {
+        "action": "TALK",
+        "time": "13:02:31",
+        "time_int": 46951,
+        "user": "wzqclass103",
+        "content": "FF you be GM next time:)"
+    },
+    {
+        "action": "TALK",
+        "time": "13:02:35",
+        "time_int": 46955,
+        "user": "wzqclass182",
+        "content": "true !"
+    },
+    {
+        "action": "TALK",
+        "time": "13:02:38",
+        "time_int": 46958,
+        "user": "wzqclass133",
+        "content": "哈哈"
+    },
+    {
+        "action": "TALK",
+        "time": "13:02:41",
+        "time_int": 46961,
+        "user": "GrandMaster",
+        "content": "这个59比较抢了右下的一个66点"
+    },
+    {
+        "action": "TALK",
+        "time": "13:02:44",
+        "time_int": 46964,
+        "user": "findfind",
+        "content": "哈哈"
+    },
+    {
+        "action": "TALK",
+        "time": "13:03:01",
+        "time_int": 46981,
+        "user": "wzqclass103",
+        "content": "好！"
+    },
+    {
+        "action": "TALK",
+        "time": "13:03:15",
+        "time_int": 46995,
+        "user": "wzqclass126",
+        "content": "66"
+    },
+    {
+        "action": "TALK",
+        "time": "13:03:18",
+        "time_int": 46998,
+        "user": "GrandMaster",
+        "content": "如果白棋现在不管的话，下面黑棋对白棋威胁很大"
+    },
+    {
+        "action": "TALK",
+        "time": "13:03:20",
+        "time_int": 47000,
+        "user": "wzqclass179",
+        "content": "11"
+    },
+    {
+        "action": "TALK",
+        "time": "13:03:21",
+        "time_int": 47001,
+        "user": "wzqclass182",
+        "content": "哈哈  is simple"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:03:37",
+        "time_int": 47017,
+        "user": "GrandMaster",
+        "content": "b7"
+    },
+    {
+        "action": "TALK",
+        "time": "13:03:39",
+        "time_int": 47019,
+        "user": "wzqclass166",
+        "content": "0"
+    },
+    {
+        "action": "TALK",
+        "time": "13:04:08",
+        "time_int": 47048,
+        "user": "GrandMaster",
+        "content": "白棋在防守的同时还想取得更多的联系"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:04:12",
+        "time_int": 47052,
+        "user": "GrandMaster",
+        "content": "95"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:04:27",
+        "time_int": 47067,
+        "user": "GrandMaster",
+        "content": "93"
+    },
+    {
+        "action": "TALK",
+        "time": "13:04:32",
+        "time_int": 47072,
+        "user": "wzqclass182",
+        "content": "ff also can  use"
+    },
+    {
+        "action": "TALK",
+        "time": "13:04:50",
+        "time_int": 47090,
+        "user": "GrandMaster",
+        "content": "这个62是非常带有欺骗性的一招"
+    },
+    {
+        "action": "TALK",
+        "time": "13:04:55",
+        "time_int": 47095,
+        "user": "wzqclass193",
+        "content": "黑有杀吗"
+    },
+    {
+        "action": "TALK",
+        "time": "13:05:14",
+        "time_int": 47114,
+        "user": "GrandMaster",
+        "content": "如果不小心的话，很容易上当的"
+    },
+    {
+        "action": "TALK",
+        "time": "13:05:15",
+        "time_int": 47115,
+        "user": "wzqclass70",
+        "content": "."
+    },
+    {
+        "action": "TALK",
+        "time": "13:05:18",
+        "time_int": 47118,
+        "user": "wzqclass193",
+        "content": "63下3G"
+    },
+    {
+        "action": "TALK",
+        "time": "13:05:40",
+        "time_int": 47140,
+        "user": "wzqclass103",
+        "content": "如何欺骗？能否举个例子？"
+    },
+    {
+        "action": "TALK",
+        "time": "13:05:43",
+        "time_int": 47143,
+        "user": "GrandMaster",
+        "content": "可见顾老师的算力和计算速度要比我高出很多"
+    },
+    {
+        "action": "TALK",
+        "time": "13:05:45",
+        "time_int": 47145,
+        "user": "wzqclass176",
+        "content": "111"
+    },
+    {
+        "action": "TALK",
+        "time": "13:05:54",
+        "time_int": 47154,
+        "user": "wzqclass125",
+        "content": "恩，木有看出"
+    },
+    {
+        "action": "TALK",
+        "time": "13:05:56",
+        "time_int": 47156,
+        "user": "wzqclass193",
+        "content": "3G、3E、4E？"
+    },
+    {
+        "action": "TALK",
+        "time": "13:06:02",
+        "time_int": 47162,
+        "user": "GrandMaster",
+        "content": "62这手他只用了5秒就走了一个最强的点"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:06:06",
+        "time_int": 47166,
+        "user": "GrandMaster",
+        "content": "73"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:06:07",
+        "time_int": 47167,
+        "user": "GrandMaster",
+        "content": "62"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:06:08",
+        "time_int": 47168,
+        "user": "GrandMaster",
+        "content": "53"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:06:09",
+        "time_int": 47169,
+        "user": "GrandMaster",
+        "content": "83"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:06:10",
+        "time_int": 47170,
+        "user": "GrandMaster",
+        "content": "54"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:06:11",
+        "time_int": 47171,
+        "user": "GrandMaster",
+        "content": "56"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:06:13",
+        "time_int": 47173,
+        "user": "GrandMaster",
+        "content": "72"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:06:16",
+        "time_int": 47176,
+        "user": "GrandMaster",
+        "content": "74"
+    },
+    {
+        "action": "TALK",
+        "time": "13:06:23",
+        "time_int": 47183,
+        "user": "wzqclass193",
+        "content": "晕，有反"
+    },
+    {
+        "action": "TALK",
+        "time": "13:06:25",
+        "time_int": 47185,
+        "user": "GrandMaster",
+        "content": "正好有个反四"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:06:27",
+        "time_int": 47187,
+        "user": "GrandMaster",
+        "content": "92"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:06:38",
+        "time_int": 47198,
+        "user": "GrandMaster",
+        "content": "36"
+    },
+    {
+        "action": "TALK",
+        "time": "13:06:43",
+        "time_int": 47203,
+        "user": "wzqclass176",
+        "content": "1111111111"
+    },
+    {
+        "action": "TALK",
+        "time": "13:06:51",
+        "time_int": 47211,
+        "user": "wzqclass179",
+        "content": "1111"
+    },
+    {
+        "action": "TALK",
+        "time": "13:06:51",
+        "time_int": 47211,
+        "user": "wzqclass176",
+        "content": "11111111111111"
+    },
+    {
+        "action": "TALK",
+        "time": "13:06:59",
+        "time_int": 47219,
+        "user": "wzqclass163",
+        "content": "o"
+    },
+    {
+        "action": "TALK",
+        "time": "13:06:59",
+        "time_int": 47219,
+        "user": "wzqclass176",
+        "content": "111111111111111"
+    },
+    {
+        "action": "TALK",
+        "time": "13:06:59",
+        "time_int": 47219,
+        "user": "wzqclass176",
+        "content": "1111111111111111111111111"
+    },
+    {
+        "action": "TALK",
+        "time": "13:07:01",
+        "time_int": 47221,
+        "user": "GrandMaster",
+        "content": "这样以后白棋又拿到了先手"
+    },
+    {
+        "action": "TALK",
+        "time": "13:07:02",
+        "time_int": 47222,
+        "user": "wzqclass185",
+        "content": "0"
+    },
+    {
+        "action": "TALK",
+        "time": "13:07:13",
+        "time_int": 47233,
+        "user": "GrandMaster",
+        "content": "左边黑棋会很危险"
+    },
+    {
+        "action": "TALK",
+        "time": "13:07:15",
+        "time_int": 47235,
+        "user": "wzqclass132",
+        "content": "嗯"
+    },
+    {
+        "action": "TALK",
+        "time": "13:07:18",
+        "time_int": 47238,
+        "user": "wzqclass103",
+        "content": "明白了。"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:07:21",
+        "time_int": 47241,
+        "user": "GrandMaster",
+        "content": "c4"
+    },
+    {
+        "action": "BACK",
+        "time": "13:07:23",
+        "time_int": 47243,
+        "user": "GrandMaster",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time": "13:07:24",
+        "time_int": 47244,
+        "user": "GrandMaster",
+        "content": "26"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:07:26",
+        "time_int": 47246,
+        "user": "GrandMaster",
+        "content": "c4"
+    },
+    {
+        "action": "TALK",
+        "time": "13:07:27",
+        "time_int": 47247,
+        "user": "wzqclass125",
+        "content": "。。。好强"
+    },
+    {
+        "action": "BACK",
+        "time": "13:07:27",
+        "time_int": 47247,
+        "user": "GrandMaster",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time": "13:07:28",
+        "time_int": 47248,
+        "user": "GrandMaster",
+        "content": "b4"
+    },
+    {
+        "action": "TALK",
+        "time": "13:07:37",
+        "time_int": 47257,
+        "user": "GrandMaster",
+        "content": "这样的都是好点"
+    },
+    {
+        "action": "TALK",
+        "time": "13:08:08",
+        "time_int": 47288,
+        "user": "GrandMaster",
+        "content": "这点空间对黑棋来或许还不够，但是对白棋来说应该够杀了"
+    },
+    {
+        "action": "BACK",
+        "time": "13:08:22",
+        "time_int": 47302,
+        "user": "GrandMaster",
+        "content": ""
+    },
+    {
+        "action": "GOTO",
+        "time": "13:08:27",
+        "time_int": 47307,
+        "user": "GrandMaster",
+        "content": 62
+    },
+    {
+        "action": "TALK",
+        "time": "13:08:34",
+        "time_int": 47314,
+        "user": "wzqclass29",
+        "content": "1"
+    },
+    {
+        "action": "TALK",
+        "time": "13:08:37",
+        "time_int": 47317,
+        "user": "wzqclass58",
+        "content": "刚才点没点名?"
+    },
+    {
+        "action": "TALK",
+        "time": "13:08:39",
+        "time_int": 47319,
+        "user": "wzqclass192",
+        "content": "."
+    },
+    {
+        "action": "TALK",
+        "time": "13:08:41",
+        "time_int": 47321,
+        "user": "wzqclass105",
+        "content": "."
+    },
+    {
+        "action": "TALK",
+        "time": "13:08:43",
+        "time_int": 47323,
+        "user": "wzqclass192",
+        "content": "点两次了"
+    },
+    {
+        "action": "TALK",
+        "time": "13:08:56",
+        "time_int": 47336,
+        "user": "wzqclass193",
+        "content": "4J如何？"
+    },
+    {
+        "action": "TALK",
+        "time": "13:08:58",
+        "time_int": 47338,
+        "user": "GrandMaster",
+        "content": "比赛后他们很多人都说我错过了一次赢的机会"
+    },
+    {
+        "action": "TALK",
+        "time": "13:08:58",
+        "time_int": 47338,
+        "user": "wzqclass58",
+        "content": "我说刚才几分钟之内"
+    },
+    {
+        "action": "TALK",
+        "time": "13:09:05",
+        "time_int": 47345,
+        "user": "wzqclass192",
+        "content": "点了"
+    },
+    {
+        "action": "TALK",
+        "time": "13:09:10",
+        "time_int": 47350,
+        "user": "GrandMaster",
+        "content": "可是实战我看到了这个反"
+    },
+    {
+        "action": "TALK",
+        "time": "13:09:16",
+        "time_int": 47356,
+        "user": "wzqclass132",
+        "content": "没点蓝蓝"
+    },
+    {
+        "action": "TALK",
+        "time": "13:09:16",
+        "time_int": 47356,
+        "user": "wzqclass58",
+        "content": "啊?"
+    },
+    {
+        "action": "TALK",
+        "time": "13:09:20",
+        "time_int": 47360,
+        "user": "GrandMaster",
+        "content": "于是没有这样走"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:09:26",
+        "time_int": 47366,
+        "user": "GrandMaster",
+        "content": "83"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:09:28",
+        "time_int": 47368,
+        "user": "GrandMaster",
+        "content": "72"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:09:33",
+        "time_int": 47373,
+        "user": "GrandMaster",
+        "content": "a4"
+    },
+    {
+        "action": "TALK",
+        "time": "13:09:39",
+        "time_int": 47379,
+        "user": "wzqclass176",
+        "content": "11111111111111111"
+    },
+    {
+        "action": "TALK",
+        "time": "13:09:39",
+        "time_int": 47379,
+        "user": "wzqclass176",
+        "content": "111111111111111111111111111"
+    },
+    {
+        "action": "TALK",
+        "time": "13:09:39",
+        "time_int": 47379,
+        "user": "wzqclass176",
+        "content": "."
+    },
+    {
+        "action": "TALK",
+        "time": "13:09:44",
+        "time_int": 47384,
+        "user": "wzqclass193",
+        "content": "1111"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:09:46",
+        "time_int": 47386,
+        "user": "GrandMaster",
+        "content": "b4"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:09:53",
+        "time_int": 47393,
+        "user": "GrandMaster",
+        "content": "b3"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:10:00",
+        "time_int": 47400,
+        "user": "GrandMaster",
+        "content": "d5"
+    },
+    {
+        "action": "BACK",
+        "time": "13:10:04",
+        "time_int": 47404,
+        "user": "GrandMaster",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time": "13:10:05",
+        "time_int": 47405,
+        "user": "GrandMaster",
+        "content": "c2"
+    },
+    {
+        "action": "TALK",
+        "time": "13:10:05",
+        "time_int": 47405,
+        "user": "chinarenju37",
+        "content": "？"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:10:10",
+        "time_int": 47410,
+        "user": "GrandMaster",
+        "content": "d5"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:10:12",
+        "time_int": 47412,
+        "user": "GrandMaster",
+        "content": "a5"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:10:14",
+        "time_int": 47414,
+        "user": "GrandMaster",
+        "content": "c3"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:10:28",
+        "time_int": 47428,
+        "user": "GrandMaster",
+        "content": "d3"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:10:41",
+        "time_int": 47441,
+        "user": "GrandMaster",
+        "content": "e6"
+    },
+    {
+        "action": "TALK",
+        "time": "13:10:44",
+        "time_int": 47444,
+        "user": "wzqclass193",
+        "content": "现在可能和了吧"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:10:45",
+        "time_int": 47445,
+        "user": "GrandMaster",
+        "content": "c4"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:10:49",
+        "time_int": 47449,
+        "user": "GrandMaster",
+        "content": "e4"
+    },
+    {
+        "action": "TALK",
+        "time": "13:10:52",
+        "time_int": 47452,
+        "user": "ice",
+        "content": "后面别摆了吧"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:10:56",
+        "time_int": 47456,
+        "user": "GrandMaster",
+        "content": "e7"
+    },
+    {
+        "action": "TALK",
+        "time": "13:11:09",
+        "time_int": 47469,
+        "user": "GrandMaster",
+        "content": "后面基本就都没棋了"
+    },
+    {
+        "action": "TALK",
+        "time": "13:11:21",
+        "time_int": 47481,
+        "user": "GrandMaster",
+        "content": "我也只记得这么多了"
+    },
+    {
+        "action": "TALK",
+        "time": "13:11:22",
+        "time_int": 47482,
+        "user": "chinarenju37",
+        "content": "还有空间吗？"
+    },
+    {
+        "action": "TALK",
+        "time": "13:11:36",
+        "time_int": 47496,
+        "user": "wzqclass95",
+        "content": "比较可惜"
+    },
+    {
+        "action": "TALK",
+        "time": "13:11:46",
+        "time_int": 47506,
+        "user": "wzqclass192",
+        "content": "目标达到了"
+    },
+    {
+        "action": "TALK",
+        "time": "13:11:54",
+        "time_int": 47514,
+        "user": "chinarenju37",
+        "content": "恩"
+    },
+    {
+        "action": "TALK",
+        "time": "13:11:57",
+        "time_int": 47517,
+        "user": "GrandMaster",
+        "content": "还有大概30多手在右上，左上还有左下都走了几手"
+    },
+    {
+        "action": "TALK",
+        "time": "13:11:59",
+        "time_int": 47519,
+        "user": "wzqclass193",
+        "content": "和棋黑要扣0.5分吧"
+    },
+    {
+        "action": "TALK",
+        "time": "13:11:59",
+        "time_int": 47519,
+        "user": "wzqclass95",
+        "content": "小元应该是有胜的机会的"
+    },
+    {
+        "action": "TALK",
+        "time": "13:12:00",
+        "time_int": 47520,
+        "user": "wzqclass126",
+        "content": "错过哪有赢的机会啊"
+    },
+    {
+        "action": "TALK",
+        "time": "13:12:15",
+        "time_int": 47535,
+        "user": "ssrenju55",
+        "content": "结果没把顾炜给拍S..."
+    },
+    {
+        "action": "TALK",
+        "time": "13:12:21",
+        "time_int": 47541,
+        "user": "wzqclass176",
+        "content": "111111111111111"
+    },
+    {
+        "action": "TALK",
+        "time": "13:12:23",
+        "time_int": 47543,
+        "user": "wzqclass133",
+        "content": "。。。。。。。"
+    },
+    {
+        "action": "TALK",
+        "time": "13:12:25",
+        "time_int": 47545,
+        "user": "wzqclass182",
+        "content": "22"
+    },
+    {
+        "action": "TALK",
+        "time": "13:12:31",
+        "time_int": 47551,
+        "user": "GrandMaster",
+        "content": "在70多手后我还有15分钟，顾老师还有5分钟，这个时候我提和他没有同意"
+    },
+    {
+        "action": "TALK",
+        "time": "13:12:37",
+        "time_int": 47557,
+        "user": "wzqclass132",
+        "content": "i am here"
+    },
+    {
+        "action": "TALK",
+        "time": "13:12:41",
+        "time_int": 47561,
+        "user": "wzqclass176",
+        "content": "111111111111111111111111"
+    },
+    {
+        "action": "TALK",
+        "time": "13:12:41",
+        "time_int": 47561,
+        "user": "wzqclass176",
+        "content": "1111111111111111111111111"
+    },
+    {
+        "action": "TALK",
+        "time": "13:12:41",
+        "time_int": 47561,
+        "user": "wzqclass176",
+        "content": "1111111111111111111111"
+    },
+    {
+        "action": "TALK",
+        "time": "13:12:50",
+        "time_int": 47570,
+        "user": "ssrenju55",
+        "content": "哈~"
+    },
+    {
+        "action": "TALK",
+        "time": "13:12:55",
+        "time_int": 47575,
+        "user": "GrandMaster",
+        "content": "继续走下去，想引诱我出错"
+    },
+    {
+        "action": "TALK",
+        "time": "13:13:01",
+        "time_int": 47581,
+        "user": "wzqclass95",
+        "content": "：））"
+    },
+    {
+        "action": "TALK",
+        "time": "13:13:05",
+        "time_int": 47585,
+        "user": "wzqclass192",
+        "content": "*_*"
+    },
+    {
+        "action": "TALK",
+        "time": "13:13:12",
+        "time_int": 47592,
+        "user": "wzqclass95",
+        "content": "明年你可以砍他"
+    },
+    {
+        "action": "TALK",
+        "time": "13:13:27",
+        "time_int": 47607,
+        "user": "GrandMaster",
+        "content": "而且他拍钟的速度也很快"
+    },
+    {
+        "action": "TALK",
+        "time": "13:13:31",
+        "time_int": 47611,
+        "user": "wzqclass105",
+        "content": "`"
+    },
+    {
+        "action": "TALK",
+        "time": "13:13:36",
+        "time_int": 47616,
+        "user": "wzqclass133",
+        "content": "哈哈"
+    },
+    {
+        "action": "TALK",
+        "time": "13:13:40",
+        "time_int": 47620,
+        "user": "wzqclass29",
+        "content": "1"
+    },
+    {
+        "action": "TALK",
+        "time": "13:13:43",
+        "time_int": 47623,
+        "user": "GrandMaster",
+        "content": "没多久他用几分钟就消耗了我10多分钟"
+    },
+    {
+        "action": "TALK",
+        "time": "13:13:44",
+        "time_int": 47624,
+        "user": "wzqclass182",
+        "content": "^-^"
+    },
+    {
+        "action": "TALK",
+        "time": "13:13:46",
+        "time_int": 47626,
+        "user": "ssrenju55",
+        "content": "我经常性忘拍..."
+    },
+    {
+        "action": "TALK",
+        "time": "13:14:18",
+        "time_int": 47658,
+        "user": "wzqclass95",
+        "content": "经验比你丰富"
+    },
+    {
+        "action": "TALK",
+        "time": "13:14:23",
+        "time_int": 47663,
+        "user": "wzqclass192",
+        "content": "想跟老师比时间赛跑."
+    },
+    {
+        "action": "TALK",
+        "time": "13:14:27",
+        "time_int": 47667,
+        "user": "wzqclass70",
+        "content": "."
+    },
+    {
+        "action": "TALK",
+        "time": "13:14:28",
+        "time_int": 47668,
+        "user": "GrandMaster",
+        "content": "最后走了112手后他还剩下10多秒的时候他提和我同意了"
+    },
+    {
+        "action": "TALK",
+        "time": "13:14:44",
+        "time_int": 47684,
+        "user": "wzqclass132",
+        "content": "不同意"
+    },
+    {
+        "action": "TALK",
+        "time": "13:14:45",
+        "time_int": 47685,
+        "user": "ssrenju55",
+        "content": "不同意9S特了~"
+    },
+    {
+        "action": "TALK",
+        "time": "13:14:53",
+        "time_int": 47693,
+        "user": "GrandMaster",
+        "content": "而我大概也剩下4，5分钟了"
+    },
+    {
+        "action": "TALK",
+        "time": "13:15:02",
+        "time_int": 47702,
+        "user": "GrandMaster",
+        "content": "可能还没有"
+    },
+    {
+        "action": "TALK",
+        "time": "13:15:04",
+        "time_int": 47704,
+        "user": "wzqclass95",
+        "content": "为什么不拍呢"
+    },
+    {
+        "action": "TALK",
+        "time": "13:15:12",
+        "time_int": 47712,
+        "user": "GrandMaster",
+        "content": "当时也没想这么多"
+    },
+    {
+        "action": "TALK",
+        "time": "13:15:12",
+        "time_int": 47712,
+        "user": "wzqclass126",
+        "content": "那在时间上能赢他的啊"
+    },
+    {
+        "action": "TALK",
+        "time": "13:15:18",
+        "time_int": 47718,
+        "user": "wzqclass95",
+        "content": "10多秒啊"
+    },
+    {
+        "action": "TALK",
+        "time": "13:15:29",
+        "time_int": 47729,
+        "user": "ssrenju55",
+        "content": "OHOHO~下次拍S他..让他郁闷下~"
+    },
+    {
+        "action": "TALK",
+        "time": "13:15:34",
+        "time_int": 47734,
+        "user": "wzqclass193",
+        "content": "可能是怕下到最后有禁手"
+    },
+    {
+        "action": "TALK",
+        "time": "13:15:35",
+        "time_int": 47735,
+        "user": "wzqclass95",
+        "content": "小远太善良了~~：））"
+    },
+    {
+        "action": "TALK",
+        "time": "13:15:40",
+        "time_int": 47740,
+        "user": "wzqclass125",
+        "content": "吼吼~"
+    },
+    {
+        "action": "TALK",
+        "time": "13:15:42",
+        "time_int": 47742,
+        "user": "GrandMaster",
+        "content": "顾老师曾在8月的浙江赛上148手抓了对方的一个44"
+    },
+    {
+        "action": "TALK",
+        "time": "13:15:53",
+        "time_int": 47753,
+        "user": "wzqclass192",
+        "content": "哦,有这个顾虑"
+    },
+    {
+        "action": "TALK",
+        "time": "13:15:57",
+        "time_int": 47757,
+        "user": "wzqclass125",
+        "content": "小元才不象你们那么坏呢"
+    },
+    {
+        "action": "TALK",
+        "time": "13:15:58",
+        "time_int": 47758,
+        "user": "wzqclass193",
+        "content": "所以我猜到老师的意思"
+    },
+    {
+        "action": "TALK",
+        "time": "13:16:11",
+        "time_int": 47771,
+        "user": "wzqclass185",
+        "content": "友谊第一 比赛第二"
+    },
+    {
+        "action": "TALK",
+        "time": "13:16:12",
+        "time_int": 47772,
+        "user": "wzqclass182",
+        "content": "吼吼？"
+    },
+    {
+        "action": "TALK",
+        "time": "13:16:17",
+        "time_int": 47777,
+        "user": "wzqclass95",
+        "content": "我曾经也100多手抓别人的四四"
+    },
+    {
+        "action": "TALK",
+        "time": "13:16:29",
+        "time_int": 47789,
+        "user": "GrandMaster",
+        "content": "所以虽然后面都没棋了，但是也怕万一"
+    },
+    {
+        "action": "TALK",
+        "time": "13:16:35",
+        "time_int": 47795,
+        "user": "GrandMaster",
+        "content": "因为都没时间了"
+    },
+    {
+        "action": "TALK",
+        "time": "13:16:42",
+        "time_int": 47802,
+        "user": "wzqclass132",
+        "content": "嗯，目的达到了"
+    },
+    {
+        "action": "TALK",
+        "time": "13:16:52",
+        "time_int": 47812,
+        "user": "wzqclass193",
+        "content": "越到后黑越不利是吧"
+    },
+    {
+        "action": "TALK",
+        "time": "13:16:53",
+        "time_int": 47813,
+        "user": "wzqclass192",
+        "content": "见好就手"
+    },
+    {
+        "action": "TALK",
+        "time": "13:17:05",
+        "time_int": 47825,
+        "user": "GrandMaster",
+        "content": "和棋的结果我能够接受，但是顾老师有点遗憾"
+    },
+    {
+        "action": "TALK",
+        "time": "13:17:06",
+        "time_int": 47826,
+        "user": "wzqclass193",
+        "content": "有可能就有禁手在等着黑呢"
+    },
+    {
+        "action": "TALK",
+        "time": "13:17:19",
+        "time_int": 47839,
+        "user": "wzqclass95",
+        "content": "这个棋他还遗憾。。。。"
+    },
+    {
+        "action": "TALK",
+        "time": "13:17:28",
+        "time_int": 47848,
+        "user": "wzqclass95",
+        "content": "没输就不错了"
+    },
+    {
+        "action": "TALK",
+        "time": "13:17:34",
+        "time_int": 47854,
+        "user": "GrandMaster",
+        "content": "赛后他说这盘棋我没有一点主动进攻，他也十分无奈"
+    },
+    {
+        "action": "TALK",
+        "time": "13:17:44",
+        "time_int": 47864,
+        "user": "ssrenju55",
+        "content": "哈~"
+    },
+    {
+        "action": "TALK",
+        "time": "13:18:01",
+        "time_int": 47881,
+        "user": "GrandMaster",
+        "content": "后来他把谱都记全了"
+    },
+    {
+        "action": "TALK",
+        "time": "13:18:01",
+        "time_int": 47881,
+        "user": "wzqclass179",
+        "content": "111"
+    },
+    {
+        "action": "TALK",
+        "time": "13:18:06",
+        "time_int": 47886,
+        "user": "wzqclass176",
+        "content": "111111111111111"
+    },
+    {
+        "action": "TALK",
+        "time": "13:18:08",
+        "time_int": 47888,
+        "user": "GrandMaster",
+        "content": "我都忘了"
+    },
+    {
+        "action": "TALK",
+        "time": "13:18:16",
+        "time_int": 47896,
+        "user": "wzqclass133",
+        "content": "。。。。。。。。"
+    },
+    {
+        "action": "TALK",
+        "time": "13:18:24",
+        "time_int": 47904,
+        "user": "wzqclass181",
+        "content": "22222222"
+    },
+    {
+        "action": "TALK",
+        "time": "13:18:37",
+        "time_int": 47917,
+        "user": "wzqclass87",
+        "content": "1"
+    },
+    {
+        "action": "TALK",
+        "time": "13:18:40",
+        "time_int": 47920,
+        "user": "GrandMaster",
+        "content": "非常佩服他在这么高度紧张的比赛后还能记全棋谱"
+    },
+    {
+        "action": "TALK",
+        "time": "13:18:45",
+        "time_int": 47925,
+        "user": "wzqclass182",
+        "content": "22"
+    },
+    {
+        "action": "TALK",
+        "time": "13:18:50",
+        "time_int": 47930,
+        "user": "wzqclass193",
+        "content": "你们干么要打111。。。、222。。。的呀？"
+    },
+    {
+        "action": "TALK",
+        "time": "13:18:55",
+        "time_int": 47935,
+        "user": "wzqclass95",
+        "content": "这盘棋是太保守了"
+    },
+    {
+        "action": "TALK",
+        "time": "13:19:01",
+        "time_int": 47941,
+        "user": "GrandMaster",
+        "content": "恩"
+    },
+    {
+        "action": "TALK",
+        "time": "13:19:15",
+        "time_int": 47955,
+        "user": "wzqclass179",
+        "content": "看看有没有掉线：）"
+    },
+    {
+        "action": "TALK",
+        "time": "13:19:20",
+        "time_int": 47960,
+        "user": "wzqclass192",
+        "content": "."
+    },
+    {
+        "action": "TALK",
+        "time": "13:19:20",
+        "time_int": 47960,
+        "user": "wzqclass76",
+        "content": "25应该就可以搞定了"
+    },
+    {
+        "action": "TALK",
+        "time": "13:19:23",
+        "time_int": 47963,
+        "user": "GrandMaster",
+        "content": "目的就是为了阻击"
+    },
+    {
+        "action": "TALK",
+        "time": "13:19:24",
+        "time_int": 47964,
+        "user": "wzqclass193",
+        "content": "哦"
+    },
+    {
+        "action": "TALK",
+        "time": "13:19:32",
+        "time_int": 47972,
+        "user": "wzqclass70",
+        "content": "."
+    },
+    {
+        "action": "TALK",
+        "time": "13:19:34",
+        "time_int": 47974,
+        "user": "wzqclass95",
+        "content": "25搞不定吧"
+    },
+    {
+        "action": "TALK",
+        "time": "13:19:43",
+        "time_int": 47983,
+        "user": "wzqclass193",
+        "content": "那老师有没有扣0.5分？"
+    },
+    {
+        "action": "TALK",
+        "time": "13:19:52",
+        "time_int": 47992,
+        "user": "wzqclass76",
+        "content": "24后面白没看到有棋啊"
+    },
+    {
+        "action": "TALK",
+        "time": "13:20:05",
+        "time_int": 48005,
+        "user": "GrandMaster",
+        "content": "现在看来其实大家如果能够败正心态的话，要想和高手下和棋还是不难的"
+    },
+    {
+        "action": "TALK",
+        "time": "13:20:21",
+        "time_int": 48021,
+        "user": "wzqclass176",
+        "content": "11111111111"
+    },
+    {
+        "action": "TALK",
+        "time": "13:20:31",
+        "time_int": 48031,
+        "user": "ssrenju55",
+        "content": "和高手下棋8能有想法....- -||"
+    },
+    {
+        "action": "TALK",
+        "time": "13:20:41",
+        "time_int": 48041,
+        "user": "GrandMaster",
+        "content": "关键就是自己在没有强大算力的同时不要冒险进攻"
+    },
+    {
+        "action": "TALK",
+        "time": "13:20:45",
+        "time_int": 48045,
+        "user": "wzqclass193",
+        "content": "不能有想法就完了"
+    },
+    {
+        "action": "TALK",
+        "time": "13:20:53",
+        "time_int": 48053,
+        "user": "GrandMaster",
+        "content": "因为你进攻的同时也就给了对手机会"
+    },
+    {
+        "action": "TALK",
+        "time": "13:21:03",
+        "time_int": 48063,
+        "user": "wzqclass132",
+        "content": "记住了"
+    },
+    {
+        "action": "TALK",
+        "time": "13:21:05",
+        "time_int": 48065,
+        "user": "wzqclass125",
+        "content": "恩"
+    },
+    {
+        "action": "TALK",
+        "time": "13:21:09",
+        "time_int": 48069,
+        "user": "wzqclass192",
+        "content": "恩"
+    },
+    {
+        "action": "TALK",
+        "time": "13:21:19",
+        "time_int": 48079,
+        "user": "wzqclass76",
+        "content": "不管怎么样，这盘棋还是成功的"
+    },
+    {
+        "action": "TALK",
+        "time": "13:21:21",
+        "time_int": 48081,
+        "user": "chinarenju37",
+        "content": "经验啊"
+    },
+    {
+        "action": "TALK",
+        "time": "13:21:39",
+        "time_int": 48099,
+        "user": "wzqclass95",
+        "content": "41手黑开始进攻做也做死对手了"
+    },
+    {
+        "action": "TALK",
+        "time": "13:21:40",
+        "time_int": 48100,
+        "user": "wzqclass193",
+        "content": "老师，还讲点别的吗？"
+    },
+    {
+        "action": "TALK",
+        "time": "13:21:55",
+        "time_int": 48115,
+        "user": "GrandMaster",
+        "content": "所以记得有人说过，如果你的对手是吴昊，如果你想要赢他，那么你输棋的概率会增加50%"
+    },
+    {
+        "action": "TALK",
+        "time": "13:22:07",
+        "time_int": 48127,
+        "user": "wzqclass125",
+        "content": "哈哈"
+    },
+    {
+        "action": "TALK",
+        "time": "13:22:24",
+        "time_int": 48144,
+        "user": "wzqclass176",
+        "content": "111111111111"
+    },
+    {
+        "action": "TALK",
+        "time": "13:22:27",
+        "time_int": 48147,
+        "user": "wzqclass132",
+        "content": "和他下棋的可能性几乎没有"
+    },
+    {
+        "action": "TALK",
+        "time": "13:22:32",
+        "time_int": 48152,
+        "user": "wzqclass181",
+        "content": "22222222"
+    },
+    {
+        "action": "TALK",
+        "time": "13:22:49",
+        "time_int": 48169,
+        "user": "wzqclass183",
+        "content": "\/\/\/\/"
+    },
+    {
+        "action": "TALK",
+        "time": "13:22:50",
+        "time_int": 48170,
+        "user": "wzqclass126",
+        "content": "跟高手下求和"
+    },
+    {
+        "action": "TALK",
+        "time": "13:22:55",
+        "time_int": 48175,
+        "user": "wzqclass70",
+        "content": "."
+    },
+    {
+        "action": "TALK",
+        "time": "13:22:58",
+        "time_int": 48178,
+        "user": "wzqclass179",
+        "content": "。。。。。。。。。。"
+    },
+    {
+        "action": "TALK",
+        "time": "13:22:58",
+        "time_int": 48178,
+        "user": "GrandMaster",
+        "content": "这个虽然只是个玩笑，但是确实是有点道理的"
+    },
+    {
+        "action": "TALK",
+        "time": "13:23:18",
+        "time_int": 48198,
+        "user": "wzqclass105",
+        "content": "`"
+    },
+    {
+        "action": "TALK",
+        "time": "13:23:22",
+        "time_int": 48202,
+        "user": "chinarenju37",
+        "content": "到此为止了？没了？"
+    },
+    {
+        "action": "TALK",
+        "time": "13:23:26",
+        "time_int": 48206,
+        "user": "wzqclass29",
+        "content": "."
+    },
+    {
+        "action": "TALK",
+        "time": "13:23:29",
+        "time_int": 48209,
+        "user": "wzqclass193",
+        "content": "老师，后面还要讲什么吗？"
+    },
+    {
+        "action": "TALK",
+        "time": "13:23:40",
+        "time_int": 48220,
+        "user": "GrandMaster",
+        "content": "恩，今天就到这里吧，也没怎么准备"
+    },
+    {
+        "action": "TALK",
+        "time": "13:23:40",
+        "time_int": 48220,
+        "user": "wzqclass193",
+        "content": "要不实战一盘？"
+    },
+    {
+        "action": "TALK",
+        "time": "13:23:56",
+        "time_int": 48236,
+        "user": "wzqclass185",
+        "content": "1"
+    },
+    {
+        "action": "TALK",
+        "time": "13:24:00",
+        "time_int": 48240,
+        "user": "GrandMaster",
+        "content": "最后在下课前再点一次名"
+    },
+    {
+        "action": "TALK",
+        "time": "13:24:10",
+        "time_int": 48250,
+        "user": "chinarenju37",
+        "content": "谢谢"
+    },
+    {
+        "action": "TALK",
+        "time": "13:24:11",
+        "time_int": 48251,
+        "user": "wzqclass176",
+        "content": "111"
+    },
+    {
+        "action": "TALK",
+        "time": "13:24:12",
+        "time_int": 48252,
+        "user": "GrandMaster",
+        "content": "希望大家集中注意力"
+    },
+    {
+        "action": "TALK",
+        "time": "13:24:12",
+        "time_int": 48252,
+        "user": "wzqclass76",
+        "content": "下课去ORC"
+    },
+    {
+        "action": "TALK",
+        "time": "13:24:30",
+        "time_int": 48270,
+        "user": "wzqclass95",
+        "content": "81强啊"
+    },
+    {
+        "action": "TALK",
+        "time": "13:24:59",
+        "time_int": 48299,
+        "user": "wzqclass133",
+        "content": "谢谢老师~~~~~~~~"
+    },
+    {
+        "action": "CHECKRESULT",
+        "time": "13:24:59",
+        "time_int": 48299,
+        "user": "",
+        "content": " wzqclass81, wzqclass95, wzqclass125, ssrenju55, wzqclass133, wzqclass99, wzqclass183, wzqclass126, wzqclass182, wzqclass193, wzqclass163, wzqclass84, ice, wzqclass09, wzqclass171, wzqclass65, wzqclass76, wzqclass177, wzqclass56, wzqclass192, wzqclass70, wzqclass181, wzqclass103, wzqclass105, wzqclass36, ssrenju49, wzqclass132, ssrenju30, wzqclass190, wzqclass101, wzqclass91, wzqclass145, wzqclass189, wzqclass02, wzqclass179, wzqclass185, wzqclass29, ssrenju14, wzqclass53, chinarenju37, wzqclass80, wzqclass110, wzqclass39, wzqclass66, wzqclass104, wzqclass149, wzqclass118, wzqclass176, wzqclass58, wzqclass87, wzqclass26."
+    },
+    {
+        "action": "TALK",
+        "time": "13:25:21",
+        "time_int": 48321,
+        "user": "wzqclass133",
+        "content": "老师辛苦了~~~~~~~"
+    },
+    {
+        "action": "CREDIT",
+        "time": "13:25:24",
+        "time_int": 48324,
+        "user": "",
+        "content": " ice, ssrenju14, ssrenju55, wzqclass02, wzqclass09, wzqclass103, wzqclass104, wzqclass105, wzqclass110, wzqclass118, wzqclass125, wzqclass126, wzqclass132, wzqclass133, wzqclass149, wzqclass171, wzqclass176, wzqclass177, wzqclass179, wzqclass181, wzqclass182, wzqclass183, wzqclass185, wzqclass189, wzqclass190, wzqclass193, wzqclass29, wzqclass36, wzqclass39, wzqclass56, wzqclass58, wzqclass66, wzqclass70, wzqclass76, wzqclass87, wzqclass91, wzqclass95, wzqclass99."
+    }
+]

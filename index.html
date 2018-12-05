@@ -1,0 +1,582 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>RenjuClass课程在线学习</title>
+    <style>
+        body
+        {
+            font-family: "微软雅黑",Arial,Helvetica,sans-serif;
+            background-color: #EFEEF7;
+        }
+        .layui-main {width:1140px;margin:0 auto;}
+        img{border:none;}
+        h1,h2,h3{margin:0;}
+        p{font-size:14px;margin:0 0 5px 0;line-height:22px;}
+        ul,li,dt,dd,ol{list-style:none;padding:0;margin:0}
+        .footer {margin:10px 0;}
+        .footer p{text-align:center;}
+
+        .button{cursor:pointer;background:#59A8F3;border-color: #3990DB #3990DB #2F78B7;border-style: solid;    border-width: 1px;    box-shadow: 0 1px 0 rgba(255, 255, 255, 0.2) inset;    color: #FFFFFF;    text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.3);border-radius: 4px 4px 4px 4px; display: inline-block;    font-size: 13px;    padding: 3px 9px;}
+        .button:hover{background:#3F96E5;}
+        #board_main
+        {
+            background:url('/images/board-0.png') 0 -3px no-repeat;
+            height:583px;
+            width:590px;
+            padding-top:3px;
+            user-select:none;
+            -moz-user-select: none;
+            -webkit-user-select: none;
+        }
+        .blank:hover
+        {
+            height:35px;
+            width:35px;
+            border:1px solid #fff
+        }
+        .black
+        {
+            background:url('/images/b.png') center center no-repeat;
+            color:white;
+        }
+        .white
+        {
+            background:url('/images/w.png') center center no-repeat;
+        }
+
+        .row
+        {
+            height:37px;
+            width:556px;
+            margin-left:5px;
+            overflow:hidden;
+        }
+        .row div
+        {
+            font-family:Arial;
+            height:37px;
+            width:37px;
+            float:left;
+            line-height:37px;
+            text-align:center;
+            font-weight:bold;
+            font-size:18px;
+            cursor:pointer;
+            overflow:hidden;
+        }
+        .controlbar{width: 550px;}
+        .controlbar button{margin-left:25px;}
+
+        #chat_content_list {height:600px;overflow-x: hidden;overflow-y:auto;padding: 12px 8px;background: #f2f2f2}
+        #chat_content li{border-bottom: 1px solid #ddd;line-height: 25px;}
+        #chat_content .chat-name{font-weight: bold;color:#59A8F3;}
+        #chat_content .teacher{color:#e24329;}
+        #chat_content .chat-move{color:#3f9343;}
+        #chat_content .chat-sys{color:#9e5724;}
+        #lesson_list{padding: 0 5px 0 5px;width:21%;height:560px;float:left;overflow-x:hidden;overflow-y:scroll;}
+        #play_control{padding: 0 5px 0 5px;width:21%;height:60px;float:left;overflow:hidden;}
+        #progress{width:100%;height:20px;overflow:hidden;border:1px solid #ddd}
+        #progress>div{width:0%;height:20px;background-color:#779e23;}
+        #lesson_list a{text-decoration: none; margin-bottom: 5px; display: block; }
+
+    </style>
+</head>
+<body>
+<div class="layui-main site-inline" style="margin-top: 20px;overflow: hidden;">
+    <div style="width:52%;height:624px;float:left;"><div id="board_main"></div></div>
+    <div class="chat_area" style="padding: 0 5px 0 5px;width:24%;min-height:600px;float:left;">
+        <div id="chat_content_list">
+            <ul id="chat_content"></ul>
+        </div>
+    </div>
+    <div id="lesson_list">
+        <ul></ul>
+    </div>
+    <div id="play_control">
+        <div id="progress">
+            <div></div>
+        </div>
+        <div class="buttons">
+            <button class="button btn_play">Play &gt;</button>
+            <button class="button btn_pause">Pause ||</button>
+            <select name="speed">
+                <option value="1000">播放速度</option>
+                <option value="1333">0.75倍速</option>
+                <option value="999">正常</option>
+                <option value="667">1.5倍速</option>
+                <option value="1333">0.75倍速</option>
+                <option value="500">2倍速</option>
+                <option value="333">3倍速</option>
+                <option value="100">10倍速</option>
+                <option value="10">100倍速</option>
+            </select>
+        </div>
+    </div>
+</div>
+<div class="layui-footer footer footer-doc">
+    <div class="layui-main">
+        <p>
+            本项目在<a href="https://github.com/xsir317/ku10" target="_blank">Github</a>维护。 </p>
+        <p>
+            请使用Chrome或Firefox访问。本站内容来自网络，感谢Ando老师、Luwenzhe老师和课程讲师的贡献。内容版权归原作者所有。<br />如有疑问欢迎联系我 xsir317@gmail.com </p>
+    </div>
+</div>
+    <script src="https://cdn.bootcss.com/jquery/3.3.1/jquery.min.js"></script>
+    <script type="text/javascript">
+        /**
+         * @author xsir317@gmail.com
+         * @license http://creativecommons.org/licenses/by-sa/3.0/deed.zh
+         */
+        let board = null;
+        let record_player = null;
+        let boardObj = function()
+        {
+            //棋盘的DOM对象，基本上棋子、棋盘逻辑都在这里面。
+            let board = $("#board_main");
+
+            let _obj = this;
+
+            //整个游戏的数据结构，包括对局进程、状态、双方等等。会通过页面变量或者Websocket推过来。
+            //_obj.game_record = '';
+
+            //字符串，当前局面记录。
+            _obj.currgame = '';
+
+            //字符串，记录终局状态。
+            _obj.endgame = '';
+
+            // 当前颜色，在初始化时会初始化为黑色
+            _obj.curr_color = 'black';
+
+            //当前手数，会被初始化为1
+            _obj.curr_step = 1;
+
+            //load 一个游戏数据。
+            _obj.load = function( game_record ){
+                //为了播放声音，这里对比一下旧盘面和新load的盘面，决定是否播放一次声音
+                //let play_sound = (_obj.currgame != game_data.game_record);
+                //_obj.game_record = game_record;
+                _obj.endgame = game_record;
+                _obj.show_origin();
+                /*if(play_sound)
+                {
+                    pager.play_sound('Move');
+                }*/
+            };
+
+
+            //自动切换模式。
+            _obj.switch_mode = (function(){
+                let _mode = 'game';// game or analyze
+                return function(mode){
+                    if(mode == _mode)
+                    {
+                        return true;
+                    }
+                    _mode = mode;
+                    switch(mode)
+                    {
+                        case 'game':
+                            //board.removeClass("mode_analyze").addClass("mode_game");
+                            board.css("background-image","url(/images/board.png)");
+                            break;
+                        case 'analyze':
+                            board.css("background-image","url(/images/board-grey.png)");
+                            break;
+                        default:
+                            break;
+                    }
+                };
+            })();
+
+            /**
+             * @description 在指定位置放置一枚棋子。
+             * @param  {string} coordinate 传入坐标。
+             * @param  {boolean} play_sound 是否播放声音
+             * @returns {boolean}
+             */
+            _obj.place_stone = function(coordinate,play_sound){
+                let target_cell = board.find('.'+coordinate);
+                if(!target_cell.hasClass('blank'))
+                {
+                    return false;
+                }
+                target_cell.removeClass('blank').addClass(_obj.curr_color).html(_obj.curr_step ++);
+                _obj.curr_color = (_obj.curr_color == 'black' ? 'white':'black');
+                _obj.currgame += coordinate;
+                if(_obj.currgame != _obj.endgame.substr(0,_obj.currgame.length))
+                {
+                    _obj.endgame = _obj.currgame;
+                    //在改变了endgame时，如果不是playing ,则都进入研究模式。
+                    //record_player.pause();
+                    //_obj.switch_mode('analyze');
+                }
+                if(play_sound)
+                {
+                    //pager.play_sound('Move');
+                }
+
+                return true;
+            };
+
+            _obj.get_current_board = function () {
+                return _obj.currgame;
+            };
+
+            /**
+             * 右键和回退按钮的事件，往回退一个棋子。并不产生任何Ajax，这不是悔棋操作。
+             * @returns {boolean}
+             */
+            _obj.move_pre = function(){
+                if(_obj.currgame)
+                {
+                    let last_move = _obj.currgame.substr(_obj.currgame.length-2,2);
+                    //这个棋子拿起来。。。
+                    let target_cell = board.find('.'+last_move);
+                    target_cell.removeClass('black white').addClass('blank').html('');
+                    _obj.curr_step --;
+                    _obj.curr_color = (_obj.curr_color == 'black' ? 'white':'black');
+                    _obj.currgame = _obj.currgame.substr(0,_obj.currgame.length-2);
+
+                    return true;
+                }
+                return false;
+            };
+
+            /**
+             * 根据endgame，一步一步走下去，把整个棋局展示出来。
+             * @returns {boolean}
+             */
+            _obj.move_next = function(){
+                if(_obj.currgame != _obj.endgame)
+                {
+                    let nextstep = _obj.endgame.substr(_obj.currgame.length,2);
+                    _obj.place_stone(nextstep);
+                    return true;
+                }
+                return false;
+            };
+
+            /**
+             * 回退到空棋盘状态。
+             */
+            _obj.board_clean = function(){
+                while (_obj.move_pre()) {}
+            };
+
+            /**
+             * 根据目前的棋局记录一路Next到局面结束的状态。
+             */
+            _obj.board_end = function(){
+                while(_obj.move_next()) {}
+            };
+
+            /**
+             * 根据game_record 初始化棋盘的文字信息和棋盘Game信息
+             */
+            _obj.show_origin = function(){
+
+                //_obj.switch_mode('game');
+                _obj.board_clean();
+                //_obj.endgame = _obj.game_record;
+                _obj.board_end();
+            };
+
+            /**
+             * 画棋盘和按钮。绑定右键事件。
+             * 整个页面载入的时候会执行一次。仅此一次。
+             */
+            _obj.init_board = function(){
+                _obj.currgame = '';
+                _obj.curr_color = 'black';
+                _obj.curr_step = 1;
+                board.html('');
+
+                board.mousedown(function(e){
+                    if(e.which == 3)
+                    {
+                        _obj.move_pre();
+                        return false;
+                    }
+                });
+                board.bind("contextmenu", function() { return false; });
+                for(let i=15;i>=1;i--)
+                {
+                    //insert a row
+                    let newrow = $(document.createElement("div"));
+                    newrow.addClass('row');
+                    for(let j=1;j<=15;j++)
+                    {
+                        //insert a cross point
+                        let newcell = $(document.createElement("div"));
+                        newcell.addClass(j.toString(16) + i.toString(16));
+                        newcell.attr('alt',j.toString(16) + i.toString(16));
+                        newcell.addClass('blank');
+                        newrow.append(newcell);
+                    }
+                    board.append(newrow);
+                }
+                board.find('.row div').click(function(){
+                    //_obj.place_stone($(this).attr('alt'),true);
+                    alert("暂不提供研究、摆棋功能。");
+                    return true;
+                });
+                //生成控制按钮
+                let controlbar = $(document.createElement("div"));
+                controlbar.addClass('controlbar');
+                board.after(controlbar);
+                //按钮
+                $(document.createElement("button")).addClass('button').text('<')  .click(_obj.move_pre   ).appendTo(controlbar);
+                $(document.createElement("button")).addClass('button').text('>')  .click(_obj.move_next  ).appendTo(controlbar);
+                $(document.createElement("button")).addClass('button').text('|<<')  .click(_obj.board_clean).appendTo(controlbar);
+                $(document.createElement("button")).addClass('button').text('>>|').click(_obj.board_end  ).appendTo(controlbar);
+                $(document.createElement("button")).addClass('button').text("重置")    .click(_obj.show_origin).appendTo(controlbar);
+                $(document.createElement("button")).addClass('button show').text("隐藏数字").click(function(){
+                    let _btn = $(this);
+                    if(_btn.hasClass("show"))
+                    {
+                        _btn.text("显示数字").removeClass('show');
+                        $("<style>").attr("id",'hide_number').html('.row div{text-indent:-999px;overflow:hidden;}').appendTo("head");
+                    }
+                    else
+                    {
+                        _btn.text("隐藏数字").addClass('show');
+                        $("#hide_number").remove();
+                    }
+                }).appendTo(controlbar);
+            };
+        };
+
+        let recordPlayer = function(){
+            let obj = this;
+            this.pointer = 0;//当前播放到第几个action
+            this.timer = 0;//计时器
+            this.record = [];
+            this.status = 0;
+            obj.load = function(record){
+                obj.pause();
+                obj.record = record;
+                obj.pointer = 0;
+                obj.timer = 0;
+                obj.status = 0;
+                board.load('');
+                $("#chat_content").empty();
+                obj.play();
+            };
+            obj.play = function(){
+                if(typeof(obj.record[obj.pointer]) == 'undefined')
+                {
+                    return false;
+                }
+                if(!obj.renderRow(obj.record[obj.pointer]))
+                {
+                    obj.sysMsg("播放失败");
+                    return false;
+                }
+                let now = obj.record[obj.pointer]['time_int'];
+                obj.pointer ++;
+                //计算progress
+                let progress_percent = 0;
+                if(obj.pointer % 5 == 0 && obj.record.length > 0)
+                {
+                    progress_percent = parseInt(obj.pointer * 100 / obj.record.length );
+                    $("#progress>div").css("width", progress_percent + '%');
+                }
+                //progress 结束
+                if(typeof(obj.record[obj.pointer]) == 'object')
+                {
+                    obj.status = 1;
+                    let delta_time = obj.record[obj.pointer]['time_int'] - now;
+                    if(obj.record[obj.pointer] == 'RESET')
+                    {
+                        delta_time = 1;
+                    }
+                    delta_time = delta_time <= 5 ? delta_time : 5;
+                    let speed = parseInt($("select[name=speed]").val());
+                    obj.timer = setTimeout(function(){obj.play();},10 + speed * delta_time);
+                }
+                else
+                {
+                    obj.sysMsg("播放完毕");
+                }
+            };
+            obj.pause = function(){
+                if(obj.timer)
+                {
+                    obj.status = 0;
+                    clearTimeout(obj.timer);
+                    obj.timer = 0;
+                }
+            };
+
+            obj.renderRow = function(row){
+                console.log(row['action']);
+                console.log(row);
+                let function_name = 'action'+row['action'];
+                let $return = false;
+                if(typeof obj[function_name] == 'function')
+                {
+                    $return = obj[function_name](row);
+                }
+                else
+                {
+                    console.log(row);
+                }
+                if($("#chat_content").find("li").length > 150)
+                {
+                    for(let i = 1; i <= 100; i ++)
+                    {
+                        $("#chat_content").find("li:first").remove();
+                    }
+                }
+                $("#chat_content_list").scrollTop($("#chat_content_list")[0].scrollHeight - $("#chat_content_list").height());
+                return $return;
+            };
+
+            /**
+             * 以下是各种事件的处理方法。
+             */
+
+            obj.actionRESET = function(){
+                board.load('');
+                return true;
+            };
+
+            obj.actionTALK = function(row){
+                let _name = $("<span>").html(row.user).addClass("chat-name");
+                let _content = $("<span>").html(row.content).addClass("chat-content");
+                if(row.user == 'RenjuTeacher' || row.user == 'GrandMaster')
+                {
+                    _content.addClass("teacher");
+                }
+                let li = $("<li>");
+                li.append(_name).append(":&nbsp;").append(_content);
+                li.appendTo($("#chat_content"));
+                return true;
+            };
+            obj.actionMOVE = function(row){
+                //coordinate
+                let c_x = parseInt(row.content.charAt(0),16) + 96;
+                let c_y = parseInt(row.content.charAt(1),16);
+                let show_content = board.curr_step.toString() + ' - ' + String.fromCharCode(c_x) + c_y.toString();
+
+                let _content = $("<span>").html(row.user + ': ' + show_content).addClass("chat-move");
+                let li = $("<li>");
+                li.append(_content);
+                li.appendTo($("#chat_content"));
+                return board.place_stone(row.content);
+            };
+
+            obj.actionCHECKRESULT = function(row){
+                obj.sysMsg("点名：" + row.content);
+                return true;
+            };
+
+            obj.actionEMOTE = function(row){
+                return obj.actionTALK(row);
+            };
+
+            obj.actionGOTO = function(row){
+                while(board.get_current_board().length > row.content * 2)
+                {
+                    if(!board.move_pre()) break;
+                }
+                while(board.get_current_board().length < row.content * 2)
+                {
+                    if(!board.move_next()) break;
+                }
+                return true;
+            };
+
+            obj.actionBACK = function(row){
+                board.move_pre();
+                return true;
+            };
+            obj.actionFIRST = function(row){
+                board.board_clean();
+                board.move_next();
+                return true;
+            };
+            obj.actionCREDIT = function(row){
+                obj.sysMsg("本次课程拿到学分的同学：" + row.content);
+                return true;
+            };
+            obj.actionNEXT = function(row){
+                board.move_next();
+                return true;
+            };
+            obj.actionCLEAR = function(row){
+                board.load('');
+                return true;
+            };
+            obj.actionLOAD = function(row){
+                board.load(row.content);
+                return true;
+            };
+            obj.actionLAST = function(row){
+                board.board_end();
+                return true;
+            };
+            //事件处理结束
+            obj.sysMsg = function(msg){
+                let li = $("<li>");
+                $("<span>").addClass("chat-sys").html(msg).appendTo(li);
+                li.appendTo($("#chat_content"));
+                $("#chat_content_list").scrollTop($("#chat_content_list")[0].scrollHeight - $("#chat_content_list").height());
+            }
+        };
+
+        //1.new出对象
+        board = new boardObj();
+        record_player = new recordPlayer();
+        $(document).ready(function(){
+            board.init_board();
+            let load_game = function(source,callback){
+                $.getJSON("/json/" + source,{},function(_data){
+                    //play data
+                    console.log(source);
+                    record_player.load(_data);
+                    if(typeof callback == 'function')
+                    {
+                        callback();
+                    }
+                });
+            };
+            $.getJSON('/trans.json',{},function(_data){
+                for (let i in _data)
+                {
+                    let _tmp = _data[i];
+                    let _link = $(document.createElement('a'));
+                    _link.attr("href","javascript:void(0);");
+                    _link.attr("data-source",_tmp["data"]);
+                    _link.click(function(){
+                        $("title").text($(this).text() + " @ RenjuClass课程在线学习");
+                        record_player.sysMsg("Loading......");
+                        load_game($(this).attr('data-source'),function(){
+                            record_player.sysMsg("开始播放" + $("title").text());
+                        });
+                    });
+                    _link.html(_tmp['show_name']);
+                    $("<li></li>").append(_link).appendTo($("#lesson_list>ul"));
+                }
+            });
+            $(".btn_play").click(function(){
+                if(record_player.status == 0)
+                {
+                    record_player.sysMsg("继续播放");
+                    record_player.play();
+                }
+            });
+            $(".btn_pause").click(function(){
+                if(record_player.status == 1)
+                {
+                    record_player.sysMsg("播放暂停");
+                    record_player.pause();
+                }
+            });
+        });
+
+    </script>
+</body>
+</html>

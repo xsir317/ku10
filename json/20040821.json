@@ -1,0 +1,4342 @@
+[
+    {
+        "action": "RESET",
+        "time": "12:09:12",
+        "time_int": 43752,
+        "user": "",
+        "content": "000000"
+    },
+    {
+        "action": "TALK",
+        "time": "12:09:40",
+        "time_int": 43780,
+        "user": "GrandMaster",
+        "content": "今天的内容是水月开局"
+    },
+    {
+        "action": "TALK",
+        "time": "12:09:48",
+        "time_int": 43788,
+        "user": "sakura",
+        "content": "老师好"
+    },
+    {
+        "action": "TALK",
+        "time": "12:09:59",
+        "time_int": 43799,
+        "user": "GrandMaster",
+        "content": "一共讲三次课"
+    },
+    {
+        "action": "MOVE",
+        "time": "12:10:04",
+        "time_int": 43804,
+        "user": "GrandMaster",
+        "content": "88"
+    },
+    {
+        "action": "MOVE",
+        "time": "12:10:11",
+        "time_int": 43811,
+        "user": "GrandMaster",
+        "content": "99"
+    },
+    {
+        "action": "MOVE",
+        "time": "12:10:13",
+        "time_int": 43813,
+        "user": "GrandMaster",
+        "content": "a7"
+    },
+    {
+        "action": "TALK",
+        "time": "12:10:48",
+        "time_int": 43848,
+        "user": "GrandMaster",
+        "content": "水月（I4）是仅次于花浦月的黑优势局"
+    },
+    {
+        "action": "TALK",
+        "time": "12:10:57",
+        "time_int": 43857,
+        "user": "GrandMaster",
+        "content": "目前研究的结论是黑必胜"
+    },
+    {
+        "action": "TALK",
+        "time": "12:11:02",
+        "time_int": 43862,
+        "user": "wolfzhou",
+        "content": "哦？这么强"
+    },
+    {
+        "action": "TALK",
+        "time": "12:11:14",
+        "time_int": 43874,
+        "user": "meihua53",
+        "content": "哦"
+    },
+    {
+        "action": "TALK",
+        "time": "12:11:24",
+        "time_int": 43884,
+        "user": "GrandMaster",
+        "content": "但是两打的必胜非常复杂"
+    },
+    {
+        "action": "TALK",
+        "time": "12:11:28",
+        "time_int": 43888,
+        "user": "wolfzhou",
+        "content": "请问和水月差不多的还有哪些呢？"
+    },
+    {
+        "action": "TALK",
+        "time": "12:11:36",
+        "time_int": 43896,
+        "user": "meihua53",
+        "content": "云"
+    },
+    {
+        "action": "TALK",
+        "time": "12:11:47",
+        "time_int": 43907,
+        "user": "meihua53",
+        "content": "就喜欢用它"
+    },
+    {
+        "action": "TALK",
+        "time": "12:11:57",
+        "time_int": 43917,
+        "user": "GrandMaster",
+        "content": "云月必胜比水月更复杂了:)"
+    },
+    {
+        "action": "TALK",
+        "time": "12:12:02",
+        "time_int": 43922,
+        "user": "meihua53",
+        "content": "o"
+    },
+    {
+        "action": "TALK",
+        "time": "12:12:20",
+        "time_int": 43940,
+        "user": "GrandMaster",
+        "content": "我们一个个四看过来"
+    },
+    {
+        "action": "TALK",
+        "time": "12:12:21",
+        "time_int": 43941,
+        "user": "Guest493",
+        "content": "."
+    },
+    {
+        "action": "TALK",
+        "time": "12:12:29",
+        "time_int": 43949,
+        "user": "meihua53",
+        "content": "？"
+    },
+    {
+        "action": "TALK",
+        "time": "12:12:42",
+        "time_int": 43962,
+        "user": "GrandMaster",
+        "content": "因为只有三次课，不可能把所有的变化都讲清楚"
+    },
+    {
+        "action": "TALK",
+        "time": "12:12:57",
+        "time_int": 43977,
+        "user": "GrandMaster",
+        "content": "对一些非常复杂的变化，只能讲个大概了"
+    },
+    {
+        "action": "MOVE",
+        "time": "12:12:59",
+        "time_int": 43979,
+        "user": "GrandMaster",
+        "content": "79"
+    },
+    {
+        "action": "TALK",
+        "time": "12:13:07",
+        "time_int": 43987,
+        "user": "GrandMaster",
+        "content": "先来看这个4"
+    },
+    {
+        "action": "MOVE",
+        "time": "12:13:17",
+        "time_int": 43997,
+        "user": "GrandMaster",
+        "content": "97"
+    },
+    {
+        "action": "TALK",
+        "time": "12:13:22",
+        "time_int": 44002,
+        "user": "GrandMaster",
+        "content": "一打是这里"
+    },
+    {
+        "action": "TALK",
+        "time": "12:13:23",
+        "time_int": 44003,
+        "user": "wolfzhou",
+        "content": "转成浦月了"
+    },
+    {
+        "action": "TALK",
+        "time": "12:13:28",
+        "time_int": 44008,
+        "user": "meihua53",
+        "content": "是啊"
+    },
+    {
+        "action": "TALK",
+        "time": "12:13:33",
+        "time_int": 44013,
+        "user": "GrandMaster",
+        "content": "通浦月的一打"
+    },
+    {
+        "action": "TALK",
+        "time": "12:13:47",
+        "time_int": 44027,
+        "user": "GrandMaster",
+        "content": "在以前浦月的课程中应该已经讲过了"
+    },
+    {
+        "action": "BACK",
+        "time": "12:13:52",
+        "time_int": 44032,
+        "user": "GrandMaster",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time": "12:13:55",
+        "time_int": 44035,
+        "user": "GrandMaster",
+        "content": "96"
+    },
+    {
+        "action": "TALK",
+        "time": "12:14:01",
+        "time_int": 44041,
+        "user": "GrandMaster",
+        "content": "二打是I6"
+    },
+    {
+        "action": "TALK",
+        "time": "12:14:13",
+        "time_int": 44053,
+        "user": "GrandMaster",
+        "content": "通名岚的一打"
+    },
+    {
+        "action": "TALK",
+        "time": "12:14:26",
+        "time_int": 44066,
+        "user": "GrandMaster",
+        "content": "我们来看一些主要的变化"
+    },
+    {
+        "action": "MOVE",
+        "time": "12:14:36",
+        "time_int": 44076,
+        "user": "GrandMaster",
+        "content": "78"
+    },
+    {
+        "action": "TALK",
+        "time": "12:15:12",
+        "time_int": 44112,
+        "user": "GrandMaster",
+        "content": "这个6比较强，黑如果应对错误，白棋就很有机会了"
+    },
+    {
+        "action": "MOVE",
+        "time": "12:15:20",
+        "time_int": 44120,
+        "user": "GrandMaster",
+        "content": "b8"
+    },
+    {
+        "action": "TALK",
+        "time": "12:15:35",
+        "time_int": 44135,
+        "user": "GrandMaster",
+        "content": "7活三，如果白挡上面"
+    },
+    {
+        "action": "MOVE",
+        "time": "12:15:38",
+        "time_int": 44138,
+        "user": "GrandMaster",
+        "content": "c9"
+    },
+    {
+        "action": "MOVE",
+        "time": "12:15:50",
+        "time_int": 44150,
+        "user": "GrandMaster",
+        "content": "85"
+    },
+    {
+        "action": "MOVE",
+        "time": "12:15:54",
+        "time_int": 44154,
+        "user": "GrandMaster",
+        "content": "74"
+    },
+    {
+        "action": "MOVE",
+        "time": "12:15:59",
+        "time_int": 44159,
+        "user": "GrandMaster",
+        "content": "86"
+    },
+    {
+        "action": "TALK",
+        "time": "12:16:30",
+        "time_int": 44190,
+        "user": "GrandMaster",
+        "content": "12如果H7，死得比较快，谁愿意来演示一下黑如何胜？"
+    },
+    {
+        "action": "MOVE",
+        "time": "12:16:32",
+        "time_int": 44192,
+        "user": "GrandMaster",
+        "content": "87"
+    },
+    {
+        "action": "TALK",
+        "time": "12:17:03",
+        "time_int": 44223,
+        "user": "GrandMaster",
+        "content": "没人来？"
+    },
+    {
+        "action": "TALK",
+        "time": "12:17:27",
+        "time_int": 44247,
+        "user": "GrandMaster",
+        "content": "那我来演示一下"
+    },
+    {
+        "action": "MOVE",
+        "time": "12:17:36",
+        "time_int": 44256,
+        "user": "GrandMaster",
+        "content": "76"
+    },
+    {
+        "action": "TALK",
+        "time": "12:17:41",
+        "time_int": 44261,
+        "user": "GrandMaster",
+        "content": "直接VCT胜"
+    },
+    {
+        "action": "TALK",
+        "time": "12:17:43",
+        "time_int": 44263,
+        "user": "wzqclass72",
+        "content": "G6"
+    },
+    {
+        "action": "MOVE",
+        "time": "12:17:47",
+        "time_int": 44267,
+        "user": "GrandMaster",
+        "content": "a6"
+    },
+    {
+        "action": "TALK",
+        "time": "12:17:48",
+        "time_int": 44268,
+        "user": "wzqclass72",
+        "content": "是的"
+    },
+    {
+        "action": "TALK",
+        "time": "12:17:56",
+        "time_int": 44276,
+        "user": "wzqclass72",
+        "content": "I4"
+    },
+    {
+        "action": "TALK",
+        "time": "12:18:01",
+        "time_int": 44281,
+        "user": "GrandMaster",
+        "content": "wzqclass72来演示一下吧？"
+    },
+    {
+        "action": "TALK",
+        "time": "12:18:13",
+        "time_int": 44293,
+        "user": "wzqclass72",
+        "content": "好"
+    },
+    {
+        "action": "MOVE",
+        "time": "12:18:17",
+        "time_int": 44297,
+        "user": "wzqclass72",
+        "content": "94"
+    },
+    {
+        "action": "MOVE",
+        "time": "12:18:20",
+        "time_int": 44300,
+        "user": "wzqclass72",
+        "content": "67"
+    },
+    {
+        "action": "MOVE",
+        "time": "12:18:23",
+        "time_int": 44303,
+        "user": "wzqclass72",
+        "content": "95"
+    },
+    {
+        "action": "TALK",
+        "time": "12:18:24",
+        "time_int": 44304,
+        "user": "Guest492",
+        "content": "今天水月第一次讲课吗？"
+    },
+    {
+        "action": "MOVE",
+        "time": "12:18:26",
+        "time_int": 44306,
+        "user": "wzqclass72",
+        "content": "97"
+    },
+    {
+        "action": "MOVE",
+        "time": "12:18:28",
+        "time_int": 44308,
+        "user": "wzqclass72",
+        "content": "77"
+    },
+    {
+        "action": "MOVE",
+        "time": "12:18:30",
+        "time_int": 44310,
+        "user": "wzqclass72",
+        "content": "68"
+    },
+    {
+        "action": "TALK",
+        "time": "12:18:31",
+        "time_int": 44311,
+        "user": "GrandMaster",
+        "content": "是"
+    },
+    {
+        "action": "MOVE",
+        "time": "12:18:31",
+        "time_int": 44311,
+        "user": "wzqclass72",
+        "content": "66"
+    },
+    {
+        "action": "TALK",
+        "time": "12:18:38",
+        "time_int": 44318,
+        "user": "wzqclass72",
+        "content": "错了"
+    },
+    {
+        "action": "TALK",
+        "time": "12:18:49",
+        "time_int": 44329,
+        "user": "GrandMaster",
+        "content": "后退"
+    },
+    {
+        "action": "BACK",
+        "time": "12:18:52",
+        "time_int": 44332,
+        "user": "GrandMaster",
+        "content": ""
+    },
+    {
+        "action": "TALK",
+        "time": "12:18:53",
+        "time_int": 44333,
+        "user": "wolfzhou",
+        "content": "偶真笨，刚才那个13没想出"
+    },
+    {
+        "action": "MOVE",
+        "time": "12:19:05",
+        "time_int": 44345,
+        "user": "wzqclass72",
+        "content": "66"
+    },
+    {
+        "action": "MOVE",
+        "time": "12:19:08",
+        "time_int": 44348,
+        "user": "wzqclass72",
+        "content": "56"
+    },
+    {
+        "action": "MOVE",
+        "time": "12:19:11",
+        "time_int": 44351,
+        "user": "wzqclass72",
+        "content": "75"
+    },
+    {
+        "action": "MOVE",
+        "time": "12:19:15",
+        "time_int": 44355,
+        "user": "wzqclass72",
+        "content": "65"
+    },
+    {
+        "action": "TALK",
+        "time": "12:19:15",
+        "time_int": 44355,
+        "user": "Guest495",
+        "content": "？"
+    },
+    {
+        "action": "MOVE",
+        "time": "12:19:17",
+        "time_int": 44357,
+        "user": "wzqclass72",
+        "content": "93"
+    },
+    {
+        "action": "MOVE",
+        "time": "12:19:21",
+        "time_int": 44361,
+        "user": "wzqclass72",
+        "content": "92"
+    },
+    {
+        "action": "TALK",
+        "time": "12:19:21",
+        "time_int": 44361,
+        "user": "GrandMaster",
+        "content": "白反三了"
+    },
+    {
+        "action": "MOVE",
+        "time": "12:19:23",
+        "time_int": 44363,
+        "user": "wzqclass72",
+        "content": "84"
+    },
+    {
+        "action": "TALK",
+        "time": "12:19:30",
+        "time_int": 44370,
+        "user": "Guest492",
+        "content": "哈哈"
+    },
+    {
+        "action": "TALK",
+        "time": "12:19:34",
+        "time_int": 44374,
+        "user": "GrandMaster",
+        "content": "22手时白有反三"
+    },
+    {
+        "action": "TALK",
+        "time": "12:19:36",
+        "time_int": 44376,
+        "user": "Guest492",
+        "content": "开心哦"
+    },
+    {
+        "action": "BACK",
+        "time": "12:19:38",
+        "time_int": 44378,
+        "user": "GrandMaster",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time": "12:19:41",
+        "time_int": 44381,
+        "user": "GrandMaster",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time": "12:19:43",
+        "time_int": 44383,
+        "user": "GrandMaster",
+        "content": ""
+    },
+    {
+        "action": "TALK",
+        "time": "12:19:44",
+        "time_int": 44384,
+        "user": "wzqclass72",
+        "content": "抱歉"
+    },
+    {
+        "action": "BACK",
+        "time": "12:19:45",
+        "time_int": 44385,
+        "user": "GrandMaster",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time": "12:19:47",
+        "time_int": 44387,
+        "user": "GrandMaster",
+        "content": ""
+    },
+    {
+        "action": "TALK",
+        "time": "12:19:53",
+        "time_int": 44393,
+        "user": "GrandMaster",
+        "content": "：）没关系"
+    },
+    {
+        "action": "BACK",
+        "time": "12:19:55",
+        "time_int": 44395,
+        "user": "GrandMaster",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time": "12:19:58",
+        "time_int": 44398,
+        "user": "GrandMaster",
+        "content": ""
+    },
+    {
+        "action": "TALK",
+        "time": "12:20:00",
+        "time_int": 44400,
+        "user": "Guest492",
+        "content": "次序"
+    },
+    {
+        "action": "TALK",
+        "time": "12:20:24",
+        "time_int": 44424,
+        "user": "meihua53",
+        "content": "G5？"
+    },
+    {
+        "action": "TALK",
+        "time": "12:20:26",
+        "time_int": 44426,
+        "user": "GrandMaster",
+        "content": "20防上面黑下面直接VCF"
+    },
+    {
+        "action": "MOVE",
+        "time": "12:20:29",
+        "time_int": 44429,
+        "user": "GrandMaster",
+        "content": "93"
+    },
+    {
+        "action": "MOVE",
+        "time": "12:20:32",
+        "time_int": 44432,
+        "user": "GrandMaster",
+        "content": "92"
+    },
+    {
+        "action": "MOVE",
+        "time": "12:20:34",
+        "time_int": 44434,
+        "user": "GrandMaster",
+        "content": "a3"
+    },
+    {
+        "action": "MOVE",
+        "time": "12:20:36",
+        "time_int": 44436,
+        "user": "GrandMaster",
+        "content": "b2"
+    },
+    {
+        "action": "TALK",
+        "time": "12:20:38",
+        "time_int": 44438,
+        "user": "wolfzhou",
+        "content": "：）"
+    },
+    {
+        "action": "MOVE",
+        "time": "12:20:39",
+        "time_int": 44439,
+        "user": "GrandMaster",
+        "content": "b3"
+    },
+    {
+        "action": "TALK",
+        "time": "12:20:43",
+        "time_int": 44443,
+        "user": "GrandMaster",
+        "content": "这样"
+    },
+    {
+        "action": "TALK",
+        "time": "12:20:50",
+        "time_int": 44450,
+        "user": "wzqclass72",
+        "content": "哦"
+    },
+    {
+        "action": "GOTO",
+        "time": "12:20:53",
+        "time_int": 44453,
+        "user": "GrandMaster",
+        "content": 20
+    },
+    {
+        "action": "BACK",
+        "time": "12:20:55",
+        "time_int": 44455,
+        "user": "GrandMaster",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time": "12:20:58",
+        "time_int": 44458,
+        "user": "GrandMaster",
+        "content": "a4"
+    },
+    {
+        "action": "TALK",
+        "time": "12:21:06",
+        "time_int": 44466,
+        "user": "GrandMaster",
+        "content": "防下面呢？"
+    },
+    {
+        "action": "TALK",
+        "time": "12:21:16",
+        "time_int": 44476,
+        "user": "meihua53",
+        "content": "G5"
+    },
+    {
+        "action": "MOVE",
+        "time": "12:21:16",
+        "time_int": 44476,
+        "user": "GrandMaster",
+        "content": "75"
+    },
+    {
+        "action": "TALK",
+        "time": "12:21:24",
+        "time_int": 44484,
+        "user": "Guest495",
+        "content": "I3"
+    },
+    {
+        "action": "TALK",
+        "time": "12:21:28",
+        "time_int": 44488,
+        "user": "GrandMaster",
+        "content": "对"
+    },
+    {
+        "action": "TALK",
+        "time": "12:21:44",
+        "time_int": 44504,
+        "user": "GrandMaster",
+        "content": "活三以后F6 I3的VCF"
+    },
+    {
+        "action": "TALK",
+        "time": "12:21:53",
+        "time_int": 44513,
+        "user": "meihua53",
+        "content": "=="
+    },
+    {
+        "action": "TALK",
+        "time": "12:21:58",
+        "time_int": 44518,
+        "user": "meihua53",
+        "content": "会不会有反？"
+    },
+    {
+        "action": "TALK",
+        "time": "12:21:58",
+        "time_int": 44518,
+        "user": "GrandMaster",
+        "content": "哦，有个反"
+    },
+    {
+        "action": "TALK",
+        "time": "12:22:07",
+        "time_int": 44527,
+        "user": "GrandMaster",
+        "content": "看错了，汗"
+    },
+    {
+        "action": "MOVE",
+        "time": "12:22:10",
+        "time_int": 44530,
+        "user": "GrandMaster",
+        "content": "65"
+    },
+    {
+        "action": "TALK",
+        "time": "12:22:14",
+        "time_int": 44534,
+        "user": "meihua53",
+        "content": "：）"
+    },
+    {
+        "action": "TALK",
+        "time": "12:22:15",
+        "time_int": 44535,
+        "user": "wolfzhou",
+        "content": "呵呵"
+    },
+    {
+        "action": "TALK",
+        "time": "12:22:16",
+        "time_int": 44536,
+        "user": "GrandMaster",
+        "content": "22防这边有反"
+    },
+    {
+        "action": "TALK",
+        "time": "12:22:18",
+        "time_int": 44538,
+        "user": "wzqclass72",
+        "content": "不是和我刚才一样吗？"
+    },
+    {
+        "action": "MOVE",
+        "time": "12:22:23",
+        "time_int": 44543,
+        "user": "GrandMaster",
+        "content": "83"
+    },
+    {
+        "action": "TALK",
+        "time": "12:22:44",
+        "time_int": 44564,
+        "user": "GrandMaster",
+        "content": "在这里做双杀可以胜"
+    },
+    {
+        "action": "TALK",
+        "time": "12:22:45",
+        "time_int": 44565,
+        "user": "wzqclass72",
+        "content": "这样可以胜"
+    },
+    {
+        "action": "TALK",
+        "time": "12:22:51",
+        "time_int": 44571,
+        "user": "meihua53",
+        "content": "o"
+    },
+    {
+        "action": "TALK",
+        "time": "12:22:53",
+        "time_int": 44573,
+        "user": "Guest495",
+        "content": "呵呵"
+    },
+    {
+        "action": "TALK",
+        "time": "12:22:59",
+        "time_int": 44579,
+        "user": "GrandMaster",
+        "content": ":)"
+    },
+    {
+        "action": "TALK",
+        "time": "12:23:04",
+        "time_int": 44584,
+        "user": "GrandMaster",
+        "content": "大家都看到了吗？"
+    },
+    {
+        "action": "TALK",
+        "time": "12:23:09",
+        "time_int": 44589,
+        "user": "wolfzhou",
+        "content": "看到了"
+    },
+    {
+        "action": "TALK",
+        "time": "12:23:10",
+        "time_int": 44590,
+        "user": "wzqclass72",
+        "content": "明白了"
+    },
+    {
+        "action": "TALK",
+        "time": "12:23:10",
+        "time_int": 44590,
+        "user": "meihua53",
+        "content": "看到"
+    },
+    {
+        "action": "GOTO",
+        "time": "12:23:22",
+        "time_int": 44602,
+        "user": "GrandMaster",
+        "content": 12
+    },
+    {
+        "action": "BACK",
+        "time": "12:23:25",
+        "time_int": 44605,
+        "user": "GrandMaster",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time": "12:23:27",
+        "time_int": 44607,
+        "user": "GrandMaster",
+        "content": "89"
+    },
+    {
+        "action": "TALK",
+        "time": "12:23:35",
+        "time_int": 44615,
+        "user": "meihua53",
+        "content": "和我想的一样"
+    },
+    {
+        "action": "TALK",
+        "time": "12:23:39",
+        "time_int": 44619,
+        "user": "GrandMaster",
+        "content": "12反比较强"
+    },
+    {
+        "action": "MOVE",
+        "time": "12:23:44",
+        "time_int": 44624,
+        "user": "GrandMaster",
+        "content": "a9"
+    },
+    {
+        "action": "TALK",
+        "time": "12:24:09",
+        "time_int": 44649,
+        "user": "GrandMaster",
+        "content": "现在黑有G6-H7的VCT"
+    },
+    {
+        "action": "TALK",
+        "time": "12:24:27",
+        "time_int": 44667,
+        "user": "meihua53",
+        "content": "T和F有什么区别？"
+    },
+    {
+        "action": "TALK",
+        "time": "12:24:39",
+        "time_int": 44679,
+        "user": "GrandMaster",
+        "content": "vcf指连续冲四胜"
+    },
+    {
+        "action": "TALK",
+        "time": "12:24:48",
+        "time_int": 44688,
+        "user": "meihua53",
+        "content": "T呢？"
+    },
+    {
+        "action": "TALK",
+        "time": "12:24:58",
+        "time_int": 44698,
+        "user": "Guest495",
+        "content": "three"
+    },
+    {
+        "action": "TALK",
+        "time": "12:24:59",
+        "time_int": 44699,
+        "user": "Guest492",
+        "content": "连续活3胜"
+    },
+    {
+        "action": "TALK",
+        "time": "12:25:00",
+        "time_int": 44700,
+        "user": "GrandMaster",
+        "content": "VCT指连续活三或冲四或做VCF胜"
+    },
+    {
+        "action": "TALK",
+        "time": "12:25:02",
+        "time_int": 44702,
+        "user": "meihua53",
+        "content": "哦"
+    },
+    {
+        "action": "TALK",
+        "time": "12:25:09",
+        "time_int": 44709,
+        "user": "wzqclass72",
+        "content": "英文3和4的第一个字母？"
+    },
+    {
+        "action": "TALK",
+        "time": "12:25:15",
+        "time_int": 44715,
+        "user": "wolfzhou",
+        "content": "t不是"
+    },
+    {
+        "action": "TALK",
+        "time": "12:25:18",
+        "time_int": 44718,
+        "user": "GrandMaster",
+        "content": "VCT的T不仅指活三，也包括做VCF"
+    },
+    {
+        "action": "TALK",
+        "time": "12:25:25",
+        "time_int": 44725,
+        "user": "wzqclass72",
+        "content": "哦"
+    },
+    {
+        "action": "TALK",
+        "time": "12:25:28",
+        "time_int": 44728,
+        "user": "wolfzhou",
+        "content": "T是threat的打头字母"
+    },
+    {
+        "action": "TALK",
+        "time": "12:25:29",
+        "time_int": 44729,
+        "user": "GrandMaster",
+        "content": "T是英文threat的缩写"
+    },
+    {
+        "action": "TALK",
+        "time": "12:25:34",
+        "time_int": 44734,
+        "user": "Guest495",
+        "content": "o,,"
+    },
+    {
+        "action": "TALK",
+        "time": "12:25:40",
+        "time_int": 44740,
+        "user": "wzqclass72",
+        "content": "知道了"
+    },
+    {
+        "action": "TALK",
+        "time": "12:25:45",
+        "time_int": 44745,
+        "user": "GrandMaster",
+        "content": "threat包括活三，冲四和做VCF"
+    },
+    {
+        "action": "TALK",
+        "time": "12:25:53",
+        "time_int": 44753,
+        "user": "meihua06",
+        "content": "不是吧，three吧"
+    },
+    {
+        "action": "TALK",
+        "time": "12:25:53",
+        "time_int": 44753,
+        "user": "meihua53",
+        "content": "o"
+    },
+    {
+        "action": "TALK",
+        "time": "12:26:02",
+        "time_int": 44762,
+        "user": "meihua53",
+        "content": "不利他了"
+    },
+    {
+        "action": "TALK",
+        "time": "12:26:06",
+        "time_int": 44766,
+        "user": "meihua53",
+        "content": "继续"
+    },
+    {
+        "action": "TALK",
+        "time": "12:26:08",
+        "time_int": 44768,
+        "user": "Guest492",
+        "content": "建议保存录象课件"
+    },
+    {
+        "action": "TALK",
+        "time": "12:26:11",
+        "time_int": 44771,
+        "user": "wolfzhou",
+        "content": "three是很狭窄的概念……"
+    },
+    {
+        "action": "TALK",
+        "time": "12:26:16",
+        "time_int": 44776,
+        "user": "meihua53",
+        "content": "电话is"
+    },
+    {
+        "action": "TALK",
+        "time": "12:26:18",
+        "time_int": 44778,
+        "user": "meihua53",
+        "content": "是啊"
+    },
+    {
+        "action": "TALK",
+        "time": "12:26:25",
+        "time_int": 44785,
+        "user": "GrandMaster",
+        "content": "关于vct的t，ando讲过很多遍了，呵呵"
+    },
+    {
+        "action": "TALK",
+        "time": "12:26:31",
+        "time_int": 44791,
+        "user": "meihua53",
+        "content": "没有听"
+    },
+    {
+        "action": "TALK",
+        "time": "12:26:41",
+        "time_int": 44801,
+        "user": "wzqclass72",
+        "content": "没有听过啊"
+    },
+    {
+        "action": "TALK",
+        "time": "12:26:47",
+        "time_int": 44807,
+        "user": "meihua53",
+        "content": "好遗憾"
+    },
+    {
+        "action": "TALK",
+        "time": "12:26:47",
+        "time_int": 44807,
+        "user": "wzqclass72",
+        "content": "继续吧？"
+    },
+    {
+        "action": "TALK",
+        "time": "12:26:48",
+        "time_int": 44808,
+        "user": "GrandMaster",
+        "content": "现在白已经无法防守了"
+    },
+    {
+        "action": "MOVE",
+        "time": "12:26:57",
+        "time_int": 44817,
+        "user": "GrandMaster",
+        "content": "87"
+    },
+    {
+        "action": "MOVE",
+        "time": "12:27:00",
+        "time_int": 44820,
+        "user": "GrandMaster",
+        "content": "a8"
+    },
+    {
+        "action": "MOVE",
+        "time": "12:27:04",
+        "time_int": 44824,
+        "user": "GrandMaster",
+        "content": "a6"
+    },
+    {
+        "action": "MOVE",
+        "time": "12:27:07",
+        "time_int": 44827,
+        "user": "GrandMaster",
+        "content": "b9"
+    },
+    {
+        "action": "MOVE",
+        "time": "12:27:12",
+        "time_int": 44832,
+        "user": "GrandMaster",
+        "content": "97"
+    },
+    {
+        "action": "MOVE",
+        "time": "12:27:16",
+        "time_int": 44836,
+        "user": "GrandMaster",
+        "content": "c8"
+    },
+    {
+        "action": "MOVE",
+        "time": "12:27:18",
+        "time_int": 44838,
+        "user": "GrandMaster",
+        "content": "98"
+    },
+    {
+        "action": "MOVE",
+        "time": "12:27:18",
+        "time_int": 44838,
+        "user": "GrandMaster",
+        "content": "aa"
+    },
+    {
+        "action": "TALK",
+        "time": "12:27:31",
+        "time_int": 44851,
+        "user": "GrandMaster",
+        "content": "象这样的单防，黑都有简单杀"
+    },
+    {
+        "action": "GOTO",
+        "time": "12:27:46",
+        "time_int": 44866,
+        "user": "GrandMaster",
+        "content": 13
+    },
+    {
+        "action": "MOVE",
+        "time": "12:27:57",
+        "time_int": 44877,
+        "user": "GrandMaster",
+        "content": "a6"
+    },
+    {
+        "action": "MOVE",
+        "time": "12:28:00",
+        "time_int": 44880,
+        "user": "GrandMaster",
+        "content": "87"
+    },
+    {
+        "action": "MOVE",
+        "time": "12:28:07",
+        "time_int": 44887,
+        "user": "GrandMaster",
+        "content": "84"
+    },
+    {
+        "action": "MOVE",
+        "time": "12:28:14",
+        "time_int": 44894,
+        "user": "GrandMaster",
+        "content": "97"
+    },
+    {
+        "action": "MOVE",
+        "time": "12:28:17",
+        "time_int": 44897,
+        "user": "GrandMaster",
+        "content": "b7"
+    },
+    {
+        "action": "MOVE",
+        "time": "12:28:21",
+        "time_int": 44901,
+        "user": "GrandMaster",
+        "content": "95"
+    },
+    {
+        "action": "GOTO",
+        "time": "12:28:44",
+        "time_int": 44924,
+        "user": "GrandMaster",
+        "content": 12
+    },
+    {
+        "action": "TALK",
+        "time": "12:28:57",
+        "time_int": 44937,
+        "user": "GrandMaster",
+        "content": "8防上主要的变化就这样"
+    },
+    {
+        "action": "GOTO",
+        "time": "12:29:02",
+        "time_int": 44942,
+        "user": "GrandMaster",
+        "content": 7
+    },
+    {
+        "action": "MOVE",
+        "time": "12:29:06",
+        "time_int": 44946,
+        "user": "GrandMaster",
+        "content": "85"
+    },
+    {
+        "action": "TALK",
+        "time": "12:29:12",
+        "time_int": 44952,
+        "user": "GrandMaster",
+        "content": "8防下强"
+    },
+    {
+        "action": "MOVE",
+        "time": "12:29:16",
+        "time_int": 44956,
+        "user": "GrandMaster",
+        "content": "c8"
+    },
+    {
+        "action": "TALK",
+        "time": "12:29:37",
+        "time_int": 44977,
+        "user": "GrandMaster",
+        "content": "9妙手，牵制住了白棋所有的线路"
+    },
+    {
+        "action": "TALK",
+        "time": "12:30:03",
+        "time_int": 45003,
+        "user": "wzqclass72",
+        "content": "牵制？"
+    },
+    {
+        "action": "TALK",
+        "time": "12:30:12",
+        "time_int": 45012,
+        "user": "GrandMaster",
+        "content": "现在白棋左边没法动了，单防的话也防不住"
+    },
+    {
+        "action": "MOVE",
+        "time": "12:30:29",
+        "time_int": 45029,
+        "user": "GrandMaster",
+        "content": "77"
+    },
+    {
+        "action": "TALK",
+        "time": "12:30:33",
+        "time_int": 45033,
+        "user": "wolfzhou",
+        "content": "9还有其他走法么？"
+    },
+    {
+        "action": "TALK",
+        "time": "12:30:36",
+        "time_int": 45036,
+        "user": "GrandMaster",
+        "content": "比如白要活三的话"
+    },
+    {
+        "action": "MOVE",
+        "time": "12:30:38",
+        "time_int": 45038,
+        "user": "GrandMaster",
+        "content": "7a"
+    },
+    {
+        "action": "TALK",
+        "time": "12:30:44",
+        "time_int": 45044,
+        "user": "GrandMaster",
+        "content": "黑就有反V"
+    },
+    {
+        "action": "TALK",
+        "time": "12:30:51",
+        "time_int": 45051,
+        "user": "wzqclass72",
+        "content": "明白了"
+    },
+    {
+        "action": "BACK",
+        "time": "12:30:52",
+        "time_int": 45052,
+        "user": "GrandMaster",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time": "12:30:56",
+        "time_int": 45056,
+        "user": "GrandMaster",
+        "content": ""
+    },
+    {
+        "action": "TALK",
+        "time": "12:31:02",
+        "time_int": 45062,
+        "user": "wzqclass61",
+        "content": "great"
+    },
+    {
+        "action": "TALK",
+        "time": "12:31:02",
+        "time_int": 45062,
+        "user": "meihua53",
+        "content": "o"
+    },
+    {
+        "action": "MOVE",
+        "time": "12:31:06",
+        "time_int": 45066,
+        "user": "GrandMaster",
+        "content": "7a"
+    },
+    {
+        "action": "MOVE",
+        "time": "12:31:14",
+        "time_int": 45074,
+        "user": "GrandMaster",
+        "content": "77"
+    },
+    {
+        "action": "MOVE",
+        "time": "12:31:23",
+        "time_int": 45083,
+        "user": "GrandMaster",
+        "content": "a9"
+    },
+    {
+        "action": "MOVE",
+        "time": "12:31:26",
+        "time_int": 45086,
+        "user": "GrandMaster",
+        "content": "89"
+    },
+    {
+        "action": "MOVE",
+        "time": "12:31:37",
+        "time_int": 45097,
+        "user": "GrandMaster",
+        "content": "8a"
+    },
+    {
+        "action": "TALK",
+        "time": "12:31:54",
+        "time_int": 45114,
+        "user": "GrandMaster",
+        "content": "白无论如何进攻，黑都有反"
+    },
+    {
+        "action": "MOVE",
+        "time": "12:31:56",
+        "time_int": 45116,
+        "user": "GrandMaster",
+        "content": "a8"
+    },
+    {
+        "action": "MOVE",
+        "time": "12:31:59",
+        "time_int": 45119,
+        "user": "GrandMaster",
+        "content": "98"
+    },
+    {
+        "action": "TALK",
+        "time": "12:32:19",
+        "time_int": 45139,
+        "user": "GrandMaster",
+        "content": "而黑一旦有了先手，白就没法防了"
+    },
+    {
+        "action": "GOTO",
+        "time": "12:32:43",
+        "time_int": 45163,
+        "user": "GrandMaster",
+        "content": 9
+    },
+    {
+        "action": "TALK",
+        "time": "12:32:50",
+        "time_int": 45170,
+        "user": "GrandMaster",
+        "content": "关键是黑9"
+    },
+    {
+        "action": "TALK",
+        "time": "12:33:07",
+        "time_int": 45187,
+        "user": "GrandMaster",
+        "content": "记住这个9的话，后面应该不是很难"
+    },
+    {
+        "action": "TALK",
+        "time": "12:33:47",
+        "time_int": 45227,
+        "user": "GrandMaster",
+        "content": "其他9我没研究过，可能也有可以胜的，不过应该是这个9最简单"
+    },
+    {
+        "action": "BACK",
+        "time": "12:34:09",
+        "time_int": 45249,
+        "user": "GrandMaster",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time": "12:34:12",
+        "time_int": 45252,
+        "user": "GrandMaster",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time": "12:34:15",
+        "time_int": 45255,
+        "user": "GrandMaster",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time": "12:34:17",
+        "time_int": 45257,
+        "user": "GrandMaster",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time": "12:34:32",
+        "time_int": 45272,
+        "user": "GrandMaster",
+        "content": "b8"
+    },
+    {
+        "action": "TALK",
+        "time": "12:34:43",
+        "time_int": 45283,
+        "user": "GrandMaster",
+        "content": "其他6都不强"
+    },
+    {
+        "action": "MOVE",
+        "time": "12:34:51",
+        "time_int": 45291,
+        "user": "GrandMaster",
+        "content": "87"
+    },
+    {
+        "action": "TALK",
+        "time": "12:35:07",
+        "time_int": 45307,
+        "user": "GrandMaster",
+        "content": "黑棋简单做棋就可以"
+    },
+    {
+        "action": "MOVE",
+        "time": "12:35:13",
+        "time_int": 45313,
+        "user": "GrandMaster",
+        "content": "78"
+    },
+    {
+        "action": "TALK",
+        "time": "12:35:32",
+        "time_int": 45332,
+        "user": "GrandMaster",
+        "content": "摆一下这个6里最复杂的变化"
+    },
+    {
+        "action": "MOVE",
+        "time": "12:35:36",
+        "time_int": 45336,
+        "user": "GrandMaster",
+        "content": "76"
+    },
+    {
+        "action": "MOVE",
+        "time": "12:35:51",
+        "time_int": 45351,
+        "user": "GrandMaster",
+        "content": "a9"
+    },
+    {
+        "action": "MOVE",
+        "time": "12:35:56",
+        "time_int": 45356,
+        "user": "GrandMaster",
+        "content": "89"
+    },
+    {
+        "action": "MOVE",
+        "time": "12:36:00",
+        "time_int": 45360,
+        "user": "GrandMaster",
+        "content": "86"
+    },
+    {
+        "action": "MOVE",
+        "time": "12:36:03",
+        "time_int": 45363,
+        "user": "GrandMaster",
+        "content": "97"
+    },
+    {
+        "action": "MOVE",
+        "time": "12:36:07",
+        "time_int": 45367,
+        "user": "GrandMaster",
+        "content": "77"
+    },
+    {
+        "action": "MOVE",
+        "time": "12:36:11",
+        "time_int": 45371,
+        "user": "GrandMaster",
+        "content": "95"
+    },
+    {
+        "action": "MOVE",
+        "time": "12:36:22",
+        "time_int": 45382,
+        "user": "GrandMaster",
+        "content": "94"
+    },
+    {
+        "action": "MOVE",
+        "time": "12:36:26",
+        "time_int": 45386,
+        "user": "GrandMaster",
+        "content": "65"
+    },
+    {
+        "action": "MOVE",
+        "time": "12:36:29",
+        "time_int": 45389,
+        "user": "GrandMaster",
+        "content": "54"
+    },
+    {
+        "action": "MOVE",
+        "time": "12:36:36",
+        "time_int": 45396,
+        "user": "GrandMaster",
+        "content": "85"
+    },
+    {
+        "action": "MOVE",
+        "time": "12:36:52",
+        "time_int": 45412,
+        "user": "GrandMaster",
+        "content": "75"
+    },
+    {
+        "action": "MOVE",
+        "time": "12:36:55",
+        "time_int": 45415,
+        "user": "GrandMaster",
+        "content": "a6"
+    },
+    {
+        "action": "TALK",
+        "time": "12:37:10",
+        "time_int": 45430,
+        "user": "GrandMaster",
+        "content": "双杀"
+    },
+    {
+        "action": "TALK",
+        "time": "12:37:26",
+        "time_int": 45446,
+        "user": "Guest492",
+        "content": "换20"
+    },
+    {
+        "action": "TALK",
+        "time": "12:37:27",
+        "time_int": 45447,
+        "user": "wzqclass72",
+        "content": "对"
+    },
+    {
+        "action": "TALK",
+        "time": "12:37:27",
+        "time_int": 45447,
+        "user": "GrandMaster",
+        "content": "K7和K5-J5"
+    },
+    {
+        "action": "BACK",
+        "time": "12:37:34",
+        "time_int": 45454,
+        "user": "GrandMaster",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time": "12:37:37",
+        "time_int": 45457,
+        "user": "GrandMaster",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time": "12:37:40",
+        "time_int": 45460,
+        "user": "GrandMaster",
+        "content": "a5"
+    },
+    {
+        "action": "MOVE",
+        "time": "12:37:51",
+        "time_int": 45471,
+        "user": "GrandMaster",
+        "content": "63"
+    },
+    {
+        "action": "MOVE",
+        "time": "12:37:55",
+        "time_int": 45475,
+        "user": "GrandMaster",
+        "content": "74"
+    },
+    {
+        "action": "MOVE",
+        "time": "12:38:00",
+        "time_int": 45480,
+        "user": "GrandMaster",
+        "content": "66"
+    },
+    {
+        "action": "MOVE",
+        "time": "12:38:03",
+        "time_int": 45483,
+        "user": "GrandMaster",
+        "content": "64"
+    },
+    {
+        "action": "MOVE",
+        "time": "12:38:06",
+        "time_int": 45486,
+        "user": "GrandMaster",
+        "content": "84"
+    },
+    {
+        "action": "TALK",
+        "time": "12:38:09",
+        "time_int": 45489,
+        "user": "wolfzhou",
+        "content": "恩"
+    },
+    {
+        "action": "TALK",
+        "time": "12:38:14",
+        "time_int": 45494,
+        "user": "meihua53",
+        "content": "是啊"
+    },
+    {
+        "action": "TALK",
+        "time": "12:38:18",
+        "time_int": 45498,
+        "user": "Guest492",
+        "content": "：）"
+    },
+    {
+        "action": "TALK",
+        "time": "12:38:18",
+        "time_int": 45498,
+        "user": "GrandMaster",
+        "content": "K7和G5双杀"
+    },
+    {
+        "action": "TALK",
+        "time": "12:38:18",
+        "time_int": 45498,
+        "user": "wzqclass72",
+        "content": "一样的结果"
+    },
+    {
+        "action": "TALK",
+        "time": "12:38:53",
+        "time_int": 45533,
+        "user": "GrandMaster",
+        "content": "这个5里其他的变化不难，大家应该都可以自己解决的"
+    },
+    {
+        "action": "GOTO",
+        "time": "12:38:57",
+        "time_int": 45537,
+        "user": "GrandMaster",
+        "content": 3
+    },
+    {
+        "action": "TALK",
+        "time": "12:39:03",
+        "time_int": 45543,
+        "user": "GrandMaster",
+        "content": "讲下一个4"
+    },
+    {
+        "action": "MOVE",
+        "time": "12:39:09",
+        "time_int": 45549,
+        "user": "GrandMaster",
+        "content": "78"
+    },
+    {
+        "action": "TALK",
+        "time": "12:39:33",
+        "time_int": 45573,
+        "user": "GrandMaster",
+        "content": "这个4，至少有三个5可以必胜"
+    },
+    {
+        "action": "MOVE",
+        "time": "12:39:38",
+        "time_int": 45578,
+        "user": "GrandMaster",
+        "content": "89"
+    },
+    {
+        "action": "TALK",
+        "time": "12:39:49",
+        "time_int": 45589,
+        "user": "GrandMaster",
+        "content": "5-H9通云月一打"
+    },
+    {
+        "action": "TALK",
+        "time": "12:40:01",
+        "time_int": 45601,
+        "user": "meihua53",
+        "content": "是啊"
+    },
+    {
+        "action": "TALK",
+        "time": "12:40:08",
+        "time_int": 45608,
+        "user": "GrandMaster",
+        "content": "云月4桂马防的一打"
+    },
+    {
+        "action": "TALK",
+        "time": "12:40:13",
+        "time_int": 45613,
+        "user": "wzqclass72",
+        "content": "是的"
+    },
+    {
+        "action": "TALK",
+        "time": "12:40:19",
+        "time_int": 45619,
+        "user": "GrandMaster",
+        "content": "这个在云月的课程中会作介绍"
+    },
+    {
+        "action": "BACK",
+        "time": "12:40:26",
+        "time_int": 45626,
+        "user": "GrandMaster",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time": "12:40:32",
+        "time_int": 45632,
+        "user": "GrandMaster",
+        "content": "96"
+    },
+    {
+        "action": "TALK",
+        "time": "12:40:46",
+        "time_int": 45646,
+        "user": "wolfzhou",
+        "content": "又这招……"
+    },
+    {
+        "action": "TALK",
+        "time": "12:40:48",
+        "time_int": 45648,
+        "user": "GrandMaster",
+        "content": "5-I6通新岚的一打"
+    },
+    {
+        "action": "TALK",
+        "time": "12:41:09",
+        "time_int": 45669,
+        "user": "wzqclass72",
+        "content": "是"
+    },
+    {
+        "action": "MOVE",
+        "time": "12:41:11",
+        "time_int": 45671,
+        "user": "GrandMaster",
+        "content": "79"
+    },
+    {
+        "action": "TALK",
+        "time": "12:41:21",
+        "time_int": 45681,
+        "user": "GrandMaster",
+        "content": "6走这里就变成刚才讲过的变化"
+    },
+    {
+        "action": "BACK",
+        "time": "12:41:40",
+        "time_int": 45700,
+        "user": "GrandMaster",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time": "12:41:44",
+        "time_int": 45704,
+        "user": "GrandMaster",
+        "content": "89"
+    },
+    {
+        "action": "TALK",
+        "time": "12:41:58",
+        "time_int": 45718,
+        "user": "GrandMaster",
+        "content": "这个6是最强防"
+    },
+    {
+        "action": "TALK",
+        "time": "12:42:06",
+        "time_int": 45726,
+        "user": "wzqclass72",
+        "content": "这里最强？"
+    },
+    {
+        "action": "TALK",
+        "time": "12:42:22",
+        "time_int": 45742,
+        "user": "GrandMaster",
+        "content": "其他6应该都死得很快……"
+    },
+    {
+        "action": "MOVE",
+        "time": "12:42:30",
+        "time_int": 45750,
+        "user": "GrandMaster",
+        "content": "a9"
+    },
+    {
+        "action": "MOVE",
+        "time": "12:42:46",
+        "time_int": 45766,
+        "user": "GrandMaster",
+        "content": "9a"
+    },
+    {
+        "action": "MOVE",
+        "time": "12:42:50",
+        "time_int": 45770,
+        "user": "GrandMaster",
+        "content": "ab"
+    },
+    {
+        "action": "MOVE",
+        "time": "12:42:57",
+        "time_int": 45777,
+        "user": "GrandMaster",
+        "content": "ba"
+    },
+    {
+        "action": "MOVE",
+        "time": "12:43:07",
+        "time_int": 45787,
+        "user": "GrandMaster",
+        "content": "b8"
+    },
+    {
+        "action": "MOVE",
+        "time": "12:43:27",
+        "time_int": 45807,
+        "user": "GrandMaster",
+        "content": "85"
+    },
+    {
+        "action": "TALK",
+        "time": "12:43:41",
+        "time_int": 45821,
+        "user": "GrandMaster",
+        "content": "12挡下，谁来试试黑如何杀？"
+    },
+    {
+        "action": "TALK",
+        "time": "12:44:06",
+        "time_int": 45846,
+        "user": "meihua53",
+        "content": "实施"
+    },
+    {
+        "action": "TALK",
+        "time": "12:44:13",
+        "time_int": 45853,
+        "user": "meihua53",
+        "content": "不幸了"
+    },
+    {
+        "action": "TALK",
+        "time": "12:44:32",
+        "time_int": 45872,
+        "user": "GrandMaster",
+        "content": "meihua53来试试：）"
+    },
+    {
+        "action": "TALK",
+        "time": "12:44:35",
+        "time_int": 45875,
+        "user": "Guest492",
+        "content": "L7？"
+    },
+    {
+        "action": "TALK",
+        "time": "12:44:41",
+        "time_int": 45881,
+        "user": "meihua53",
+        "content": "看错了"
+    },
+    {
+        "action": "TALK",
+        "time": "12:44:43",
+        "time_int": 45883,
+        "user": "meihua53",
+        "content": "抱歉"
+    },
+    {
+        "action": "TALK",
+        "time": "12:44:49",
+        "time_int": 45889,
+        "user": "GrandMaster",
+        "content": "没关系"
+    },
+    {
+        "action": "TALK",
+        "time": "12:44:59",
+        "time_int": 45899,
+        "user": "GrandMaster",
+        "content": "那guest492来试试"
+    },
+    {
+        "action": "TALK",
+        "time": "12:45:17",
+        "time_int": 45917,
+        "user": "wzqclass61",
+        "content": "j8"
+    },
+    {
+        "action": "TALK",
+        "time": "12:45:17",
+        "time_int": 45917,
+        "user": "GrandMaster",
+        "content": "请"
+    },
+    {
+        "action": "MOVE",
+        "time": "12:45:18",
+        "time_int": 45918,
+        "user": "Guest492",
+        "content": "c7"
+    },
+    {
+        "action": "TALK",
+        "time": "12:45:30",
+        "time_int": 45930,
+        "user": "GrandMaster",
+        "content": "13手叫VCF"
+    },
+    {
+        "action": "MOVE",
+        "time": "12:45:48",
+        "time_int": 45948,
+        "user": "GrandMaster",
+        "content": "a8"
+    },
+    {
+        "action": "TALK",
+        "time": "12:46:03",
+        "time_int": 45963,
+        "user": "wolfzhou",
+        "content": "恩"
+    },
+    {
+        "action": "MOVE",
+        "time": "12:46:03",
+        "time_int": 45963,
+        "user": "Guest492",
+        "content": "b7"
+    },
+    {
+        "action": "MOVE",
+        "time": "12:46:14",
+        "time_int": 45974,
+        "user": "GrandMaster",
+        "content": "d7"
+    },
+    {
+        "action": "MOVE",
+        "time": "12:46:21",
+        "time_int": 45981,
+        "user": "Guest492",
+        "content": "c6"
+    },
+    {
+        "action": "TALK",
+        "time": "12:46:28",
+        "time_int": 45988,
+        "user": "wolfzhou",
+        "content": "复杂了吧？"
+    },
+    {
+        "action": "TALK",
+        "time": "12:46:42",
+        "time_int": 46002,
+        "user": "Guest495",
+        "content": "K5bukeyima"
+    },
+    {
+        "action": "TALK",
+        "time": "12:46:43",
+        "time_int": 46003,
+        "user": "wzqclass72",
+        "content": "可以的"
+    },
+    {
+        "action": "TALK",
+        "time": "12:46:45",
+        "time_int": 46005,
+        "user": "GrandMaster",
+        "content": "双杀，也行：）"
+    },
+    {
+        "action": "TALK",
+        "time": "12:46:47",
+        "time_int": 46007,
+        "user": "meihua53",
+        "content": "16？"
+    },
+    {
+        "action": "TALK",
+        "time": "12:46:52",
+        "time_int": 46012,
+        "user": "Guest492",
+        "content": "：）谢谢"
+    },
+    {
+        "action": "TALK",
+        "time": "12:46:53",
+        "time_int": 46013,
+        "user": "meihua11",
+        "content": "好奇"
+    },
+    {
+        "action": "TALK",
+        "time": "12:46:54",
+        "time_int": 46014,
+        "user": "meihua53",
+        "content": "怎么会使那里？"
+    },
+    {
+        "action": "TALK",
+        "time": "12:46:58",
+        "time_int": 46018,
+        "user": "meihua11",
+        "content": ":p"
+    },
+    {
+        "action": "TALK",
+        "time": "12:46:59",
+        "time_int": 46019,
+        "user": "GrandMaster",
+        "content": "直接K5-I7也行"
+    },
+    {
+        "action": "BACK",
+        "time": "12:47:09",
+        "time_int": 46029,
+        "user": "GrandMaster",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time": "12:47:12",
+        "time_int": 46032,
+        "user": "GrandMaster",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time": "12:47:15",
+        "time_int": 46035,
+        "user": "GrandMaster",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time": "12:47:18",
+        "time_int": 46038,
+        "user": "GrandMaster",
+        "content": ""
+    },
+    {
+        "action": "TALK",
+        "time": "12:47:22",
+        "time_int": 46042,
+        "user": "wzqclass61",
+        "content": "13手J8不性吗？"
+    },
+    {
+        "action": "TALK",
+        "time": "12:47:31",
+        "time_int": 46051,
+        "user": "GrandMaster",
+        "content": "13手关键，后面不难"
+    },
+    {
+        "action": "BACK",
+        "time": "12:47:35",
+        "time_int": 46055,
+        "user": "GrandMaster",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time": "12:47:39",
+        "time_int": 46059,
+        "user": "GrandMaster",
+        "content": "a8"
+    },
+    {
+        "action": "MOVE",
+        "time": "12:47:42",
+        "time_int": 46062,
+        "user": "GrandMaster",
+        "content": "aa"
+    },
+    {
+        "action": "TALK",
+        "time": "12:47:49",
+        "time_int": 46069,
+        "user": "GrandMaster",
+        "content": "然后？"
+    },
+    {
+        "action": "TALK",
+        "time": "12:47:52",
+        "time_int": 46072,
+        "user": "wzqclass61",
+        "content": "l10"
+    },
+    {
+        "action": "TALK",
+        "time": "12:47:57",
+        "time_int": 46077,
+        "user": "meihua11",
+        "content": "l9"
+    },
+    {
+        "action": "TALK",
+        "time": "12:48:15",
+        "time_int": 46095,
+        "user": "GrandMaster",
+        "content": "I10?"
+    },
+    {
+        "action": "TALK",
+        "time": "12:48:18",
+        "time_int": 46098,
+        "user": "GrandMaster",
+        "content": "不是白子吗@@"
+    },
+    {
+        "action": "TALK",
+        "time": "12:48:23",
+        "time_int": 46103,
+        "user": "wzqclass100",
+        "content": "wo"
+    },
+    {
+        "action": "TALK",
+        "time": "12:48:25",
+        "time_int": 46105,
+        "user": "meihua53",
+        "content": "l10"
+    },
+    {
+        "action": "MOVE",
+        "time": "12:48:26",
+        "time_int": 46106,
+        "user": "GrandMaster",
+        "content": "ca"
+    },
+    {
+        "action": "TALK",
+        "time": "12:48:32",
+        "time_int": 46112,
+        "user": "GrandMaster",
+        "content": "哦，L10呵呵"
+    },
+    {
+        "action": "TALK",
+        "time": "12:48:43",
+        "time_int": 46123,
+        "user": "wzqclass100",
+        "content": "黑先胜？"
+    },
+    {
+        "action": "MOVE",
+        "time": "12:48:52",
+        "time_int": 46132,
+        "user": "GrandMaster",
+        "content": "9b"
+    },
+    {
+        "action": "TALK",
+        "time": "12:48:58",
+        "time_int": 46138,
+        "user": "GrandMaster",
+        "content": "白活三做反四"
+    },
+    {
+        "action": "TALK",
+        "time": "12:49:16",
+        "time_int": 46156,
+        "user": "GrandMaster",
+        "content": "然后？"
+    },
+    {
+        "action": "TALK",
+        "time": "12:49:21",
+        "time_int": 46161,
+        "user": "meihua53",
+        "content": "I8"
+    },
+    {
+        "action": "MOVE",
+        "time": "12:49:28",
+        "time_int": 46168,
+        "user": "GrandMaster",
+        "content": "98"
+    },
+    {
+        "action": "MOVE",
+        "time": "12:49:31",
+        "time_int": 46171,
+        "user": "GrandMaster",
+        "content": "c8"
+    },
+    {
+        "action": "TALK",
+        "time": "12:49:48",
+        "time_int": 46188,
+        "user": "wzqclass72",
+        "content": "这还能胜吗？"
+    },
+    {
+        "action": "MOVE",
+        "time": "12:49:52",
+        "time_int": 46192,
+        "user": "GrandMaster",
+        "content": "b9"
+    },
+    {
+        "action": "TALK",
+        "time": "12:49:56",
+        "time_int": 46196,
+        "user": "wolfzhou",
+        "content": "也许"
+    },
+    {
+        "action": "MOVE",
+        "time": "12:49:58",
+        "time_int": 46198,
+        "user": "GrandMaster",
+        "content": "97"
+    },
+    {
+        "action": "TALK",
+        "time": "12:50:10",
+        "time_int": 46210,
+        "user": "GrandMaster",
+        "content": "这样好象复杂了，未必能胜"
+    },
+    {
+        "action": "TALK",
+        "time": "12:51:05",
+        "time_int": 46265,
+        "user": "wzqclass72",
+        "content": "其实刚才492走的挺好"
+    },
+    {
+        "action": "TALK",
+        "time": "12:51:17",
+        "time_int": 46277,
+        "user": "Guest492",
+        "content": "72感谢"
+    },
+    {
+        "action": "CHECKRESULT",
+        "time": "12:51:19",
+        "time_int": 46279,
+        "user": "",
+        "content": " wolfzhou, meihua13, meihua53, wzqclass72, wzqclass100, wzqclass61, meihua11."
+    },
+    {
+        "action": "GOTO",
+        "time": "12:51:29",
+        "time_int": 46289,
+        "user": "GrandMaster",
+        "content": 12
+    },
+    {
+        "action": "TALK",
+        "time": "12:51:33",
+        "time_int": 46293,
+        "user": "GrandMaster",
+        "content": "恩，13-L7应该最强"
+    },
+    {
+        "action": "MOVE",
+        "time": "12:51:36",
+        "time_int": 46296,
+        "user": "GrandMaster",
+        "content": "c7"
+    },
+    {
+        "action": "TALK",
+        "time": "12:51:45",
+        "time_int": 46305,
+        "user": "GrandMaster",
+        "content": "别的13似乎都没有简单胜"
+    },
+    {
+        "action": "BACK",
+        "time": "12:52:04",
+        "time_int": 46324,
+        "user": "GrandMaster",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time": "12:52:07",
+        "time_int": 46327,
+        "user": "GrandMaster",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time": "12:52:10",
+        "time_int": 46330,
+        "user": "GrandMaster",
+        "content": "c9"
+    },
+    {
+        "action": "TALK",
+        "time": "12:52:15",
+        "time_int": 46335,
+        "user": "GrandMaster",
+        "content": "看12反防"
+    },
+    {
+        "action": "MOVE",
+        "time": "12:52:25",
+        "time_int": 46345,
+        "user": "GrandMaster",
+        "content": "aa"
+    },
+    {
+        "action": "MOVE",
+        "time": "12:52:28",
+        "time_int": 46348,
+        "user": "GrandMaster",
+        "content": "a8"
+    },
+    {
+        "action": "MOVE",
+        "time": "12:52:33",
+        "time_int": 46353,
+        "user": "GrandMaster",
+        "content": "b7"
+    },
+    {
+        "action": "TALK",
+        "time": "12:52:58",
+        "time_int": 46378,
+        "user": "GrandMaster",
+        "content": "现在黑有多套VCT"
+    },
+    {
+        "action": "MOVE",
+        "time": "12:53:02",
+        "time_int": 46382,
+        "user": "GrandMaster",
+        "content": "97"
+    },
+    {
+        "action": "TALK",
+        "time": "12:53:12",
+        "time_int": 46392,
+        "user": "GrandMaster",
+        "content": "16-I7最强"
+    },
+    {
+        "action": "MOVE",
+        "time": "12:53:18",
+        "time_int": 46398,
+        "user": "Guest492",
+        "content": "c1"
+    },
+    {
+        "action": "BACK",
+        "time": "12:53:25",
+        "time_int": 46405,
+        "user": "Guest492",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time": "12:53:25",
+        "time_int": 46405,
+        "user": "GrandMaster",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time": "12:53:25",
+        "time_int": 46405,
+        "user": "Guest492",
+        "content": ""
+    },
+    {
+        "action": "TALK",
+        "time": "12:53:34",
+        "time_int": 46414,
+        "user": "Guest492",
+        "content": "不好意思"
+    },
+    {
+        "action": "TALK",
+        "time": "12:53:39",
+        "time_int": 46419,
+        "user": "GrandMaster",
+        "content": ":)"
+    },
+    {
+        "action": "MOVE",
+        "time": "12:53:42",
+        "time_int": 46422,
+        "user": "GrandMaster",
+        "content": "b7"
+    },
+    {
+        "action": "MOVE",
+        "time": "12:53:45",
+        "time_int": 46425,
+        "user": "GrandMaster",
+        "content": "97"
+    },
+    {
+        "action": "MOVE",
+        "time": "12:53:50",
+        "time_int": 46430,
+        "user": "GrandMaster",
+        "content": "b6"
+    },
+    {
+        "action": "MOVE",
+        "time": "12:54:03",
+        "time_int": 46443,
+        "user": "GrandMaster",
+        "content": "b5"
+    },
+    {
+        "action": "MOVE",
+        "time": "12:54:06",
+        "time_int": 46446,
+        "user": "GrandMaster",
+        "content": "d6"
+    },
+    {
+        "action": "TALK",
+        "time": "12:54:23",
+        "time_int": 46463,
+        "user": "GrandMaster",
+        "content": "19叫VCF"
+    },
+    {
+        "action": "TALK",
+        "time": "12:54:32",
+        "time_int": 46472,
+        "user": "GrandMaster",
+        "content": "白如果单防"
+    },
+    {
+        "action": "MOVE",
+        "time": "12:54:37",
+        "time_int": 46477,
+        "user": "GrandMaster",
+        "content": "a6"
+    },
+    {
+        "action": "MOVE",
+        "time": "12:54:42",
+        "time_int": 46482,
+        "user": "GrandMaster",
+        "content": "c7"
+    },
+    {
+        "action": "MOVE",
+        "time": "12:54:45",
+        "time_int": 46485,
+        "user": "GrandMaster",
+        "content": "e5"
+    },
+    {
+        "action": "MOVE",
+        "time": "12:54:48",
+        "time_int": 46488,
+        "user": "GrandMaster",
+        "content": "d8"
+    },
+    {
+        "action": "TALK",
+        "time": "12:54:50",
+        "time_int": 46490,
+        "user": "findfind",
+        "content": "hi"
+    },
+    {
+        "action": "MOVE",
+        "time": "12:54:52",
+        "time_int": 46492,
+        "user": "GrandMaster",
+        "content": "e9"
+    },
+    {
+        "action": "MOVE",
+        "time": "12:54:53",
+        "time_int": 46493,
+        "user": "GrandMaster",
+        "content": "d7"
+    },
+    {
+        "action": "TALK",
+        "time": "12:54:57",
+        "time_int": 46497,
+        "user": "GrandMaster",
+        "content": "hi,findfind"
+    },
+    {
+        "action": "TALK",
+        "time": "12:55:01",
+        "time_int": 46501,
+        "user": "findfind",
+        "content": "o"
+    },
+    {
+        "action": "TALK",
+        "time": "12:55:03",
+        "time_int": 46503,
+        "user": "meihua53",
+        "content": "?"
+    },
+    {
+        "action": "TALK",
+        "time": "12:55:06",
+        "time_int": 46506,
+        "user": "GrandMaster",
+        "content": "单防死得比较快"
+    },
+    {
+        "action": "TALK",
+        "time": "12:55:08",
+        "time_int": 46508,
+        "user": "meihua53",
+        "content": "认识?"
+    },
+    {
+        "action": "TALK",
+        "time": "12:55:10",
+        "time_int": 46510,
+        "user": "meihua11",
+        "content": "hi,lunhang?"
+    },
+    {
+        "action": "GOTO",
+        "time": "12:55:10",
+        "time_int": 46510,
+        "user": "GrandMaster",
+        "content": 19
+    },
+    {
+        "action": "TALK",
+        "time": "12:55:12",
+        "time_int": 46512,
+        "user": "findfind",
+        "content": "gm"
+    },
+    {
+        "action": "MOVE",
+        "time": "12:55:16",
+        "time_int": 46516,
+        "user": "GrandMaster",
+        "content": "c7"
+    },
+    {
+        "action": "TALK",
+        "time": "12:55:18",
+        "time_int": 46518,
+        "user": "findfind",
+        "content": "who are u??"
+    },
+    {
+        "action": "BACK",
+        "time": "12:55:23",
+        "time_int": 46523,
+        "user": "GrandMaster",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time": "12:55:26",
+        "time_int": 46526,
+        "user": "GrandMaster",
+        "content": "c6"
+    },
+    {
+        "action": "TALK",
+        "time": "12:55:32",
+        "time_int": 46532,
+        "user": "findfind",
+        "content": "shaoping?"
+    },
+    {
+        "action": "TALK",
+        "time": "12:55:34",
+        "time_int": 46534,
+        "user": "GrandMaster",
+        "content": "这个也一样"
+    },
+    {
+        "action": "TALK",
+        "time": "12:56:01",
+        "time_int": 46561,
+        "user": "meihua53",
+        "content": "怎么了？"
+    },
+    {
+        "action": "TALK",
+        "time": "12:56:11",
+        "time_int": 46571,
+        "user": "meihua11",
+        "content": "哈，全掉了"
+    },
+    {
+        "action": "TALK",
+        "time": "12:56:11",
+        "time_int": 46571,
+        "user": "wzqclass72",
+        "content": "掉了　"
+    },
+    {
+        "action": "TALK",
+        "time": "12:56:14",
+        "time_int": 46574,
+        "user": "Guest498",
+        "content": "都掉了？"
+    },
+    {
+        "action": "TALK",
+        "time": "12:56:16",
+        "time_int": 46576,
+        "user": "meihua53",
+        "content": "是啊"
+    },
+    {
+        "action": "TALK",
+        "time": "12:56:19",
+        "time_int": 46579,
+        "user": "findfind",
+        "content": "你好"
+    },
+    {
+        "action": "TALK",
+        "time": "12:56:21",
+        "time_int": 46581,
+        "user": "GrandMaster",
+        "content": "服务器不太稳定"
+    },
+    {
+        "action": "TALK",
+        "time": "12:56:22",
+        "time_int": 46582,
+        "user": "meihua53",
+        "content": "我以为我的有问题呢"
+    },
+    {
+        "action": "TALK",
+        "time": "12:56:25",
+        "time_int": 46585,
+        "user": "wzqclass72",
+        "content": "我以为是我一个人的问题呢"
+    },
+    {
+        "action": "TALK",
+        "time": "12:56:33",
+        "time_int": 46593,
+        "user": "Guest497",
+        "content": "呵呵，集体逃课"
+    },
+    {
+        "action": "TALK",
+        "time": "12:56:36",
+        "time_int": 46596,
+        "user": "wzqclass100",
+        "content": "原来都掉了呀"
+    },
+    {
+        "action": "TALK",
+        "time": "12:56:40",
+        "time_int": 46600,
+        "user": "meihua53",
+        "content": "是啊"
+    },
+    {
+        "action": "TALK",
+        "time": "12:56:40",
+        "time_int": 46600,
+        "user": "GrandMaster",
+        "content": "我们继续：）"
+    },
+    {
+        "action": "TALK",
+        "time": "12:56:46",
+        "time_int": 46606,
+        "user": "findfind",
+        "content": "呵呵"
+    },
+    {
+        "action": "BACK",
+        "time": "12:56:46",
+        "time_int": 46606,
+        "user": "GrandMaster",
+        "content": ""
+    },
+    {
+        "action": "TALK",
+        "time": "12:56:58",
+        "time_int": 46618,
+        "user": "findfind",
+        "content": ": )"
+    },
+    {
+        "action": "MOVE",
+        "time": "12:57:16",
+        "time_int": 46636,
+        "user": "GrandMaster",
+        "content": "75"
+    },
+    {
+        "action": "TALK",
+        "time": "12:57:22",
+        "time_int": 46642,
+        "user": "GrandMaster",
+        "content": "20最强是这里"
+    },
+    {
+        "action": "TALK",
+        "time": "12:57:29",
+        "time_int": 46649,
+        "user": "wzqclass72",
+        "content": "哦？"
+    },
+    {
+        "action": "TALK",
+        "time": "12:57:35",
+        "time_int": 46655,
+        "user": "meihua53",
+        "content": "why?"
+    },
+    {
+        "action": "TALK",
+        "time": "12:57:38",
+        "time_int": 46658,
+        "user": "GrandMaster",
+        "content": "G线上有反四，原来的VCF不成立"
+    },
+    {
+        "action": "MOVE",
+        "time": "12:57:53",
+        "time_int": 46673,
+        "user": "GrandMaster",
+        "content": "a6"
+    },
+    {
+        "action": "TALK",
+        "time": "12:57:57",
+        "time_int": 46677,
+        "user": "findfind",
+        "content": "vcf"
+    },
+    {
+        "action": "MOVE",
+        "time": "12:57:57",
+        "time_int": 46677,
+        "user": "GrandMaster",
+        "content": "c6"
+    },
+    {
+        "action": "MOVE",
+        "time": "12:58:03",
+        "time_int": 46683,
+        "user": "GrandMaster",
+        "content": "86"
+    },
+    {
+        "action": "MOVE",
+        "time": "12:58:07",
+        "time_int": 46687,
+        "user": "GrandMaster",
+        "content": "76"
+    },
+    {
+        "action": "MOVE",
+        "time": "12:58:10",
+        "time_int": 46690,
+        "user": "GrandMaster",
+        "content": "85"
+    },
+    {
+        "action": "TALK",
+        "time": "12:58:21",
+        "time_int": 46701,
+        "user": "GrandMaster",
+        "content": "这样就反四了"
+    },
+    {
+        "action": "GOTO",
+        "time": "12:58:33",
+        "time_int": 46713,
+        "user": "GrandMaster",
+        "content": 20
+    },
+    {
+        "action": "MOVE",
+        "time": "12:59:02",
+        "time_int": 46742,
+        "user": "GrandMaster",
+        "content": "a6"
+    },
+    {
+        "action": "MOVE",
+        "time": "12:59:05",
+        "time_int": 46745,
+        "user": "GrandMaster",
+        "content": "c6"
+    },
+    {
+        "action": "MOVE",
+        "time": "12:59:08",
+        "time_int": 46748,
+        "user": "GrandMaster",
+        "content": "86"
+    },
+    {
+        "action": "MOVE",
+        "time": "12:59:14",
+        "time_int": 46754,
+        "user": "GrandMaster",
+        "content": "76"
+    },
+    {
+        "action": "TALK",
+        "time": "12:59:19",
+        "time_int": 46759,
+        "user": "GrandMaster",
+        "content": "21\\23必然"
+    },
+    {
+        "action": "TALK",
+        "time": "12:59:22",
+        "time_int": 46762,
+        "user": "wzqclass72",
+        "content": "为什么不在右边继续进攻呢？"
+    },
+    {
+        "action": "TALK",
+        "time": "12:59:45",
+        "time_int": 46785,
+        "user": "GrandMaster",
+        "content": "右边攻不出来"
+    },
+    {
+        "action": "TALK",
+        "time": "12:59:59",
+        "time_int": 46799,
+        "user": "wzqclass72",
+        "content": "知道了"
+    },
+    {
+        "action": "TALK",
+        "time": "13:00:20",
+        "time_int": 46820,
+        "user": "GrandMaster",
+        "content": "白左边的三总得管一下"
+    },
+    {
+        "action": "TALK",
+        "time": "13:00:26",
+        "time_int": 46826,
+        "user": "wzqclass72",
+        "content": "是的"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:01:04",
+        "time_int": 46864,
+        "user": "GrandMaster",
+        "content": "85"
+    },
+    {
+        "action": "TALK",
+        "time": "13:01:12",
+        "time_int": 46872,
+        "user": "GrandMaster",
+        "content": "H5要先冲掉"
+    },
+    {
+        "action": "BACK",
+        "time": "13:01:17",
+        "time_int": 46877,
+        "user": "GrandMaster",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time": "13:01:20",
+        "time_int": 46880,
+        "user": "GrandMaster",
+        "content": "77"
+    },
+    {
+        "action": "TALK",
+        "time": "13:01:26",
+        "time_int": 46886,
+        "user": "GrandMaster",
+        "content": "单进去的话"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:01:33",
+        "time_int": 46893,
+        "user": "GrandMaster",
+        "content": "85"
+    },
+    {
+        "action": "TALK",
+        "time": "13:01:48",
+        "time_int": 46908,
+        "user": "wzqclass72",
+        "content": "３３了"
+    },
+    {
+        "action": "TALK",
+        "time": "13:01:48",
+        "time_int": 46908,
+        "user": "GrandMaster",
+        "content": "白双杀了，一抓一四三"
+    },
+    {
+        "action": "TALK",
+        "time": "13:01:59",
+        "time_int": 46919,
+        "user": "wzqclass72",
+        "content": "是的"
+    },
+    {
+        "action": "TALK",
+        "time": "13:02:01",
+        "time_int": 46921,
+        "user": "wzqclass100",
+        "content": "哦"
+    },
+    {
+        "action": "BACK",
+        "time": "13:02:04",
+        "time_int": 46924,
+        "user": "GrandMaster",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time": "13:02:09",
+        "time_int": 46929,
+        "user": "GrandMaster",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time": "13:02:12",
+        "time_int": 46932,
+        "user": "GrandMaster",
+        "content": "85"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:02:15",
+        "time_int": 46935,
+        "user": "GrandMaster",
+        "content": "74"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:02:29",
+        "time_int": 46949,
+        "user": "GrandMaster",
+        "content": "77"
+    },
+    {
+        "action": "BACK",
+        "time": "13:02:43",
+        "time_int": 46963,
+        "user": "GrandMaster",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time": "13:02:46",
+        "time_int": 46966,
+        "user": "GrandMaster",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time": "13:02:49",
+        "time_int": 46969,
+        "user": "GrandMaster",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time": "13:02:52",
+        "time_int": 46972,
+        "user": "GrandMaster",
+        "content": "c7"
+    },
+    {
+        "action": "TALK",
+        "time": "13:02:57",
+        "time_int": 46977,
+        "user": "GrandMaster",
+        "content": "哦，要把这里先冲掉"
+    },
+    {
+        "action": "BACK",
+        "time": "13:03:02",
+        "time_int": 46982,
+        "user": "GrandMaster",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time": "13:03:05",
+        "time_int": 46985,
+        "user": "GrandMaster",
+        "content": "85"
+    },
+    {
+        "action": "TALK",
+        "time": "13:03:07",
+        "time_int": 46987,
+        "user": "wzqclass72",
+        "content": "最终还是在右边胜？"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:03:08",
+        "time_int": 46988,
+        "user": "GrandMaster",
+        "content": "74"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:03:16",
+        "time_int": 46996,
+        "user": "GrandMaster",
+        "content": "77"
+    },
+    {
+        "action": "TALK",
+        "time": "13:03:22",
+        "time_int": 47002,
+        "user": "GrandMaster",
+        "content": "晕，都掉出去了……"
+    },
+    {
+        "action": "TALK",
+        "time": "13:03:38",
+        "time_int": 47018,
+        "user": "meihua53",
+        "content": "是啊"
+    },
+    {
+        "action": "TALK",
+        "time": "13:03:39",
+        "time_int": 47019,
+        "user": "wzqclass72",
+        "content": "哦？"
+    },
+    {
+        "action": "TALK",
+        "time": "13:03:41",
+        "time_int": 47021,
+        "user": "meihua07",
+        "content": "怎么会？"
+    },
+    {
+        "action": "TALK",
+        "time": "13:03:50",
+        "time_int": 47030,
+        "user": "wzqclass72",
+        "content": "还有很多的"
+    },
+    {
+        "action": "TALK",
+        "time": "13:03:50",
+        "time_int": 47030,
+        "user": "Guest498",
+        "content": "偶还在？"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:03:55",
+        "time_int": 47035,
+        "user": "GrandMaster",
+        "content": "73"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:03:58",
+        "time_int": 47038,
+        "user": "GrandMaster",
+        "content": "72"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:04:11",
+        "time_int": 47051,
+        "user": "GrandMaster",
+        "content": "c7"
+    },
+    {
+        "action": "TALK",
+        "time": "13:04:24",
+        "time_int": 47064,
+        "user": "GrandMaster",
+        "content": "这个点被白占了，杀起来比较复杂"
+    },
+    {
+        "action": "TALK",
+        "time": "13:04:30",
+        "time_int": 47070,
+        "user": "sakura",
+        "content": "dao"
+    },
+    {
+        "action": "TALK",
+        "time": "13:04:35",
+        "time_int": 47075,
+        "user": "sakura",
+        "content": "怎么了"
+    },
+    {
+        "action": "GOTO",
+        "time": "13:04:45",
+        "time_int": 47085,
+        "user": "GrandMaster",
+        "content": 24
+    },
+    {
+        "action": "MOVE",
+        "time": "13:04:49",
+        "time_int": 47089,
+        "user": "GrandMaster",
+        "content": "c7"
+    },
+    {
+        "action": "TALK",
+        "time": "13:04:53",
+        "time_int": 47093,
+        "user": "wzqclass72",
+        "content": "确实！"
+    },
+    {
+        "action": "TALK",
+        "time": "13:04:56",
+        "time_int": 47096,
+        "user": "GrandMaster",
+        "content": "25先把这个点冲了比较好"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:04:59",
+        "time_int": 47099,
+        "user": "GrandMaster",
+        "content": "e5"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:05:03",
+        "time_int": 47103,
+        "user": "GrandMaster",
+        "content": "85"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:05:06",
+        "time_int": 47106,
+        "user": "GrandMaster",
+        "content": "74"
+    },
+    {
+        "action": "TALK",
+        "time": "13:05:07",
+        "time_int": 47107,
+        "user": "wzqclass72",
+        "content": "先冲很关键！"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:05:10",
+        "time_int": 47110,
+        "user": "GrandMaster",
+        "content": "77"
+    },
+    {
+        "action": "TALK",
+        "time": "13:05:38",
+        "time_int": 47138,
+        "user": "GrandMaster",
+        "content": "不冲也能赢，不过就不简捷了"
+    },
+    {
+        "action": "TALK",
+        "time": "13:05:50",
+        "time_int": 47150,
+        "user": "GrandMaster",
+        "content": "先冲了好"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:05:55",
+        "time_int": 47155,
+        "user": "GrandMaster",
+        "content": "87"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:06:11",
+        "time_int": 47171,
+        "user": "GrandMaster",
+        "content": "9b"
+    },
+    {
+        "action": "TALK",
+        "time": "13:06:37",
+        "time_int": 47197,
+        "user": "GrandMaster",
+        "content": "31叫VCF"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:06:43",
+        "time_int": 47203,
+        "user": "GrandMaster",
+        "content": "d7"
+    },
+    {
+        "action": "TALK",
+        "time": "13:06:48",
+        "time_int": 47208,
+        "user": "GrandMaster",
+        "content": "32必然"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:06:57",
+        "time_int": 47217,
+        "user": "GrandMaster",
+        "content": "a4"
+    },
+    {
+        "action": "TALK",
+        "time": "13:07:04",
+        "time_int": 47224,
+        "user": "GrandMaster",
+        "content": "33再反"
+    },
+    {
+        "action": "TALK",
+        "time": "13:07:11",
+        "time_int": 47231,
+        "user": "GrandMaster",
+        "content": "同时叫四三"
+    },
+    {
+        "action": "TALK",
+        "time": "13:07:17",
+        "time_int": 47237,
+        "user": "wzqclass72",
+        "content": "OK了"
+    },
+    {
+        "action": "TALK",
+        "time": "13:07:18",
+        "time_int": 47238,
+        "user": "meihua53",
+        "content": "是啊"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:07:23",
+        "time_int": 47243,
+        "user": "GrandMaster",
+        "content": "72"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:07:26",
+        "time_int": 47246,
+        "user": "GrandMaster",
+        "content": "73"
+    },
+    {
+        "action": "TALK",
+        "time": "13:07:34",
+        "time_int": 47254,
+        "user": "meihua53",
+        "content": "呵呵"
+    },
+    {
+        "action": "TALK",
+        "time": "13:07:36",
+        "time_int": 47256,
+        "user": "GrandMaster",
+        "content": "白只能先把I5冲成四四"
+    },
+    {
+        "action": "TALK",
+        "time": "13:07:48",
+        "time_int": 47268,
+        "user": "Guest499",
+        "content": "很精彩"
+    },
+    {
+        "action": "TALK",
+        "time": "13:07:49",
+        "time_int": 47269,
+        "user": "GrandMaster",
+        "content": "然后再防一手"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:07:52",
+        "time_int": 47272,
+        "user": "GrandMaster",
+        "content": "a5"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:08:03",
+        "time_int": 47283,
+        "user": "GrandMaster",
+        "content": "7b"
+    },
+    {
+        "action": "TALK",
+        "time": "13:08:07",
+        "time_int": 47287,
+        "user": "wzqclass72",
+        "content": "妙！"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:08:22",
+        "time_int": 47302,
+        "user": "GrandMaster",
+        "content": "8b"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:08:25",
+        "time_int": 47305,
+        "user": "GrandMaster",
+        "content": "8c"
+    },
+    {
+        "action": "TALK",
+        "time": "13:08:35",
+        "time_int": 47315,
+        "user": "GrandMaster",
+        "content": "然后黑上下连接胜"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:08:42",
+        "time_int": 47322,
+        "user": "GrandMaster",
+        "content": "7d"
+    },
+    {
+        "action": "TALK",
+        "time": "13:08:42",
+        "time_int": 47322,
+        "user": "meihua53",
+        "content": "?"
+    },
+    {
+        "action": "TALK",
+        "time": "13:08:44",
+        "time_int": 47324,
+        "user": "wzqclass100",
+        "content": "简直匪夷所思，太妙了"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:08:45",
+        "time_int": 47325,
+        "user": "GrandMaster",
+        "content": "68"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:08:53",
+        "time_int": 47333,
+        "user": "GrandMaster",
+        "content": "95"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:08:56",
+        "time_int": 47336,
+        "user": "GrandMaster",
+        "content": "59"
+    },
+    {
+        "action": "TALK",
+        "time": "13:09:01",
+        "time_int": 47341,
+        "user": "meihua53",
+        "content": "哦"
+    },
+    {
+        "action": "TALK",
+        "time": "13:09:03",
+        "time_int": 47343,
+        "user": "meihua53",
+        "content": "风车"
+    },
+    {
+        "action": "TALK",
+        "time": "13:09:06",
+        "time_int": 47346,
+        "user": "Guest498",
+        "content": "挖～"
+    },
+    {
+        "action": "TALK",
+        "time": "13:09:10",
+        "time_int": 47350,
+        "user": "Guest499",
+        "content": "41=L8？可以"
+    },
+    {
+        "action": "TALK",
+        "time": "13:09:14",
+        "time_int": 47354,
+        "user": "Guest499",
+        "content": "？？"
+    },
+    {
+        "action": "TALK",
+        "time": "13:10:07",
+        "time_int": 47407,
+        "user": "GrandMaster",
+        "content": "恩，我讲的这个是不考虑13、31、39这条线的杀"
+    },
+    {
+        "action": "TALK",
+        "time": "13:10:21",
+        "time_int": 47421,
+        "user": "GrandMaster",
+        "content": "这样40反防也同样成立"
+    },
+    {
+        "action": "TALK",
+        "time": "13:10:29",
+        "time_int": 47429,
+        "user": "Guest499",
+        "content": "对"
+    },
+    {
+        "action": "TALK",
+        "time": "13:10:33",
+        "time_int": 47433,
+        "user": "wzqclass72",
+        "content": "看似简单的20，原来有这么顽强的防守"
+    },
+    {
+        "action": "TALK",
+        "time": "13:10:54",
+        "time_int": 47454,
+        "user": "meihua53",
+        "content": "要么怎么说强呢"
+    },
+    {
+        "action": "TALK",
+        "time": "13:10:54",
+        "time_int": 47454,
+        "user": "GrandMaster",
+        "content": "恩，这个谱里黑的攻击和白的防守都比较精彩"
+    },
+    {
+        "action": "TALK",
+        "time": "13:11:12",
+        "time_int": 47472,
+        "user": "GrandMaster",
+        "content": "应该是这个5里最长的变化了：）"
+    },
+    {
+        "action": "TALK",
+        "time": "13:11:22",
+        "time_int": 47482,
+        "user": "wzqclass72",
+        "content": "是的"
+    },
+    {
+        "action": "TALK",
+        "time": "13:11:34",
+        "time_int": 47494,
+        "user": "wzqclass72",
+        "content": "好多谱里都没有的"
+    },
+    {
+        "action": "TALK",
+        "time": "13:11:41",
+        "time_int": 47501,
+        "user": "GrandMaster",
+        "content": "大家都看明白了吗？"
+    },
+    {
+        "action": "TALK",
+        "time": "13:11:47",
+        "time_int": 47507,
+        "user": "wzqclass72",
+        "content": "明白"
+    },
+    {
+        "action": "TALK",
+        "time": "13:11:47",
+        "time_int": 47507,
+        "user": "meihua53",
+        "content": "谁有棋谱?"
+    },
+    {
+        "action": "TALK",
+        "time": "13:11:55",
+        "time_int": 47515,
+        "user": "Guest498",
+        "content": "明白"
+    },
+    {
+        "action": "TALK",
+        "time": "13:11:59",
+        "time_int": 47519,
+        "user": "wzqclass72",
+        "content": "以后再仔细回味吧"
+    },
+    {
+        "action": "TALK",
+        "time": "13:12:13",
+        "time_int": 47533,
+        "user": "meihua53",
+        "content": "是啊"
+    },
+    {
+        "action": "TALK",
+        "time": "13:12:20",
+        "time_int": 47540,
+        "user": "GrandMaster",
+        "content": "大家可以回去后自己复一下"
+    },
+    {
+        "action": "GOTO",
+        "time": "13:12:24",
+        "time_int": 47544,
+        "user": "GrandMaster",
+        "content": 4
+    },
+    {
+        "action": "TALK",
+        "time": "13:12:25",
+        "time_int": 47545,
+        "user": "meihua53",
+        "content": "好啊"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:12:28",
+        "time_int": 47548,
+        "user": "GrandMaster",
+        "content": "97"
+    },
+    {
+        "action": "TALK",
+        "time": "13:12:35",
+        "time_int": 47555,
+        "user": "wzqclass72",
+        "content": "五珠定石啊"
+    },
+    {
+        "action": "TALK",
+        "time": "13:12:44",
+        "time_int": 47564,
+        "user": "GrandMaster",
+        "content": "这个5也是黑必胜"
+    },
+    {
+        "action": "TALK",
+        "time": "13:12:46",
+        "time_int": 47566,
+        "user": "meihua53",
+        "content": "我没有棋谱的"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:12:53",
+        "time_int": 47573,
+        "user": "GrandMaster",
+        "content": "79"
+    },
+    {
+        "action": "TALK",
+        "time": "13:13:01",
+        "time_int": 47581,
+        "user": "GrandMaster",
+        "content": "6走这里的话通浦月"
+    },
+    {
+        "action": "TALK",
+        "time": "13:13:22",
+        "time_int": 47602,
+        "user": "GrandMaster",
+        "content": "浦月4-G9的一打，6-G8"
+    },
+    {
+        "action": "TALK",
+        "time": "13:13:29",
+        "time_int": 47609,
+        "user": "wzqclass72",
+        "content": "是的"
+    },
+    {
+        "action": "TALK",
+        "time": "13:13:29",
+        "time_int": 47609,
+        "user": "GrandMaster",
+        "content": "在浦月的课程中讲过"
+    },
+    {
+        "action": "BACK",
+        "time": "13:13:50",
+        "time_int": 47630,
+        "user": "GrandMaster",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time": "13:13:53",
+        "time_int": 47633,
+        "user": "GrandMaster",
+        "content": "89"
+    },
+    {
+        "action": "TALK",
+        "time": "13:14:06",
+        "time_int": 47646,
+        "user": "GrandMaster",
+        "content": "这个6比较复杂"
+    },
+    {
+        "action": "TALK",
+        "time": "13:14:28",
+        "time_int": 47668,
+        "user": "GrandMaster",
+        "content": "放在水月4-H9的变化里讲"
+    },
+    {
+        "action": "BACK",
+        "time": "13:14:39",
+        "time_int": 47679,
+        "user": "GrandMaster",
+        "content": ""
+    },
+    {
+        "action": "TALK",
+        "time": "13:14:58",
+        "time_int": 47698,
+        "user": "GrandMaster",
+        "content": "别的6都不强"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:15:04",
+        "time_int": 47704,
+        "user": "GrandMaster",
+        "content": "77"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:15:08",
+        "time_int": 47708,
+        "user": "GrandMaster",
+        "content": "a9"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:15:19",
+        "time_int": 47719,
+        "user": "GrandMaster",
+        "content": "79"
+    },
+    {
+        "action": "TALK",
+        "time": "13:15:26",
+        "time_int": 47726,
+        "user": "GrandMaster",
+        "content": "这个也通浦月的变化"
+    },
+    {
+        "action": "TALK",
+        "time": "13:15:49",
+        "time_int": 47749,
+        "user": "wzqclass72",
+        "content": "是的"
+    },
+    {
+        "action": "TALK",
+        "time": "13:15:51",
+        "time_int": 47751,
+        "user": "Guest499",
+        "content": "6=H9，，7走那里？"
+    },
+    {
+        "action": "BACK",
+        "time": "13:15:57",
+        "time_int": 47757,
+        "user": "GrandMaster",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time": "13:16:01",
+        "time_int": 47761,
+        "user": "GrandMaster",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time": "13:16:04",
+        "time_int": 47764,
+        "user": "GrandMaster",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time": "13:16:07",
+        "time_int": 47767,
+        "user": "GrandMaster",
+        "content": "89"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:16:10",
+        "time_int": 47770,
+        "user": "GrandMaster",
+        "content": "79"
+    },
+    {
+        "action": "TALK",
+        "time": "13:16:20",
+        "time_int": 47780,
+        "user": "Guest499",
+        "content": "J8可以吗？"
+    },
+    {
+        "action": "TALK",
+        "time": "13:16:34",
+        "time_int": 47794,
+        "user": "GrandMaster",
+        "content": "这个变化和4-H9的两打相通"
+    },
+    {
+        "action": "TALK",
+        "time": "13:16:49",
+        "time_int": 47809,
+        "user": "GrandMaster",
+        "content": "以后在讲4-H9的时候会讲：）"
+    },
+    {
+        "action": "TALK",
+        "time": "13:16:57",
+        "time_int": 47817,
+        "user": "wzqclass72",
+        "content": "好的"
+    },
+    {
+        "action": "TALK",
+        "time": "13:17:10",
+        "time_int": 47830,
+        "user": "GrandMaster",
+        "content": "那这个4就讲到这里"
+    },
+    {
+        "action": "TALK",
+        "time": "13:17:16",
+        "time_int": 47836,
+        "user": "meihua53",
+        "content": "wzq文件用什么打开？"
+    },
+    {
+        "action": "BACK",
+        "time": "13:17:17",
+        "time_int": 47837,
+        "user": "GrandMaster",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time": "13:17:21",
+        "time_int": 47841,
+        "user": "GrandMaster",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time": "13:17:25",
+        "time_int": 47845,
+        "user": "GrandMaster",
+        "content": ""
+    },
+    {
+        "action": "TALK",
+        "time": "13:17:30",
+        "time_int": 47850,
+        "user": "GrandMaster",
+        "content": "不太清楚……"
+    },
+    {
+        "action": "BACK",
+        "time": "13:17:33",
+        "time_int": 47853,
+        "user": "GrandMaster",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time": "13:17:37",
+        "time_int": 47857,
+        "user": "GrandMaster",
+        "content": "77"
+    },
+    {
+        "action": "TALK",
+        "time": "13:17:43",
+        "time_int": 47863,
+        "user": "GrandMaster",
+        "content": "这个4弱"
+    },
+    {
+        "action": "TALK",
+        "time": "13:17:47",
+        "time_int": 47867,
+        "user": "Guest498",
+        "content": "用什么存得就用什么打开啊"
+    },
+    {
+        "action": "TALK",
+        "time": "13:17:50",
+        "time_int": 47870,
+        "user": "wzqclass72",
+        "content": "联众的棋谱吗？"
+    },
+    {
+        "action": "TALK",
+        "time": "13:17:52",
+        "time_int": 47872,
+        "user": "meihua53",
+        "content": "长星"
+    },
+    {
+        "action": "TALK",
+        "time": "13:17:55",
+        "time_int": 47875,
+        "user": "meihua53",
+        "content": "好像"
+    },
+    {
+        "action": "TALK",
+        "time": "13:18:02",
+        "time_int": 47882,
+        "user": "GrandMaster",
+        "content": "两打是I6和K8"
+    },
+    {
+        "action": "TALK",
+        "time": "13:18:12",
+        "time_int": 47892,
+        "user": "wzqclass72",
+        "content": "LIB就可以了吧？"
+    },
+    {
+        "action": "TALK",
+        "time": "13:18:24",
+        "time_int": 47904,
+        "user": "GrandMaster",
+        "content": "这个4知道两打应该就可以了"
+    },
+    {
+        "action": "TALK",
+        "time": "13:18:31",
+        "time_int": 47911,
+        "user": "GrandMaster",
+        "content": "黑不难胜"
+    },
+    {
+        "action": "BACK",
+        "time": "13:18:47",
+        "time_int": 47927,
+        "user": "GrandMaster",
+        "content": ""
+    },
+    {
+        "action": "TALK",
+        "time": "13:18:47",
+        "time_int": 47927,
+        "user": "Guest499",
+        "content": "梅花一周几课？请问"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:18:51",
+        "time_int": 47931,
+        "user": "GrandMaster",
+        "content": "8a"
+    },
+    {
+        "action": "TALK",
+        "time": "13:19:00",
+        "time_int": 47940,
+        "user": "sakura",
+        "content": "一节"
+    },
+    {
+        "action": "TALK",
+        "time": "13:19:00",
+        "time_int": 47940,
+        "user": "meihua01",
+        "content": "一课"
+    },
+    {
+        "action": "TALK",
+        "time": "13:19:01",
+        "time_int": 47941,
+        "user": "meihua53",
+        "content": "1"
+    },
+    {
+        "action": "TALK",
+        "time": "13:19:10",
+        "time_int": 47950,
+        "user": "Guest499",
+        "content": "：）"
+    },
+    {
+        "action": "TALK",
+        "time": "13:19:20",
+        "time_int": 47960,
+        "user": "GrandMaster",
+        "content": "这个4也弱，两打是J8和I6"
+    },
+    {
+        "action": "BACK",
+        "time": "13:19:35",
+        "time_int": 47975,
+        "user": "GrandMaster",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time": "13:19:38",
+        "time_int": 47978,
+        "user": "GrandMaster",
+        "content": "9a"
+    },
+    {
+        "action": "TALK",
+        "time": "13:19:58",
+        "time_int": 47998,
+        "user": "GrandMaster",
+        "content": "这个4要注意，两打错误的话黑不好下"
+    },
+    {
+        "action": "TALK",
+        "time": "13:20:10",
+        "time_int": 48010,
+        "user": "GrandMaster",
+        "content": "正确的两打是H7、I7"
+    },
+    {
+        "action": "TALK",
+        "time": "13:20:25",
+        "time_int": 48025,
+        "user": "meihua53",
+        "content": "Lib不行"
+    },
+    {
+        "action": "TALK",
+        "time": "13:20:30",
+        "time_int": 48030,
+        "user": "GrandMaster",
+        "content": "如果打I8的话，黑并不好走"
+    },
+    {
+        "action": "BACK",
+        "time": "13:20:50",
+        "time_int": 48050,
+        "user": "GrandMaster",
+        "content": ""
+    },
+    {
+        "action": "TALK",
+        "time": "13:20:59",
+        "time_int": 48059,
+        "user": "wzqclass72",
+        "content": "ZFIVE肯定可以！"
+    },
+    {
+        "action": "TALK",
+        "time": "13:21:22",
+        "time_int": 48082,
+        "user": "meihua53",
+        "content": "下载地址"
+    },
+    {
+        "action": "TALK",
+        "time": "13:21:30",
+        "time_int": 48090,
+        "user": "Guest499",
+        "content": "53？？？"
+    },
+    {
+        "action": "TALK",
+        "time": "13:21:37",
+        "time_int": 48097,
+        "user": "GrandMaster",
+        "content": "时间差不多了是吗？"
+    },
+    {
+        "action": "TALK",
+        "time": "13:21:39",
+        "time_int": 48099,
+        "user": "meihua53",
+        "content": "抱歉"
+    },
+    {
+        "action": "TALK",
+        "time": "13:21:42",
+        "time_int": 48102,
+        "user": "Guest499",
+        "content": "上课不要说话"
+    },
+    {
+        "action": "TALK",
+        "time": "13:22:05",
+        "time_int": 48125,
+        "user": "wzqclass72",
+        "content": "抱歉"
+    },
+    {
+        "action": "TALK",
+        "time": "13:22:07",
+        "time_int": 48127,
+        "user": "GrandMaster",
+        "content": "今天没怎么准备，比较仓促"
+    },
+    {
+        "action": "TALK",
+        "time": "13:22:15",
+        "time_int": 48135,
+        "user": "meihua53",
+        "content": "怕你们走了，没有人告诉我了"
+    },
+    {
+        "action": "TALK",
+        "time": "13:22:17",
+        "time_int": 48137,
+        "user": "GrandMaster",
+        "content": "讲得不好请大家见谅"
+    },
+    {
+        "action": "TALK",
+        "time": "13:22:28",
+        "time_int": 48148,
+        "user": "meihua07",
+        "content": "没什么，我们从中受益很多！"
+    },
+    {
+        "action": "TALK",
+        "time": "13:22:30",
+        "time_int": 48150,
+        "user": "Guest499",
+        "content": "谢谢老师，辛苦"
+    },
+    {
+        "action": "TALK",
+        "time": "13:22:31",
+        "time_int": 48151,
+        "user": "wzqclass72",
+        "content": "不是的，"
+    },
+    {
+        "action": "TALK",
+        "time": "13:22:32",
+        "time_int": 48152,
+        "user": "meihua07",
+        "content": "多谢老师"
+    },
+    {
+        "action": "TALK",
+        "time": "13:22:35",
+        "time_int": 48155,
+        "user": "wzqclass72",
+        "content": "我学到了很多"
+    },
+    {
+        "action": "TALK",
+        "time": "13:22:42",
+        "time_int": 48162,
+        "user": "meihua53",
+        "content": "是啊"
+    },
+    {
+        "action": "TALK",
+        "time": "13:22:42",
+        "time_int": 48162,
+        "user": "wzqclass72",
+        "content": "谢谢老师！"
+    },
+    {
+        "action": "TALK",
+        "time": "13:22:46",
+        "time_int": 48166,
+        "user": "GrandMaster",
+        "content": "水月三节课好象讲不完……"
+    },
+    {
+        "action": "TALK",
+        "time": "13:23:00",
+        "time_int": 48180,
+        "user": "sakura",
+        "content": "多讲几节"
+    },
+    {
+        "action": "TALK",
+        "time": "13:23:02",
+        "time_int": 48182,
+        "user": "sakura",
+        "content": "呵呵"
+    },
+    {
+        "action": "TALK",
+        "time": "13:23:03",
+        "time_int": 48183,
+        "user": "GrandMaster",
+        "content": "水月的三个强4"
+    },
+    {
+        "action": "TALK",
+        "time": "13:23:04",
+        "time_int": 48184,
+        "user": "Guest499",
+        "content": "刚才的谱很精彩"
+    },
+    {
+        "action": "TALK",
+        "time": "13:23:05",
+        "time_int": 48185,
+        "user": "meihua53",
+        "content": "可以"
+    },
+    {
+        "action": "TALK",
+        "time": "13:23:24",
+        "time_int": 48204,
+        "user": "GrandMaster",
+        "content": "I8\\I7\\J8"
+    },
+    {
+        "action": "TALK",
+        "time": "13:23:32",
+        "time_int": 48212,
+        "user": "meihua07",
+        "content": "梅花的同学们，没弄清楚就拿cp下载吧……"
+    },
+    {
+        "action": "TALK",
+        "time": "13:23:43",
+        "time_int": 48223,
+        "user": "GrandMaster",
+        "content": "这三个四可能要多讲一会儿"
+    },
+    {
+        "action": "TALK",
+        "time": "13:24:00",
+        "time_int": 48240,
+        "user": "GrandMaster",
+        "content": "那今天就到这里：）谢谢大家的参与"
+    },
+    {
+        "action": "TALK",
+        "time": "13:24:10",
+        "time_int": 48250,
+        "user": "meihua53",
+        "content": "cp？"
+    },
+    {
+        "action": "CREDIT",
+        "time": "13:24:11",
+        "time_int": 48251,
+        "user": "",
+        "content": " meihua11, meihua13, meihua53, wzqclass61, wzqclass72."
+    }
+]

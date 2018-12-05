@@ -1,0 +1,6232 @@
+[
+    {
+        "action": "RESET",
+        "time": "17:05:26",
+        "time_int": 61526,
+        "user": "",
+        "content": "000000"
+    },
+    {
+        "action": "TALK",
+        "time": "17:05:32",
+        "time_int": 61532,
+        "user": "RenjuTeacher",
+        "content": "Hello dear friends!"
+    },
+    {
+        "action": "TALK",
+        "time": "17:05:36",
+        "time_int": 61536,
+        "user": "luwenzhe",
+        "content": "Hello, RT"
+    },
+    {
+        "action": "TALK",
+        "time": "17:05:36",
+        "time_int": 61536,
+        "user": "SamSite",
+        "content": "hello RT"
+    },
+    {
+        "action": "TALK",
+        "time": "17:05:37",
+        "time_int": 61537,
+        "user": "virag",
+        "content": "Hello RT"
+    },
+    {
+        "action": "TALK",
+        "time": "17:05:37",
+        "time_int": 61537,
+        "user": "Xespok",
+        "content": "hi RT"
+    },
+    {
+        "action": "TALK",
+        "time": "17:05:37",
+        "time_int": 61537,
+        "user": "slamduk",
+        "content": "Hello RT!"
+    },
+    {
+        "action": "TALK",
+        "time": "17:05:37",
+        "time_int": 61537,
+        "user": "RenjuTeacher",
+        "content": "Welcome to renju lesson"
+    },
+    {
+        "action": "TALK",
+        "time": "17:05:38",
+        "time_int": 61538,
+        "user": "Fermat",
+        "content": "Hi, RT"
+    },
+    {
+        "action": "TALK",
+        "time": "17:05:39",
+        "time_int": 61539,
+        "user": "Before",
+        "content": "Hi Rt"
+    },
+    {
+        "action": "TALK",
+        "time": "17:05:42",
+        "time_int": 61542,
+        "user": "Red_Zombie",
+        "content": "hello"
+    },
+    {
+        "action": "TALK",
+        "time": "17:05:42",
+        "time_int": 61542,
+        "user": "weigui",
+        "content": "hello rt"
+    },
+    {
+        "action": "TALK",
+        "time": "17:05:48",
+        "time_int": 61548,
+        "user": "whte",
+        "content": "hello, RT"
+    },
+    {
+        "action": "TALK",
+        "time": "17:05:49",
+        "time_int": 61549,
+        "user": "Intotherenju",
+        "content": "hello RT"
+    },
+    {
+        "action": "TALK",
+        "time": "17:05:52",
+        "time_int": 61552,
+        "user": "tianxia",
+        "content": "hi rt"
+    },
+    {
+        "action": "EMOTE",
+        "time": "17:06:04",
+        "time_int": 61564,
+        "user": "LiuJianping",
+        "content": " says hello to everybody"
+    },
+    {
+        "action": "TALK",
+        "time": "17:06:11",
+        "time_int": 61571,
+        "user": "jamphen",
+        "content": "Hello RT"
+    },
+    {
+        "action": "TALK",
+        "time": "17:06:26",
+        "time_int": 61586,
+        "user": "RenjuTeacher",
+        "content": "After the year-end silence, we are all becoming more active."
+    },
+    {
+        "action": "TALK",
+        "time": "17:07:17",
+        "time_int": 61637,
+        "user": "RenjuTeacher",
+        "content": "We will now begin with participation check."
+    },
+    {
+        "action": "TALK",
+        "time": "17:07:41",
+        "time_int": 61661,
+        "user": "Before",
+        "content": "hajr magyarok!"
+    },
+    {
+        "action": "TALK",
+        "time": "17:07:51",
+        "time_int": 61671,
+        "user": "Guest035",
+        "content": ")"
+    },
+    {
+        "action": "CHECKRESULT",
+        "time": "17:08:01",
+        "time_int": 61681,
+        "user": "",
+        "content": " Xespok, Before, virag, SamSite, Red_Zombie, tianxia, jamphen, Fermat, slamduk, whte, weigui, luwenzhe, scm2000, coco_yuang, Intotherenju, pengyu, guminzhao, yyfcsd, LiuJianping, sosei."
+    },
+    {
+        "action": "TALK",
+        "time": "17:08:06",
+        "time_int": 61686,
+        "user": "RenjuTeacher",
+        "content": "I will begin with introducing the two players of the game"
+    },
+    {
+        "action": "TALK",
+        "time": "17:08:15",
+        "time_int": 61695,
+        "user": "RenjuTeacher",
+        "content": "They both come from Russia,"
+    },
+    {
+        "action": "TALK",
+        "time": "17:08:42",
+        "time_int": 61722,
+        "user": "RenjuTeacher",
+        "content": "Black player: Yuri Tarannikov"
+    },
+    {
+        "action": "TALK",
+        "time": "17:08:48",
+        "time_int": 61728,
+        "user": "RenjuTeacher",
+        "content": "have you heard of him?"
+    },
+    {
+        "action": "TALK",
+        "time": "17:08:51",
+        "time_int": 61731,
+        "user": "SamSite",
+        "content": "yes"
+    },
+    {
+        "action": "TALK",
+        "time": "17:08:53",
+        "time_int": 61733,
+        "user": "luwenzhe",
+        "content": "nope"
+    },
+    {
+        "action": "TALK",
+        "time": "17:08:55",
+        "time_int": 61735,
+        "user": "Before",
+        "content": "no"
+    },
+    {
+        "action": "TALK",
+        "time": "17:08:57",
+        "time_int": 61737,
+        "user": "Xespok",
+        "content": "no"
+    },
+    {
+        "action": "TALK",
+        "time": "17:09:00",
+        "time_int": 61740,
+        "user": "Fermat",
+        "content": "no"
+    },
+    {
+        "action": "TALK",
+        "time": "17:09:01",
+        "time_int": 61741,
+        "user": "whte",
+        "content": "no"
+    },
+    {
+        "action": "TALK",
+        "time": "17:09:02",
+        "time_int": 61742,
+        "user": "weigui",
+        "content": "no"
+    },
+    {
+        "action": "TALK",
+        "time": "17:09:03",
+        "time_int": 61743,
+        "user": "slamduk",
+        "content": "n"
+    },
+    {
+        "action": "TALK",
+        "time": "17:09:07",
+        "time_int": 61747,
+        "user": "RenjuTeacher",
+        "content": "wow :)"
+    },
+    {
+        "action": "TALK",
+        "time": "17:09:21",
+        "time_int": 61761,
+        "user": "RenjuTeacher",
+        "content": "ok, lets go back 13 years,"
+    },
+    {
+        "action": "TALK",
+        "time": "17:09:43",
+        "time_int": 61783,
+        "user": "RenjuTeacher",
+        "content": "in year 1991, there were two world championships held each time at the same place - one for renju, one for gomoku"
+    },
+    {
+        "action": "TALK",
+        "time": "17:09:46",
+        "time_int": 61786,
+        "user": "RenjuTeacher",
+        "content": "did you know that?"
+    },
+    {
+        "action": "TALK",
+        "time": "17:09:55",
+        "time_int": 61795,
+        "user": "tianxia",
+        "content": "no"
+    },
+    {
+        "action": "TALK",
+        "time": "17:10:03",
+        "time_int": 61803,
+        "user": "Fermat",
+        "content": "no"
+    },
+    {
+        "action": "TALK",
+        "time": "17:10:06",
+        "time_int": 61806,
+        "user": "weigui",
+        "content": "no"
+    },
+    {
+        "action": "TALK",
+        "time": "17:10:06",
+        "time_int": 61806,
+        "user": "RenjuTeacher",
+        "content": "the gomoku WC only happened twice"
+    },
+    {
+        "action": "TALK",
+        "time": "17:10:10",
+        "time_int": 61810,
+        "user": "RenjuTeacher",
+        "content": "1989, and 1991"
+    },
+    {
+        "action": "TALK",
+        "time": "17:10:18",
+        "time_int": 61818,
+        "user": "RenjuTeacher",
+        "content": "and since 1993, only renju WC was held"
+    },
+    {
+        "action": "TALK",
+        "time": "17:10:34",
+        "time_int": 61834,
+        "user": "Fermat",
+        "content": "interesting history...:)"
+    },
+    {
+        "action": "TALK",
+        "time": "17:10:37",
+        "time_int": 61837,
+        "user": "virag",
+        "content": "it was pente championship also, not?"
+    },
+    {
+        "action": "TALK",
+        "time": "17:10:41",
+        "time_int": 61841,
+        "user": "RenjuTeacher",
+        "content": "no"
+    },
+    {
+        "action": "TALK",
+        "time": "17:10:54",
+        "time_int": 61854,
+        "user": "RenjuTeacher",
+        "content": "so, while Nakamura won the renju WC in 1989 and 1991,"
+    },
+    {
+        "action": "TALK",
+        "time": "17:11:04",
+        "time_int": 61864,
+        "user": "RenjuTeacher",
+        "content": "there was also big fight in gomoku WC same time"
+    },
+    {
+        "action": "TALK",
+        "time": "17:11:16",
+        "time_int": 61876,
+        "user": "RenjuTeacher",
+        "content": "and Tarannikov won the gomoku WC in 1991"
+    },
+    {
+        "action": "TALK",
+        "time": "17:11:25",
+        "time_int": 61885,
+        "user": "RenjuTeacher",
+        "content": ":)"
+    },
+    {
+        "action": "TALK",
+        "time": "17:11:43",
+        "time_int": 61903,
+        "user": "RenjuTeacher",
+        "content": "and who was no 2?"
+    },
+    {
+        "action": "TALK",
+        "time": "17:11:54",
+        "time_int": 61914,
+        "user": "tianxia",
+        "content": "who?"
+    },
+    {
+        "action": "TALK",
+        "time": "17:12:00",
+        "time_int": 61920,
+        "user": "Fermat",
+        "content": "a Russia player"
+    },
+    {
+        "action": "TALK",
+        "time": "17:12:10",
+        "time_int": 61930,
+        "user": "RenjuTeacher",
+        "content": "no"
+    },
+    {
+        "action": "TALK",
+        "time": "17:12:15",
+        "time_int": 61935,
+        "user": "Fermat",
+        "content": "@@"
+    },
+    {
+        "action": "TALK",
+        "time": "17:12:18",
+        "time_int": 61938,
+        "user": "scm2000",
+        "content": "u?"
+    },
+    {
+        "action": "TALK",
+        "time": "17:12:20",
+        "time_int": 61940,
+        "user": "tianxia",
+        "content": "&&"
+    },
+    {
+        "action": "TALK",
+        "time": "17:12:23",
+        "time_int": 61943,
+        "user": "RenjuTeacher",
+        "content": "haha. yes me"
+    },
+    {
+        "action": "TALK",
+        "time": "17:12:26",
+        "time_int": 61946,
+        "user": "RenjuTeacher",
+        "content": ":)"
+    },
+    {
+        "action": "TALK",
+        "time": "17:12:27",
+        "time_int": 61947,
+        "user": "tianxia",
+        "content": "haha"
+    },
+    {
+        "action": "TALK",
+        "time": "17:12:32",
+        "time_int": 61952,
+        "user": "RenjuTeacher",
+        "content": "I was too young then,"
+    },
+    {
+        "action": "TALK",
+        "time": "17:12:45",
+        "time_int": 61965,
+        "user": "luwenzhe",
+        "content": "too young to be no 1 :)"
+    },
+    {
+        "action": "TALK",
+        "time": "17:12:49",
+        "time_int": 61969,
+        "user": "RenjuTeacher",
+        "content": "because the QT for Renju WC 1991 was so long before,"
+    },
+    {
+        "action": "TALK",
+        "time": "17:12:55",
+        "time_int": 61975,
+        "user": "RenjuTeacher",
+        "content": "so I was just 16 years old,"
+    },
+    {
+        "action": "TALK",
+        "time": "17:13:03",
+        "time_int": 61983,
+        "user": "RenjuTeacher",
+        "content": "and did not qualify for renju WC"
+    },
+    {
+        "action": "TALK",
+        "time": "17:13:21",
+        "time_int": 62001,
+        "user": "RenjuTeacher",
+        "content": "but, since I had won the USSR gomoku championship"
+    },
+    {
+        "action": "TALK",
+        "time": "17:13:33",
+        "time_int": 62013,
+        "user": "RenjuTeacher",
+        "content": "so I qualified for gomoku WC."
+    },
+    {
+        "action": "TALK",
+        "time": "17:13:59",
+        "time_int": 62039,
+        "user": "luwenzhe",
+        "content": "interesting"
+    },
+    {
+        "action": "TALK",
+        "time": "17:14:07",
+        "time_int": 62047,
+        "user": "RenjuTeacher",
+        "content": "I remember, one of my game, against Tarannikov began like this"
+    },
+    {
+        "action": "MOVE",
+        "time": "17:14:09",
+        "time_int": 62049,
+        "user": "RenjuTeacher",
+        "content": "88"
+    },
+    {
+        "action": "MOVE",
+        "time": "17:14:10",
+        "time_int": 62050,
+        "user": "RenjuTeacher",
+        "content": "99"
+    },
+    {
+        "action": "MOVE",
+        "time": "17:14:11",
+        "time_int": 62051,
+        "user": "RenjuTeacher",
+        "content": "85"
+    },
+    {
+        "action": "TALK",
+        "time": "17:14:29",
+        "time_int": 62069,
+        "user": "RenjuTeacher",
+        "content": "I was black"
+    },
+    {
+        "action": "TALK",
+        "time": "17:14:31",
+        "time_int": 62071,
+        "user": "tianxia",
+        "content": "ha it is now used in china"
+    },
+    {
+        "action": "TALK",
+        "time": "17:14:34",
+        "time_int": 62074,
+        "user": "Xespok",
+        "content": "black surewin in gomoku?"
+    },
+    {
+        "action": "TALK",
+        "time": "17:14:38",
+        "time_int": 62078,
+        "user": "RenjuTeacher",
+        "content": "yes"
+    },
+    {
+        "action": "TALK",
+        "time": "17:14:41",
+        "time_int": 62081,
+        "user": "RenjuTeacher",
+        "content": "seems so"
+    },
+    {
+        "action": "BACK",
+        "time": "17:14:48",
+        "time_int": 62088,
+        "user": "RenjuTeacher",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time": "17:14:49",
+        "time_int": 62089,
+        "user": "RenjuTeacher",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time": "17:14:49",
+        "time_int": 62089,
+        "user": "RenjuTeacher",
+        "content": ""
+    },
+    {
+        "action": "TALK",
+        "time": "17:14:55",
+        "time_int": 62095,
+        "user": "tianxia",
+        "content": "this \"opening\""
+    },
+    {
+        "action": "TALK",
+        "time": "17:15:02",
+        "time_int": 62102,
+        "user": "virag",
+        "content": "black sure win"
+    },
+    {
+        "action": "TALK",
+        "time": "17:15:02",
+        "time_int": 62102,
+        "user": "RenjuTeacher",
+        "content": "for several years, Tarannikov was known as a gomoku player,"
+    },
+    {
+        "action": "TALK",
+        "time": "17:15:09",
+        "time_int": 62109,
+        "user": "RenjuTeacher",
+        "content": "and renju players did not take him seriously."
+    },
+    {
+        "action": "TALK",
+        "time": "17:15:21",
+        "time_int": 62121,
+        "user": "virag",
+        "content": "black sure win"
+    },
+    {
+        "action": "TALK",
+        "time": "17:15:22",
+        "time_int": 62122,
+        "user": "RenjuTeacher",
+        "content": "there was a common thinking - any renjuplayer can beat any gomoku player"
+    },
+    {
+        "action": "TALK",
+        "time": "17:15:45",
+        "time_int": 62145,
+        "user": "RenjuTeacher",
+        "content": "but then gomoku became very quiet sport in Russia,"
+    },
+    {
+        "action": "TALK",
+        "time": "17:15:53",
+        "time_int": 62153,
+        "user": "RenjuTeacher",
+        "content": "and those gomoku players had to choose -"
+    },
+    {
+        "action": "TALK",
+        "time": "17:16:00",
+        "time_int": 62160,
+        "user": "RenjuTeacher",
+        "content": "to give up playing, or switch to renju"
+    },
+    {
+        "action": "TALK",
+        "time": "17:16:16",
+        "time_int": 62176,
+        "user": "RenjuTeacher",
+        "content": "Tarannikov and other leading players, they all switched to renju."
+    },
+    {
+        "action": "TALK",
+        "time": "17:16:26",
+        "time_int": 62186,
+        "user": "RenjuTeacher",
+        "content": "including Fedorkin, Oleg,"
+    },
+    {
+        "action": "TALK",
+        "time": "17:16:35",
+        "time_int": 62195,
+        "user": "luwenzhe",
+        "content": "wow"
+    },
+    {
+        "action": "TALK",
+        "time": "17:16:40",
+        "time_int": 62200,
+        "user": "RenjuTeacher",
+        "content": "who is the opponent of today's game."
+    },
+    {
+        "action": "TALK",
+        "time": "17:16:43",
+        "time_int": 62203,
+        "user": "LiuJianping",
+        "content": "how about are the rule of gomoku?"
+    },
+    {
+        "action": "TALK",
+        "time": "17:17:04",
+        "time_int": 62224,
+        "user": "RenjuTeacher",
+        "content": "in first years of renju, both Tarannikov and Fedorkin played poorly,"
+    },
+    {
+        "action": "TALK",
+        "time": "17:17:08",
+        "time_int": 62228,
+        "user": "RenjuTeacher",
+        "content": "but not for long."
+    },
+    {
+        "action": "TALK",
+        "time": "17:17:22",
+        "time_int": 62242,
+        "user": "RenjuTeacher",
+        "content": "Very soon they started to rise in their renju career as well,"
+    },
+    {
+        "action": "TALK",
+        "time": "17:17:35",
+        "time_int": 62255,
+        "user": "RenjuTeacher",
+        "content": "especially, in email tournaments."
+    },
+    {
+        "action": "TALK",
+        "time": "17:18:03",
+        "time_int": 62283,
+        "user": "RenjuTeacher",
+        "content": "I am not good at the email WC history,"
+    },
+    {
+        "action": "TALK",
+        "time": "17:18:19",
+        "time_int": 62299,
+        "user": "RenjuTeacher",
+        "content": "but I remember at least Fedorkin won it once before"
+    },
+    {
+        "action": "TALK",
+        "time": "17:18:22",
+        "time_int": 62302,
+        "user": "RenjuTeacher",
+        "content": "right?"
+    },
+    {
+        "action": "TALK",
+        "time": "17:18:36",
+        "time_int": 62316,
+        "user": "tianxia",
+        "content": "it seems Tarannikov still in A group"
+    },
+    {
+        "action": "TALK",
+        "time": "17:18:36",
+        "time_int": 62316,
+        "user": "RenjuTeacher",
+        "content": "maybe around 1988 or so"
+    },
+    {
+        "action": "TALK",
+        "time": "17:18:51",
+        "time_int": 62331,
+        "user": "RenjuTeacher",
+        "content": "oops"
+    },
+    {
+        "action": "TALK",
+        "time": "17:18:55",
+        "time_int": 62335,
+        "user": "RenjuTeacher",
+        "content": "1998 i mean"
+    },
+    {
+        "action": "TALK",
+        "time": "17:18:57",
+        "time_int": 62337,
+        "user": "RenjuTeacher",
+        "content": ":))"
+    },
+    {
+        "action": "TALK",
+        "time": "17:19:04",
+        "time_int": 62344,
+        "user": "RenjuTeacher",
+        "content": "there was no internet n 1988"
+    },
+    {
+        "action": "TALK",
+        "time": "17:19:07",
+        "time_int": 62347,
+        "user": "RenjuTeacher",
+        "content": ":)"
+    },
+    {
+        "action": "TALK",
+        "time": "17:19:08",
+        "time_int": 62348,
+        "user": "tianxia",
+        "content": "before arems"
+    },
+    {
+        "action": "TALK",
+        "time": "17:19:10",
+        "time_int": 62350,
+        "user": "luwenzhe",
+        "content": "ha"
+    },
+    {
+        "action": "TALK",
+        "time": "17:19:43",
+        "time_int": 62383,
+        "user": "RenjuTeacher",
+        "content": "later on, Tarannikov began to win several Russian renju tournaments"
+    },
+    {
+        "action": "TALK",
+        "time": "17:20:00",
+        "time_int": 62400,
+        "user": "RenjuTeacher",
+        "content": "and even though he has no remarkable results in international renju yet,"
+    },
+    {
+        "action": "TALK",
+        "time": "17:20:12",
+        "time_int": 62412,
+        "user": "RenjuTeacher",
+        "content": "he is surely very strong and dangerous opponent to anyone."
+    },
+    {
+        "action": "TALK",
+        "time": "17:20:32",
+        "time_int": 62432,
+        "user": "RenjuTeacher",
+        "content": "He also played in the QT and B-tournament in WC 2003"
+    },
+    {
+        "action": "MOVE",
+        "time": "17:20:43",
+        "time_int": 62443,
+        "user": "RenjuTeacher",
+        "content": "88"
+    },
+    {
+        "action": "MOVE",
+        "time": "17:20:44",
+        "time_int": 62444,
+        "user": "RenjuTeacher",
+        "content": "89"
+    },
+    {
+        "action": "MOVE",
+        "time": "17:20:44",
+        "time_int": 62444,
+        "user": "RenjuTeacher",
+        "content": "aa"
+    },
+    {
+        "action": "MOVE",
+        "time": "17:20:45",
+        "time_int": 62445,
+        "user": "RenjuTeacher",
+        "content": "99"
+    },
+    {
+        "action": "TALK",
+        "time": "17:21:02",
+        "time_int": 62462,
+        "user": "RenjuTeacher",
+        "content": "Today's game, was played between Tarannikov and Fedorkin in year 2000,"
+    },
+    {
+        "action": "TALK",
+        "time": "17:21:18",
+        "time_int": 62478,
+        "user": "RenjuTeacher",
+        "content": "in the tournament in Russia, named \"Soosyrv Cup\""
+    },
+    {
+        "action": "TALK",
+        "time": "17:21:45",
+        "time_int": 62505,
+        "user": "RenjuTeacher",
+        "content": "that Cup has been played for so many years."
+    },
+    {
+        "action": "TALK",
+        "time": "17:22:09",
+        "time_int": 62529,
+        "user": "RenjuTeacher",
+        "content": "The tournament got the name and idea from one incident in renju tournament in Russia long ago."
+    },
+    {
+        "action": "TALK",
+        "time": "17:22:43",
+        "time_int": 62563,
+        "user": "RenjuTeacher",
+        "content": "Ants Soosyrv, having finished the tournament in Russia, was about to go home, to Estonia, but he had bunch of Russian money left, which he thought are useless later,"
+    },
+    {
+        "action": "TALK",
+        "time": "17:22:52",
+        "time_int": 62572,
+        "user": "RenjuTeacher",
+        "content": "so he left them with Russian renju players."
+    },
+    {
+        "action": "TALK",
+        "time": "17:23:01",
+        "time_int": 62581,
+        "user": "RenjuTeacher",
+        "content": "and they decided to buy one trophy for that money"
+    },
+    {
+        "action": "TALK",
+        "time": "17:23:06",
+        "time_int": 62586,
+        "user": "RenjuTeacher",
+        "content": "and arrange tournaments every year,"
+    },
+    {
+        "action": "TALK",
+        "time": "17:23:12",
+        "time_int": 62592,
+        "user": "luwenzhe",
+        "content": "ha"
+    },
+    {
+        "action": "TALK",
+        "time": "17:23:12",
+        "time_int": 62592,
+        "user": "RenjuTeacher",
+        "content": "calling it Soosyrv Cup"
+    },
+    {
+        "action": "TALK",
+        "time": "17:23:14",
+        "time_int": 62594,
+        "user": "RenjuTeacher",
+        "content": ":))"
+    },
+    {
+        "action": "TALK",
+        "time": "17:23:30",
+        "time_int": 62610,
+        "user": "RenjuTeacher",
+        "content": "and that tournament is played every year, until now."
+    },
+    {
+        "action": "TALK",
+        "time": "17:23:32",
+        "time_int": 62612,
+        "user": "RenjuTeacher",
+        "content": ":)"
+    },
+    {
+        "action": "TALK",
+        "time": "17:23:37",
+        "time_int": 62617,
+        "user": "Fermat",
+        "content": "cool"
+    },
+    {
+        "action": "TALK",
+        "time": "17:23:55",
+        "time_int": 62635,
+        "user": "RenjuTeacher",
+        "content": "In year 2000, Tarannikov and Fedorking were playing famous variant of d3"
+    },
+    {
+        "action": "MOVE",
+        "time": "17:23:57",
+        "time_int": 62637,
+        "user": "RenjuTeacher",
+        "content": "a9"
+    },
+    {
+        "action": "MOVE",
+        "time": "17:23:58",
+        "time_int": 62638,
+        "user": "RenjuTeacher",
+        "content": "a8"
+    },
+    {
+        "action": "MOVE",
+        "time": "17:23:59",
+        "time_int": 62639,
+        "user": "RenjuTeacher",
+        "content": "b7"
+    },
+    {
+        "action": "MOVE",
+        "time": "17:24:00",
+        "time_int": 62640,
+        "user": "RenjuTeacher",
+        "content": "9a"
+    },
+    {
+        "action": "MOVE",
+        "time": "17:24:00",
+        "time_int": 62640,
+        "user": "RenjuTeacher",
+        "content": "ab"
+    },
+    {
+        "action": "TALK",
+        "time": "17:24:17",
+        "time_int": 62657,
+        "user": "RenjuTeacher",
+        "content": "This variant became especially popular after 1999,"
+    },
+    {
+        "action": "TALK",
+        "time": "17:24:24",
+        "time_int": 62664,
+        "user": "RenjuTeacher",
+        "content": "when I met Nakamura."
+    },
+    {
+        "action": "TALK",
+        "time": "17:24:40",
+        "time_int": 62680,
+        "user": "RenjuTeacher",
+        "content": "What is the popular 10th move today?"
+    },
+    {
+        "action": "TALK",
+        "time": "17:24:47",
+        "time_int": 62687,
+        "user": "SamSite",
+        "content": "g9"
+    },
+    {
+        "action": "TALK",
+        "time": "17:24:54",
+        "time_int": 62694,
+        "user": "Intotherenju",
+        "content": "g9"
+    },
+    {
+        "action": "TALK",
+        "time": "17:25:00",
+        "time_int": 62700,
+        "user": "Fermat",
+        "content": "i7?"
+    },
+    {
+        "action": "TALK",
+        "time": "17:25:02",
+        "time_int": 62702,
+        "user": "weigui",
+        "content": "g9"
+    },
+    {
+        "action": "TALK",
+        "time": "17:25:02",
+        "time_int": 62702,
+        "user": "luwenzhe",
+        "content": "g9"
+    },
+    {
+        "action": "TALK",
+        "time": "17:25:06",
+        "time_int": 62706,
+        "user": "RenjuTeacher",
+        "content": "indeed,"
+    },
+    {
+        "action": "TALK",
+        "time": "17:25:12",
+        "time_int": 62712,
+        "user": "RenjuTeacher",
+        "content": "now everybody plays g9"
+    },
+    {
+        "action": "TALK",
+        "time": "17:25:19",
+        "time_int": 62719,
+        "user": "RenjuTeacher",
+        "content": "but back in 2000, the g9 was not known yet."
+    },
+    {
+        "action": "MOVE",
+        "time": "17:25:23",
+        "time_int": 62723,
+        "user": "RenjuTeacher",
+        "content": "97"
+    },
+    {
+        "action": "TALK",
+        "time": "17:25:31",
+        "time_int": 62731,
+        "user": "RenjuTeacher",
+        "content": "Then people played the \"old theory\""
+    },
+    {
+        "action": "TALK",
+        "time": "17:25:35",
+        "time_int": 62735,
+        "user": "RenjuTeacher",
+        "content": "with i7"
+    },
+    {
+        "action": "TALK",
+        "time": "17:25:36",
+        "time_int": 62736,
+        "user": "RenjuTeacher",
+        "content": ":)"
+    },
+    {
+        "action": "MOVE",
+        "time": "17:25:41",
+        "time_int": 62741,
+        "user": "RenjuTeacher",
+        "content": "98"
+    },
+    {
+        "action": "TALK",
+        "time": "17:25:59",
+        "time_int": 62759,
+        "user": "RenjuTeacher",
+        "content": "Most of you have seen my 3rd and 6th game with Nakamura"
+    },
+    {
+        "action": "TALK",
+        "time": "17:26:03",
+        "time_int": 62763,
+        "user": "RenjuTeacher",
+        "content": "with same first 11 moves"
+    },
+    {
+        "action": "MOVE",
+        "time": "17:26:14",
+        "time_int": 62774,
+        "user": "RenjuTeacher",
+        "content": "67"
+    },
+    {
+        "action": "TALK",
+        "time": "17:26:20",
+        "time_int": 62780,
+        "user": "RenjuTeacher",
+        "content": "on 3rd game, Nakamura played here,"
+    },
+    {
+        "action": "BACK",
+        "time": "17:26:21",
+        "time_int": 62781,
+        "user": "RenjuTeacher",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time": "17:26:22",
+        "time_int": 62782,
+        "user": "RenjuTeacher",
+        "content": "87"
+    },
+    {
+        "action": "TALK",
+        "time": "17:26:26",
+        "time_int": 62786,
+        "user": "RenjuTeacher",
+        "content": "and on 6th, he played here"
+    },
+    {
+        "action": "TALK",
+        "time": "17:26:34",
+        "time_int": 62794,
+        "user": "RenjuTeacher",
+        "content": "actually, 12-h7 is the correct move"
+    },
+    {
+        "action": "TALK",
+        "time": "17:26:40",
+        "time_int": 62800,
+        "user": "RenjuTeacher",
+        "content": "and most players used that later."
+    },
+    {
+        "action": "MOVE",
+        "time": "17:26:43",
+        "time_int": 62803,
+        "user": "RenjuTeacher",
+        "content": "67"
+    },
+    {
+        "action": "MOVE",
+        "time": "17:26:44",
+        "time_int": 62804,
+        "user": "RenjuTeacher",
+        "content": "69"
+    },
+    {
+        "action": "TALK",
+        "time": "17:26:57",
+        "time_int": 62817,
+        "user": "RenjuTeacher",
+        "content": "13 and 14 - so natural, nothing to explain."
+    },
+    {
+        "action": "MOVE",
+        "time": "17:27:07",
+        "time_int": 62827,
+        "user": "RenjuTeacher",
+        "content": "5a"
+    },
+    {
+        "action": "TALK",
+        "time": "17:27:14",
+        "time_int": 62834,
+        "user": "RenjuTeacher",
+        "content": "15 - my crazy move"
+    },
+    {
+        "action": "TALK",
+        "time": "17:27:20",
+        "time_int": 62840,
+        "user": "RenjuTeacher",
+        "content": "almost made me lost a game"
+    },
+    {
+        "action": "TALK",
+        "time": "17:27:27",
+        "time_int": 62847,
+        "user": "RenjuTeacher",
+        "content": "luckily Nakamura was too tired"
+    },
+    {
+        "action": "TALK",
+        "time": "17:27:33",
+        "time_int": 62853,
+        "user": "RenjuTeacher",
+        "content": "and he failed to find win."
+    },
+    {
+        "action": "BACK",
+        "time": "17:27:36",
+        "time_int": 62856,
+        "user": "RenjuTeacher",
+        "content": ""
+    },
+    {
+        "action": "TALK",
+        "time": "17:27:39",
+        "time_int": 62859,
+        "user": "RenjuTeacher",
+        "content": "After the match,"
+    },
+    {
+        "action": "TALK",
+        "time": "17:27:47",
+        "time_int": 62867,
+        "user": "RenjuTeacher",
+        "content": "lots of renju masters studied this variant deeply"
+    },
+    {
+        "action": "MOVE",
+        "time": "17:27:50",
+        "time_int": 62870,
+        "user": "RenjuTeacher",
+        "content": "78"
+    },
+    {
+        "action": "TALK",
+        "time": "17:28:04",
+        "time_int": 62884,
+        "user": "RenjuTeacher",
+        "content": "and 15-g8 as well as 15-g9 became proper variants."
+    },
+    {
+        "action": "TALK",
+        "time": "17:28:37",
+        "time_int": 62917,
+        "user": "RenjuTeacher",
+        "content": "Tarannikov played 15-g8."
+    },
+    {
+        "action": "TALK",
+        "time": "17:28:43",
+        "time_int": 62923,
+        "user": "RenjuTeacher",
+        "content": "Let me ask you,"
+    },
+    {
+        "action": "TALK",
+        "time": "17:28:50",
+        "time_int": 62930,
+        "user": "RenjuTeacher",
+        "content": "how many of you have played this variant before?"
+    },
+    {
+        "action": "TALK",
+        "time": "17:28:59",
+        "time_int": 62939,
+        "user": "fallnavy",
+        "content": "me"
+    },
+    {
+        "action": "TALK",
+        "time": "17:29:05",
+        "time_int": 62945,
+        "user": "SamSite",
+        "content": "couple of games"
+    },
+    {
+        "action": "TALK",
+        "time": "17:29:20",
+        "time_int": 62960,
+        "user": "Fermat",
+        "content": "one time"
+    },
+    {
+        "action": "TALK",
+        "time": "17:29:22",
+        "time_int": 62962,
+        "user": "luwenzhe",
+        "content": "no"
+    },
+    {
+        "action": "TALK",
+        "time": "17:29:34",
+        "time_int": 62974,
+        "user": "strul",
+        "content": "not one :("
+    },
+    {
+        "action": "TALK",
+        "time": "17:29:36",
+        "time_int": 62976,
+        "user": "yyfcsd",
+        "content": "not many"
+    },
+    {
+        "action": "TALK",
+        "time": "17:29:47",
+        "time_int": 62987,
+        "user": "RenjuTeacher",
+        "content": "I hope you will try more"
+    },
+    {
+        "action": "TALK",
+        "time": "17:29:49",
+        "time_int": 62989,
+        "user": "virag",
+        "content": "no"
+    },
+    {
+        "action": "TALK",
+        "time": "17:29:53",
+        "time_int": 62993,
+        "user": "RenjuTeacher",
+        "content": "because it is interesting"
+    },
+    {
+        "action": "TALK",
+        "time": "17:30:09",
+        "time_int": 63009,
+        "user": "RenjuTeacher",
+        "content": "I have seen analyses like this:"
+    },
+    {
+        "action": "MOVE",
+        "time": "17:30:11",
+        "time_int": 63011,
+        "user": "RenjuTeacher",
+        "content": "58"
+    },
+    {
+        "action": "BACK",
+        "time": "17:30:13",
+        "time_int": 63013,
+        "user": "RenjuTeacher",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time": "17:30:14",
+        "time_int": 63014,
+        "user": "RenjuTeacher",
+        "content": "6a"
+    },
+    {
+        "action": "BACK",
+        "time": "17:30:15",
+        "time_int": 63015,
+        "user": "RenjuTeacher",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time": "17:30:16",
+        "time_int": 63016,
+        "user": "RenjuTeacher",
+        "content": "7a"
+    },
+    {
+        "action": "BACK",
+        "time": "17:30:17",
+        "time_int": 63017,
+        "user": "RenjuTeacher",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time": "17:30:18",
+        "time_int": 63018,
+        "user": "RenjuTeacher",
+        "content": "7b"
+    },
+    {
+        "action": "BACK",
+        "time": "17:30:19",
+        "time_int": 63019,
+        "user": "RenjuTeacher",
+        "content": ""
+    },
+    {
+        "action": "TALK",
+        "time": "17:30:21",
+        "time_int": 63021,
+        "user": "RenjuTeacher",
+        "content": "etc"
+    },
+    {
+        "action": "TALK",
+        "time": "17:30:34",
+        "time_int": 63034,
+        "user": "RenjuTeacher",
+        "content": "and if you look at the statistics of finished games,"
+    },
+    {
+        "action": "TALK",
+        "time": "17:30:52",
+        "time_int": 63052,
+        "user": "RenjuTeacher",
+        "content": "black and white win about eqully here"
+    },
+    {
+        "action": "TALK",
+        "time": "17:31:05",
+        "time_int": 63065,
+        "user": "RenjuTeacher",
+        "content": "sometimes black, sometimes white"
+    },
+    {
+        "action": "TALK",
+        "time": "17:31:19",
+        "time_int": 63079,
+        "user": "RenjuTeacher",
+        "content": "White is aggressive here,"
+    },
+    {
+        "action": "TALK",
+        "time": "17:31:27",
+        "time_int": 63087,
+        "user": "RenjuTeacher",
+        "content": "but if black defends precisely,"
+    },
+    {
+        "action": "TALK",
+        "time": "17:31:39",
+        "time_int": 63099,
+        "user": "RenjuTeacher",
+        "content": "then later on black will have good space on other sides."
+    },
+    {
+        "action": "MOVE",
+        "time": "17:31:46",
+        "time_int": 63106,
+        "user": "RenjuTeacher",
+        "content": "8a"
+    },
+    {
+        "action": "TALK",
+        "time": "17:31:57",
+        "time_int": 63117,
+        "user": "RenjuTeacher",
+        "content": "Fedorkin surprised his opponent with this new 16th move."
+    },
+    {
+        "action": "TALK",
+        "time": "17:32:09",
+        "time_int": 63129,
+        "user": "RenjuTeacher",
+        "content": "I dont know if Tarannikov had analysed it before or not,"
+    },
+    {
+        "action": "TALK",
+        "time": "17:32:13",
+        "time_int": 63133,
+        "user": "RenjuTeacher",
+        "content": "but at least for me this 16 is new."
+    },
+    {
+        "action": "MOVE",
+        "time": "17:32:33",
+        "time_int": 63153,
+        "user": "RenjuTeacher",
+        "content": "7a"
+    },
+    {
+        "action": "TALK",
+        "time": "17:32:44",
+        "time_int": 63164,
+        "user": "RenjuTeacher",
+        "content": "He played 17 here."
+    },
+    {
+        "action": "TALK",
+        "time": "17:32:48",
+        "time_int": 63168,
+        "user": "RenjuTeacher",
+        "content": "What do you think about it?"
+    },
+    {
+        "action": "TALK",
+        "time": "17:32:50",
+        "time_int": 63170,
+        "user": "RenjuTeacher",
+        "content": "good or not?"
+    },
+    {
+        "action": "TALK",
+        "time": "17:33:05",
+        "time_int": 63185,
+        "user": "Before",
+        "content": "seems good"
+    },
+    {
+        "action": "TALK",
+        "time": "17:33:12",
+        "time_int": 63192,
+        "user": "virag",
+        "content": "good"
+    },
+    {
+        "action": "TALK",
+        "time": "17:33:33",
+        "time_int": 63213,
+        "user": "Xespok",
+        "content": "do not know"
+    },
+    {
+        "action": "TALK",
+        "time": "17:33:46",
+        "time_int": 63226,
+        "user": "Fermat",
+        "content": "not bad"
+    },
+    {
+        "action": "TALK",
+        "time": "17:34:02",
+        "time_int": 63242,
+        "user": "RenjuTeacher",
+        "content": "it looks like a very good block"
+    },
+    {
+        "action": "TALK",
+        "time": "17:34:15",
+        "time_int": 63255,
+        "user": "RenjuTeacher",
+        "content": "and white would feel difficult to develop from here."
+    },
+    {
+        "action": "TALK",
+        "time": "17:34:21",
+        "time_int": 63261,
+        "user": "RenjuTeacher",
+        "content": "But Fedorkin amazed me"
+    },
+    {
+        "action": "TALK",
+        "time": "17:34:23",
+        "time_int": 63263,
+        "user": "RenjuTeacher",
+        "content": "with his plan"
+    },
+    {
+        "action": "MOVE",
+        "time": "17:34:26",
+        "time_int": 63266,
+        "user": "RenjuTeacher",
+        "content": "86"
+    },
+    {
+        "action": "MOVE",
+        "time": "17:34:30",
+        "time_int": 63270,
+        "user": "RenjuTeacher",
+        "content": "b9"
+    },
+    {
+        "action": "MOVE",
+        "time": "17:34:32",
+        "time_int": 63272,
+        "user": "RenjuTeacher",
+        "content": "9d"
+    },
+    {
+        "action": "TALK",
+        "time": "17:34:35",
+        "time_int": 63275,
+        "user": "RenjuTeacher",
+        "content": "20!!"
+    },
+    {
+        "action": "TALK",
+        "time": "17:34:41",
+        "time_int": 63281,
+        "user": "Before",
+        "content": "wow"
+    },
+    {
+        "action": "TALK",
+        "time": "17:34:42",
+        "time_int": 63282,
+        "user": "RenjuTeacher",
+        "content": "how to defend?"
+    },
+    {
+        "action": "TALK",
+        "time": "17:34:42",
+        "time_int": 63282,
+        "user": "luwenzhe",
+        "content": "ah"
+    },
+    {
+        "action": "TALK",
+        "time": "17:34:51",
+        "time_int": 63291,
+        "user": "RenjuTeacher",
+        "content": "white has vcf threat"
+    },
+    {
+        "action": "TALK",
+        "time": "17:34:56",
+        "time_int": 63296,
+        "user": "RenjuTeacher",
+        "content": "i11, g9"
+    },
+    {
+        "action": "TALK",
+        "time": "17:34:58",
+        "time_int": 63298,
+        "user": "Xespok",
+        "content": "G11?"
+    },
+    {
+        "action": "TALK",
+        "time": "17:35:07",
+        "time_int": 63307,
+        "user": "Xespok",
+        "content": "not good"
+    },
+    {
+        "action": "TALK",
+        "time": "17:35:10",
+        "time_int": 63310,
+        "user": "RenjuTeacher",
+        "content": "and 3x3 threats at g11, i11, h12"
+    },
+    {
+        "action": "TALK",
+        "time": "17:35:23",
+        "time_int": 63323,
+        "user": "RenjuTeacher",
+        "content": "how to block?"
+    },
+    {
+        "action": "TALK",
+        "time": "17:35:36",
+        "time_int": 63336,
+        "user": "luwenzhe",
+        "content": "i12?"
+    },
+    {
+        "action": "TALK",
+        "time": "17:35:37",
+        "time_int": 63337,
+        "user": "SamSite",
+        "content": "i guess j12 must ?"
+    },
+    {
+        "action": "TALK",
+        "time": "17:35:45",
+        "time_int": 63345,
+        "user": "Before",
+        "content": "i11?"
+    },
+    {
+        "action": "MOVE",
+        "time": "17:35:57",
+        "time_int": 63357,
+        "user": "RenjuTeacher",
+        "content": "9c"
+    },
+    {
+        "action": "MOVE",
+        "time": "17:35:58",
+        "time_int": 63358,
+        "user": "RenjuTeacher",
+        "content": "7b"
+    },
+    {
+        "action": "MOVE",
+        "time": "17:35:59",
+        "time_int": 63359,
+        "user": "RenjuTeacher",
+        "content": "6c"
+    },
+    {
+        "action": "TALK",
+        "time": "17:36:02",
+        "time_int": 63362,
+        "user": "RenjuTeacher",
+        "content": "see 3x3?"
+    },
+    {
+        "action": "TALK",
+        "time": "17:36:06",
+        "time_int": 63366,
+        "user": "luwenzhe",
+        "content": "yes"
+    },
+    {
+        "action": "BACK",
+        "time": "17:36:07",
+        "time_int": 63367,
+        "user": "RenjuTeacher",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time": "17:36:07",
+        "time_int": 63367,
+        "user": "RenjuTeacher",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time": "17:36:08",
+        "time_int": 63368,
+        "user": "RenjuTeacher",
+        "content": ""
+    },
+    {
+        "action": "TALK",
+        "time": "17:36:10",
+        "time_int": 63370,
+        "user": "Before",
+        "content": "see senor.. :D"
+    },
+    {
+        "action": "MOVE",
+        "time": "17:36:30",
+        "time_int": 63390,
+        "user": "RenjuTeacher",
+        "content": "ac"
+    },
+    {
+        "action": "TALK",
+        "time": "17:36:33",
+        "time_int": 63393,
+        "user": "luwenzhe",
+        "content": "3-3 everywhere, too bad"
+    },
+    {
+        "action": "TALK",
+        "time": "17:36:34",
+        "time_int": 63394,
+        "user": "RenjuTeacher",
+        "content": "indeed, no choice"
+    },
+    {
+        "action": "TALK",
+        "time": "17:36:36",
+        "time_int": 63396,
+        "user": "RenjuTeacher",
+        "content": "we need four"
+    },
+    {
+        "action": "MOVE",
+        "time": "17:36:38",
+        "time_int": 63398,
+        "user": "RenjuTeacher",
+        "content": "ad"
+    },
+    {
+        "action": "TALK",
+        "time": "17:36:48",
+        "time_int": 63408,
+        "user": "RenjuTeacher",
+        "content": "at least the 4x3 threat was closed"
+    },
+    {
+        "action": "TALK",
+        "time": "17:36:54",
+        "time_int": 63414,
+        "user": "RenjuTeacher",
+        "content": "now we need to deal with all the 3x3 traps"
+    },
+    {
+        "action": "TALK",
+        "time": "17:36:57",
+        "time_int": 63417,
+        "user": "RenjuTeacher",
+        "content": "how to block now?"
+    },
+    {
+        "action": "TALK",
+        "time": "17:37:18",
+        "time_int": 63438,
+        "user": "SamSite",
+        "content": "G13 kill all traps :)"
+    },
+    {
+        "action": "TALK",
+        "time": "17:37:29",
+        "time_int": 63449,
+        "user": "Fermat",
+        "content": "h12?"
+    },
+    {
+        "action": "TALK",
+        "time": "17:37:29",
+        "time_int": 63449,
+        "user": "SamSite",
+        "content": "or not"
+    },
+    {
+        "action": "TALK",
+        "time": "17:38:02",
+        "time_int": 63482,
+        "user": "RenjuTeacher",
+        "content": "others?"
+    },
+    {
+        "action": "TALK",
+        "time": "17:38:30",
+        "time_int": 63510,
+        "user": "whte",
+        "content": "G13 seems OK"
+    },
+    {
+        "action": "TALK",
+        "time": "17:38:38",
+        "time_int": 63518,
+        "user": "Before",
+        "content": "f8?"
+    },
+    {
+        "action": "TALK",
+        "time": "17:38:40",
+        "time_int": 63520,
+        "user": "virag",
+        "content": "i12?"
+    },
+    {
+        "action": "TALK",
+        "time": "17:38:45",
+        "time_int": 63525,
+        "user": "Before",
+        "content": "blocks the vcf"
+    },
+    {
+        "action": "TALK",
+        "time": "17:39:04",
+        "time_int": 63544,
+        "user": "yyfcsd",
+        "content": "g13 then create new trouble"
+    },
+    {
+        "action": "TALK",
+        "time": "17:39:04",
+        "time_int": 63544,
+        "user": "Before",
+        "content": "lol"
+    },
+    {
+        "action": "TALK",
+        "time": "17:39:09",
+        "time_int": 63549,
+        "user": "Before",
+        "content": "never mind :)))"
+    },
+    {
+        "action": "MOVE",
+        "time": "17:40:02",
+        "time_int": 63602,
+        "user": "RenjuTeacher",
+        "content": "8c"
+    },
+    {
+        "action": "TALK",
+        "time": "17:40:11",
+        "time_int": 63611,
+        "user": "RenjuTeacher",
+        "content": "white win?"
+    },
+    {
+        "action": "TALK",
+        "time": "17:40:35",
+        "time_int": 63635,
+        "user": "RenjuTeacher",
+        "content": "who can show"
+    },
+    {
+        "action": "TALK",
+        "time": "17:40:36",
+        "time_int": 63636,
+        "user": "RenjuTeacher",
+        "content": "say me"
+    },
+    {
+        "action": "TALK",
+        "time": "17:40:39",
+        "time_int": 63639,
+        "user": "RenjuTeacher",
+        "content": ":)"
+    },
+    {
+        "action": "TALK",
+        "time": "17:40:45",
+        "time_int": 63645,
+        "user": "yyfcsd",
+        "content": "yes"
+    },
+    {
+        "action": "TALK",
+        "time": "17:40:47",
+        "time_int": 63647,
+        "user": "LiuJianping",
+        "content": "me"
+    },
+    {
+        "action": "TALK",
+        "time": "17:40:48",
+        "time_int": 63648,
+        "user": "SamSite",
+        "content": "me"
+    },
+    {
+        "action": "TALK",
+        "time": "17:40:50",
+        "time_int": 63650,
+        "user": "RenjuTeacher",
+        "content": "beautiful win"
+    },
+    {
+        "action": "MOVE",
+        "time": "17:41:04",
+        "time_int": 63664,
+        "user": "LiuJianping",
+        "content": "6c"
+    },
+    {
+        "action": "MOVE",
+        "time": "17:41:07",
+        "time_int": 63667,
+        "user": "RenjuTeacher",
+        "content": "7b"
+    },
+    {
+        "action": "TALK",
+        "time": "17:41:46",
+        "time_int": 63706,
+        "user": "LiuJianping",
+        "content": "sorry give up"
+    },
+    {
+        "action": "TALK",
+        "time": "17:41:48",
+        "time_int": 63708,
+        "user": "RenjuTeacher",
+        "content": "ok"
+    },
+    {
+        "action": "TALK",
+        "time": "17:41:49",
+        "time_int": 63709,
+        "user": "Fermat",
+        "content": "me"
+    },
+    {
+        "action": "TALK",
+        "time": "17:41:50",
+        "time_int": 63710,
+        "user": "SamSite",
+        "content": "me"
+    },
+    {
+        "action": "BACK",
+        "time": "17:42:00",
+        "time_int": 63720,
+        "user": "SamSite",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time": "17:42:01",
+        "time_int": 63721,
+        "user": "SamSite",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time": "17:42:03",
+        "time_int": 63723,
+        "user": "SamSite",
+        "content": "7d"
+    },
+    {
+        "action": "MOVE",
+        "time": "17:42:13",
+        "time_int": 63733,
+        "user": "RenjuTeacher",
+        "content": "8d"
+    },
+    {
+        "action": "MOVE",
+        "time": "17:42:16",
+        "time_int": 63736,
+        "user": "SamSite",
+        "content": "9b"
+    },
+    {
+        "action": "TALK",
+        "time": "17:42:18",
+        "time_int": 63738,
+        "user": "RenjuTeacher",
+        "content": "good"
+    },
+    {
+        "action": "BACK",
+        "time": "17:42:20",
+        "time_int": 63740,
+        "user": "RenjuTeacher",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time": "17:42:21",
+        "time_int": 63741,
+        "user": "RenjuTeacher",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time": "17:42:22",
+        "time_int": 63742,
+        "user": "RenjuTeacher",
+        "content": "9b"
+    },
+    {
+        "action": "MOVE",
+        "time": "17:42:24",
+        "time_int": 63744,
+        "user": "SamSite",
+        "content": "c8"
+    },
+    {
+        "action": "MOVE",
+        "time": "17:42:25",
+        "time_int": 63745,
+        "user": "RenjuTeacher",
+        "content": "8d"
+    },
+    {
+        "action": "MOVE",
+        "time": "17:42:26",
+        "time_int": 63746,
+        "user": "SamSite",
+        "content": "6c"
+    },
+    {
+        "action": "TALK",
+        "time": "17:42:29",
+        "time_int": 63749,
+        "user": "RenjuTeacher",
+        "content": "great"
+    },
+    {
+        "action": "TALK",
+        "time": "17:42:30",
+        "time_int": 63750,
+        "user": "RenjuTeacher",
+        "content": ":)"
+    },
+    {
+        "action": "BACK",
+        "time": "17:42:32",
+        "time_int": 63752,
+        "user": "RenjuTeacher",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time": "17:42:32",
+        "time_int": 63752,
+        "user": "RenjuTeacher",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time": "17:42:33",
+        "time_int": 63753,
+        "user": "RenjuTeacher",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time": "17:42:37",
+        "time_int": 63757,
+        "user": "RenjuTeacher",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time": "17:42:39",
+        "time_int": 63759,
+        "user": "RenjuTeacher",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time": "17:42:41",
+        "time_int": 63761,
+        "user": "RenjuTeacher",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time": "17:42:45",
+        "time_int": 63765,
+        "user": "RenjuTeacher",
+        "content": "7d"
+    },
+    {
+        "action": "TALK",
+        "time": "17:42:46",
+        "time_int": 63766,
+        "user": "Xespok",
+        "content": "so G13?"
+    },
+    {
+        "action": "TALK",
+        "time": "17:42:52",
+        "time_int": 63772,
+        "user": "RenjuTeacher",
+        "content": "Tarannikov played here, finally"
+    },
+    {
+        "action": "TALK",
+        "time": "17:42:54",
+        "time_int": 63774,
+        "user": "RenjuTeacher",
+        "content": ":)"
+    },
+    {
+        "action": "TALK",
+        "time": "17:42:57",
+        "time_int": 63777,
+        "user": "RenjuTeacher",
+        "content": "just as you guys thought"
+    },
+    {
+        "action": "TALK",
+        "time": "17:43:19",
+        "time_int": 63799,
+        "user": "RenjuTeacher",
+        "content": "here it is much harder to win I guess,"
+    },
+    {
+        "action": "TALK",
+        "time": "17:43:25",
+        "time_int": 63805,
+        "user": "RenjuTeacher",
+        "content": "but Fedorking found a nice plan."
+    },
+    {
+        "action": "MOVE",
+        "time": "17:43:35",
+        "time_int": 63815,
+        "user": "RenjuTeacher",
+        "content": "68"
+    },
+    {
+        "action": "TALK",
+        "time": "17:43:39",
+        "time_int": 63819,
+        "user": "RenjuTeacher",
+        "content": "here!"
+    },
+    {
+        "action": "TALK",
+        "time": "17:44:13",
+        "time_int": 63853,
+        "user": "RenjuTeacher",
+        "content": "the idea is to force 4x4 trap to i11"
+    },
+    {
+        "action": "TALK",
+        "time": "17:44:15",
+        "time_int": 63855,
+        "user": "RenjuTeacher",
+        "content": "understand?"
+    },
+    {
+        "action": "TALK",
+        "time": "17:44:32",
+        "time_int": 63872,
+        "user": "Fermat",
+        "content": "y, cppl"
+    },
+    {
+        "action": "TALK",
+        "time": "17:44:35",
+        "time_int": 63875,
+        "user": "RenjuTeacher",
+        "content": "forcing blacks to g11 and f11"
+    },
+    {
+        "action": "TALK",
+        "time": "17:44:37",
+        "time_int": 63877,
+        "user": "Fermat",
+        "content": "cool"
+    },
+    {
+        "action": "MOVE",
+        "time": "17:44:41",
+        "time_int": 63881,
+        "user": "RenjuTeacher",
+        "content": "59"
+    },
+    {
+        "action": "TALK",
+        "time": "17:44:49",
+        "time_int": 63889,
+        "user": "RenjuTeacher",
+        "content": "therefore black cannot block simpe to e8"
+    },
+    {
+        "action": "TALK",
+        "time": "17:44:55",
+        "time_int": 63895,
+        "user": "RenjuTeacher",
+        "content": "simply"
+    },
+    {
+        "action": "MOVE",
+        "time": "17:44:58",
+        "time_int": 63898,
+        "user": "RenjuTeacher",
+        "content": "6c"
+    },
+    {
+        "action": "MOVE",
+        "time": "17:44:59",
+        "time_int": 63899,
+        "user": "RenjuTeacher",
+        "content": "7b"
+    },
+    {
+        "action": "MOVE",
+        "time": "17:45:00",
+        "time_int": 63900,
+        "user": "RenjuTeacher",
+        "content": "6a"
+    },
+    {
+        "action": "MOVE",
+        "time": "17:45:01",
+        "time_int": 63901,
+        "user": "RenjuTeacher",
+        "content": "6b"
+    },
+    {
+        "action": "TALK",
+        "time": "17:45:11",
+        "time_int": 63911,
+        "user": "strul",
+        "content": "nice"
+    },
+    {
+        "action": "BACK",
+        "time": "17:45:11",
+        "time_int": 63911,
+        "user": "RenjuTeacher",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time": "17:45:12",
+        "time_int": 63912,
+        "user": "RenjuTeacher",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time": "17:45:12",
+        "time_int": 63912,
+        "user": "RenjuTeacher",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time": "17:45:12",
+        "time_int": 63912,
+        "user": "RenjuTeacher",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time": "17:45:13",
+        "time_int": 63913,
+        "user": "RenjuTeacher",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time": "17:45:13",
+        "time_int": 63913,
+        "user": "RenjuTeacher",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time": "17:45:13",
+        "time_int": 63913,
+        "user": "RenjuTeacher",
+        "content": ""
+    },
+    {
+        "action": "NEXT",
+        "time": "17:45:16",
+        "time_int": 63916,
+        "user": "RenjuTeacher",
+        "content": ""
+    },
+    {
+        "action": "NEXT",
+        "time": "17:45:16",
+        "time_int": 63916,
+        "user": "RenjuTeacher",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time": "17:45:19",
+        "time_int": 63919,
+        "user": "RenjuTeacher",
+        "content": "9b"
+    },
+    {
+        "action": "TALK",
+        "time": "17:45:25",
+        "time_int": 63925,
+        "user": "RenjuTeacher",
+        "content": "also, black cannot use four first"
+    },
+    {
+        "action": "TALK",
+        "time": "17:45:29",
+        "time_int": 63929,
+        "user": "RenjuTeacher",
+        "content": "because of white's 4x3"
+    },
+    {
+        "action": "MOVE",
+        "time": "17:45:34",
+        "time_int": 63934,
+        "user": "RenjuTeacher",
+        "content": "8c"
+    },
+    {
+        "action": "MOVE",
+        "time": "17:45:38",
+        "time_int": 63938,
+        "user": "RenjuTeacher",
+        "content": "7b"
+    },
+    {
+        "action": "TALK",
+        "time": "17:45:39",
+        "time_int": 63939,
+        "user": "Fermat",
+        "content": "y"
+    },
+    {
+        "action": "TALK",
+        "time": "17:45:44",
+        "time_int": 63944,
+        "user": "RenjuTeacher",
+        "content": "cut is useles"
+    },
+    {
+        "action": "MOVE",
+        "time": "17:45:46",
+        "time_int": 63946,
+        "user": "RenjuTeacher",
+        "content": "59"
+    },
+    {
+        "action": "BACK",
+        "time": "17:45:54",
+        "time_int": 63954,
+        "user": "RenjuTeacher",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time": "17:45:55",
+        "time_int": 63955,
+        "user": "RenjuTeacher",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time": "17:45:55",
+        "time_int": 63955,
+        "user": "RenjuTeacher",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time": "17:45:55",
+        "time_int": 63955,
+        "user": "RenjuTeacher",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time": "17:45:56",
+        "time_int": 63956,
+        "user": "RenjuTeacher",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time": "17:45:57",
+        "time_int": 63957,
+        "user": "RenjuTeacher",
+        "content": "68"
+    },
+    {
+        "action": "MOVE",
+        "time": "17:45:58",
+        "time_int": 63958,
+        "user": "RenjuTeacher",
+        "content": "79"
+    },
+    {
+        "action": "TALK",
+        "time": "17:46:05",
+        "time_int": 63965,
+        "user": "RenjuTeacher",
+        "content": "therefore, he could only play here."
+    },
+    {
+        "action": "TALK",
+        "time": "17:46:16",
+        "time_int": 63976,
+        "user": "RenjuTeacher",
+        "content": "But nothing can stop from trapping that 4x4 anyway"
+    },
+    {
+        "action": "MOVE",
+        "time": "17:46:21",
+        "time_int": 63981,
+        "user": "RenjuTeacher",
+        "content": "77"
+    },
+    {
+        "action": "MOVE",
+        "time": "17:46:30",
+        "time_int": 63990,
+        "user": "RenjuTeacher",
+        "content": "95"
+    },
+    {
+        "action": "MOVE",
+        "time": "17:46:32",
+        "time_int": 63992,
+        "user": "RenjuTeacher",
+        "content": "6c"
+    },
+    {
+        "action": "MOVE",
+        "time": "17:46:35",
+        "time_int": 63995,
+        "user": "RenjuTeacher",
+        "content": "7b"
+    },
+    {
+        "action": "MOVE",
+        "time": "17:46:37",
+        "time_int": 63997,
+        "user": "RenjuTeacher",
+        "content": "6a"
+    },
+    {
+        "action": "TALK",
+        "time": "17:46:40",
+        "time_int": 64000,
+        "user": "RenjuTeacher",
+        "content": "still win."
+    },
+    {
+        "action": "TALK",
+        "time": "17:47:03",
+        "time_int": 64023,
+        "user": "RenjuTeacher",
+        "content": "this game rises lots of interesting questions."
+    },
+    {
+        "action": "TALK",
+        "time": "17:47:13",
+        "time_int": 64033,
+        "user": "RenjuTeacher",
+        "content": "where was black's last mistake?"
+    },
+    {
+        "action": "TALK",
+        "time": "17:47:23",
+        "time_int": 64043,
+        "user": "SamSite",
+        "content": "17 atleast"
+    },
+    {
+        "action": "TALK",
+        "time": "17:47:31",
+        "time_int": 64051,
+        "user": "Fermat",
+        "content": "17"
+    },
+    {
+        "action": "TALK",
+        "time": "17:47:38",
+        "time_int": 64058,
+        "user": "RenjuTeacher",
+        "content": "to decide that,"
+    },
+    {
+        "action": "TALK",
+        "time": "17:47:39",
+        "time_int": 64059,
+        "user": "luwenzhe",
+        "content": "ye"
+    },
+    {
+        "action": "TALK",
+        "time": "17:47:42",
+        "time_int": 64062,
+        "user": "RenjuTeacher",
+        "content": "we need to think bacwards"
+    },
+    {
+        "action": "TALK",
+        "time": "17:47:43",
+        "time_int": 64063,
+        "user": "Xespok",
+        "content": "seems 17 or rearlier"
+    },
+    {
+        "action": "TALK",
+        "time": "17:47:44",
+        "time_int": 64064,
+        "user": "RenjuTeacher",
+        "content": "from the end"
+    },
+    {
+        "action": "BACK",
+        "time": "17:47:53",
+        "time_int": 64073,
+        "user": "RenjuTeacher",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time": "17:47:53",
+        "time_int": 64073,
+        "user": "RenjuTeacher",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time": "17:47:54",
+        "time_int": 64074,
+        "user": "RenjuTeacher",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time": "17:47:54",
+        "time_int": 64074,
+        "user": "RenjuTeacher",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time": "17:47:55",
+        "time_int": 64075,
+        "user": "RenjuTeacher",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time": "17:47:55",
+        "time_int": 64075,
+        "user": "RenjuTeacher",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time": "17:47:55",
+        "time_int": 64075,
+        "user": "RenjuTeacher",
+        "content": ""
+    },
+    {
+        "action": "TALK",
+        "time": "17:48:00",
+        "time_int": 64080,
+        "user": "RenjuTeacher",
+        "content": "all 23 lose, agree?"
+    },
+    {
+        "action": "TALK",
+        "time": "17:48:08",
+        "time_int": 64088,
+        "user": "luwenzhe",
+        "content": "yes"
+    },
+    {
+        "action": "TALK",
+        "time": "17:48:09",
+        "time_int": 64089,
+        "user": "Fermat",
+        "content": "y"
+    },
+    {
+        "action": "TALK",
+        "time": "17:48:13",
+        "time_int": 64093,
+        "user": "whte",
+        "content": "y"
+    },
+    {
+        "action": "BACK",
+        "time": "17:48:15",
+        "time_int": 64095,
+        "user": "RenjuTeacher",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time": "17:48:16",
+        "time_int": 64096,
+        "user": "RenjuTeacher",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time": "17:48:17",
+        "time_int": 64097,
+        "user": "RenjuTeacher",
+        "content": ""
+    },
+    {
+        "action": "TALK",
+        "time": "17:48:21",
+        "time_int": 64101,
+        "user": "RenjuTeacher",
+        "content": "do all 21 lose??"
+    },
+    {
+        "action": "TALK",
+        "time": "17:48:33",
+        "time_int": 64113,
+        "user": "RenjuTeacher",
+        "content": ":)"
+    },
+    {
+        "action": "TALK",
+        "time": "17:48:36",
+        "time_int": 64116,
+        "user": "yyfcsd",
+        "content": "y"
+    },
+    {
+        "action": "TALK",
+        "time": "17:48:49",
+        "time_int": 64129,
+        "user": "Intotherenju",
+        "content": "seem so？"
+    },
+    {
+        "action": "TALK",
+        "time": "17:48:59",
+        "time_int": 64139,
+        "user": "Xespok",
+        "content": "Did not we say 4 is a must?"
+    },
+    {
+        "action": "TALK",
+        "time": "17:49:02",
+        "time_int": 64142,
+        "user": "RenjuTeacher",
+        "content": "ok we let yy try"
+    },
+    {
+        "action": "TALK",
+        "time": "17:49:21",
+        "time_int": 64161,
+        "user": "RenjuTeacher",
+        "content": "yes Xes, but another 4 also"
+    },
+    {
+        "action": "MOVE",
+        "time": "17:49:23",
+        "time_int": 64163,
+        "user": "RenjuTeacher",
+        "content": "68"
+    },
+    {
+        "action": "MOVE",
+        "time": "17:49:32",
+        "time_int": 64172,
+        "user": "yyfcsd",
+        "content": "58"
+    },
+    {
+        "action": "MOVE",
+        "time": "17:49:52",
+        "time_int": 64192,
+        "user": "RenjuTeacher",
+        "content": "6c"
+    },
+    {
+        "action": "MOVE",
+        "time": "17:50:06",
+        "time_int": 64206,
+        "user": "yyfcsd",
+        "content": "8c"
+    },
+    {
+        "action": "TALK",
+        "time": "17:51:06",
+        "time_int": 64266,
+        "user": "RenjuTeacher",
+        "content": "hmm"
+    },
+    {
+        "action": "TALK",
+        "time": "17:51:40",
+        "time_int": 64300,
+        "user": "RenjuTeacher",
+        "content": "several moves need to be tested here"
+    },
+    {
+        "action": "MOVE",
+        "time": "17:52:30",
+        "time_int": 64350,
+        "user": "RenjuTeacher",
+        "content": "79"
+    },
+    {
+        "action": "MOVE",
+        "time": "17:52:58",
+        "time_int": 64378,
+        "user": "yyfcsd",
+        "content": "7b"
+    },
+    {
+        "action": "MOVE",
+        "time": "17:53:00",
+        "time_int": 64380,
+        "user": "RenjuTeacher",
+        "content": "6a"
+    },
+    {
+        "action": "MOVE",
+        "time": "17:53:28",
+        "time_int": 64408,
+        "user": "yyfcsd",
+        "content": "9b"
+    },
+    {
+        "action": "MOVE",
+        "time": "17:53:31",
+        "time_int": 64411,
+        "user": "RenjuTeacher",
+        "content": "9c"
+    },
+    {
+        "action": "MOVE",
+        "time": "17:53:35",
+        "time_int": 64415,
+        "user": "yyfcsd",
+        "content": "8d"
+    },
+    {
+        "action": "MOVE",
+        "time": "17:53:37",
+        "time_int": 64417,
+        "user": "RenjuTeacher",
+        "content": "8b"
+    },
+    {
+        "action": "MOVE",
+        "time": "17:53:39",
+        "time_int": 64419,
+        "user": "yyfcsd",
+        "content": "7d"
+    },
+    {
+        "action": "TALK",
+        "time": "17:53:42",
+        "time_int": 64422,
+        "user": "RenjuTeacher",
+        "content": "great!"
+    },
+    {
+        "action": "TALK",
+        "time": "17:53:45",
+        "time_int": 64425,
+        "user": "luwenzhe",
+        "content": "gg"
+    },
+    {
+        "action": "TALK",
+        "time": "17:53:48",
+        "time_int": 64428,
+        "user": "RenjuTeacher",
+        "content": "nice 4x4"
+    },
+    {
+        "action": "TALK",
+        "time": "17:53:51",
+        "time_int": 64431,
+        "user": "Before",
+        "content": "nice"
+    },
+    {
+        "action": "BACK",
+        "time": "17:53:52",
+        "time_int": 64432,
+        "user": "RenjuTeacher",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time": "17:53:53",
+        "time_int": 64433,
+        "user": "RenjuTeacher",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time": "17:53:53",
+        "time_int": 64433,
+        "user": "RenjuTeacher",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time": "17:53:53",
+        "time_int": 64433,
+        "user": "RenjuTeacher",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time": "17:53:54",
+        "time_int": 64434,
+        "user": "RenjuTeacher",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time": "17:53:54",
+        "time_int": 64434,
+        "user": "RenjuTeacher",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time": "17:53:55",
+        "time_int": 64435,
+        "user": "RenjuTeacher",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time": "17:53:55",
+        "time_int": 64435,
+        "user": "RenjuTeacher",
+        "content": ""
+    },
+    {
+        "action": "TALK",
+        "time": "17:54:04",
+        "time_int": 64444,
+        "user": "RenjuTeacher",
+        "content": "lets see if any other 25"
+    },
+    {
+        "action": "TALK",
+        "time": "17:54:14",
+        "time_int": 64454,
+        "user": "RenjuTeacher",
+        "content": "you can help me if you find a good one"
+    },
+    {
+        "action": "TALK",
+        "time": "17:54:58",
+        "time_int": 64498,
+        "user": "Xespok",
+        "content": "any other move kills 3x3 threat and white VCF threat?"
+    },
+    {
+        "action": "TALK",
+        "time": "17:54:58",
+        "time_int": 64498,
+        "user": "Guest038",
+        "content": "j13-i12"
+    },
+    {
+        "action": "MOVE",
+        "time": "17:55:05",
+        "time_int": 64505,
+        "user": "RenjuTeacher",
+        "content": "ac"
+    },
+    {
+        "action": "MOVE",
+        "time": "17:55:08",
+        "time_int": 64508,
+        "user": "yyfcsd",
+        "content": "ad"
+    },
+    {
+        "action": "MOVE",
+        "time": "17:55:13",
+        "time_int": 64513,
+        "user": "RenjuTeacher",
+        "content": "7d"
+    },
+    {
+        "action": "MOVE",
+        "time": "17:55:25",
+        "time_int": 64525,
+        "user": "yyfcsd",
+        "content": "9c"
+    },
+    {
+        "action": "MOVE",
+        "time": "17:55:27",
+        "time_int": 64527,
+        "user": "yyfcsd",
+        "content": "9b"
+    },
+    {
+        "action": "MOVE",
+        "time": "17:55:28",
+        "time_int": 64528,
+        "user": "yyfcsd",
+        "content": "59"
+    },
+    {
+        "action": "MOVE",
+        "time": "17:55:29",
+        "time_int": 64529,
+        "user": "yyfcsd",
+        "content": "79"
+    },
+    {
+        "action": "MOVE",
+        "time": "17:55:33",
+        "time_int": 64533,
+        "user": "yyfcsd",
+        "content": "8d"
+    },
+    {
+        "action": "MOVE",
+        "time": "17:55:34",
+        "time_int": 64534,
+        "user": "yyfcsd",
+        "content": "8b"
+    },
+    {
+        "action": "TALK",
+        "time": "17:55:37",
+        "time_int": 64537,
+        "user": "RenjuTeacher",
+        "content": "yeah!"
+    },
+    {
+        "action": "TALK",
+        "time": "17:55:40",
+        "time_int": 64540,
+        "user": "luwenzhe",
+        "content": "wow"
+    },
+    {
+        "action": "TALK",
+        "time": "17:55:41",
+        "time_int": 64541,
+        "user": "RenjuTeacher",
+        "content": "still that win"
+    },
+    {
+        "action": "TALK",
+        "time": "17:55:48",
+        "time_int": 64548,
+        "user": "RenjuTeacher",
+        "content": "good good!"
+    },
+    {
+        "action": "TALK",
+        "time": "17:55:50",
+        "time_int": 64550,
+        "user": "Fermat",
+        "content": "great yy"
+    },
+    {
+        "action": "TALK",
+        "time": "17:55:54",
+        "time_int": 64554,
+        "user": "RenjuTeacher",
+        "content": "GGM yyfcsd is great"
+    },
+    {
+        "action": "BACK",
+        "time": "17:55:56",
+        "time_int": 64556,
+        "user": "RenjuTeacher",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time": "17:55:57",
+        "time_int": 64557,
+        "user": "RenjuTeacher",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time": "17:55:57",
+        "time_int": 64557,
+        "user": "RenjuTeacher",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time": "17:55:58",
+        "time_int": 64558,
+        "user": "RenjuTeacher",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time": "17:55:59",
+        "time_int": 64559,
+        "user": "RenjuTeacher",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time": "17:56:00",
+        "time_int": 64560,
+        "user": "RenjuTeacher",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time": "17:56:00",
+        "time_int": 64560,
+        "user": "RenjuTeacher",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time": "17:56:02",
+        "time_int": 64562,
+        "user": "RenjuTeacher",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time": "17:56:03",
+        "time_int": 64563,
+        "user": "RenjuTeacher",
+        "content": ""
+    },
+    {
+        "action": "TALK",
+        "time": "17:56:07",
+        "time_int": 64567,
+        "user": "luwenzhe",
+        "content": "great great master yyfcsd"
+    },
+    {
+        "action": "TALK",
+        "time": "17:56:27",
+        "time_int": 64587,
+        "user": "yyfcsd",
+        "content": "great 20"
+    },
+    {
+        "action": "MOVE",
+        "time": "17:56:39",
+        "time_int": 64599,
+        "user": "RenjuTeacher",
+        "content": "ad"
+    },
+    {
+        "action": "MOVE",
+        "time": "17:56:39",
+        "time_int": 64599,
+        "user": "RenjuTeacher",
+        "content": "ac"
+    },
+    {
+        "action": "MOVE",
+        "time": "17:56:42",
+        "time_int": 64602,
+        "user": "RenjuTeacher",
+        "content": "9c"
+    },
+    {
+        "action": "MOVE",
+        "time": "17:57:08",
+        "time_int": 64628,
+        "user": "yyfcsd",
+        "content": "8e"
+    },
+    {
+        "action": "MOVE",
+        "time": "17:57:17",
+        "time_int": 64637,
+        "user": "RenjuTeacher",
+        "content": "bb"
+    },
+    {
+        "action": "MOVE",
+        "time": "17:57:30",
+        "time_int": 64650,
+        "user": "yyfcsd",
+        "content": "79"
+    },
+    {
+        "action": "MOVE",
+        "time": "17:57:35",
+        "time_int": 64655,
+        "user": "RenjuTeacher",
+        "content": "59"
+    },
+    {
+        "action": "MOVE",
+        "time": "17:57:38",
+        "time_int": 64658,
+        "user": "yyfcsd",
+        "content": "bd"
+    },
+    {
+        "action": "MOVE",
+        "time": "17:57:39",
+        "time_int": 64659,
+        "user": "RenjuTeacher",
+        "content": "9b"
+    },
+    {
+        "action": "MOVE",
+        "time": "17:57:42",
+        "time_int": 64662,
+        "user": "yyfcsd",
+        "content": "8d"
+    },
+    {
+        "action": "TALK",
+        "time": "17:57:42",
+        "time_int": 64662,
+        "user": "RenjuTeacher",
+        "content": "wow"
+    },
+    {
+        "action": "TALK",
+        "time": "17:57:44",
+        "time_int": 64664,
+        "user": "RenjuTeacher",
+        "content": ":))"
+    },
+    {
+        "action": "TALK",
+        "time": "17:57:50",
+        "time_int": 64670,
+        "user": "luwenzhe",
+        "content": ":)"
+    },
+    {
+        "action": "TALK",
+        "time": "17:57:50",
+        "time_int": 64670,
+        "user": "Fermat",
+        "content": "cool..."
+    },
+    {
+        "action": "TALK",
+        "time": "17:57:50",
+        "time_int": 64670,
+        "user": "RenjuTeacher",
+        "content": "yy is enjoying wins"
+    },
+    {
+        "action": "TALK",
+        "time": "17:57:53",
+        "time_int": 64673,
+        "user": "RenjuTeacher",
+        "content": ":)"
+    },
+    {
+        "action": "BACK",
+        "time": "17:57:57",
+        "time_int": 64677,
+        "user": "RenjuTeacher",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time": "17:57:58",
+        "time_int": 64678,
+        "user": "RenjuTeacher",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time": "17:57:58",
+        "time_int": 64678,
+        "user": "RenjuTeacher",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time": "17:58:00",
+        "time_int": 64680,
+        "user": "RenjuTeacher",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time": "17:58:02",
+        "time_int": 64682,
+        "user": "RenjuTeacher",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time": "17:58:04",
+        "time_int": 64684,
+        "user": "RenjuTeacher",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time": "17:58:13",
+        "time_int": 64693,
+        "user": "RenjuTeacher",
+        "content": ""
+    },
+    {
+        "action": "TALK",
+        "time": "17:58:23",
+        "time_int": 64703,
+        "user": "Fermat",
+        "content": "25-27?"
+    },
+    {
+        "action": "TALK",
+        "time": "17:58:28",
+        "time_int": 64708,
+        "user": "RenjuTeacher",
+        "content": "its like perfect position - white has always the necessary piece of attack"
+    },
+    {
+        "action": "BACK",
+        "time": "17:58:31",
+        "time_int": 64711,
+        "user": "RenjuTeacher",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time": "17:58:32",
+        "time_int": 64712,
+        "user": "RenjuTeacher",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time": "17:58:33",
+        "time_int": 64713,
+        "user": "RenjuTeacher",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time": "17:58:34",
+        "time_int": 64714,
+        "user": "RenjuTeacher",
+        "content": "9c"
+    },
+    {
+        "action": "TALK",
+        "time": "17:58:37",
+        "time_int": 64717,
+        "user": "RenjuTeacher",
+        "content": "44"
+    },
+    {
+        "action": "MOVE",
+        "time": "17:58:38",
+        "time_int": 64718,
+        "user": "yyfcsd",
+        "content": "8d"
+    },
+    {
+        "action": "MOVE",
+        "time": "17:58:39",
+        "time_int": 64719,
+        "user": "yyfcsd",
+        "content": "8b"
+    },
+    {
+        "action": "MOVE",
+        "time": "17:58:42",
+        "time_int": 64722,
+        "user": "yyfcsd",
+        "content": "6a"
+    },
+    {
+        "action": "TALK",
+        "time": "17:58:43",
+        "time_int": 64723,
+        "user": "RenjuTeacher",
+        "content": "or 33"
+    },
+    {
+        "action": "TALK",
+        "time": "17:58:44",
+        "time_int": 64724,
+        "user": "Fermat",
+        "content": "y"
+    },
+    {
+        "action": "TALK",
+        "time": "17:58:47",
+        "time_int": 64727,
+        "user": "RenjuTeacher",
+        "content": ":)"
+    },
+    {
+        "action": "TALK",
+        "time": "17:58:57",
+        "time_int": 64737,
+        "user": "RenjuTeacher",
+        "content": "good"
+    },
+    {
+        "action": "BACK",
+        "time": "17:58:59",
+        "time_int": 64739,
+        "user": "RenjuTeacher",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time": "17:58:59",
+        "time_int": 64739,
+        "user": "RenjuTeacher",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time": "17:58:59",
+        "time_int": 64739,
+        "user": "RenjuTeacher",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time": "17:59:00",
+        "time_int": 64740,
+        "user": "RenjuTeacher",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time": "17:59:00",
+        "time_int": 64740,
+        "user": "RenjuTeacher",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time": "17:59:01",
+        "time_int": 64741,
+        "user": "RenjuTeacher",
+        "content": ""
+    },
+    {
+        "action": "TALK",
+        "time": "17:59:08",
+        "time_int": 64748,
+        "user": "RenjuTeacher",
+        "content": "see if other 23"
+    },
+    {
+        "action": "MOVE",
+        "time": "17:59:33",
+        "time_int": 64773,
+        "user": "RenjuTeacher",
+        "content": "79"
+    },
+    {
+        "action": "MOVE",
+        "time": "17:59:37",
+        "time_int": 64777,
+        "user": "yyfcsd",
+        "content": "7b"
+    },
+    {
+        "action": "MOVE",
+        "time": "17:59:38",
+        "time_int": 64778,
+        "user": "yyfcsd",
+        "content": "6c"
+    },
+    {
+        "action": "MOVE",
+        "time": "17:59:40",
+        "time_int": 64780,
+        "user": "yyfcsd",
+        "content": "8c"
+    },
+    {
+        "action": "TALK",
+        "time": "17:59:43",
+        "time_int": 64783,
+        "user": "RenjuTeacher",
+        "content": "same"
+    },
+    {
+        "action": "TALK",
+        "time": "17:59:52",
+        "time_int": 64792,
+        "user": "RenjuTeacher",
+        "content": "exactly same"
+    },
+    {
+        "action": "TALK",
+        "time": "17:59:53",
+        "time_int": 64793,
+        "user": "Fermat",
+        "content": "y, 44"
+    },
+    {
+        "action": "BACK",
+        "time": "17:59:55",
+        "time_int": 64795,
+        "user": "RenjuTeacher",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time": "17:59:56",
+        "time_int": 64796,
+        "user": "RenjuTeacher",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time": "17:59:56",
+        "time_int": 64796,
+        "user": "RenjuTeacher",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time": "17:59:57",
+        "time_int": 64797,
+        "user": "RenjuTeacher",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time": "18:00:13",
+        "time_int": 64813,
+        "user": "RenjuTeacher",
+        "content": "7d"
+    },
+    {
+        "action": "MOVE",
+        "time": "18:00:58",
+        "time_int": 64858,
+        "user": "yyfcsd",
+        "content": "79"
+    },
+    {
+        "action": "TALK",
+        "time": "18:00:59",
+        "time_int": 64859,
+        "user": "Fermat",
+        "content": "vcf?"
+    },
+    {
+        "action": "MOVE",
+        "time": "18:00:59",
+        "time_int": 64859,
+        "user": "yyfcsd",
+        "content": "59"
+    },
+    {
+        "action": "MOVE",
+        "time": "18:01:02",
+        "time_int": 64862,
+        "user": "yyfcsd",
+        "content": "7b"
+    },
+    {
+        "action": "MOVE",
+        "time": "18:01:04",
+        "time_int": 64864,
+        "user": "yyfcsd",
+        "content": "6c"
+    },
+    {
+        "action": "MOVE",
+        "time": "18:01:07",
+        "time_int": 64867,
+        "user": "yyfcsd",
+        "content": "9b"
+    },
+    {
+        "action": "MOVE",
+        "time": "18:01:09",
+        "time_int": 64869,
+        "user": "yyfcsd",
+        "content": "9c"
+    },
+    {
+        "action": "MOVE",
+        "time": "18:01:13",
+        "time_int": 64873,
+        "user": "yyfcsd",
+        "content": "8c"
+    },
+    {
+        "action": "MOVE",
+        "time": "18:01:20",
+        "time_int": 64880,
+        "user": "RenjuTeacher",
+        "content": "ac"
+    },
+    {
+        "action": "BACK",
+        "time": "18:01:20",
+        "time_int": 64880,
+        "user": "yyfcsd",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time": "18:01:21",
+        "time_int": 64881,
+        "user": "yyfcsd",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time": "18:01:21",
+        "time_int": 64881,
+        "user": "yyfcsd",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time": "18:01:21",
+        "time_int": 64881,
+        "user": "yyfcsd",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time": "18:01:22",
+        "time_int": 64882,
+        "user": "yyfcsd",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time": "18:01:22",
+        "time_int": 64882,
+        "user": "yyfcsd",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time": "18:01:23",
+        "time_int": 64883,
+        "user": "yyfcsd",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time": "18:01:23",
+        "time_int": 64883,
+        "user": "yyfcsd",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time": "18:01:23",
+        "time_int": 64883,
+        "user": "yyfcsd",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time": "18:01:24",
+        "time_int": 64884,
+        "user": "yyfcsd",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time": "18:01:24",
+        "time_int": 64884,
+        "user": "yyfcsd",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time": "18:01:25",
+        "time_int": 64885,
+        "user": "yyfcsd",
+        "content": ""
+    },
+    {
+        "action": "NEXT",
+        "time": "18:01:28",
+        "time_int": 64888,
+        "user": "yyfcsd",
+        "content": ""
+    },
+    {
+        "action": "TALK",
+        "time": "18:01:30",
+        "time_int": 64890,
+        "user": "RenjuTeacher",
+        "content": "wowow"
+    },
+    {
+        "action": "NEXT",
+        "time": "18:01:30",
+        "time_int": 64890,
+        "user": "yyfcsd",
+        "content": ""
+    },
+    {
+        "action": "NEXT",
+        "time": "18:01:31",
+        "time_int": 64891,
+        "user": "yyfcsd",
+        "content": ""
+    },
+    {
+        "action": "NEXT",
+        "time": "18:01:33",
+        "time_int": 64893,
+        "user": "yyfcsd",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time": "18:01:37",
+        "time_int": 64897,
+        "user": "yyfcsd",
+        "content": "59"
+    },
+    {
+        "action": "MOVE",
+        "time": "18:01:38",
+        "time_int": 64898,
+        "user": "yyfcsd",
+        "content": "79"
+    },
+    {
+        "action": "MOVE",
+        "time": "18:01:41",
+        "time_int": 64901,
+        "user": "yyfcsd",
+        "content": "7b"
+    },
+    {
+        "action": "MOVE",
+        "time": "18:01:43",
+        "time_int": 64903,
+        "user": "yyfcsd",
+        "content": "6c"
+    },
+    {
+        "action": "MOVE",
+        "time": "18:01:45",
+        "time_int": 64905,
+        "user": "yyfcsd",
+        "content": "9b"
+    },
+    {
+        "action": "MOVE",
+        "time": "18:01:46",
+        "time_int": 64906,
+        "user": "yyfcsd",
+        "content": "9c"
+    },
+    {
+        "action": "MOVE",
+        "time": "18:01:47",
+        "time_int": 64907,
+        "user": "yyfcsd",
+        "content": "8c"
+    },
+    {
+        "action": "MOVE",
+        "time": "18:01:50",
+        "time_int": 64910,
+        "user": "yyfcsd",
+        "content": "6a"
+    },
+    {
+        "action": "MOVE",
+        "time": "18:01:54",
+        "time_int": 64914,
+        "user": "yyfcsd",
+        "content": "8b"
+    },
+    {
+        "action": "MOVE",
+        "time": "18:01:56",
+        "time_int": 64916,
+        "user": "yyfcsd",
+        "content": "8d"
+    },
+    {
+        "action": "MOVE",
+        "time": "18:02:01",
+        "time_int": 64921,
+        "user": "yyfcsd",
+        "content": "5b"
+    },
+    {
+        "action": "TALK",
+        "time": "18:02:05",
+        "time_int": 64925,
+        "user": "yyfcsd",
+        "content": "vcf"
+    },
+    {
+        "action": "TALK",
+        "time": "18:02:07",
+        "time_int": 64927,
+        "user": "RenjuTeacher",
+        "content": "nice"
+    },
+    {
+        "action": "TALK",
+        "time": "18:02:09",
+        "time_int": 64929,
+        "user": "RenjuTeacher",
+        "content": ":))"
+    },
+    {
+        "action": "TALK",
+        "time": "18:02:11",
+        "time_int": 64931,
+        "user": "luwenzhe",
+        "content": "gg"
+    },
+    {
+        "action": "BACK",
+        "time": "18:02:19",
+        "time_int": 64939,
+        "user": "RenjuTeacher",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time": "18:02:19",
+        "time_int": 64939,
+        "user": "RenjuTeacher",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time": "18:02:20",
+        "time_int": 64940,
+        "user": "RenjuTeacher",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time": "18:02:20",
+        "time_int": 64940,
+        "user": "RenjuTeacher",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time": "18:02:20",
+        "time_int": 64940,
+        "user": "RenjuTeacher",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time": "18:02:20",
+        "time_int": 64940,
+        "user": "RenjuTeacher",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time": "18:02:21",
+        "time_int": 64941,
+        "user": "RenjuTeacher",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time": "18:02:21",
+        "time_int": 64941,
+        "user": "RenjuTeacher",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time": "18:02:21",
+        "time_int": 64941,
+        "user": "RenjuTeacher",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time": "18:02:21",
+        "time_int": 64941,
+        "user": "RenjuTeacher",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time": "18:02:23",
+        "time_int": 64943,
+        "user": "RenjuTeacher",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time": "18:02:32",
+        "time_int": 64952,
+        "user": "RenjuTeacher",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time": "18:02:56",
+        "time_int": 64976,
+        "user": "RenjuTeacher",
+        "content": "ad"
+    },
+    {
+        "action": "MOVE",
+        "time": "18:02:59",
+        "time_int": 64979,
+        "user": "RenjuTeacher",
+        "content": "ac"
+    },
+    {
+        "action": "MOVE",
+        "time": "18:03:00",
+        "time_int": 64980,
+        "user": "RenjuTeacher",
+        "content": "9c"
+    },
+    {
+        "action": "MOVE",
+        "time": "18:03:14",
+        "time_int": 64994,
+        "user": "yyfcsd",
+        "content": "8c"
+    },
+    {
+        "action": "MOVE",
+        "time": "18:03:34",
+        "time_int": 65014,
+        "user": "RenjuTeacher",
+        "content": "8b"
+    },
+    {
+        "action": "MOVE",
+        "time": "18:03:38",
+        "time_int": 65018,
+        "user": "yyfcsd",
+        "content": "be"
+    },
+    {
+        "action": "TALK",
+        "time": "18:03:43",
+        "time_int": 65023,
+        "user": "RenjuTeacher",
+        "content": ":)"
+    },
+    {
+        "action": "TALK",
+        "time": "18:03:47",
+        "time_int": 65027,
+        "user": "RenjuTeacher",
+        "content": "suicide"
+    },
+    {
+        "action": "BACK",
+        "time": "18:03:52",
+        "time_int": 65032,
+        "user": "RenjuTeacher",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time": "18:03:53",
+        "time_int": 65033,
+        "user": "RenjuTeacher",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time": "18:04:10",
+        "time_int": 65050,
+        "user": "RenjuTeacher",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time": "18:04:11",
+        "time_int": 65051,
+        "user": "RenjuTeacher",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time": "18:04:13",
+        "time_int": 65053,
+        "user": "RenjuTeacher",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time": "18:04:14",
+        "time_int": 65054,
+        "user": "RenjuTeacher",
+        "content": ""
+    },
+    {
+        "action": "TALK",
+        "time": "18:04:21",
+        "time_int": 65061,
+        "user": "RenjuTeacher",
+        "content": "seems no defense?"
+    },
+    {
+        "action": "TALK",
+        "time": "18:04:37",
+        "time_int": 65077,
+        "user": "SamSite",
+        "content": "seems"
+    },
+    {
+        "action": "TALK",
+        "time": "18:04:47",
+        "time_int": 65087,
+        "user": "strul",
+        "content": "wow"
+    },
+    {
+        "action": "TALK",
+        "time": "18:04:59",
+        "time_int": 65099,
+        "user": "Fermat",
+        "content": "y"
+    },
+    {
+        "action": "BACK",
+        "time": "18:05:12",
+        "time_int": 65112,
+        "user": "RenjuTeacher",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time": "18:05:13",
+        "time_int": 65113,
+        "user": "RenjuTeacher",
+        "content": ""
+    },
+    {
+        "action": "TALK",
+        "time": "18:05:19",
+        "time_int": 65119,
+        "user": "RenjuTeacher",
+        "content": "thanks yy"
+    },
+    {
+        "action": "TALK",
+        "time": "18:05:22",
+        "time_int": 65122,
+        "user": "RenjuTeacher",
+        "content": "good attacks"
+    },
+    {
+        "action": "TALK",
+        "time": "18:05:24",
+        "time_int": 65124,
+        "user": "yyfcsd",
+        "content": "thx"
+    },
+    {
+        "action": "TALK",
+        "time": "18:05:24",
+        "time_int": 65124,
+        "user": "RenjuTeacher",
+        "content": ":)"
+    },
+    {
+        "action": "BACK",
+        "time": "18:05:27",
+        "time_int": 65127,
+        "user": "RenjuTeacher",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time": "18:05:29",
+        "time_int": 65129,
+        "user": "RenjuTeacher",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time": "18:05:31",
+        "time_int": 65131,
+        "user": "RenjuTeacher",
+        "content": ""
+    },
+    {
+        "action": "TALK",
+        "time": "18:05:40",
+        "time_int": 65140,
+        "user": "RenjuTeacher",
+        "content": "so, 17 is loss, agree?"
+    },
+    {
+        "action": "TALK",
+        "time": "18:05:45",
+        "time_int": 65145,
+        "user": "strul",
+        "content": "y"
+    },
+    {
+        "action": "TALK",
+        "time": "18:05:45",
+        "time_int": 65145,
+        "user": "Fermat",
+        "content": "y"
+    },
+    {
+        "action": "TALK",
+        "time": "18:05:46",
+        "time_int": 65146,
+        "user": "SamSite",
+        "content": "yes"
+    },
+    {
+        "action": "TALK",
+        "time": "18:05:46",
+        "time_int": 65146,
+        "user": "Xespok",
+        "content": "Y"
+    },
+    {
+        "action": "TALK",
+        "time": "18:05:50",
+        "time_int": 65150,
+        "user": "yyfcsd",
+        "content": "yes"
+    },
+    {
+        "action": "TALK",
+        "time": "18:05:54",
+        "time_int": 65154,
+        "user": "whte",
+        "content": "y"
+    },
+    {
+        "action": "TALK",
+        "time": "18:05:56",
+        "time_int": 65156,
+        "user": "RenjuTeacher",
+        "content": "very interesting"
+    },
+    {
+        "action": "TALK",
+        "time": "18:05:57",
+        "time_int": 65157,
+        "user": "Intotherenju",
+        "content": "y"
+    },
+    {
+        "action": "TALK",
+        "time": "18:06:00",
+        "time_int": 65160,
+        "user": "RenjuTeacher",
+        "content": "we need to change 17"
+    },
+    {
+        "action": "TALK",
+        "time": "18:06:00",
+        "time_int": 65160,
+        "user": "weigui",
+        "content": "y"
+    },
+    {
+        "action": "TALK",
+        "time": "18:06:04",
+        "time_int": 65164,
+        "user": "RenjuTeacher",
+        "content": "any suggestions?"
+    },
+    {
+        "action": "BACK",
+        "time": "18:06:06",
+        "time_int": 65166,
+        "user": "RenjuTeacher",
+        "content": ""
+    },
+    {
+        "action": "TALK",
+        "time": "18:06:07",
+        "time_int": 65167,
+        "user": "SamSite",
+        "content": "one above"
+    },
+    {
+        "action": "TALK",
+        "time": "18:06:29",
+        "time_int": 65189,
+        "user": "strul",
+        "content": "f10"
+    },
+    {
+        "action": "TALK",
+        "time": "18:06:33",
+        "time_int": 65193,
+        "user": "SamSite",
+        "content": "meaning g11"
+    },
+    {
+        "action": "TALK",
+        "time": "18:06:36",
+        "time_int": 65196,
+        "user": "yyfcsd",
+        "content": "g11?"
+    },
+    {
+        "action": "TALK",
+        "time": "18:06:38",
+        "time_int": 65198,
+        "user": "Xespok",
+        "content": "f12?"
+    },
+    {
+        "action": "TALK",
+        "time": "18:06:46",
+        "time_int": 65206,
+        "user": "Intotherenju",
+        "content": "f12"
+    },
+    {
+        "action": "TALK",
+        "time": "18:07:52",
+        "time_int": 65272,
+        "user": "RenjuTeacher",
+        "content": "others?"
+    },
+    {
+        "action": "TALK",
+        "time": "18:07:58",
+        "time_int": 65278,
+        "user": "yyfcsd",
+        "content": "e9 possible?"
+    },
+    {
+        "action": "TALK",
+        "time": "18:08:17",
+        "time_int": 65297,
+        "user": "slamduk",
+        "content": "g11"
+    },
+    {
+        "action": "TALK",
+        "time": "18:08:20",
+        "time_int": 65300,
+        "user": "RenjuTeacher",
+        "content": "lets be more active please"
+    },
+    {
+        "action": "TALK",
+        "time": "18:08:21",
+        "time_int": 65301,
+        "user": "fallnavy",
+        "content": "H12"
+    },
+    {
+        "action": "TALK",
+        "time": "18:08:27",
+        "time_int": 65307,
+        "user": "luwenzhe",
+        "content": "g11"
+    },
+    {
+        "action": "TALK",
+        "time": "18:08:40",
+        "time_int": 65320,
+        "user": "Fermat",
+        "content": "g11"
+    },
+    {
+        "action": "TALK",
+        "time": "18:09:03",
+        "time_int": 65343,
+        "user": "whte",
+        "content": "G9"
+    },
+    {
+        "action": "TALK",
+        "time": "18:09:14",
+        "time_int": 65354,
+        "user": "Red_Zombie",
+        "content": "g11"
+    },
+    {
+        "action": "TALK",
+        "time": "18:09:20",
+        "time_int": 65360,
+        "user": "weigui",
+        "content": "g11"
+    },
+    {
+        "action": "MOVE",
+        "time": "18:09:21",
+        "time_int": 65361,
+        "user": "RenjuTeacher",
+        "content": "7b"
+    },
+    {
+        "action": "TALK",
+        "time": "18:09:29",
+        "time_int": 65369,
+        "user": "RenjuTeacher",
+        "content": "ok we study g11, as it is most natural move"
+    },
+    {
+        "action": "MOVE",
+        "time": "18:09:52",
+        "time_int": 65392,
+        "user": "RenjuTeacher",
+        "content": "86"
+    },
+    {
+        "action": "TALK",
+        "time": "18:09:58",
+        "time_int": 65398,
+        "user": "RenjuTeacher",
+        "content": "lets try attack that 3x3 again"
+    },
+    {
+        "action": "TALK",
+        "time": "18:10:07",
+        "time_int": 65407,
+        "user": "yyfcsd",
+        "content": "."
+    },
+    {
+        "action": "TALK",
+        "time": "18:10:25",
+        "time_int": 65425,
+        "user": "luwenzhe",
+        "content": "poor yy"
+    },
+    {
+        "action": "CHECKRESULT",
+        "time": "18:10:43",
+        "time_int": 65443,
+        "user": "",
+        "content": " luwenzhe, scm2000, Xespok, fallnavy, Fermat, SamSite, Red_Zombie, guminzhao, Before, virag, coco_yuang, LiuJianping, slamduk, sosei, whte, Intotherenju, strul, pengyu, weigui, tianxia."
+    },
+    {
+        "action": "MOVE",
+        "time": "18:10:59",
+        "time_int": 65459,
+        "user": "RenjuTeacher",
+        "content": "b9"
+    },
+    {
+        "action": "TALK",
+        "time": "18:11:32",
+        "time_int": 65492,
+        "user": "RenjuTeacher",
+        "content": "lets try something"
+    },
+    {
+        "action": "MOVE",
+        "time": "18:11:35",
+        "time_int": 65495,
+        "user": "RenjuTeacher",
+        "content": "79"
+    },
+    {
+        "action": "MOVE",
+        "time": "18:11:37",
+        "time_int": 65497,
+        "user": "RenjuTeacher",
+        "content": "59"
+    },
+    {
+        "action": "TALK",
+        "time": "18:11:55",
+        "time_int": 65515,
+        "user": "Fermat",
+        "content": "must 4 first"
+    },
+    {
+        "action": "TALK",
+        "time": "18:12:00",
+        "time_int": 65520,
+        "user": "RenjuTeacher",
+        "content": "why?"
+    },
+    {
+        "action": "TALK",
+        "time": "18:12:18",
+        "time_int": 65538,
+        "user": "RenjuTeacher",
+        "content": "where white next?"
+    },
+    {
+        "action": "TALK",
+        "time": "18:12:27",
+        "time_int": 65547,
+        "user": "Fermat",
+        "content": "ow j11"
+    },
+    {
+        "action": "TALK",
+        "time": "18:12:39",
+        "time_int": 65559,
+        "user": "RenjuTeacher",
+        "content": "?"
+    },
+    {
+        "action": "TALK",
+        "time": "18:12:52",
+        "time_int": 65572,
+        "user": "yyfcsd",
+        "content": "j12?"
+    },
+    {
+        "action": "TALK",
+        "time": "18:12:59",
+        "time_int": 65579,
+        "user": "fallnavy",
+        "content": "F8"
+    },
+    {
+        "action": "TALK",
+        "time": "18:13:04",
+        "time_int": 65584,
+        "user": "Fermat",
+        "content": "yes j12"
+    },
+    {
+        "action": "TALK",
+        "time": "18:13:06",
+        "time_int": 65586,
+        "user": "Before",
+        "content": "f8 not"
+    },
+    {
+        "action": "TALK",
+        "time": "18:13:08",
+        "time_int": 65588,
+        "user": "Before",
+        "content": "j12"
+    },
+    {
+        "action": "TALK",
+        "time": "18:13:12",
+        "time_int": 65592,
+        "user": "weigui",
+        "content": "j12"
+    },
+    {
+        "action": "MOVE",
+        "time": "18:13:25",
+        "time_int": 65605,
+        "user": "yyfcsd",
+        "content": "ac"
+    },
+    {
+        "action": "MOVE",
+        "time": "18:13:28",
+        "time_int": 65608,
+        "user": "RenjuTeacher",
+        "content": "68"
+    },
+    {
+        "action": "MOVE",
+        "time": "18:13:30",
+        "time_int": 65610,
+        "user": "yyfcsd",
+        "content": "58"
+    },
+    {
+        "action": "MOVE",
+        "time": "18:13:35",
+        "time_int": 65615,
+        "user": "RenjuTeacher",
+        "content": "8b"
+    },
+    {
+        "action": "MOVE",
+        "time": "18:13:44",
+        "time_int": 65624,
+        "user": "yyfcsd",
+        "content": "9b"
+    },
+    {
+        "action": "MOVE",
+        "time": "18:13:46",
+        "time_int": 65626,
+        "user": "RenjuTeacher",
+        "content": "bd"
+    },
+    {
+        "action": "TALK",
+        "time": "18:14:34",
+        "time_int": 65674,
+        "user": "yyfcsd",
+        "content": "no good continue"
+    },
+    {
+        "action": "TALK",
+        "time": "18:15:01",
+        "time_int": 65701,
+        "user": "RenjuTeacher",
+        "content": "ok lets think other ways"
+    },
+    {
+        "action": "BACK",
+        "time": "18:15:06",
+        "time_int": 65706,
+        "user": "RenjuTeacher",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time": "18:15:07",
+        "time_int": 65707,
+        "user": "RenjuTeacher",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time": "18:15:07",
+        "time_int": 65707,
+        "user": "RenjuTeacher",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time": "18:15:07",
+        "time_int": 65707,
+        "user": "RenjuTeacher",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time": "18:15:07",
+        "time_int": 65707,
+        "user": "RenjuTeacher",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time": "18:15:08",
+        "time_int": 65708,
+        "user": "RenjuTeacher",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time": "18:15:09",
+        "time_int": 65709,
+        "user": "RenjuTeacher",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time": "18:15:09",
+        "time_int": 65709,
+        "user": "RenjuTeacher",
+        "content": ""
+    },
+    {
+        "action": "TALK",
+        "time": "18:15:14",
+        "time_int": 65714,
+        "user": "RenjuTeacher",
+        "content": "any ideas?"
+    },
+    {
+        "action": "BACK",
+        "time": "18:15:16",
+        "time_int": 65716,
+        "user": "RenjuTeacher",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time": "18:15:17",
+        "time_int": 65717,
+        "user": "RenjuTeacher",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time": "18:15:18",
+        "time_int": 65718,
+        "user": "RenjuTeacher",
+        "content": "ca"
+    },
+    {
+        "action": "TALK",
+        "time": "18:15:21",
+        "time_int": 65721,
+        "user": "RenjuTeacher",
+        "content": "how about here?"
+    },
+    {
+        "action": "MOVE",
+        "time": "18:15:28",
+        "time_int": 65728,
+        "user": "RenjuTeacher",
+        "content": "b9"
+    },
+    {
+        "action": "MOVE",
+        "time": "18:15:29",
+        "time_int": 65729,
+        "user": "RenjuTeacher",
+        "content": "79"
+    },
+    {
+        "action": "MOVE",
+        "time": "18:15:30",
+        "time_int": 65730,
+        "user": "RenjuTeacher",
+        "content": "59"
+    },
+    {
+        "action": "MOVE",
+        "time": "18:15:31",
+        "time_int": 65731,
+        "user": "RenjuTeacher",
+        "content": "ac"
+    },
+    {
+        "action": "TALK",
+        "time": "18:15:34",
+        "time_int": 65734,
+        "user": "RenjuTeacher",
+        "content": "better?"
+    },
+    {
+        "action": "TALK",
+        "time": "18:15:40",
+        "time_int": 65740,
+        "user": "Fermat",
+        "content": "y"
+    },
+    {
+        "action": "TALK",
+        "time": "18:15:40",
+        "time_int": 65740,
+        "user": "SamSite",
+        "content": "19 down"
+    },
+    {
+        "action": "TALK",
+        "time": "18:15:49",
+        "time_int": 65749,
+        "user": "strul",
+        "content": "19 in22"
+    },
+    {
+        "action": "TALK",
+        "time": "18:16:08",
+        "time_int": 65768,
+        "user": "SamSite",
+        "content": "if 19-H6 then this way black counter-win"
+    },
+    {
+        "action": "MOVE",
+        "time": "18:16:09",
+        "time_int": 65769,
+        "user": "RenjuTeacher",
+        "content": "68"
+    },
+    {
+        "action": "MOVE",
+        "time": "18:16:10",
+        "time_int": 65770,
+        "user": "RenjuTeacher",
+        "content": "58"
+    },
+    {
+        "action": "MOVE",
+        "time": "18:16:12",
+        "time_int": 65772,
+        "user": "RenjuTeacher",
+        "content": "bb"
+    },
+    {
+        "action": "TALK",
+        "time": "18:16:19",
+        "time_int": 65779,
+        "user": "RenjuTeacher",
+        "content": "is here white win?"
+    },
+    {
+        "action": "TALK",
+        "time": "18:16:30",
+        "time_int": 65790,
+        "user": "Fermat",
+        "content": "y"
+    },
+    {
+        "action": "TALK",
+        "time": "18:16:36",
+        "time_int": 65796,
+        "user": "SamSite",
+        "content": "yes"
+    },
+    {
+        "action": "TALK",
+        "time": "18:16:36",
+        "time_int": 65796,
+        "user": "Fermat",
+        "content": "vcf"
+    },
+    {
+        "action": "TALK",
+        "time": "18:16:36",
+        "time_int": 65796,
+        "user": "Guest038",
+        "content": "y"
+    },
+    {
+        "action": "TALK",
+        "time": "18:16:39",
+        "time_int": 65799,
+        "user": "Red_Zombie",
+        "content": "y"
+    },
+    {
+        "action": "MOVE",
+        "time": "18:16:43",
+        "time_int": 65803,
+        "user": "Fermat",
+        "content": "9b"
+    },
+    {
+        "action": "MOVE",
+        "time": "18:16:45",
+        "time_int": 65805,
+        "user": "RenjuTeacher",
+        "content": "bd"
+    },
+    {
+        "action": "MOVE",
+        "time": "18:16:47",
+        "time_int": 65807,
+        "user": "Fermat",
+        "content": "9c"
+    },
+    {
+        "action": "MOVE",
+        "time": "18:16:48",
+        "time_int": 65808,
+        "user": "RenjuTeacher",
+        "content": "9d"
+    },
+    {
+        "action": "MOVE",
+        "time": "18:16:50",
+        "time_int": 65810,
+        "user": "Fermat",
+        "content": "8b"
+    },
+    {
+        "action": "TALK",
+        "time": "18:16:51",
+        "time_int": 65811,
+        "user": "luwenzhe",
+        "content": "Fermat is VCF machine :)"
+    },
+    {
+        "action": "MOVE",
+        "time": "18:16:51",
+        "time_int": 65811,
+        "user": "RenjuTeacher",
+        "content": "7a"
+    },
+    {
+        "action": "MOVE",
+        "time": "18:16:53",
+        "time_int": 65813,
+        "user": "Fermat",
+        "content": "8c"
+    },
+    {
+        "action": "TALK",
+        "time": "18:16:54",
+        "time_int": 65814,
+        "user": "RenjuTeacher",
+        "content": "yes"
+    },
+    {
+        "action": "TALK",
+        "time": "18:16:54",
+        "time_int": 65814,
+        "user": "yyfcsd",
+        "content": "y"
+    },
+    {
+        "action": "TALK",
+        "time": "18:16:56",
+        "time_int": 65816,
+        "user": "RenjuTeacher",
+        "content": "haha"
+    },
+    {
+        "action": "TALK",
+        "time": "18:16:57",
+        "time_int": 65817,
+        "user": "RenjuTeacher",
+        "content": ":)"
+    },
+    {
+        "action": "BACK",
+        "time": "18:17:05",
+        "time_int": 65825,
+        "user": "RenjuTeacher",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time": "18:17:05",
+        "time_int": 65825,
+        "user": "RenjuTeacher",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time": "18:17:05",
+        "time_int": 65825,
+        "user": "RenjuTeacher",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time": "18:17:06",
+        "time_int": 65826,
+        "user": "RenjuTeacher",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time": "18:17:06",
+        "time_int": 65826,
+        "user": "RenjuTeacher",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time": "18:17:06",
+        "time_int": 65826,
+        "user": "RenjuTeacher",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time": "18:17:07",
+        "time_int": 65827,
+        "user": "RenjuTeacher",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time": "18:17:09",
+        "time_int": 65829,
+        "user": "RenjuTeacher",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time": "18:17:16",
+        "time_int": 65836,
+        "user": "RenjuTeacher",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time": "18:17:17",
+        "time_int": 65837,
+        "user": "RenjuTeacher",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time": "18:17:18",
+        "time_int": 65838,
+        "user": "RenjuTeacher",
+        "content": ""
+    },
+    {
+        "action": "TALK",
+        "time": "18:17:19",
+        "time_int": 65839,
+        "user": "yyfcsd",
+        "content": "19-h6 must"
+    },
+    {
+        "action": "BACK",
+        "time": "18:17:20",
+        "time_int": 65840,
+        "user": "RenjuTeacher",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time": "18:17:21",
+        "time_int": 65841,
+        "user": "RenjuTeacher",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time": "18:17:22",
+        "time_int": 65842,
+        "user": "RenjuTeacher",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time": "18:17:30",
+        "time_int": 65850,
+        "user": "RenjuTeacher",
+        "content": "ac"
+    },
+    {
+        "action": "MOVE",
+        "time": "18:17:31",
+        "time_int": 65851,
+        "user": "RenjuTeacher",
+        "content": "ad"
+    },
+    {
+        "action": "MOVE",
+        "time": "18:17:32",
+        "time_int": 65852,
+        "user": "RenjuTeacher",
+        "content": "b9"
+    },
+    {
+        "action": "TALK",
+        "time": "18:17:36",
+        "time_int": 65856,
+        "user": "RenjuTeacher",
+        "content": "if here?"
+    },
+    {
+        "action": "TALK",
+        "time": "18:17:39",
+        "time_int": 65859,
+        "user": "yyfcsd",
+        "content": "h11"
+    },
+    {
+        "action": "MOVE",
+        "time": "18:17:47",
+        "time_int": 65867,
+        "user": "RenjuTeacher",
+        "content": "8b"
+    },
+    {
+        "action": "MOVE",
+        "time": "18:18:14",
+        "time_int": 65894,
+        "user": "RenjuTeacher",
+        "content": "58"
+    },
+    {
+        "action": "MOVE",
+        "time": "18:18:15",
+        "time_int": 65895,
+        "user": "RenjuTeacher",
+        "content": "68"
+    },
+    {
+        "action": "TALK",
+        "time": "18:18:16",
+        "time_int": 65896,
+        "user": "SamSite",
+        "content": "nice"
+    },
+    {
+        "action": "MOVE",
+        "time": "18:18:16",
+        "time_int": 65896,
+        "user": "RenjuTeacher",
+        "content": "79"
+    },
+    {
+        "action": "TALK",
+        "time": "18:18:19",
+        "time_int": 65899,
+        "user": "RenjuTeacher",
+        "content": "no use"
+    },
+    {
+        "action": "BACK",
+        "time": "18:18:21",
+        "time_int": 65901,
+        "user": "RenjuTeacher",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time": "18:18:23",
+        "time_int": 65903,
+        "user": "RenjuTeacher",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time": "18:18:24",
+        "time_int": 65904,
+        "user": "RenjuTeacher",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time": "18:18:25",
+        "time_int": 65905,
+        "user": "RenjuTeacher",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time": "18:18:25",
+        "time_int": 65905,
+        "user": "RenjuTeacher",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time": "18:18:26",
+        "time_int": 65906,
+        "user": "RenjuTeacher",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time": "18:18:27",
+        "time_int": 65907,
+        "user": "RenjuTeacher",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time": "18:18:28",
+        "time_int": 65908,
+        "user": "RenjuTeacher",
+        "content": "86"
+    },
+    {
+        "action": "TALK",
+        "time": "18:18:36",
+        "time_int": 65916,
+        "user": "strul",
+        "content": ":("
+    },
+    {
+        "action": "TALK",
+        "time": "18:18:41",
+        "time_int": 65921,
+        "user": "RenjuTeacher",
+        "content": "ok, any ideas for white here?"
+    },
+    {
+        "action": "TALK",
+        "time": "18:19:03",
+        "time_int": 65943,
+        "user": "Before",
+        "content": "i12?"
+    },
+    {
+        "action": "TALK",
+        "time": "18:19:13",
+        "time_int": 65953,
+        "user": "Fermat",
+        "content": "i13?"
+    },
+    {
+        "action": "TALK",
+        "time": "18:19:30",
+        "time_int": 65970,
+        "user": "SamSite",
+        "content": "think black can stop white now"
+    },
+    {
+        "action": "TALK",
+        "time": "18:20:24",
+        "time_int": 66024,
+        "user": "Before",
+        "content": "."
+    },
+    {
+        "action": "TALK",
+        "time": "18:20:32",
+        "time_int": 66032,
+        "user": "RenjuTeacher",
+        "content": "ok, Samsite is black"
+    },
+    {
+        "action": "TALK",
+        "time": "18:20:34",
+        "time_int": 66034,
+        "user": "RenjuTeacher",
+        "content": "lets try"
+    },
+    {
+        "action": "TALK",
+        "time": "18:20:37",
+        "time_int": 66037,
+        "user": "SamSite",
+        "content": "ouch"
+    },
+    {
+        "action": "TALK",
+        "time": "18:20:41",
+        "time_int": 66041,
+        "user": "Before",
+        "content": ":-)"
+    },
+    {
+        "action": "MOVE",
+        "time": "18:20:42",
+        "time_int": 66042,
+        "user": "RenjuTeacher",
+        "content": "9c"
+    },
+    {
+        "action": "MOVE",
+        "time": "18:21:21",
+        "time_int": 66081,
+        "user": "SamSite",
+        "content": "ac"
+    },
+    {
+        "action": "TALK",
+        "time": "18:21:56",
+        "time_int": 66116,
+        "user": "Xespok",
+        "content": "."
+    },
+    {
+        "action": "MOVE",
+        "time": "18:21:58",
+        "time_int": 66118,
+        "user": "RenjuTeacher",
+        "content": "ad"
+    },
+    {
+        "action": "TALK",
+        "time": "18:22:10",
+        "time_int": 66130,
+        "user": "Before",
+        "content": "ezt j髄 meg kellett gondolni..."
+    },
+    {
+        "action": "TALK",
+        "time": "18:22:18",
+        "time_int": 66138,
+        "user": "RenjuTeacher",
+        "content": "english please"
+    },
+    {
+        "action": "MOVE",
+        "time": "18:22:19",
+        "time_int": 66139,
+        "user": "SamSite",
+        "content": "68"
+    },
+    {
+        "action": "TALK",
+        "time": "18:22:24",
+        "time_int": 66144,
+        "user": "Before",
+        "content": "sorry :)"
+    },
+    {
+        "action": "MOVE",
+        "time": "18:22:31",
+        "time_int": 66151,
+        "user": "RenjuTeacher",
+        "content": "58"
+    },
+    {
+        "action": "MOVE",
+        "time": "18:22:33",
+        "time_int": 66153,
+        "user": "SamSite",
+        "content": "7a"
+    },
+    {
+        "action": "MOVE",
+        "time": "18:22:38",
+        "time_int": 66158,
+        "user": "RenjuTeacher",
+        "content": "db"
+    },
+    {
+        "action": "TALK",
+        "time": "18:22:43",
+        "time_int": 66163,
+        "user": "SamSite",
+        "content": "oh"
+    },
+    {
+        "action": "TALK",
+        "time": "18:22:47",
+        "time_int": 66167,
+        "user": "RenjuTeacher",
+        "content": ":P"
+    },
+    {
+        "action": "TALK",
+        "time": "18:22:47",
+        "time_int": 66167,
+        "user": "SamSite",
+        "content": "sorry"
+    },
+    {
+        "action": "BACK",
+        "time": "18:22:49",
+        "time_int": 66169,
+        "user": "SamSite",
+        "content": ""
+    },
+    {
+        "action": "TALK",
+        "time": "18:22:50",
+        "time_int": 66170,
+        "user": "RenjuTeacher",
+        "content": "np"
+    },
+    {
+        "action": "BACK",
+        "time": "18:22:50",
+        "time_int": 66170,
+        "user": "SamSite",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time": "18:22:51",
+        "time_int": 66171,
+        "user": "SamSite",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time": "18:22:52",
+        "time_int": 66172,
+        "user": "SamSite",
+        "content": ""
+    },
+    {
+        "action": "TALK",
+        "time": "18:22:52",
+        "time_int": 66172,
+        "user": "RenjuTeacher",
+        "content": "you can undo"
+    },
+    {
+        "action": "MOVE",
+        "time": "18:22:55",
+        "time_int": 66175,
+        "user": "SamSite",
+        "content": "8b"
+    },
+    {
+        "action": "MOVE",
+        "time": "18:23:09",
+        "time_int": 66189,
+        "user": "RenjuTeacher",
+        "content": "9b"
+    },
+    {
+        "action": "MOVE",
+        "time": "18:23:11",
+        "time_int": 66191,
+        "user": "SamSite",
+        "content": "9d"
+    },
+    {
+        "action": "MOVE",
+        "time": "18:23:34",
+        "time_int": 66214,
+        "user": "RenjuTeacher",
+        "content": "76"
+    },
+    {
+        "action": "TALK",
+        "time": "18:23:37",
+        "time_int": 66217,
+        "user": "RenjuTeacher",
+        "content": "draw ;)"
+    },
+    {
+        "action": "TALK",
+        "time": "18:23:42",
+        "time_int": 66222,
+        "user": "SamSite",
+        "content": "i accept :)"
+    },
+    {
+        "action": "TALK",
+        "time": "18:23:47",
+        "time_int": 66227,
+        "user": "Before",
+        "content": ":)"
+    },
+    {
+        "action": "TALK",
+        "time": "18:23:49",
+        "time_int": 66229,
+        "user": "RenjuTeacher",
+        "content": "haha"
+    },
+    {
+        "action": "BACK",
+        "time": "18:23:54",
+        "time_int": 66234,
+        "user": "RenjuTeacher",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time": "18:23:55",
+        "time_int": 66235,
+        "user": "RenjuTeacher",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time": "18:23:55",
+        "time_int": 66235,
+        "user": "RenjuTeacher",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time": "18:23:56",
+        "time_int": 66236,
+        "user": "RenjuTeacher",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time": "18:23:56",
+        "time_int": 66236,
+        "user": "RenjuTeacher",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time": "18:23:57",
+        "time_int": 66237,
+        "user": "RenjuTeacher",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time": "18:23:58",
+        "time_int": 66238,
+        "user": "RenjuTeacher",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time": "18:24:02",
+        "time_int": 66242,
+        "user": "RenjuTeacher",
+        "content": "ac"
+    },
+    {
+        "action": "TALK",
+        "time": "18:24:10",
+        "time_int": 66250,
+        "user": "RenjuTeacher",
+        "content": "here?"
+    },
+    {
+        "action": "TALK",
+        "time": "18:24:53",
+        "time_int": 66293,
+        "user": "SamSite",
+        "content": "me again ?"
+    },
+    {
+        "action": "TALK",
+        "time": "18:25:05",
+        "time_int": 66305,
+        "user": "RenjuTeacher",
+        "content": "yes"
+    },
+    {
+        "action": "TALK",
+        "time": "18:25:08",
+        "time_int": 66308,
+        "user": "RenjuTeacher",
+        "content": "of course"
+    },
+    {
+        "action": "TALK",
+        "time": "18:25:15",
+        "time_int": 66315,
+        "user": "tianxia",
+        "content": "1"
+    },
+    {
+        "action": "TALK",
+        "time": "18:25:15",
+        "time_int": 66315,
+        "user": "RenjuTeacher",
+        "content": ":) we dont let Sam get away too easily"
+    },
+    {
+        "action": "TALK",
+        "time": "18:25:18",
+        "time_int": 66318,
+        "user": "RenjuTeacher",
+        "content": ":))"
+    },
+    {
+        "action": "TALK",
+        "time": "18:25:24",
+        "time_int": 66324,
+        "user": "SamSite",
+        "content": "darn i always get caught"
+    },
+    {
+        "action": "TALK",
+        "time": "18:25:29",
+        "time_int": 66329,
+        "user": "Fermat",
+        "content": "ha"
+    },
+    {
+        "action": "TALK",
+        "time": "18:26:02",
+        "time_int": 66362,
+        "user": "SamSite",
+        "content": "i'm confused"
+    },
+    {
+        "action": "TALK",
+        "time": "18:26:07",
+        "time_int": 66367,
+        "user": "SamSite",
+        "content": "on how to play"
+    },
+    {
+        "action": "TALK",
+        "time": "18:26:24",
+        "time_int": 66384,
+        "user": "RenjuTeacher",
+        "content": "then just follow your feeling"
+    },
+    {
+        "action": "TALK",
+        "time": "18:26:44",
+        "time_int": 66404,
+        "user": "SamSite",
+        "content": "ok i try"
+    },
+    {
+        "action": "MOVE",
+        "time": "18:26:46",
+        "time_int": 66406,
+        "user": "SamSite",
+        "content": "79"
+    },
+    {
+        "action": "MOVE",
+        "time": "18:26:51",
+        "time_int": 66411,
+        "user": "RenjuTeacher",
+        "content": "7a"
+    },
+    {
+        "action": "MOVE",
+        "time": "18:26:57",
+        "time_int": 66417,
+        "user": "SamSite",
+        "content": "58"
+    },
+    {
+        "action": "MOVE",
+        "time": "18:27:00",
+        "time_int": 66420,
+        "user": "RenjuTeacher",
+        "content": "68"
+    },
+    {
+        "action": "MOVE",
+        "time": "18:27:03",
+        "time_int": 66423,
+        "user": "SamSite",
+        "content": "76"
+    },
+    {
+        "action": "MOVE",
+        "time": "18:27:07",
+        "time_int": 66427,
+        "user": "RenjuTeacher",
+        "content": "85"
+    },
+    {
+        "action": "MOVE",
+        "time": "18:27:11",
+        "time_int": 66431,
+        "user": "SamSite",
+        "content": "66"
+    },
+    {
+        "action": "MOVE",
+        "time": "18:27:20",
+        "time_int": 66440,
+        "user": "RenjuTeacher",
+        "content": "56"
+    },
+    {
+        "action": "MOVE",
+        "time": "18:27:22",
+        "time_int": 66442,
+        "user": "SamSite",
+        "content": "84"
+    },
+    {
+        "action": "TALK",
+        "time": "18:27:26",
+        "time_int": 66446,
+        "user": "RenjuTeacher",
+        "content": "see!"
+    },
+    {
+        "action": "TALK",
+        "time": "18:27:28",
+        "time_int": 66448,
+        "user": "luwenzhe",
+        "content": "wow"
+    },
+    {
+        "action": "TALK",
+        "time": "18:27:29",
+        "time_int": 66449,
+        "user": "Before",
+        "content": "cool"
+    },
+    {
+        "action": "TALK",
+        "time": "18:27:33",
+        "time_int": 66453,
+        "user": "Fermat",
+        "content": "great"
+    },
+    {
+        "action": "TALK",
+        "time": "18:27:33",
+        "time_int": 66453,
+        "user": "yyfcsd",
+        "content": "nice"
+    },
+    {
+        "action": "TALK",
+        "time": "18:27:33",
+        "time_int": 66453,
+        "user": "RenjuTeacher",
+        "content": "you have strong feeling"
+    },
+    {
+        "action": "TALK",
+        "time": "18:27:34",
+        "time_int": 66454,
+        "user": "RenjuTeacher",
+        "content": ":)"
+    },
+    {
+        "action": "BACK",
+        "time": "18:27:46",
+        "time_int": 66466,
+        "user": "RenjuTeacher",
+        "content": ""
+    },
+    {
+        "action": "TALK",
+        "time": "18:27:46",
+        "time_int": 66466,
+        "user": "SamSite",
+        "content": "i did not see k7 stone connection first"
+    },
+    {
+        "action": "BACK",
+        "time": "18:27:46",
+        "time_int": 66466,
+        "user": "RenjuTeacher",
+        "content": ""
+    },
+    {
+        "action": "EMOTE",
+        "time": "18:27:47",
+        "time_int": 66467,
+        "user": "luwenzhe",
+        "content": " admires SamSite"
+    },
+    {
+        "action": "BACK",
+        "time": "18:27:49",
+        "time_int": 66469,
+        "user": "RenjuTeacher",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time": "18:27:50",
+        "time_int": 66470,
+        "user": "RenjuTeacher",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time": "18:27:51",
+        "time_int": 66471,
+        "user": "RenjuTeacher",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time": "18:27:51",
+        "time_int": 66471,
+        "user": "RenjuTeacher",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time": "18:27:52",
+        "time_int": 66472,
+        "user": "RenjuTeacher",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time": "18:27:53",
+        "time_int": 66473,
+        "user": "RenjuTeacher",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time": "18:27:53",
+        "time_int": 66473,
+        "user": "RenjuTeacher",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time": "18:27:56",
+        "time_int": 66476,
+        "user": "RenjuTeacher",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time": "18:28:02",
+        "time_int": 66482,
+        "user": "RenjuTeacher",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time": "18:28:03",
+        "time_int": 66483,
+        "user": "RenjuTeacher",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time": "18:28:07",
+        "time_int": 66487,
+        "user": "RenjuTeacher",
+        "content": "ac"
+    },
+    {
+        "action": "TALK",
+        "time": "18:28:09",
+        "time_int": 66489,
+        "user": "SamSite",
+        "content": "sam-the-slow-work-machine"
+    },
+    {
+        "action": "TALK",
+        "time": "18:28:10",
+        "time_int": 66490,
+        "user": "luwenzhe",
+        "content": "So this is the idea of 19-H6"
+    },
+    {
+        "action": "TALK",
+        "time": "18:28:12",
+        "time_int": 66492,
+        "user": "RenjuTeacher",
+        "content": "ok once more?"
+    },
+    {
+        "action": "TALK",
+        "time": "18:28:13",
+        "time_int": 66493,
+        "user": "RenjuTeacher",
+        "content": ":)"
+    },
+    {
+        "action": "TALK",
+        "time": "18:28:24",
+        "time_int": 66504,
+        "user": "RenjuTeacher",
+        "content": "can you help us with good black moves"
+    },
+    {
+        "action": "TALK",
+        "time": "18:28:40",
+        "time_int": 66520,
+        "user": "SamSite",
+        "content": "yes help me, Ando is teasing me :)"
+    },
+    {
+        "action": "TALK",
+        "time": "18:28:52",
+        "time_int": 66532,
+        "user": "RenjuTeacher",
+        "content": "nono, you are doing great"
+    },
+    {
+        "action": "TALK",
+        "time": "18:29:05",
+        "time_int": 66545,
+        "user": "RenjuTeacher",
+        "content": "yy is good white player today, Samuli is good black"
+    },
+    {
+        "action": "TALK",
+        "time": "18:29:07",
+        "time_int": 66547,
+        "user": "RenjuTeacher",
+        "content": "right?"
+    },
+    {
+        "action": "TALK",
+        "time": "18:29:13",
+        "time_int": 66553,
+        "user": "luwenzhe",
+        "content": "yep!"
+    },
+    {
+        "action": "TALK",
+        "time": "18:29:14",
+        "time_int": 66554,
+        "user": "Fermat",
+        "content": "y, admire them"
+    },
+    {
+        "action": "TALK",
+        "time": "18:29:18",
+        "time_int": 66558,
+        "user": "RenjuTeacher",
+        "content": "so we have experts for both colors"
+    },
+    {
+        "action": "TALK",
+        "time": "18:29:20",
+        "time_int": 66560,
+        "user": "RenjuTeacher",
+        "content": ":)"
+    },
+    {
+        "action": "TALK",
+        "time": "18:29:29",
+        "time_int": 66569,
+        "user": "Fermat",
+        "content": "ha:>"
+    },
+    {
+        "action": "MOVE",
+        "time": "18:29:55",
+        "time_int": 66595,
+        "user": "SamSite",
+        "content": "79"
+    },
+    {
+        "action": "MOVE",
+        "time": "18:30:03",
+        "time_int": 66603,
+        "user": "RenjuTeacher",
+        "content": "7a"
+    },
+    {
+        "action": "TALK",
+        "time": "18:30:05",
+        "time_int": 66605,
+        "user": "fallnavy",
+        "content": "they are \"black white both killer\""
+    },
+    {
+        "action": "TALK",
+        "time": "18:30:26",
+        "time_int": 66626,
+        "user": "strul",
+        "content": "go samuli beat him bad:)"
+    },
+    {
+        "action": "MOVE",
+        "time": "18:30:33",
+        "time_int": 66633,
+        "user": "SamSite",
+        "content": "8b"
+    },
+    {
+        "action": "TALK",
+        "time": "18:30:40",
+        "time_int": 66640,
+        "user": "SamSite",
+        "content": "lol"
+    },
+    {
+        "action": "MOVE",
+        "time": "18:30:47",
+        "time_int": 66647,
+        "user": "RenjuTeacher",
+        "content": "9b"
+    },
+    {
+        "action": "TALK",
+        "time": "18:30:49",
+        "time_int": 66649,
+        "user": "SamSite",
+        "content": "strul thinks this is boxing :)"
+    },
+    {
+        "action": "TALK",
+        "time": "18:31:00",
+        "time_int": 66660,
+        "user": "strul",
+        "content": "yes"
+    },
+    {
+        "action": "MOVE",
+        "time": "18:31:07",
+        "time_int": 66667,
+        "user": "SamSite",
+        "content": "9d"
+    },
+    {
+        "action": "TALK",
+        "time": "18:31:22",
+        "time_int": 66682,
+        "user": "RenjuTeacher",
+        "content": "indeed, white is jammed"
+    },
+    {
+        "action": "TALK",
+        "time": "18:31:30",
+        "time_int": 66690,
+        "user": "RenjuTeacher",
+        "content": "thanks Sam"
+    },
+    {
+        "action": "TALK",
+        "time": "18:31:35",
+        "time_int": 66695,
+        "user": "SamSite",
+        "content": "thank you"
+    },
+    {
+        "action": "BACK",
+        "time": "18:31:36",
+        "time_int": 66696,
+        "user": "RenjuTeacher",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time": "18:31:36",
+        "time_int": 66696,
+        "user": "RenjuTeacher",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time": "18:31:37",
+        "time_int": 66697,
+        "user": "RenjuTeacher",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time": "18:31:37",
+        "time_int": 66697,
+        "user": "RenjuTeacher",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time": "18:31:37",
+        "time_int": 66697,
+        "user": "RenjuTeacher",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time": "18:31:37",
+        "time_int": 66697,
+        "user": "RenjuTeacher",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time": "18:31:38",
+        "time_int": 66698,
+        "user": "RenjuTeacher",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time": "18:31:38",
+        "time_int": 66698,
+        "user": "RenjuTeacher",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time": "18:31:39",
+        "time_int": 66699,
+        "user": "RenjuTeacher",
+        "content": "8a"
+    },
+    {
+        "action": "MOVE",
+        "time": "18:31:40",
+        "time_int": 66700,
+        "user": "RenjuTeacher",
+        "content": "7b"
+    },
+    {
+        "action": "MOVE",
+        "time": "18:31:55",
+        "time_int": 66715,
+        "user": "RenjuTeacher",
+        "content": "8b"
+    },
+    {
+        "action": "MOVE",
+        "time": "18:32:03",
+        "time_int": 66723,
+        "user": "RenjuTeacher",
+        "content": "7a"
+    },
+    {
+        "action": "MOVE",
+        "time": "18:32:04",
+        "time_int": 66724,
+        "user": "RenjuTeacher",
+        "content": "79"
+    },
+    {
+        "action": "MOVE",
+        "time": "18:32:06",
+        "time_int": 66726,
+        "user": "RenjuTeacher",
+        "content": "59"
+    },
+    {
+        "action": "MOVE",
+        "time": "18:32:10",
+        "time_int": 66730,
+        "user": "RenjuTeacher",
+        "content": "ac"
+    },
+    {
+        "action": "MOVE",
+        "time": "18:32:12",
+        "time_int": 66732,
+        "user": "RenjuTeacher",
+        "content": "68"
+    },
+    {
+        "action": "MOVE",
+        "time": "18:32:13",
+        "time_int": 66733,
+        "user": "RenjuTeacher",
+        "content": "58"
+    },
+    {
+        "action": "TALK",
+        "time": "18:32:35",
+        "time_int": 66755,
+        "user": "yyfcsd",
+        "content": "22-23"
+    },
+    {
+        "action": "TALK",
+        "time": "18:32:35",
+        "time_int": 66755,
+        "user": "RenjuTeacher",
+        "content": "here win maybe"
+    },
+    {
+        "action": "TALK",
+        "time": "18:32:36",
+        "time_int": 66756,
+        "user": "RenjuTeacher",
+        "content": "so change"
+    },
+    {
+        "action": "TALK",
+        "time": "18:32:40",
+        "time_int": 66760,
+        "user": "Fermat",
+        "content": "22-L10?"
+    },
+    {
+        "action": "TALK",
+        "time": "18:32:49",
+        "time_int": 66769,
+        "user": "RenjuTeacher",
+        "content": "white wins already"
+    },
+    {
+        "action": "TALK",
+        "time": "18:33:05",
+        "time_int": 66785,
+        "user": "RenjuTeacher",
+        "content": "so black must alter"
+    },
+    {
+        "action": "BACK",
+        "time": "18:33:06",
+        "time_int": 66786,
+        "user": "RenjuTeacher",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time": "18:33:06",
+        "time_int": 66786,
+        "user": "RenjuTeacher",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time": "18:33:08",
+        "time_int": 66788,
+        "user": "RenjuTeacher",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time": "18:33:14",
+        "time_int": 66794,
+        "user": "RenjuTeacher",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time": "18:33:16",
+        "time_int": 66796,
+        "user": "RenjuTeacher",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time": "18:33:16",
+        "time_int": 66796,
+        "user": "RenjuTeacher",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time": "18:33:19",
+        "time_int": 66799,
+        "user": "RenjuTeacher",
+        "content": "ac"
+    },
+    {
+        "action": "MOVE",
+        "time": "18:33:20",
+        "time_int": 66800,
+        "user": "RenjuTeacher",
+        "content": "ad"
+    },
+    {
+        "action": "MOVE",
+        "time": "18:33:21",
+        "time_int": 66801,
+        "user": "RenjuTeacher",
+        "content": "7a"
+    },
+    {
+        "action": "MOVE",
+        "time": "18:33:22",
+        "time_int": 66802,
+        "user": "RenjuTeacher",
+        "content": "79"
+    },
+    {
+        "action": "MOVE",
+        "time": "18:33:23",
+        "time_int": 66803,
+        "user": "RenjuTeacher",
+        "content": "59"
+    },
+    {
+        "action": "MOVE",
+        "time": "18:33:31",
+        "time_int": 66811,
+        "user": "RenjuTeacher",
+        "content": "86"
+    },
+    {
+        "action": "TALK",
+        "time": "18:33:34",
+        "time_int": 66814,
+        "user": "RenjuTeacher",
+        "content": "win"
+    },
+    {
+        "action": "BACK",
+        "time": "18:33:35",
+        "time_int": 66815,
+        "user": "RenjuTeacher",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time": "18:33:36",
+        "time_int": 66816,
+        "user": "RenjuTeacher",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time": "18:33:36",
+        "time_int": 66816,
+        "user": "RenjuTeacher",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time": "18:33:36",
+        "time_int": 66816,
+        "user": "RenjuTeacher",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time": "18:33:38",
+        "time_int": 66818,
+        "user": "RenjuTeacher",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time": "18:33:38",
+        "time_int": 66818,
+        "user": "RenjuTeacher",
+        "content": ""
+    },
+    {
+        "action": "TALK",
+        "time": "18:33:45",
+        "time_int": 66825,
+        "user": "SamSite",
+        "content": "h12"
+    },
+    {
+        "action": "TALK",
+        "time": "18:33:49",
+        "time_int": 66829,
+        "user": "RenjuTeacher",
+        "content": "the situation here looks interesting"
+    },
+    {
+        "action": "TALK",
+        "time": "18:33:53",
+        "time_int": 66833,
+        "user": "RenjuTeacher",
+        "content": "but not clear of the outcome"
+    },
+    {
+        "action": "TALK",
+        "time": "18:33:59",
+        "time_int": 66839,
+        "user": "RenjuTeacher",
+        "content": "which is a good hw situation"
+    },
+    {
+        "action": "TALK",
+        "time": "18:34:06",
+        "time_int": 66846,
+        "user": "RenjuTeacher",
+        "content": ":)"
+    },
+    {
+        "action": "TALK",
+        "time": "18:34:08",
+        "time_int": 66848,
+        "user": "luwenzhe",
+        "content": ":)"
+    },
+    {
+        "action": "TALK",
+        "time": "18:34:18",
+        "time_int": 66858,
+        "user": "RenjuTeacher",
+        "content": "you will all have the chance to study at home"
+    },
+    {
+        "action": "TALK",
+        "time": "18:34:22",
+        "time_int": 66862,
+        "user": "RenjuTeacher",
+        "content": "and find the answers"
+    },
+    {
+        "action": "TALK",
+        "time": "18:34:25",
+        "time_int": 66865,
+        "user": "luwenzhe",
+        "content": "Fermat will be Master after this class :)"
+    },
+    {
+        "action": "TALK",
+        "time": "18:34:37",
+        "time_int": 66877,
+        "user": "luwenzhe",
+        "content": "99cp now"
+    },
+    {
+        "action": "TALK",
+        "time": "18:34:41",
+        "time_int": 66881,
+        "user": "Before",
+        "content": "wow"
+    },
+    {
+        "action": "TALK",
+        "time": "18:34:44",
+        "time_int": 66884,
+        "user": "SamSite",
+        "content": "congrats to Fermat"
+    },
+    {
+        "action": "TALK",
+        "time": "18:34:48",
+        "time_int": 66888,
+        "user": "Before",
+        "content": "congrats"
+    },
+    {
+        "action": "TALK",
+        "time": "18:34:49",
+        "time_int": 66889,
+        "user": "Fermat",
+        "content": "thanks:)"
+    },
+    {
+        "action": "TALK",
+        "time": "18:35:27",
+        "time_int": 66927,
+        "user": "RenjuTeacher",
+        "content": "hereby, we will end this nice lesson! We learned about great new 16th move by Fedorking, followed by wonderful 20th move. We had an opportunity to learn about Tarannikov, and something about the history of renju and gomoku, I hope you all enjoyed it."
+    },
+    {
+        "action": "TALK",
+        "time": "18:35:37",
+        "time_int": 66937,
+        "user": "RenjuTeacher",
+        "content": "See you all next week! :)"
+    },
+    {
+        "action": "TALK",
+        "time": "18:35:41",
+        "time_int": 66941,
+        "user": "Xespok",
+        "content": "thx"
+    },
+    {
+        "action": "TALK",
+        "time": "18:35:43",
+        "time_int": 66943,
+        "user": "luwenzhe",
+        "content": "thanks RT"
+    },
+    {
+        "action": "CREDIT",
+        "time": "18:35:43",
+        "time_int": 66943,
+        "user": "",
+        "content": " Before, coco_yuang, Fermat, Intotherenju, LiuJianping, luwenzhe, pengyu, Red_Zombie, SamSite, scm2000, slamduk, tianxia, virag, weigui, whte, Xespok."
+    }
+]

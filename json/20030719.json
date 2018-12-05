@@ -1,0 +1,5749 @@
+[
+    {
+        "action": "RESET",
+        "time": "09:36:44",
+        "time_int": 34604,
+        "user": "",
+        "content": "001000KN"
+    },
+    {
+        "action": "TALK",
+        "time": "09:37:13",
+        "time_int": 34633,
+        "user": "tieuphilac",
+        "content": ".."
+    },
+    {
+        "action": "TALK",
+        "time": "09:37:19",
+        "time_int": 34639,
+        "user": "GrandMaster",
+        "content": "hello, everyone. Welcome to theory lesson."
+    },
+    {
+        "action": "TALK",
+        "time": "09:37:21",
+        "time_int": 34641,
+        "user": "Chancewu",
+        "content": "hello GM RT"
+    },
+    {
+        "action": "TALK",
+        "time": "09:37:21",
+        "time_int": 34641,
+        "user": "tunnet99",
+        "content": "hi"
+    },
+    {
+        "action": "TALK",
+        "time": "09:37:23",
+        "time_int": 34643,
+        "user": "aivo",
+        "content": "hi"
+    },
+    {
+        "action": "TALK",
+        "time": "09:37:27",
+        "time_int": 34647,
+        "user": "kingaxx",
+        "content": "hi"
+    },
+    {
+        "action": "TALK",
+        "time": "09:37:34",
+        "time_int": 34654,
+        "user": "leto",
+        "content": "helo GM!"
+    },
+    {
+        "action": "TALK",
+        "time": "09:37:38",
+        "time_int": 34658,
+        "user": "zemeban",
+        "content": "hi"
+    },
+    {
+        "action": "TALK",
+        "time": "09:37:39",
+        "time_int": 34659,
+        "user": "alcore",
+        "content": "hi GM"
+    },
+    {
+        "action": "TALK",
+        "time": "09:37:39",
+        "time_int": 34659,
+        "user": "shuwang",
+        "content": "hello,GM"
+    },
+    {
+        "action": "TALK",
+        "time": "09:37:40",
+        "time_int": 34660,
+        "user": "virag",
+        "content": "hello Gm"
+    },
+    {
+        "action": "TALK",
+        "time": "09:37:43",
+        "time_int": 34663,
+        "user": "tieuphilac",
+        "content": "hello GM"
+    },
+    {
+        "action": "TALK",
+        "time": "09:37:46",
+        "time_int": 34666,
+        "user": "GrandMaster",
+        "content": "It's the last part of D1 opening."
+    },
+    {
+        "action": "MOVE",
+        "time": "09:37:49",
+        "time_int": 34669,
+        "user": "GrandMaster",
+        "content": "88"
+    },
+    {
+        "action": "MOVE",
+        "time": "09:37:50",
+        "time_int": 34670,
+        "user": "GrandMaster",
+        "content": "89"
+    },
+    {
+        "action": "TALK",
+        "time": "09:37:51",
+        "time_int": 34671,
+        "user": "Intotherenju",
+        "content": "seems late"
+    },
+    {
+        "action": "MOVE",
+        "time": "09:37:51",
+        "time_int": 34671,
+        "user": "GrandMaster",
+        "content": "8a"
+    },
+    {
+        "action": "TALK",
+        "time": "09:38:01",
+        "time_int": 34681,
+        "user": "Chancewu",
+        "content": "en"
+    },
+    {
+        "action": "TALK",
+        "time": "09:38:15",
+        "time_int": 34695,
+        "user": "GrandMaster",
+        "content": "we have learned main variants of D1"
+    },
+    {
+        "action": "TALK",
+        "time": "09:38:34",
+        "time_int": 34714,
+        "user": "GrandMaster",
+        "content": "and in this lesson, we will check some weaker 4th moves"
+    },
+    {
+        "action": "MOVE",
+        "time": "09:38:38",
+        "time_int": 34718,
+        "user": "GrandMaster",
+        "content": "8b"
+    },
+    {
+        "action": "TALK",
+        "time": "09:39:22",
+        "time_int": 34762,
+        "user": "tieuphilac",
+        "content": "ok"
+    },
+    {
+        "action": "TALK",
+        "time": "09:39:49",
+        "time_int": 34789,
+        "user": "GrandMaster",
+        "content": "this 4th move seems very weak, but if no theory knowledege, not very easy to find sure win in real games"
+    },
+    {
+        "action": "TALK",
+        "time": "09:39:50",
+        "time_int": 34790,
+        "user": "Chancewu",
+        "content": "I7 I9"
+    },
+    {
+        "action": "TALK",
+        "time": "09:40:15",
+        "time_int": 34815,
+        "user": "GrandMaster",
+        "content": "Chancewu get the right 5th moves"
+    },
+    {
+        "action": "TALK",
+        "time": "09:40:38",
+        "time_int": 34838,
+        "user": "GrandMaster",
+        "content": "5-i9 is the main 5th move"
+    },
+    {
+        "action": "TALK",
+        "time": "09:40:41",
+        "time_int": 34841,
+        "user": "shuwang",
+        "content": "i9=g9"
+    },
+    {
+        "action": "TALK",
+        "time": "09:40:55",
+        "time_int": 34855,
+        "user": "Chancewu",
+        "content": "i9=g9  ?"
+    },
+    {
+        "action": "TALK",
+        "time": "09:41:04",
+        "time_int": 34864,
+        "user": "GrandMaster",
+        "content": "and i7 is the alternative one"
+    },
+    {
+        "action": "TALK",
+        "time": "09:41:21",
+        "time_int": 34881,
+        "user": "GrandMaster",
+        "content": "both give black sure win"
+    },
+    {
+        "action": "MOVE",
+        "time": "09:41:25",
+        "time_int": 34885,
+        "user": "GrandMaster",
+        "content": "99"
+    },
+    {
+        "action": "TALK",
+        "time": "09:41:46",
+        "time_int": 34906,
+        "user": "GrandMaster",
+        "content": "The 5-th move allows carrying out classical attack on diagonals."
+    },
+    {
+        "action": "TALK",
+        "time": "09:42:17",
+        "time_int": 34937,
+        "user": "GrandMaster",
+        "content": "which 6th move will we check first?"
+    },
+    {
+        "action": "TALK",
+        "time": "09:42:29",
+        "time_int": 34949,
+        "user": "leto",
+        "content": "j8?"
+    },
+    {
+        "action": "TALK",
+        "time": "09:42:40",
+        "time_int": 34960,
+        "user": "kingaxx",
+        "content": "j8"
+    },
+    {
+        "action": "TALK",
+        "time": "09:42:43",
+        "time_int": 34963,
+        "user": "shuwang",
+        "content": "j8"
+    },
+    {
+        "action": "TALK",
+        "time": "09:42:43",
+        "time_int": 34963,
+        "user": "tieuphilac",
+        "content": "i am here"
+    },
+    {
+        "action": "TALK",
+        "time": "09:42:46",
+        "time_int": 34966,
+        "user": "tieuphilac",
+        "content": "pheww"
+    },
+    {
+        "action": "TALK",
+        "time": "09:42:50",
+        "time_int": 34970,
+        "user": "tieuphilac",
+        "content": "lags"
+    },
+    {
+        "action": "TALK",
+        "time": "09:42:54",
+        "time_int": 34974,
+        "user": "tieuphilac",
+        "content": "i10"
+    },
+    {
+        "action": "CHECKRESULT",
+        "time": "09:43:09",
+        "time_int": 34989,
+        "user": "",
+        "content": " pantrike, kingaxx, leto, concord2497, zemeban, LiuJianping, shuwang, fallnavy, tunnet99, alcore, moocheng, Chancewu, tieuphilac, virag."
+    },
+    {
+        "action": "TALK",
+        "time": "09:43:12",
+        "time_int": 34992,
+        "user": "GrandMaster",
+        "content": "ok, j8 first"
+    },
+    {
+        "action": "MOVE",
+        "time": "09:43:14",
+        "time_int": 34994,
+        "user": "GrandMaster",
+        "content": "a8"
+    },
+    {
+        "action": "MOVE",
+        "time": "09:43:27",
+        "time_int": 35007,
+        "user": "GrandMaster",
+        "content": "79"
+    },
+    {
+        "action": "TALK",
+        "time": "09:43:44",
+        "time_int": 35024,
+        "user": "GrandMaster",
+        "content": "this is the winning move"
+    },
+    {
+        "action": "TALK",
+        "time": "09:43:53",
+        "time_int": 35033,
+        "user": "GrandMaster",
+        "content": "completely suppressing the contender"
+    },
+    {
+        "action": "TALK",
+        "time": "09:44:11",
+        "time_int": 35051,
+        "user": "GrandMaster",
+        "content": "black get two active pairs now"
+    },
+    {
+        "action": "TALK",
+        "time": "09:44:27",
+        "time_int": 35067,
+        "user": "GrandMaster",
+        "content": "white difficult to choose defence move"
+    },
+    {
+        "action": "MOVE",
+        "time": "09:44:36",
+        "time_int": 35076,
+        "user": "GrandMaster",
+        "content": "68"
+    },
+    {
+        "action": "TALK",
+        "time": "09:44:41",
+        "time_int": 35081,
+        "user": "GrandMaster",
+        "content": "if 8 here"
+    },
+    {
+        "action": "TALK",
+        "time": "09:44:45",
+        "time_int": 35085,
+        "user": "GrandMaster",
+        "content": "easy vct"
+    },
+    {
+        "action": "MOVE",
+        "time": "09:44:47",
+        "time_int": 35087,
+        "user": "GrandMaster",
+        "content": "6a"
+    },
+    {
+        "action": "MOVE",
+        "time": "09:44:48",
+        "time_int": 35088,
+        "user": "GrandMaster",
+        "content": "97"
+    },
+    {
+        "action": "MOVE",
+        "time": "09:44:49",
+        "time_int": 35089,
+        "user": "GrandMaster",
+        "content": "7a"
+    },
+    {
+        "action": "MOVE",
+        "time": "09:44:56",
+        "time_int": 35096,
+        "user": "GrandMaster",
+        "content": "9a"
+    },
+    {
+        "action": "MOVE",
+        "time": "09:44:57",
+        "time_int": 35097,
+        "user": "GrandMaster",
+        "content": "6c"
+    },
+    {
+        "action": "MOVE",
+        "time": "09:45:00",
+        "time_int": 35100,
+        "user": "GrandMaster",
+        "content": "7b"
+    },
+    {
+        "action": "MOVE",
+        "time": "09:45:01",
+        "time_int": 35101,
+        "user": "GrandMaster",
+        "content": "5b"
+    },
+    {
+        "action": "MOVE",
+        "time": "09:45:02",
+        "time_int": 35102,
+        "user": "GrandMaster",
+        "content": "4c"
+    },
+    {
+        "action": "MOVE",
+        "time": "09:45:06",
+        "time_int": 35106,
+        "user": "GrandMaster",
+        "content": "4a"
+    },
+    {
+        "action": "GOTO",
+        "time": "09:45:19",
+        "time_int": 35119,
+        "user": "GrandMaster",
+        "content": 7
+    },
+    {
+        "action": "MOVE",
+        "time": "09:45:21",
+        "time_int": 35121,
+        "user": "GrandMaster",
+        "content": "9a"
+    },
+    {
+        "action": "TALK",
+        "time": "09:45:36",
+        "time_int": 35136,
+        "user": "GrandMaster",
+        "content": "if here"
+    },
+    {
+        "action": "TALK",
+        "time": "09:45:50",
+        "time_int": 35150,
+        "user": "GrandMaster",
+        "content": "who want to show black win, sat me"
+    },
+    {
+        "action": "TALK",
+        "time": "09:46:06",
+        "time_int": 35166,
+        "user": "tieuphilac",
+        "content": "me"
+    },
+    {
+        "action": "MOVE",
+        "time": "09:46:16",
+        "time_int": 35176,
+        "user": "tieuphilac",
+        "content": "77"
+    },
+    {
+        "action": "MOVE",
+        "time": "09:46:23",
+        "time_int": 35183,
+        "user": "GrandMaster",
+        "content": "66"
+    },
+    {
+        "action": "TALK",
+        "time": "09:46:26",
+        "time_int": 35186,
+        "user": "leto",
+        "content": "tieu is so fast..."
+    },
+    {
+        "action": "MOVE",
+        "time": "09:46:30",
+        "time_int": 35190,
+        "user": "tieuphilac",
+        "content": "68"
+    },
+    {
+        "action": "TALK",
+        "time": "09:46:38",
+        "time_int": 35198,
+        "user": "tieuphilac",
+        "content": "lagss"
+    },
+    {
+        "action": "MOVE",
+        "time": "09:46:38",
+        "time_int": 35198,
+        "user": "GrandMaster",
+        "content": "57"
+    },
+    {
+        "action": "MOVE",
+        "time": "09:46:50",
+        "time_int": 35210,
+        "user": "tieuphilac",
+        "content": "4a"
+    },
+    {
+        "action": "MOVE",
+        "time": "09:46:56",
+        "time_int": 35216,
+        "user": "GrandMaster",
+        "content": "59"
+    },
+    {
+        "action": "TALK",
+        "time": "09:47:03",
+        "time_int": 35223,
+        "user": "leto",
+        "content": "nice!"
+    },
+    {
+        "action": "MOVE",
+        "time": "09:47:04",
+        "time_int": 35224,
+        "user": "tieuphilac",
+        "content": "7a"
+    },
+    {
+        "action": "MOVE",
+        "time": "09:47:07",
+        "time_int": 35227,
+        "user": "GrandMaster",
+        "content": "78"
+    },
+    {
+        "action": "MOVE",
+        "time": "09:47:13",
+        "time_int": 35233,
+        "user": "tieuphilac",
+        "content": "6a"
+    },
+    {
+        "action": "TALK",
+        "time": "09:47:18",
+        "time_int": 35238,
+        "user": "GrandMaster",
+        "content": "good"
+    },
+    {
+        "action": "TALK",
+        "time": "09:47:29",
+        "time_int": 35249,
+        "user": "tieuphilac",
+        "content": "thank you, GM"
+    },
+    {
+        "action": "TALK",
+        "time": "09:47:41",
+        "time_int": 35261,
+        "user": "GrandMaster",
+        "content": "so strong black attack"
+    },
+    {
+        "action": "GOTO",
+        "time": "09:47:47",
+        "time_int": 35267,
+        "user": "GrandMaster",
+        "content": 5
+    },
+    {
+        "action": "MOVE",
+        "time": "09:47:55",
+        "time_int": 35275,
+        "user": "GrandMaster",
+        "content": "9a"
+    },
+    {
+        "action": "MOVE",
+        "time": "09:48:07",
+        "time_int": 35287,
+        "user": "GrandMaster",
+        "content": "a8"
+    },
+    {
+        "action": "TALK",
+        "time": "09:48:17",
+        "time_int": 35297,
+        "user": "GrandMaster",
+        "content": "now u or d?"
+    },
+    {
+        "action": "TALK",
+        "time": "09:48:24",
+        "time_int": 35304,
+        "user": "leto",
+        "content": "d"
+    },
+    {
+        "action": "MOVE",
+        "time": "09:48:39",
+        "time_int": 35319,
+        "user": "GrandMaster",
+        "content": "b7"
+    },
+    {
+        "action": "MOVE",
+        "time": "09:48:41",
+        "time_int": 35321,
+        "user": "GrandMaster",
+        "content": "77"
+    },
+    {
+        "action": "TALK",
+        "time": "09:48:43",
+        "time_int": 35323,
+        "user": "tieuphilac",
+        "content": "up"
+    },
+    {
+        "action": "MOVE",
+        "time": "09:48:50",
+        "time_int": 35330,
+        "user": "GrandMaster",
+        "content": "66"
+    },
+    {
+        "action": "TALK",
+        "time": "09:49:02",
+        "time_int": 35342,
+        "user": "virag",
+        "content": "d"
+    },
+    {
+        "action": "TALK",
+        "time": "09:49:06",
+        "time_int": 35346,
+        "user": "GrandMaster",
+        "content": "we have such mediuem hw before"
+    },
+    {
+        "action": "TALK",
+        "time": "09:49:15",
+        "time_int": 35355,
+        "user": "paradise",
+        "content": "y"
+    },
+    {
+        "action": "TALK",
+        "time": "09:49:17",
+        "time_int": 35357,
+        "user": "GrandMaster",
+        "content": "find black sure win"
+    },
+    {
+        "action": "TALK",
+        "time": "09:49:26",
+        "time_int": 35366,
+        "user": "GrandMaster",
+        "content": "what is the answer?"
+    },
+    {
+        "action": "TALK",
+        "time": "09:49:54",
+        "time_int": 35394,
+        "user": "GrandMaster",
+        "content": "no one knows?"
+    },
+    {
+        "action": "TALK",
+        "time": "09:49:57",
+        "time_int": 35397,
+        "user": "paradise",
+        "content": "G8"
+    },
+    {
+        "action": "MOVE",
+        "time": "09:50:01",
+        "time_int": 35401,
+        "user": "GrandMaster",
+        "content": "78"
+    },
+    {
+        "action": "TALK",
+        "time": "09:50:04",
+        "time_int": 35404,
+        "user": "GrandMaster",
+        "content": "yes"
+    },
+    {
+        "action": "TALK",
+        "time": "09:50:07",
+        "time_int": 35407,
+        "user": "tieuphilac",
+        "content": "g8"
+    },
+    {
+        "action": "MOVE",
+        "time": "09:50:17",
+        "time_int": 35417,
+        "user": "GrandMaster",
+        "content": "75"
+    },
+    {
+        "action": "BACK",
+        "time": "09:50:19",
+        "time_int": 35419,
+        "user": "GrandMaster",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time": "09:50:19",
+        "time_int": 35419,
+        "user": "GrandMaster",
+        "content": "98"
+    },
+    {
+        "action": "MOVE",
+        "time": "09:50:20",
+        "time_int": 35420,
+        "user": "GrandMaster",
+        "content": "75"
+    },
+    {
+        "action": "MOVE",
+        "time": "09:50:26",
+        "time_int": 35426,
+        "user": "GrandMaster",
+        "content": "79"
+    },
+    {
+        "action": "MOVE",
+        "time": "09:50:29",
+        "time_int": 35429,
+        "user": "GrandMaster",
+        "content": "86"
+    },
+    {
+        "action": "MOVE",
+        "time": "09:50:30",
+        "time_int": 35430,
+        "user": "GrandMaster",
+        "content": "97"
+    },
+    {
+        "action": "MOVE",
+        "time": "09:50:31",
+        "time_int": 35431,
+        "user": "GrandMaster",
+        "content": "95"
+    },
+    {
+        "action": "MOVE",
+        "time": "09:50:40",
+        "time_int": 35440,
+        "user": "GrandMaster",
+        "content": "a4"
+    },
+    {
+        "action": "MOVE",
+        "time": "09:50:44",
+        "time_int": 35444,
+        "user": "GrandMaster",
+        "content": "85"
+    },
+    {
+        "action": "MOVE",
+        "time": "09:50:44",
+        "time_int": 35444,
+        "user": "GrandMaster",
+        "content": "65"
+    },
+    {
+        "action": "MOVE",
+        "time": "09:50:49",
+        "time_int": 35449,
+        "user": "GrandMaster",
+        "content": "68"
+    },
+    {
+        "action": "MOVE",
+        "time": "09:50:50",
+        "time_int": 35450,
+        "user": "GrandMaster",
+        "content": "59"
+    },
+    {
+        "action": "MOVE",
+        "time": "09:50:51",
+        "time_int": 35451,
+        "user": "GrandMaster",
+        "content": "76"
+    },
+    {
+        "action": "MOVE",
+        "time": "09:50:52",
+        "time_int": 35452,
+        "user": "GrandMaster",
+        "content": "74"
+    },
+    {
+        "action": "MOVE",
+        "time": "09:50:54",
+        "time_int": 35454,
+        "user": "GrandMaster",
+        "content": "58"
+    },
+    {
+        "action": "TALK",
+        "time": "09:51:10",
+        "time_int": 35470,
+        "user": "GrandMaster",
+        "content": "not difficlut to find win"
+    },
+    {
+        "action": "TALK",
+        "time": "09:51:25",
+        "time_int": 35485,
+        "user": "tieuphilac",
+        "content": "many ways"
+    },
+    {
+        "action": "TALK",
+        "time": "09:51:36",
+        "time_int": 35496,
+        "user": "leto",
+        "content": "is not dificult if u are GM :)"
+    },
+    {
+        "action": "GOTO",
+        "time": "09:51:54",
+        "time_int": 35514,
+        "user": "GrandMaster",
+        "content": 9
+    },
+    {
+        "action": "MOVE",
+        "time": "09:51:56",
+        "time_int": 35516,
+        "user": "GrandMaster",
+        "content": "aa"
+    },
+    {
+        "action": "TALK",
+        "time": "09:52:19",
+        "time_int": 35539,
+        "user": "tieuphilac",
+        "content": "same g8"
+    },
+    {
+        "action": "MOVE",
+        "time": "09:52:22",
+        "time_int": 35542,
+        "user": "GrandMaster",
+        "content": "78"
+    },
+    {
+        "action": "MOVE",
+        "time": "09:52:24",
+        "time_int": 35544,
+        "user": "GrandMaster",
+        "content": "68"
+    },
+    {
+        "action": "MOVE",
+        "time": "09:52:25",
+        "time_int": 35545,
+        "user": "GrandMaster",
+        "content": "75"
+    },
+    {
+        "action": "TALK",
+        "time": "09:52:27",
+        "time_int": 35547,
+        "user": "virag",
+        "content": "hi ando"
+    },
+    {
+        "action": "TALK",
+        "time": "09:52:30",
+        "time_int": 35550,
+        "user": "Chancewu",
+        "content": "hello dear ando"
+    },
+    {
+        "action": "TALK",
+        "time": "09:52:42",
+        "time_int": 35562,
+        "user": "Chancewu",
+        "content": "win"
+    },
+    {
+        "action": "MOVE",
+        "time": "09:52:45",
+        "time_int": 35565,
+        "user": "GrandMaster",
+        "content": "79"
+    },
+    {
+        "action": "TALK",
+        "time": "09:52:46",
+        "time_int": 35566,
+        "user": "LiuJianping",
+        "content": "hello Ando"
+    },
+    {
+        "action": "MOVE",
+        "time": "09:52:51",
+        "time_int": 35571,
+        "user": "GrandMaster",
+        "content": "86"
+    },
+    {
+        "action": "TALK",
+        "time": "09:53:04",
+        "time_int": 35584,
+        "user": "leto",
+        "content": "yes"
+    },
+    {
+        "action": "TALK",
+        "time": "09:53:04",
+        "time_int": 35584,
+        "user": "GrandMaster",
+        "content": "easy win"
+    },
+    {
+        "action": "TALK",
+        "time": "09:53:06",
+        "time_int": 35586,
+        "user": "leto",
+        "content": "win!"
+    },
+    {
+        "action": "GOTO",
+        "time": "09:53:20",
+        "time_int": 35600,
+        "user": "GrandMaster",
+        "content": 7
+    },
+    {
+        "action": "MOVE",
+        "time": "09:53:21",
+        "time_int": 35601,
+        "user": "GrandMaster",
+        "content": "7b"
+    },
+    {
+        "action": "TALK",
+        "time": "09:53:26",
+        "time_int": 35606,
+        "user": "leto",
+        "content": "even I , can see it..."
+    },
+    {
+        "action": "MOVE",
+        "time": "09:53:29",
+        "time_int": 35609,
+        "user": "GrandMaster",
+        "content": "aa"
+    },
+    {
+        "action": "MOVE",
+        "time": "09:53:36",
+        "time_int": 35616,
+        "user": "GrandMaster",
+        "content": "bb"
+    },
+    {
+        "action": "MOVE",
+        "time": "09:53:38",
+        "time_int": 35618,
+        "user": "GrandMaster",
+        "content": "ab"
+    },
+    {
+        "action": "TALK",
+        "time": "09:53:42",
+        "time_int": 35622,
+        "user": "tieuphilac",
+        "content": "leto :-)"
+    },
+    {
+        "action": "MOVE",
+        "time": "09:53:47",
+        "time_int": 35627,
+        "user": "GrandMaster",
+        "content": "a9"
+    },
+    {
+        "action": "MOVE",
+        "time": "09:53:48",
+        "time_int": 35628,
+        "user": "GrandMaster",
+        "content": "b8"
+    },
+    {
+        "action": "MOVE",
+        "time": "09:53:49",
+        "time_int": 35629,
+        "user": "GrandMaster",
+        "content": "98"
+    },
+    {
+        "action": "MOVE",
+        "time": "09:53:51",
+        "time_int": 35631,
+        "user": "GrandMaster",
+        "content": "b7"
+    },
+    {
+        "action": "MOVE",
+        "time": "09:53:52",
+        "time_int": 35632,
+        "user": "GrandMaster",
+        "content": "c6"
+    },
+    {
+        "action": "MOVE",
+        "time": "09:53:53",
+        "time_int": 35633,
+        "user": "GrandMaster",
+        "content": "b6"
+    },
+    {
+        "action": "TALK",
+        "time": "09:54:06",
+        "time_int": 35646,
+        "user": "GrandMaster",
+        "content": "which side now?"
+    },
+    {
+        "action": "TALK",
+        "time": "09:54:07",
+        "time_int": 35647,
+        "user": "kingaxx",
+        "content": "D"
+    },
+    {
+        "action": "TALK",
+        "time": "09:54:17",
+        "time_int": 35657,
+        "user": "leto",
+        "content": "u"
+    },
+    {
+        "action": "TALK",
+        "time": "09:54:26",
+        "time_int": 35666,
+        "user": "Chancewu",
+        "content": "d"
+    },
+    {
+        "action": "MOVE",
+        "time": "09:54:31",
+        "time_int": 35671,
+        "user": "GrandMaster",
+        "content": "b5"
+    },
+    {
+        "action": "MOVE",
+        "time": "09:54:32",
+        "time_int": 35672,
+        "user": "GrandMaster",
+        "content": "ba"
+    },
+    {
+        "action": "MOVE",
+        "time": "09:54:33",
+        "time_int": 35673,
+        "user": "GrandMaster",
+        "content": "b9"
+    },
+    {
+        "action": "MOVE",
+        "time": "09:54:33",
+        "time_int": 35673,
+        "user": "GrandMaster",
+        "content": "c9"
+    },
+    {
+        "action": "MOVE",
+        "time": "09:54:47",
+        "time_int": 35687,
+        "user": "GrandMaster",
+        "content": "d8"
+    },
+    {
+        "action": "MOVE",
+        "time": "09:54:53",
+        "time_int": 35693,
+        "user": "GrandMaster",
+        "content": "a7"
+    },
+    {
+        "action": "TALK",
+        "time": "09:54:55",
+        "time_int": 35695,
+        "user": "Chancewu",
+        "content": "win"
+    },
+    {
+        "action": "TALK",
+        "time": "09:55:16",
+        "time_int": 35716,
+        "user": "GrandMaster",
+        "content": "y"
+    },
+    {
+        "action": "MOVE",
+        "time": "09:55:27",
+        "time_int": 35727,
+        "user": "GrandMaster",
+        "content": "96"
+    },
+    {
+        "action": "TALK",
+        "time": "09:55:29",
+        "time_int": 35729,
+        "user": "Chancewu",
+        "content": "hehe"
+    },
+    {
+        "action": "MOVE",
+        "time": "09:55:33",
+        "time_int": 35733,
+        "user": "Chancewu",
+        "content": "da"
+    },
+    {
+        "action": "MOVE",
+        "time": "09:55:35",
+        "time_int": 35735,
+        "user": "GrandMaster",
+        "content": "eb"
+    },
+    {
+        "action": "MOVE",
+        "time": "09:55:40",
+        "time_int": 35740,
+        "user": "Chancewu",
+        "content": "77"
+    },
+    {
+        "action": "MOVE",
+        "time": "09:55:42",
+        "time_int": 35742,
+        "user": "GrandMaster",
+        "content": "66"
+    },
+    {
+        "action": "TALK",
+        "time": "09:56:23",
+        "time_int": 35783,
+        "user": "GrandMaster",
+        "content": "then?"
+    },
+    {
+        "action": "TALK",
+        "time": "09:56:29",
+        "time_int": 35789,
+        "user": "Chancewu",
+        "content": "??  iam wrong"
+    },
+    {
+        "action": "TALK",
+        "time": "09:56:33",
+        "time_int": 35793,
+        "user": "Chancewu",
+        "content": "faint"
+    },
+    {
+        "action": "TALK",
+        "time": "09:56:40",
+        "time_int": 35800,
+        "user": "kingaxx",
+        "content": "me"
+    },
+    {
+        "action": "TALK",
+        "time": "09:56:41",
+        "time_int": 35801,
+        "user": "tieuphilac",
+        "content": "around the stones"
+    },
+    {
+        "action": "TALK",
+        "time": "09:56:42",
+        "time_int": 35802,
+        "user": "LiuJianping",
+        "content": "l11"
+    },
+    {
+        "action": "TALK",
+        "time": "09:56:50",
+        "time_int": 35810,
+        "user": "Chancewu",
+        "content": "i have not see the 18"
+    },
+    {
+        "action": "TALK",
+        "time": "09:56:52",
+        "time_int": 35812,
+        "user": "GrandMaster",
+        "content": "go on, it is right now"
+    },
+    {
+        "action": "MOVE",
+        "time": "09:56:59",
+        "time_int": 35819,
+        "user": "Chancewu",
+        "content": "79"
+    },
+    {
+        "action": "TALK",
+        "time": "09:57:05",
+        "time_int": 35825,
+        "user": "Chancewu",
+        "content": "MINGT"
+    },
+    {
+        "action": "MOVE",
+        "time": "09:57:17",
+        "time_int": 35837,
+        "user": "GrandMaster",
+        "content": "87"
+    },
+    {
+        "action": "TALK",
+        "time": "09:57:20",
+        "time_int": 35840,
+        "user": "GrandMaster",
+        "content": "oh"
+    },
+    {
+        "action": "TALK",
+        "time": "09:57:34",
+        "time_int": 35854,
+        "user": "GrandMaster",
+        "content": "29 wrong:)"
+    },
+    {
+        "action": "TALK",
+        "time": "09:57:39",
+        "time_int": 35859,
+        "user": "Chancewu",
+        "content": "en"
+    },
+    {
+        "action": "BACK",
+        "time": "09:57:40",
+        "time_int": 35860,
+        "user": "Chancewu",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time": "09:57:41",
+        "time_int": 35861,
+        "user": "Chancewu",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time": "09:57:45",
+        "time_int": 35865,
+        "user": "Chancewu",
+        "content": "cc"
+    },
+    {
+        "action": "TALK",
+        "time": "09:57:55",
+        "time_int": 35875,
+        "user": "LiuJianping",
+        "content": "L11?"
+    },
+    {
+        "action": "MOVE",
+        "time": "09:58:14",
+        "time_int": 35894,
+        "user": "GrandMaster",
+        "content": "6d"
+    },
+    {
+        "action": "MOVE",
+        "time": "09:58:17",
+        "time_int": 35897,
+        "user": "Chancewu",
+        "content": "7c"
+    },
+    {
+        "action": "MOVE",
+        "time": "09:58:20",
+        "time_int": 35900,
+        "user": "GrandMaster",
+        "content": "cb"
+    },
+    {
+        "action": "TALK",
+        "time": "09:58:21",
+        "time_int": 35901,
+        "user": "Chancewu",
+        "content": "oh"
+    },
+    {
+        "action": "TALK",
+        "time": "09:58:36",
+        "time_int": 35916,
+        "user": "GrandMaster",
+        "content": "30 is needed"
+    },
+    {
+        "action": "MOVE",
+        "time": "09:58:53",
+        "time_int": 35933,
+        "user": "Chancewu",
+        "content": "bd"
+    },
+    {
+        "action": "TALK",
+        "time": "09:59:28",
+        "time_int": 35968,
+        "user": "GrandMaster",
+        "content": "seems no win now"
+    },
+    {
+        "action": "TALK",
+        "time": "09:59:29",
+        "time_int": 35969,
+        "user": "tieuphilac",
+        "content": ".."
+    },
+    {
+        "action": "MOVE",
+        "time": "09:59:31",
+        "time_int": 35971,
+        "user": "GrandMaster",
+        "content": "db"
+    },
+    {
+        "action": "MOVE",
+        "time": "09:59:32",
+        "time_int": 35972,
+        "user": "GrandMaster",
+        "content": "fb"
+    },
+    {
+        "action": "MOVE",
+        "time": "09:59:55",
+        "time_int": 35995,
+        "user": "GrandMaster",
+        "content": "6b"
+    },
+    {
+        "action": "TALK",
+        "time": "10:00:12",
+        "time_int": 36012,
+        "user": "GrandMaster",
+        "content": "you want to go on?"
+    },
+    {
+        "action": "TALK",
+        "time": "10:00:16",
+        "time_int": 36016,
+        "user": "GrandMaster",
+        "content": "or others?"
+    },
+    {
+        "action": "TALK",
+        "time": "10:00:17",
+        "time_int": 36017,
+        "user": "Chancewu",
+        "content": "no"
+    },
+    {
+        "action": "TALK",
+        "time": "10:00:23",
+        "time_int": 36023,
+        "user": "GrandMaster",
+        "content": "ok thank you"
+    },
+    {
+        "action": "TALK",
+        "time": "10:00:37",
+        "time_int": 36037,
+        "user": "GrandMaster",
+        "content": "who else?"
+    },
+    {
+        "action": "TALK",
+        "time": "10:00:38",
+        "time_int": 36038,
+        "user": "kingaxx",
+        "content": "ME"
+    },
+    {
+        "action": "GOTO",
+        "time": "10:00:58",
+        "time_int": 36058,
+        "user": "kingaxx",
+        "content": 27
+    },
+    {
+        "action": "MOVE",
+        "time": "10:01:02",
+        "time_int": 36062,
+        "user": "GrandMaster",
+        "content": "66"
+    },
+    {
+        "action": "MOVE",
+        "time": "10:01:06",
+        "time_int": 36066,
+        "user": "kingaxx",
+        "content": "ca"
+    },
+    {
+        "action": "MOVE",
+        "time": "10:01:10",
+        "time_int": 36070,
+        "user": "GrandMaster",
+        "content": "ea"
+    },
+    {
+        "action": "MOVE",
+        "time": "10:01:11",
+        "time_int": 36071,
+        "user": "kingaxx",
+        "content": "cb"
+    },
+    {
+        "action": "MOVE",
+        "time": "10:01:18",
+        "time_int": 36078,
+        "user": "GrandMaster",
+        "content": "c8"
+    },
+    {
+        "action": "MOVE",
+        "time": "10:01:22",
+        "time_int": 36082,
+        "user": "kingaxx",
+        "content": "bc"
+    },
+    {
+        "action": "MOVE",
+        "time": "10:01:38",
+        "time_int": 36098,
+        "user": "GrandMaster",
+        "content": "6d"
+    },
+    {
+        "action": "MOVE",
+        "time": "10:01:40",
+        "time_int": 36100,
+        "user": "kingaxx",
+        "content": "7c"
+    },
+    {
+        "action": "MOVE",
+        "time": "10:01:41",
+        "time_int": 36101,
+        "user": "GrandMaster",
+        "content": "ad"
+    },
+    {
+        "action": "TALK",
+        "time": "10:01:45",
+        "time_int": 36105,
+        "user": "tieuphilac",
+        "content": "gg"
+    },
+    {
+        "action": "MOVE",
+        "time": "10:02:01",
+        "time_int": 36121,
+        "user": "kingaxx",
+        "content": "e9"
+    },
+    {
+        "action": "MOVE",
+        "time": "10:02:03",
+        "time_int": 36123,
+        "user": "GrandMaster",
+        "content": "f8"
+    },
+    {
+        "action": "TALK",
+        "time": "10:02:04",
+        "time_int": 36124,
+        "user": "Chancewu",
+        "content": "hehe it is right"
+    },
+    {
+        "action": "MOVE",
+        "time": "10:02:05",
+        "time_int": 36125,
+        "user": "kingaxx",
+        "content": "79"
+    },
+    {
+        "action": "MOVE",
+        "time": "10:02:15",
+        "time_int": 36135,
+        "user": "GrandMaster",
+        "content": "97"
+    },
+    {
+        "action": "MOVE",
+        "time": "10:02:17",
+        "time_int": 36137,
+        "user": "kingaxx",
+        "content": "cc"
+    },
+    {
+        "action": "MOVE",
+        "time": "10:02:19",
+        "time_int": 36139,
+        "user": "GrandMaster",
+        "content": "cd"
+    },
+    {
+        "action": "MOVE",
+        "time": "10:02:20",
+        "time_int": 36140,
+        "user": "kingaxx",
+        "content": "9c"
+    },
+    {
+        "action": "MOVE",
+        "time": "10:02:22",
+        "time_int": 36142,
+        "user": "GrandMaster",
+        "content": "8d"
+    },
+    {
+        "action": "MOVE",
+        "time": "10:02:24",
+        "time_int": 36144,
+        "user": "kingaxx",
+        "content": "ac"
+    },
+    {
+        "action": "TALK",
+        "time": "10:02:32",
+        "time_int": 36152,
+        "user": "GrandMaster",
+        "content": "gg"
+    },
+    {
+        "action": "TALK",
+        "time": "10:02:43",
+        "time_int": 36163,
+        "user": "shuwang",
+        "content": "41?"
+    },
+    {
+        "action": "GOTO",
+        "time": "10:03:07",
+        "time_int": 36187,
+        "user": "GrandMaster",
+        "content": 17
+    },
+    {
+        "action": "MOVE",
+        "time": "10:03:09",
+        "time_int": 36189,
+        "user": "GrandMaster",
+        "content": "b9"
+    },
+    {
+        "action": "MOVE",
+        "time": "10:03:33",
+        "time_int": 36213,
+        "user": "GrandMaster",
+        "content": "b5"
+    },
+    {
+        "action": "MOVE",
+        "time": "10:03:34",
+        "time_int": 36214,
+        "user": "GrandMaster",
+        "content": "b4"
+    },
+    {
+        "action": "MOVE",
+        "time": "10:03:37",
+        "time_int": 36217,
+        "user": "GrandMaster",
+        "content": "a6"
+    },
+    {
+        "action": "MOVE",
+        "time": "10:03:38",
+        "time_int": 36218,
+        "user": "GrandMaster",
+        "content": "97"
+    },
+    {
+        "action": "MOVE",
+        "time": "10:03:39",
+        "time_int": 36219,
+        "user": "GrandMaster",
+        "content": "95"
+    },
+    {
+        "action": "MOVE",
+        "time": "10:03:39",
+        "time_int": 36219,
+        "user": "GrandMaster",
+        "content": "84"
+    },
+    {
+        "action": "MOVE",
+        "time": "10:03:43",
+        "time_int": 36223,
+        "user": "GrandMaster",
+        "content": "a4"
+    },
+    {
+        "action": "TALK",
+        "time": "10:03:48",
+        "time_int": 36228,
+        "user": "GrandMaster",
+        "content": "straight win"
+    },
+    {
+        "action": "TALK",
+        "time": "10:03:50",
+        "time_int": 36230,
+        "user": "kingaxx",
+        "content": "GG"
+    },
+    {
+        "action": "GOTO",
+        "time": "10:03:58",
+        "time_int": 36238,
+        "user": "GrandMaster",
+        "content": 21
+    },
+    {
+        "action": "MOVE",
+        "time": "10:03:59",
+        "time_int": 36239,
+        "user": "GrandMaster",
+        "content": "79"
+    },
+    {
+        "action": "TALK",
+        "time": "10:04:06",
+        "time_int": 36246,
+        "user": "GrandMaster",
+        "content": "now vcf"
+    },
+    {
+        "action": "TALK",
+        "time": "10:04:10",
+        "time_int": 36250,
+        "user": "GrandMaster",
+        "content": "see it?"
+    },
+    {
+        "action": "TALK",
+        "time": "10:04:19",
+        "time_int": 36259,
+        "user": "tieuphilac",
+        "content": "yes"
+    },
+    {
+        "action": "TALK",
+        "time": "10:04:22",
+        "time_int": 36262,
+        "user": "tieuphilac",
+        "content": "g7"
+    },
+    {
+        "action": "MOVE",
+        "time": "10:04:25",
+        "time_int": 36265,
+        "user": "GrandMaster",
+        "content": "77"
+    },
+    {
+        "action": "MOVE",
+        "time": "10:04:26",
+        "time_int": 36266,
+        "user": "GrandMaster",
+        "content": "66"
+    },
+    {
+        "action": "MOVE",
+        "time": "10:04:31",
+        "time_int": 36271,
+        "user": "GrandMaster",
+        "content": "97"
+    },
+    {
+        "action": "MOVE",
+        "time": "10:04:32",
+        "time_int": 36272,
+        "user": "GrandMaster",
+        "content": "c4"
+    },
+    {
+        "action": "TALK",
+        "time": "10:04:32",
+        "time_int": 36272,
+        "user": "leto",
+        "content": "i7?"
+    },
+    {
+        "action": "MOVE",
+        "time": "10:04:33",
+        "time_int": 36273,
+        "user": "GrandMaster",
+        "content": "a7"
+    },
+    {
+        "action": "MOVE",
+        "time": "10:04:34",
+        "time_int": 36274,
+        "user": "GrandMaster",
+        "content": "87"
+    },
+    {
+        "action": "MOVE",
+        "time": "10:04:37",
+        "time_int": 36277,
+        "user": "GrandMaster",
+        "content": "a5"
+    },
+    {
+        "action": "MOVE",
+        "time": "10:04:38",
+        "time_int": 36278,
+        "user": "GrandMaster",
+        "content": "a4"
+    },
+    {
+        "action": "MOVE",
+        "time": "10:04:41",
+        "time_int": 36281,
+        "user": "GrandMaster",
+        "content": "c7"
+    },
+    {
+        "action": "TALK",
+        "time": "10:04:49",
+        "time_int": 36289,
+        "user": "leto",
+        "content": "yes"
+    },
+    {
+        "action": "GOTO",
+        "time": "10:04:59",
+        "time_int": 36299,
+        "user": "GrandMaster",
+        "content": 5
+    },
+    {
+        "action": "TALK",
+        "time": "10:05:03",
+        "time_int": 36303,
+        "user": "GrandMaster",
+        "content": "other 6?"
+    },
+    {
+        "action": "TALK",
+        "time": "10:05:04",
+        "time_int": 36304,
+        "user": "leto",
+        "content": "now I can see it!"
+    },
+    {
+        "action": "TALK",
+        "time": "10:05:07",
+        "time_int": 36307,
+        "user": "leto",
+        "content": ":)"
+    },
+    {
+        "action": "TALK",
+        "time": "10:05:29",
+        "time_int": 36329,
+        "user": "GrandMaster",
+        "content": "any idea?"
+    },
+    {
+        "action": "TALK",
+        "time": "10:05:36",
+        "time_int": 36336,
+        "user": "kingaxx",
+        "content": "I8"
+    },
+    {
+        "action": "TALK",
+        "time": "10:05:37",
+        "time_int": 36337,
+        "user": "leto",
+        "content": "g10?"
+    },
+    {
+        "action": "MOVE",
+        "time": "10:05:39",
+        "time_int": 36339,
+        "user": "GrandMaster",
+        "content": "98"
+    },
+    {
+        "action": "MOVE",
+        "time": "10:05:49",
+        "time_int": 36349,
+        "user": "GrandMaster",
+        "content": "7b"
+    },
+    {
+        "action": "MOVE",
+        "time": "10:05:50",
+        "time_int": 36350,
+        "user": "GrandMaster",
+        "content": "6c"
+    },
+    {
+        "action": "MOVE",
+        "time": "10:05:51",
+        "time_int": 36351,
+        "user": "GrandMaster",
+        "content": "aa"
+    },
+    {
+        "action": "MOVE",
+        "time": "10:05:56",
+        "time_int": 36356,
+        "user": "GrandMaster",
+        "content": "bb"
+    },
+    {
+        "action": "MOVE",
+        "time": "10:05:57",
+        "time_int": 36357,
+        "user": "GrandMaster",
+        "content": "7a"
+    },
+    {
+        "action": "MOVE",
+        "time": "10:05:58",
+        "time_int": 36358,
+        "user": "GrandMaster",
+        "content": "9a"
+    },
+    {
+        "action": "TALK",
+        "time": "10:06:21",
+        "time_int": 36381,
+        "user": "GrandMaster",
+        "content": "who suggest the next move?"
+    },
+    {
+        "action": "TALK",
+        "time": "10:06:52",
+        "time_int": 36412,
+        "user": "tieuphilac",
+        "content": "g9"
+    },
+    {
+        "action": "TALK",
+        "time": "10:06:56",
+        "time_int": 36416,
+        "user": "Intotherenju",
+        "content": "g9?"
+    },
+    {
+        "action": "TALK",
+        "time": "10:07:04",
+        "time_int": 36424,
+        "user": "GrandMaster",
+        "content": "there are many possible moves"
+    },
+    {
+        "action": "TALK",
+        "time": "10:07:12",
+        "time_int": 36432,
+        "user": "leto",
+        "content": "f10?"
+    },
+    {
+        "action": "TALK",
+        "time": "10:07:49",
+        "time_int": 36469,
+        "user": "tieuphilac",
+        "content": ".."
+    },
+    {
+        "action": "TALK",
+        "time": "10:07:52",
+        "time_int": 36472,
+        "user": "leto",
+        "content": "f10, is gomoku style(:"
+    },
+    {
+        "action": "TALK",
+        "time": "10:07:54",
+        "time_int": 36474,
+        "user": "GrandMaster",
+        "content": "both work g9 and f10"
+    },
+    {
+        "action": "TALK",
+        "time": "10:07:59",
+        "time_int": 36479,
+        "user": "Intotherenju",
+        "content": "f8"
+    },
+    {
+        "action": "TALK",
+        "time": "10:08:26",
+        "time_int": 36506,
+        "user": "GrandMaster",
+        "content": "another one: d10"
+    },
+    {
+        "action": "MOVE",
+        "time": "10:08:28",
+        "time_int": 36508,
+        "user": "GrandMaster",
+        "content": "4a"
+    },
+    {
+        "action": "TALK",
+        "time": "10:08:32",
+        "time_int": 36512,
+        "user": "leto",
+        "content": "wow"
+    },
+    {
+        "action": "TALK",
+        "time": "10:08:36",
+        "time_int": 36516,
+        "user": "leto",
+        "content": "cosmic!"
+    },
+    {
+        "action": "TALK",
+        "time": "10:08:37",
+        "time_int": 36517,
+        "user": "kingaxx",
+        "content": "WOW"
+    },
+    {
+        "action": "TALK",
+        "time": "10:08:40",
+        "time_int": 36520,
+        "user": "Chancewu",
+        "content": "hehe gg"
+    },
+    {
+        "action": "MOVE",
+        "time": "10:08:43",
+        "time_int": 36523,
+        "user": "GrandMaster",
+        "content": "78"
+    },
+    {
+        "action": "MOVE",
+        "time": "10:08:45",
+        "time_int": 36525,
+        "user": "GrandMaster",
+        "content": "ab"
+    },
+    {
+        "action": "MOVE",
+        "time": "10:08:53",
+        "time_int": 36533,
+        "user": "GrandMaster",
+        "content": "a9"
+    },
+    {
+        "action": "MOVE",
+        "time": "10:08:54",
+        "time_int": 36534,
+        "user": "GrandMaster",
+        "content": "7c"
+    },
+    {
+        "action": "MOVE",
+        "time": "10:08:58",
+        "time_int": 36538,
+        "user": "GrandMaster",
+        "content": "7d"
+    },
+    {
+        "action": "MOVE",
+        "time": "10:08:59",
+        "time_int": 36539,
+        "user": "GrandMaster",
+        "content": "59"
+    },
+    {
+        "action": "TALK",
+        "time": "10:09:06",
+        "time_int": 36546,
+        "user": "tieuphilac",
+        "content": "nice g7"
+    },
+    {
+        "action": "TALK",
+        "time": "10:09:07",
+        "time_int": 36547,
+        "user": "leto",
+        "content": "nice!"
+    },
+    {
+        "action": "TALK",
+        "time": "10:09:13",
+        "time_int": 36553,
+        "user": "shuwang",
+        "content": "nice 13"
+    },
+    {
+        "action": "TALK",
+        "time": "10:09:17",
+        "time_int": 36557,
+        "user": "kingaxx",
+        "content": "D10 is supernature"
+    },
+    {
+        "action": "TALK",
+        "time": "10:09:37",
+        "time_int": 36577,
+        "user": "GrandMaster",
+        "content": "there are many choices"
+    },
+    {
+        "action": "BACK",
+        "time": "10:09:44",
+        "time_int": 36584,
+        "user": "GrandMaster",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time": "10:09:44",
+        "time_int": 36584,
+        "user": "GrandMaster",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time": "10:09:45",
+        "time_int": 36585,
+        "user": "GrandMaster",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time": "10:09:45",
+        "time_int": 36585,
+        "user": "GrandMaster",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time": "10:09:45",
+        "time_int": 36585,
+        "user": "GrandMaster",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time": "10:09:46",
+        "time_int": 36586,
+        "user": "GrandMaster",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time": "10:09:47",
+        "time_int": 36587,
+        "user": "GrandMaster",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time": "10:09:48",
+        "time_int": 36588,
+        "user": "GrandMaster",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time": "10:09:49",
+        "time_int": 36589,
+        "user": "GrandMaster",
+        "content": "6a"
+    },
+    {
+        "action": "MOVE",
+        "time": "10:09:56",
+        "time_int": 36596,
+        "user": "GrandMaster",
+        "content": "77"
+    },
+    {
+        "action": "MOVE",
+        "time": "10:09:56",
+        "time_int": 36596,
+        "user": "GrandMaster",
+        "content": "66"
+    },
+    {
+        "action": "MOVE",
+        "time": "10:09:57",
+        "time_int": 36597,
+        "user": "GrandMaster",
+        "content": "79"
+    },
+    {
+        "action": "MOVE",
+        "time": "10:09:59",
+        "time_int": 36599,
+        "user": "GrandMaster",
+        "content": "78"
+    },
+    {
+        "action": "MOVE",
+        "time": "10:10:00",
+        "time_int": 36600,
+        "user": "GrandMaster",
+        "content": "9b"
+    },
+    {
+        "action": "TALK",
+        "time": "10:10:01",
+        "time_int": 36601,
+        "user": "Chancewu",
+        "content": "win"
+    },
+    {
+        "action": "TALK",
+        "time": "10:10:06",
+        "time_int": 36606,
+        "user": "GrandMaster",
+        "content": "easier"
+    },
+    {
+        "action": "TALK",
+        "time": "10:10:13",
+        "time_int": 36613,
+        "user": "Chancewu",
+        "content": "en"
+    },
+    {
+        "action": "GOTO",
+        "time": "10:10:29",
+        "time_int": 36629,
+        "user": "GrandMaster",
+        "content": 5
+    },
+    {
+        "action": "MOVE",
+        "time": "10:10:31",
+        "time_int": 36631,
+        "user": "GrandMaster",
+        "content": "7a"
+    },
+    {
+        "action": "TALK",
+        "time": "10:10:37",
+        "time_int": 36637,
+        "user": "GrandMaster",
+        "content": "the last 6"
+    },
+    {
+        "action": "TALK",
+        "time": "10:10:51",
+        "time_int": 36651,
+        "user": "kingaxx",
+        "content": "G9 same to"
+    },
+    {
+        "action": "TALK",
+        "time": "10:10:56",
+        "time_int": 36656,
+        "user": "GrandMaster",
+        "content": "straight way"
+    },
+    {
+        "action": "MOVE",
+        "time": "10:10:58",
+        "time_int": 36658,
+        "user": "GrandMaster",
+        "content": "a8"
+    },
+    {
+        "action": "TALK",
+        "time": "10:11:02",
+        "time_int": 36662,
+        "user": "kingaxx",
+        "content": "6 I10"
+    },
+    {
+        "action": "MOVE",
+        "time": "10:11:04",
+        "time_int": 36664,
+        "user": "GrandMaster",
+        "content": "7b"
+    },
+    {
+        "action": "MOVE",
+        "time": "10:11:05",
+        "time_int": 36665,
+        "user": "GrandMaster",
+        "content": "98"
+    },
+    {
+        "action": "MOVE",
+        "time": "10:11:06",
+        "time_int": 36666,
+        "user": "GrandMaster",
+        "content": "78"
+    },
+    {
+        "action": "MOVE",
+        "time": "10:11:06",
+        "time_int": 36666,
+        "user": "GrandMaster",
+        "content": "77"
+    },
+    {
+        "action": "TALK",
+        "time": "10:11:09",
+        "time_int": 36669,
+        "user": "Chancewu",
+        "content": "right"
+    },
+    {
+        "action": "TALK",
+        "time": "10:11:35",
+        "time_int": 36695,
+        "user": "GrandMaster",
+        "content": "6-i10 checked just now"
+    },
+    {
+        "action": "TALK",
+        "time": "10:11:47",
+        "time_int": 36707,
+        "user": "GrandMaster",
+        "content": "so we change 5 now"
+    },
+    {
+        "action": "TALK",
+        "time": "10:11:51",
+        "time_int": 36711,
+        "user": "kingaxx",
+        "content": "SORRY ,WRONG"
+    },
+    {
+        "action": "GOTO",
+        "time": "10:11:52",
+        "time_int": 36712,
+        "user": "GrandMaster",
+        "content": 4
+    },
+    {
+        "action": "MOVE",
+        "time": "10:11:54",
+        "time_int": 36714,
+        "user": "GrandMaster",
+        "content": "97"
+    },
+    {
+        "action": "TALK",
+        "time": "10:12:20",
+        "time_int": 36740,
+        "user": "Chancewu",
+        "content": "<kingaxx> SORRY ,WRONG ??"
+    },
+    {
+        "action": "MOVE",
+        "time": "10:12:34",
+        "time_int": 36754,
+        "user": "GrandMaster",
+        "content": "7a"
+    },
+    {
+        "action": "TALK",
+        "time": "10:12:41",
+        "time_int": 36761,
+        "user": "GrandMaster",
+        "content": "this 6 first"
+    },
+    {
+        "action": "CHECKRESULT",
+        "time": "10:12:41",
+        "time_int": 36761,
+        "user": "",
+        "content": " pantrike, Chancewu, kingaxx, leto, zemeban, tunnet99, fallnavy, shuwang, alcore, virag, Intotherenju, paradise, weigui, LiuJianping, tieuphilac, aivo, concord2497."
+    },
+    {
+        "action": "MOVE",
+        "time": "10:12:45",
+        "time_int": 36765,
+        "user": "GrandMaster",
+        "content": "98"
+    },
+    {
+        "action": "TALK",
+        "time": "10:12:54",
+        "time_int": 36774,
+        "user": "kingaxx",
+        "content": "EN"
+    },
+    {
+        "action": "TALK",
+        "time": "10:13:11",
+        "time_int": 36791,
+        "user": "GrandMaster",
+        "content": "7 blocks white's pair and creates its own"
+    },
+    {
+        "action": "MOVE",
+        "time": "10:13:18",
+        "time_int": 36798,
+        "user": "GrandMaster",
+        "content": "69"
+    },
+    {
+        "action": "MOVE",
+        "time": "10:13:19",
+        "time_int": 36799,
+        "user": "GrandMaster",
+        "content": "58"
+    },
+    {
+        "action": "MOVE",
+        "time": "10:13:20",
+        "time_int": 36800,
+        "user": "GrandMaster",
+        "content": "78"
+    },
+    {
+        "action": "TALK",
+        "time": "10:13:26",
+        "time_int": 36806,
+        "user": "GrandMaster",
+        "content": "8 and 10 strongest"
+    },
+    {
+        "action": "TALK",
+        "time": "10:13:51",
+        "time_int": 36831,
+        "user": "GrandMaster",
+        "content": "others llose fast, you can analysis by yourself"
+    },
+    {
+        "action": "MOVE",
+        "time": "10:14:04",
+        "time_int": 36844,
+        "user": "GrandMaster",
+        "content": "79"
+    },
+    {
+        "action": "MOVE",
+        "time": "10:14:05",
+        "time_int": 36845,
+        "user": "GrandMaster",
+        "content": "a6"
+    },
+    {
+        "action": "TALK",
+        "time": "10:14:36",
+        "time_int": 36876,
+        "user": "GrandMaster",
+        "content": "what is next move?"
+    },
+    {
+        "action": "TALK",
+        "time": "10:14:59",
+        "time_int": 36899,
+        "user": "kingaxx",
+        "content": "e7?"
+    },
+    {
+        "action": "TALK",
+        "time": "10:15:06",
+        "time_int": 36906,
+        "user": "tieuphilac",
+        "content": "f7?"
+    },
+    {
+        "action": "TALK",
+        "time": "10:15:08",
+        "time_int": 36908,
+        "user": "Chancewu",
+        "content": "I9?"
+    },
+    {
+        "action": "TALK",
+        "time": "10:15:11",
+        "time_int": 36911,
+        "user": "leto",
+        "content": "i9"
+    },
+    {
+        "action": "TALK",
+        "time": "10:15:18",
+        "time_int": 36918,
+        "user": "Chancewu",
+        "content": "oh wrong"
+    },
+    {
+        "action": "TALK",
+        "time": "10:15:20",
+        "time_int": 36920,
+        "user": "GrandMaster",
+        "content": "can black win by vct?"
+    },
+    {
+        "action": "TALK",
+        "time": "10:15:38",
+        "time_int": 36938,
+        "user": "kingaxx",
+        "content": "hard"
+    },
+    {
+        "action": "TALK",
+        "time": "10:15:48",
+        "time_int": 36948,
+        "user": "Chancewu",
+        "content": "may not"
+    },
+    {
+        "action": "TALK",
+        "time": "10:16:10",
+        "time_int": 36970,
+        "user": "GrandMaster",
+        "content": "we set it as a hw, and find the black's vct here"
+    },
+    {
+        "action": "TALK",
+        "time": "10:16:22",
+        "time_int": 36982,
+        "user": "tieuphilac",
+        "content": "may i?"
+    },
+    {
+        "action": "TALK",
+        "time": "10:16:27",
+        "time_int": 36987,
+        "user": "GrandMaster",
+        "content": "attention: only vct"
+    },
+    {
+        "action": "GOTO",
+        "time": "10:16:49",
+        "time_int": 37009,
+        "user": "GrandMaster",
+        "content": 5
+    },
+    {
+        "action": "TALK",
+        "time": "10:16:56",
+        "time_int": 37016,
+        "user": "kingaxx",
+        "content": "I6?"
+    },
+    {
+        "action": "MOVE",
+        "time": "10:17:06",
+        "time_int": 37026,
+        "user": "GrandMaster",
+        "content": "7b"
+    },
+    {
+        "action": "TALK",
+        "time": "10:17:16",
+        "time_int": 37036,
+        "user": "GrandMaster",
+        "content": "the same 7"
+    },
+    {
+        "action": "MOVE",
+        "time": "10:17:17",
+        "time_int": 37037,
+        "user": "GrandMaster",
+        "content": "98"
+    },
+    {
+        "action": "TALK",
+        "time": "10:17:23",
+        "time_int": 37043,
+        "user": "Chancewu",
+        "content": "en"
+    },
+    {
+        "action": "MOVE",
+        "time": "10:17:27",
+        "time_int": 37047,
+        "user": "GrandMaster",
+        "content": "ab"
+    },
+    {
+        "action": "MOVE",
+        "time": "10:17:28",
+        "time_int": 37048,
+        "user": "GrandMaster",
+        "content": "9b"
+    },
+    {
+        "action": "MOVE",
+        "time": "10:17:33",
+        "time_int": 37053,
+        "user": "GrandMaster",
+        "content": "78"
+    },
+    {
+        "action": "MOVE",
+        "time": "10:17:34",
+        "time_int": 37054,
+        "user": "GrandMaster",
+        "content": "9a"
+    },
+    {
+        "action": "MOVE",
+        "time": "10:17:37",
+        "time_int": 37057,
+        "user": "GrandMaster",
+        "content": "99"
+    },
+    {
+        "action": "MOVE",
+        "time": "10:17:40",
+        "time_int": 37060,
+        "user": "GrandMaster",
+        "content": "7a"
+    },
+    {
+        "action": "MOVE",
+        "time": "10:17:41",
+        "time_int": 37061,
+        "user": "GrandMaster",
+        "content": "6a"
+    },
+    {
+        "action": "MOVE",
+        "time": "10:17:43",
+        "time_int": 37063,
+        "user": "GrandMaster",
+        "content": "79"
+    },
+    {
+        "action": "MOVE",
+        "time": "10:17:44",
+        "time_int": 37064,
+        "user": "GrandMaster",
+        "content": "68"
+    },
+    {
+        "action": "MOVE",
+        "time": "10:17:56",
+        "time_int": 37076,
+        "user": "GrandMaster",
+        "content": "aa"
+    },
+    {
+        "action": "MOVE",
+        "time": "10:17:56",
+        "time_int": 37076,
+        "user": "GrandMaster",
+        "content": "ba"
+    },
+    {
+        "action": "MOVE",
+        "time": "10:17:59",
+        "time_int": 37079,
+        "user": "GrandMaster",
+        "content": "b9"
+    },
+    {
+        "action": "MOVE",
+        "time": "10:18:00",
+        "time_int": 37080,
+        "user": "GrandMaster",
+        "content": "c8"
+    },
+    {
+        "action": "MOVE",
+        "time": "10:18:00",
+        "time_int": 37080,
+        "user": "GrandMaster",
+        "content": "ca"
+    },
+    {
+        "action": "MOVE",
+        "time": "10:18:01",
+        "time_int": 37081,
+        "user": "GrandMaster",
+        "content": "a8"
+    },
+    {
+        "action": "MOVE",
+        "time": "10:18:05",
+        "time_int": 37085,
+        "user": "GrandMaster",
+        "content": "ac"
+    },
+    {
+        "action": "MOVE",
+        "time": "10:18:05",
+        "time_int": 37085,
+        "user": "GrandMaster",
+        "content": "bd"
+    },
+    {
+        "action": "MOVE",
+        "time": "10:18:06",
+        "time_int": 37086,
+        "user": "GrandMaster",
+        "content": "9c"
+    },
+    {
+        "action": "TALK",
+        "time": "10:18:09",
+        "time_int": 37089,
+        "user": "Chancewu",
+        "content": "win"
+    },
+    {
+        "action": "TALK",
+        "time": "10:18:15",
+        "time_int": 37095,
+        "user": "GrandMaster",
+        "content": "yes ,win"
+    },
+    {
+        "action": "TALK",
+        "time": "10:18:23",
+        "time_int": 37103,
+        "user": "tieuphilac",
+        "content": ":-)"
+    },
+    {
+        "action": "GOTO",
+        "time": "10:18:36",
+        "time_int": 37116,
+        "user": "GrandMaster",
+        "content": 5
+    },
+    {
+        "action": "MOVE",
+        "time": "10:18:37",
+        "time_int": 37117,
+        "user": "GrandMaster",
+        "content": "9b"
+    },
+    {
+        "action": "TALK",
+        "time": "10:18:56",
+        "time_int": 37136,
+        "user": "GrandMaster",
+        "content": "now, where is 7?"
+    },
+    {
+        "action": "TALK",
+        "time": "10:19:05",
+        "time_int": 37145,
+        "user": "kingaxx",
+        "content": "I8"
+    },
+    {
+        "action": "TALK",
+        "time": "10:19:19",
+        "time_int": 37159,
+        "user": "Chancewu",
+        "content": "I87orI8 ?"
+    },
+    {
+        "action": "TALK",
+        "time": "10:19:21",
+        "time_int": 37161,
+        "user": "kingaxx",
+        "content": "G8?"
+    },
+    {
+        "action": "TALK",
+        "time": "10:19:28",
+        "time_int": 37168,
+        "user": "Chancewu",
+        "content": "I8orI8 ?"
+    },
+    {
+        "action": "TALK",
+        "time": "10:19:29",
+        "time_int": 37169,
+        "user": "GrandMaster",
+        "content": "others?"
+    },
+    {
+        "action": "TALK",
+        "time": "10:19:39",
+        "time_int": 37179,
+        "user": "Chancewu",
+        "content": "faint"
+    },
+    {
+        "action": "TALK",
+        "time": "10:19:43",
+        "time_int": 37183,
+        "user": "tieuphilac",
+        "content": "j8?"
+    },
+    {
+        "action": "TALK",
+        "time": "10:19:51",
+        "time_int": 37191,
+        "user": "Chancewu",
+        "content": "I9orI8 ?"
+    },
+    {
+        "action": "TALK",
+        "time": "10:19:55",
+        "time_int": 37195,
+        "user": "zemeban",
+        "content": "j8"
+    },
+    {
+        "action": "TALK",
+        "time": "10:20:09",
+        "time_int": 37209,
+        "user": "GrandMaster",
+        "content": "i8 first"
+    },
+    {
+        "action": "MOVE",
+        "time": "10:20:10",
+        "time_int": 37210,
+        "user": "GrandMaster",
+        "content": "98"
+    },
+    {
+        "action": "MOVE",
+        "time": "10:20:17",
+        "time_int": 37217,
+        "user": "GrandMaster",
+        "content": "78"
+    },
+    {
+        "action": "TALK",
+        "time": "10:20:23",
+        "time_int": 37223,
+        "user": "GrandMaster",
+        "content": "g8 only"
+    },
+    {
+        "action": "TALK",
+        "time": "10:20:28",
+        "time_int": 37228,
+        "user": "GrandMaster",
+        "content": "and then?"
+    },
+    {
+        "action": "TALK",
+        "time": "10:20:47",
+        "time_int": 37247,
+        "user": "Chancewu",
+        "content": "I6?"
+    },
+    {
+        "action": "TALK",
+        "time": "10:20:47",
+        "time_int": 37247,
+        "user": "kingaxx",
+        "content": "G9"
+    },
+    {
+        "action": "MOVE",
+        "time": "10:21:04",
+        "time_int": 37264,
+        "user": "GrandMaster",
+        "content": "79"
+    },
+    {
+        "action": "MOVE",
+        "time": "10:21:14",
+        "time_int": 37274,
+        "user": "GrandMaster",
+        "content": "a6"
+    },
+    {
+        "action": "TALK",
+        "time": "10:21:22",
+        "time_int": 37282,
+        "user": "Chancewu",
+        "content": "en that 's right"
+    },
+    {
+        "action": "TALK",
+        "time": "10:21:47",
+        "time_int": 37307,
+        "user": "GrandMaster",
+        "content": "and next?"
+    },
+    {
+        "action": "TALK",
+        "time": "10:21:56",
+        "time_int": 37316,
+        "user": "kingaxx",
+        "content": "i10"
+    },
+    {
+        "action": "MOVE",
+        "time": "10:22:00",
+        "time_int": 37320,
+        "user": "GrandMaster",
+        "content": "9a"
+    },
+    {
+        "action": "TALK",
+        "time": "10:22:03",
+        "time_int": 37323,
+        "user": "Chancewu",
+        "content": "em i10"
+    },
+    {
+        "action": "MOVE",
+        "time": "10:22:05",
+        "time_int": 37325,
+        "user": "GrandMaster",
+        "content": "aa"
+    },
+    {
+        "action": "TALK",
+        "time": "10:22:22",
+        "time_int": 37342,
+        "user": "GrandMaster",
+        "content": "who want to play as black here?"
+    },
+    {
+        "action": "TALK",
+        "time": "10:22:26",
+        "time_int": 37346,
+        "user": "GrandMaster",
+        "content": "say me"
+    },
+    {
+        "action": "TALK",
+        "time": "10:22:34",
+        "time_int": 37354,
+        "user": "kingaxx",
+        "content": "ME"
+    },
+    {
+        "action": "MOVE",
+        "time": "10:22:44",
+        "time_int": 37364,
+        "user": "kingaxx",
+        "content": "a8"
+    },
+    {
+        "action": "MOVE",
+        "time": "10:23:19",
+        "time_int": 37399,
+        "user": "GrandMaster",
+        "content": "7b"
+    },
+    {
+        "action": "MOVE",
+        "time": "10:23:30",
+        "time_int": 37410,
+        "user": "kingaxx",
+        "content": "6b"
+    },
+    {
+        "action": "MOVE",
+        "time": "10:23:39",
+        "time_int": 37419,
+        "user": "GrandMaster",
+        "content": "b9"
+    },
+    {
+        "action": "TALK",
+        "time": "10:23:40",
+        "time_int": 37420,
+        "user": "kingaxx",
+        "content": "seemed wrong"
+    },
+    {
+        "action": "TALK",
+        "time": "10:23:55",
+        "time_int": 37435,
+        "user": "GrandMaster",
+        "content": "you want to change?"
+    },
+    {
+        "action": "TALK",
+        "time": "10:23:56",
+        "time_int": 37436,
+        "user": "Chancewu",
+        "content": "EN may wrong"
+    },
+    {
+        "action": "GOTO",
+        "time": "10:24:09",
+        "time_int": 37449,
+        "user": "kingaxx",
+        "content": 11
+    },
+    {
+        "action": "MOVE",
+        "time": "10:24:12",
+        "time_int": 37452,
+        "user": "GrandMaster",
+        "content": "aa"
+    },
+    {
+        "action": "BACK",
+        "time": "10:24:14",
+        "time_int": 37454,
+        "user": "kingaxx",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time": "10:24:15",
+        "time_int": 37455,
+        "user": "kingaxx",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time": "10:24:20",
+        "time_int": 37460,
+        "user": "kingaxx",
+        "content": "99"
+    },
+    {
+        "action": "TALK",
+        "time": "10:24:22",
+        "time_int": 37462,
+        "user": "Chancewu",
+        "content": "13-F8better?"
+    },
+    {
+        "action": "MOVE",
+        "time": "10:24:32",
+        "time_int": 37472,
+        "user": "GrandMaster",
+        "content": "9a"
+    },
+    {
+        "action": "MOVE",
+        "time": "10:24:33",
+        "time_int": 37473,
+        "user": "kingaxx",
+        "content": "ab"
+    },
+    {
+        "action": "MOVE",
+        "time": "10:24:43",
+        "time_int": 37483,
+        "user": "GrandMaster",
+        "content": "aa"
+    },
+    {
+        "action": "TALK",
+        "time": "10:25:13",
+        "time_int": 37513,
+        "user": "GrandMaster",
+        "content": "not easy now"
+    },
+    {
+        "action": "MOVE",
+        "time": "10:25:20",
+        "time_int": 37520,
+        "user": "kingaxx",
+        "content": "a8"
+    },
+    {
+        "action": "BACK",
+        "time": "10:25:21",
+        "time_int": 37521,
+        "user": "kingaxx",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time": "10:25:22",
+        "time_int": 37522,
+        "user": "kingaxx",
+        "content": "a8"
+    },
+    {
+        "action": "MOVE",
+        "time": "10:25:26",
+        "time_int": 37526,
+        "user": "GrandMaster",
+        "content": "b7"
+    },
+    {
+        "action": "TALK",
+        "time": "10:25:41",
+        "time_int": 37541,
+        "user": "kingaxx",
+        "content": "giveup"
+    },
+    {
+        "action": "TALK",
+        "time": "10:25:44",
+        "time_int": 37544,
+        "user": "GrandMaster",
+        "content": "ok"
+    },
+    {
+        "action": "TALK",
+        "time": "10:25:49",
+        "time_int": 37549,
+        "user": "GrandMaster",
+        "content": "who else?"
+    },
+    {
+        "action": "GOTO",
+        "time": "10:25:49",
+        "time_int": 37549,
+        "user": "kingaxx",
+        "content": 9
+    },
+    {
+        "action": "BACK",
+        "time": "10:25:52",
+        "time_int": 37552,
+        "user": "kingaxx",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time": "10:25:53",
+        "time_int": 37553,
+        "user": "kingaxx",
+        "content": "99"
+    },
+    {
+        "action": "MOVE",
+        "time": "10:26:00",
+        "time_int": 37560,
+        "user": "GrandMaster",
+        "content": "9a"
+    },
+    {
+        "action": "TALK",
+        "time": "10:26:02",
+        "time_int": 37562,
+        "user": "kingaxx",
+        "content": "last try"
+    },
+    {
+        "action": "MOVE",
+        "time": "10:26:04",
+        "time_int": 37564,
+        "user": "kingaxx",
+        "content": "ab"
+    },
+    {
+        "action": "TALK",
+        "time": "10:26:04",
+        "time_int": 37564,
+        "user": "leto",
+        "content": "we need yyfcsd big eyes..."
+    },
+    {
+        "action": "MOVE",
+        "time": "10:26:06",
+        "time_int": 37566,
+        "user": "GrandMaster",
+        "content": "a8"
+    },
+    {
+        "action": "MOVE",
+        "time": "10:26:51",
+        "time_int": 37611,
+        "user": "kingaxx",
+        "content": "77"
+    },
+    {
+        "action": "MOVE",
+        "time": "10:26:54",
+        "time_int": 37614,
+        "user": "GrandMaster",
+        "content": "66"
+    },
+    {
+        "action": "TALK",
+        "time": "10:27:03",
+        "time_int": 37623,
+        "user": "tieuphilac",
+        "content": ":-)"
+    },
+    {
+        "action": "TALK",
+        "time": "10:27:06",
+        "time_int": 37626,
+        "user": "tieuphilac",
+        "content": "maybe here"
+    },
+    {
+        "action": "MOVE",
+        "time": "10:27:07",
+        "time_int": 37627,
+        "user": "kingaxx",
+        "content": "a6"
+    },
+    {
+        "action": "MOVE",
+        "time": "10:27:10",
+        "time_int": 37630,
+        "user": "GrandMaster",
+        "content": "b5"
+    },
+    {
+        "action": "TALK",
+        "time": "10:27:11",
+        "time_int": 37631,
+        "user": "Chancewu",
+        "content": "hehe"
+    },
+    {
+        "action": "TALK",
+        "time": "10:27:24",
+        "time_int": 37644,
+        "user": "GrandMaster",
+        "content": "promising, go on"
+    },
+    {
+        "action": "MOVE",
+        "time": "10:27:26",
+        "time_int": 37646,
+        "user": "kingaxx",
+        "content": "87"
+    },
+    {
+        "action": "TALK",
+        "time": "10:27:34",
+        "time_int": 37654,
+        "user": "Chancewu",
+        "content": "win"
+    },
+    {
+        "action": "BACK",
+        "time": "10:27:42",
+        "time_int": 37662,
+        "user": "kingaxx",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time": "10:27:43",
+        "time_int": 37663,
+        "user": "GrandMaster",
+        "content": "67"
+    },
+    {
+        "action": "BACK",
+        "time": "10:27:43",
+        "time_int": 37663,
+        "user": "kingaxx",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time": "10:27:44",
+        "time_int": 37664,
+        "user": "GrandMaster",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time": "10:27:45",
+        "time_int": 37665,
+        "user": "kingaxx",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time": "10:27:45",
+        "time_int": 37665,
+        "user": "GrandMaster",
+        "content": "b5"
+    },
+    {
+        "action": "MOVE",
+        "time": "10:27:46",
+        "time_int": 37666,
+        "user": "kingaxx",
+        "content": "87"
+    },
+    {
+        "action": "BACK",
+        "time": "10:27:46",
+        "time_int": 37666,
+        "user": "GrandMaster",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time": "10:27:48",
+        "time_int": 37668,
+        "user": "GrandMaster",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time": "10:27:49",
+        "time_int": 37669,
+        "user": "kingaxx",
+        "content": "87"
+    },
+    {
+        "action": "TALK",
+        "time": "10:27:52",
+        "time_int": 37672,
+        "user": "Chancewu",
+        "content": "??"
+    },
+    {
+        "action": "MOVE",
+        "time": "10:28:04",
+        "time_int": 37684,
+        "user": "GrandMaster",
+        "content": "67"
+    },
+    {
+        "action": "MOVE",
+        "time": "10:28:05",
+        "time_int": 37685,
+        "user": "kingaxx",
+        "content": "56"
+    },
+    {
+        "action": "MOVE",
+        "time": "10:28:16",
+        "time_int": 37696,
+        "user": "GrandMaster",
+        "content": "95"
+    },
+    {
+        "action": "TALK",
+        "time": "10:29:05",
+        "time_int": 37745,
+        "user": "GrandMaster",
+        "content": "ok, stop here"
+    },
+    {
+        "action": "TALK",
+        "time": "10:29:09",
+        "time_int": 37749,
+        "user": "kingaxx",
+        "content": "en"
+    },
+    {
+        "action": "TALK",
+        "time": "10:29:13",
+        "time_int": 37753,
+        "user": "GrandMaster",
+        "content": "we don't have much time"
+    },
+    {
+        "action": "TALK",
+        "time": "10:29:23",
+        "time_int": 37763,
+        "user": "GrandMaster",
+        "content": "I show you another shorter way"
+    },
+    {
+        "action": "BACK",
+        "time": "10:29:31",
+        "time_int": 37771,
+        "user": "GrandMaster",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time": "10:29:32",
+        "time_int": 37772,
+        "user": "GrandMaster",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time": "10:29:32",
+        "time_int": 37772,
+        "user": "GrandMaster",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time": "10:29:33",
+        "time_int": 37773,
+        "user": "GrandMaster",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time": "10:29:34",
+        "time_int": 37774,
+        "user": "GrandMaster",
+        "content": "a6"
+    },
+    {
+        "action": "MOVE",
+        "time": "10:29:35",
+        "time_int": 37775,
+        "user": "GrandMaster",
+        "content": "b5"
+    },
+    {
+        "action": "MOVE",
+        "time": "10:29:36",
+        "time_int": 37776,
+        "user": "GrandMaster",
+        "content": "95"
+    },
+    {
+        "action": "MOVE",
+        "time": "10:29:37",
+        "time_int": 37777,
+        "user": "GrandMaster",
+        "content": "96"
+    },
+    {
+        "action": "MOVE",
+        "time": "10:29:40",
+        "time_int": 37780,
+        "user": "GrandMaster",
+        "content": "84"
+    },
+    {
+        "action": "MOVE",
+        "time": "10:29:46",
+        "time_int": 37786,
+        "user": "GrandMaster",
+        "content": "b7"
+    },
+    {
+        "action": "MOVE",
+        "time": "10:29:50",
+        "time_int": 37790,
+        "user": "GrandMaster",
+        "content": "86"
+    },
+    {
+        "action": "TALK",
+        "time": "10:29:51",
+        "time_int": 37791,
+        "user": "Chancewu",
+        "content": "oh"
+    },
+    {
+        "action": "MOVE",
+        "time": "10:29:56",
+        "time_int": 37796,
+        "user": "GrandMaster",
+        "content": "67"
+    },
+    {
+        "action": "MOVE",
+        "time": "10:29:56",
+        "time_int": 37796,
+        "user": "GrandMaster",
+        "content": "56"
+    },
+    {
+        "action": "MOVE",
+        "time": "10:30:00",
+        "time_int": 37800,
+        "user": "GrandMaster",
+        "content": "a4"
+    },
+    {
+        "action": "MOVE",
+        "time": "10:30:04",
+        "time_int": 37804,
+        "user": "GrandMaster",
+        "content": "79"
+    },
+    {
+        "action": "MOVE",
+        "time": "10:30:05",
+        "time_int": 37805,
+        "user": "GrandMaster",
+        "content": "6a"
+    },
+    {
+        "action": "MOVE",
+        "time": "10:30:06",
+        "time_int": 37806,
+        "user": "GrandMaster",
+        "content": "68"
+    },
+    {
+        "action": "MOVE",
+        "time": "10:30:06",
+        "time_int": 37806,
+        "user": "GrandMaster",
+        "content": "59"
+    },
+    {
+        "action": "MOVE",
+        "time": "10:30:10",
+        "time_int": 37810,
+        "user": "GrandMaster",
+        "content": "46"
+    },
+    {
+        "action": "MOVE",
+        "time": "10:30:10",
+        "time_int": 37810,
+        "user": "GrandMaster",
+        "content": "57"
+    },
+    {
+        "action": "MOVE",
+        "time": "10:30:13",
+        "time_int": 37813,
+        "user": "GrandMaster",
+        "content": "85"
+    },
+    {
+        "action": "MOVE",
+        "time": "10:30:13",
+        "time_int": 37813,
+        "user": "GrandMaster",
+        "content": "87"
+    },
+    {
+        "action": "MOVE",
+        "time": "10:30:18",
+        "time_int": 37818,
+        "user": "GrandMaster",
+        "content": "82"
+    },
+    {
+        "action": "MOVE",
+        "time": "10:30:19",
+        "time_int": 37819,
+        "user": "GrandMaster",
+        "content": "83"
+    },
+    {
+        "action": "MOVE",
+        "time": "10:30:20",
+        "time_int": 37820,
+        "user": "GrandMaster",
+        "content": "73"
+    },
+    {
+        "action": "MOVE",
+        "time": "10:30:20",
+        "time_int": 37820,
+        "user": "GrandMaster",
+        "content": "62"
+    },
+    {
+        "action": "MOVE",
+        "time": "10:30:21",
+        "time_int": 37821,
+        "user": "GrandMaster",
+        "content": "64"
+    },
+    {
+        "action": "MOVE",
+        "time": "10:30:22",
+        "time_int": 37822,
+        "user": "GrandMaster",
+        "content": "55"
+    },
+    {
+        "action": "MOVE",
+        "time": "10:30:25",
+        "time_int": 37825,
+        "user": "GrandMaster",
+        "content": "75"
+    },
+    {
+        "action": "MOVE",
+        "time": "10:30:26",
+        "time_int": 37826,
+        "user": "GrandMaster",
+        "content": "53"
+    },
+    {
+        "action": "MOVE",
+        "time": "10:30:28",
+        "time_int": 37828,
+        "user": "GrandMaster",
+        "content": "74"
+    },
+    {
+        "action": "TALK",
+        "time": "10:30:29",
+        "time_int": 37829,
+        "user": "Chancewu",
+        "content": "gg"
+    },
+    {
+        "action": "TALK",
+        "time": "10:30:34",
+        "time_int": 37834,
+        "user": "kingaxx",
+        "content": "god"
+    },
+    {
+        "action": "TALK",
+        "time": "10:30:34",
+        "time_int": 37834,
+        "user": "shuwang",
+        "content": "gg"
+    },
+    {
+        "action": "TALK",
+        "time": "10:30:39",
+        "time_int": 37839,
+        "user": "zemeban",
+        "content": "nice"
+    },
+    {
+        "action": "TALK",
+        "time": "10:30:40",
+        "time_int": 37840,
+        "user": "kingaxx",
+        "content": "LONG VCF"
+    },
+    {
+        "action": "TALK",
+        "time": "10:30:48",
+        "time_int": 37848,
+        "user": "leto",
+        "content": "shorter?"
+    },
+    {
+        "action": "TALK",
+        "time": "10:30:53",
+        "time_int": 37853,
+        "user": "GrandMaster",
+        "content": "maybe not short actually"
+    },
+    {
+        "action": "TALK",
+        "time": "10:30:54",
+        "time_int": 37854,
+        "user": "shuwang",
+        "content": "admire you"
+    },
+    {
+        "action": "TALK",
+        "time": "10:30:54",
+        "time_int": 37854,
+        "user": "Chancewu",
+        "content": "hehe"
+    },
+    {
+        "action": "TALK",
+        "time": "10:31:04",
+        "time_int": 37864,
+        "user": "GrandMaster",
+        "content": "but easier to understand"
+    },
+    {
+        "action": "TALK",
+        "time": "10:31:09",
+        "time_int": 37869,
+        "user": "leto",
+        "content": "anyway, nice!"
+    },
+    {
+        "action": "TALK",
+        "time": "10:31:14",
+        "time_int": 37874,
+        "user": "Chancewu",
+        "content": "en"
+    },
+    {
+        "action": "GOTO",
+        "time": "10:31:28",
+        "time_int": 37888,
+        "user": "GrandMaster",
+        "content": 6
+    },
+    {
+        "action": "MOVE",
+        "time": "10:31:29",
+        "time_int": 37889,
+        "user": "GrandMaster",
+        "content": "a8"
+    },
+    {
+        "action": "TALK",
+        "time": "10:31:29",
+        "time_int": 37889,
+        "user": "leto",
+        "content": "GM has abig eyes too1"
+    },
+    {
+        "action": "TALK",
+        "time": "10:31:32",
+        "time_int": 37892,
+        "user": "tieuphilac",
+        "content": "there is a shorter"
+    },
+    {
+        "action": "TALK",
+        "time": "10:31:38",
+        "time_int": 37898,
+        "user": "GrandMaster",
+        "content": "this 7 also win"
+    },
+    {
+        "action": "TALK",
+        "time": "10:32:02",
+        "time_int": 37922,
+        "user": "GrandMaster",
+        "content": "yes, tie. there are other winning ways."
+    },
+    {
+        "action": "TALK",
+        "time": "10:32:05",
+        "time_int": 37925,
+        "user": "Chancewu",
+        "content": "ohoh  looks nice"
+    },
+    {
+        "action": "TALK",
+        "time": "10:32:21",
+        "time_int": 37941,
+        "user": "tieuphilac",
+        "content": "anyway, lets go on :-)"
+    },
+    {
+        "action": "MOVE",
+        "time": "10:32:27",
+        "time_int": 37947,
+        "user": "GrandMaster",
+        "content": "7b"
+    },
+    {
+        "action": "MOVE",
+        "time": "10:32:28",
+        "time_int": 37948,
+        "user": "GrandMaster",
+        "content": "ab"
+    },
+    {
+        "action": "MOVE",
+        "time": "10:32:29",
+        "time_int": 37949,
+        "user": "GrandMaster",
+        "content": "98"
+    },
+    {
+        "action": "TALK",
+        "time": "10:32:50",
+        "time_int": 37970,
+        "user": "GrandMaster",
+        "content": "8 and 10 are all neccesory"
+    },
+    {
+        "action": "MOVE",
+        "time": "10:32:54",
+        "time_int": 37974,
+        "user": "GrandMaster",
+        "content": "7a"
+    },
+    {
+        "action": "MOVE",
+        "time": "10:33:08",
+        "time_int": 37988,
+        "user": "GrandMaster",
+        "content": "9a"
+    },
+    {
+        "action": "MOVE",
+        "time": "10:33:14",
+        "time_int": 37994,
+        "user": "GrandMaster",
+        "content": "b9"
+    },
+    {
+        "action": "MOVE",
+        "time": "10:33:15",
+        "time_int": 37995,
+        "user": "GrandMaster",
+        "content": "86"
+    },
+    {
+        "action": "TALK",
+        "time": "10:33:29",
+        "time_int": 38009,
+        "user": "GrandMaster",
+        "content": "this 14 lose fast"
+    },
+    {
+        "action": "MOVE",
+        "time": "10:33:33",
+        "time_int": 38013,
+        "user": "GrandMaster",
+        "content": "a9"
+    },
+    {
+        "action": "MOVE",
+        "time": "10:33:34",
+        "time_int": 38014,
+        "user": "GrandMaster",
+        "content": "aa"
+    },
+    {
+        "action": "MOVE",
+        "time": "10:33:35",
+        "time_int": 38015,
+        "user": "GrandMaster",
+        "content": "d9"
+    },
+    {
+        "action": "TALK",
+        "time": "10:34:06",
+        "time_int": 38046,
+        "user": "GrandMaster",
+        "content": "see the win?"
+    },
+    {
+        "action": "TALK",
+        "time": "10:34:15",
+        "time_int": 38055,
+        "user": "kingaxx",
+        "content": "y"
+    },
+    {
+        "action": "TALK",
+        "time": "10:34:15",
+        "time_int": 38055,
+        "user": "virag",
+        "content": "yes"
+    },
+    {
+        "action": "TALK",
+        "time": "10:34:18",
+        "time_int": 38058,
+        "user": "GrandMaster",
+        "content": "good"
+    },
+    {
+        "action": "BACK",
+        "time": "10:34:27",
+        "time_int": 38067,
+        "user": "GrandMaster",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time": "10:34:27",
+        "time_int": 38067,
+        "user": "GrandMaster",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time": "10:34:28",
+        "time_int": 38068,
+        "user": "GrandMaster",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time": "10:34:28",
+        "time_int": 38068,
+        "user": "GrandMaster",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time": "10:34:29",
+        "time_int": 38069,
+        "user": "GrandMaster",
+        "content": "ca"
+    },
+    {
+        "action": "MOVE",
+        "time": "10:34:33",
+        "time_int": 38073,
+        "user": "GrandMaster",
+        "content": "a9"
+    },
+    {
+        "action": "MOVE",
+        "time": "10:34:34",
+        "time_int": 38074,
+        "user": "GrandMaster",
+        "content": "aa"
+    },
+    {
+        "action": "MOVE",
+        "time": "10:34:36",
+        "time_int": 38076,
+        "user": "GrandMaster",
+        "content": "a6"
+    },
+    {
+        "action": "MOVE",
+        "time": "10:34:43",
+        "time_int": 38083,
+        "user": "GrandMaster",
+        "content": "6b"
+    },
+    {
+        "action": "MOVE",
+        "time": "10:34:43",
+        "time_int": 38083,
+        "user": "GrandMaster",
+        "content": "5b"
+    },
+    {
+        "action": "MOVE",
+        "time": "10:34:44",
+        "time_int": 38084,
+        "user": "GrandMaster",
+        "content": "b5"
+    },
+    {
+        "action": "MOVE",
+        "time": "10:34:45",
+        "time_int": 38085,
+        "user": "GrandMaster",
+        "content": "86"
+    },
+    {
+        "action": "MOVE",
+        "time": "10:34:46",
+        "time_int": 38086,
+        "user": "GrandMaster",
+        "content": "75"
+    },
+    {
+        "action": "MOVE",
+        "time": "10:34:47",
+        "time_int": 38087,
+        "user": "GrandMaster",
+        "content": "96"
+    },
+    {
+        "action": "MOVE",
+        "time": "10:34:49",
+        "time_int": 38089,
+        "user": "GrandMaster",
+        "content": "b6"
+    },
+    {
+        "action": "MOVE",
+        "time": "10:34:50",
+        "time_int": 38090,
+        "user": "GrandMaster",
+        "content": "a7"
+    },
+    {
+        "action": "MOVE",
+        "time": "10:34:51",
+        "time_int": 38091,
+        "user": "GrandMaster",
+        "content": "a5"
+    },
+    {
+        "action": "MOVE",
+        "time": "10:34:55",
+        "time_int": 38095,
+        "user": "GrandMaster",
+        "content": "85"
+    },
+    {
+        "action": "TALK",
+        "time": "10:34:59",
+        "time_int": 38099,
+        "user": "Chancewu",
+        "content": "gg"
+    },
+    {
+        "action": "TALK",
+        "time": "10:35:03",
+        "time_int": 38103,
+        "user": "GrandMaster",
+        "content": "over"
+    },
+    {
+        "action": "GOTO",
+        "time": "10:35:22",
+        "time_int": 38122,
+        "user": "GrandMaster",
+        "content": 11
+    },
+    {
+        "action": "MOVE",
+        "time": "10:35:44",
+        "time_int": 38144,
+        "user": "GrandMaster",
+        "content": "87"
+    },
+    {
+        "action": "MOVE",
+        "time": "10:35:49",
+        "time_int": 38149,
+        "user": "GrandMaster",
+        "content": "a6"
+    },
+    {
+        "action": "MOVE",
+        "time": "10:35:51",
+        "time_int": 38151,
+        "user": "GrandMaster",
+        "content": "6b"
+    },
+    {
+        "action": "MOVE",
+        "time": "10:35:52",
+        "time_int": 38152,
+        "user": "GrandMaster",
+        "content": "5b"
+    },
+    {
+        "action": "MOVE",
+        "time": "10:35:52",
+        "time_int": 38152,
+        "user": "GrandMaster",
+        "content": "b5"
+    },
+    {
+        "action": "MOVE",
+        "time": "10:35:56",
+        "time_int": 38156,
+        "user": "GrandMaster",
+        "content": "b9"
+    },
+    {
+        "action": "MOVE",
+        "time": "10:35:57",
+        "time_int": 38157,
+        "user": "GrandMaster",
+        "content": "86"
+    },
+    {
+        "action": "MOVE",
+        "time": "10:36:00",
+        "time_int": 38160,
+        "user": "GrandMaster",
+        "content": "aa"
+    },
+    {
+        "action": "MOVE",
+        "time": "10:36:01",
+        "time_int": 38161,
+        "user": "GrandMaster",
+        "content": "ba"
+    },
+    {
+        "action": "MOVE",
+        "time": "10:36:05",
+        "time_int": 38165,
+        "user": "GrandMaster",
+        "content": "a9"
+    },
+    {
+        "action": "MOVE",
+        "time": "10:36:09",
+        "time_int": 38169,
+        "user": "GrandMaster",
+        "content": "ac"
+    },
+    {
+        "action": "MOVE",
+        "time": "10:36:10",
+        "time_int": 38170,
+        "user": "GrandMaster",
+        "content": "99"
+    },
+    {
+        "action": "MOVE",
+        "time": "10:36:14",
+        "time_int": 38174,
+        "user": "GrandMaster",
+        "content": "77"
+    },
+    {
+        "action": "MOVE",
+        "time": "10:36:17",
+        "time_int": 38177,
+        "user": "GrandMaster",
+        "content": "b7"
+    },
+    {
+        "action": "MOVE",
+        "time": "10:36:21",
+        "time_int": 38181,
+        "user": "GrandMaster",
+        "content": "c6"
+    },
+    {
+        "action": "MOVE",
+        "time": "10:36:23",
+        "time_int": 38183,
+        "user": "GrandMaster",
+        "content": "d9"
+    },
+    {
+        "action": "GOTO",
+        "time": "10:36:44",
+        "time_int": 38204,
+        "user": "GrandMaster",
+        "content": 11
+    },
+    {
+        "action": "TALK",
+        "time": "10:36:45",
+        "time_int": 38205,
+        "user": "GrandMaster",
+        "content": "other 12?"
+    },
+    {
+        "action": "TALK",
+        "time": "10:36:53",
+        "time_int": 38213,
+        "user": "kingaxx",
+        "content": "12-k9"
+    },
+    {
+        "action": "MOVE",
+        "time": "10:37:11",
+        "time_int": 38231,
+        "user": "GrandMaster",
+        "content": "b9"
+    },
+    {
+        "action": "TALK",
+        "time": "10:37:12",
+        "time_int": 38232,
+        "user": "tieuphilac",
+        "content": "j9?"
+    },
+    {
+        "action": "MOVE",
+        "time": "10:37:24",
+        "time_int": 38244,
+        "user": "GrandMaster",
+        "content": "a6"
+    },
+    {
+        "action": "MOVE",
+        "time": "10:37:25",
+        "time_int": 38245,
+        "user": "GrandMaster",
+        "content": "6b"
+    },
+    {
+        "action": "MOVE",
+        "time": "10:37:26",
+        "time_int": 38246,
+        "user": "GrandMaster",
+        "content": "5b"
+    },
+    {
+        "action": "MOVE",
+        "time": "10:37:30",
+        "time_int": 38250,
+        "user": "GrandMaster",
+        "content": "b5"
+    },
+    {
+        "action": "MOVE",
+        "time": "10:37:31",
+        "time_int": 38251,
+        "user": "GrandMaster",
+        "content": "aa"
+    },
+    {
+        "action": "TALK",
+        "time": "10:37:39",
+        "time_int": 38259,
+        "user": "GrandMaster",
+        "content": "which side?"
+    },
+    {
+        "action": "TALK",
+        "time": "10:38:08",
+        "time_int": 38288,
+        "user": "GrandMaster",
+        "content": "left right or middle"
+    },
+    {
+        "action": "TALK",
+        "time": "10:38:14",
+        "time_int": 38294,
+        "user": "kingaxx",
+        "content": "RIGHT"
+    },
+    {
+        "action": "MOVE",
+        "time": "10:38:17",
+        "time_int": 38297,
+        "user": "GrandMaster",
+        "content": "ba"
+    },
+    {
+        "action": "TALK",
+        "time": "10:38:20",
+        "time_int": 38300,
+        "user": "kingaxx",
+        "content": "OR MIDDLE"
+    },
+    {
+        "action": "MOVE",
+        "time": "10:38:32",
+        "time_int": 38312,
+        "user": "GrandMaster",
+        "content": "99"
+    },
+    {
+        "action": "MOVE",
+        "time": "10:38:33",
+        "time_int": 38313,
+        "user": "GrandMaster",
+        "content": "bb"
+    },
+    {
+        "action": "MOVE",
+        "time": "10:38:34",
+        "time_int": 38314,
+        "user": "GrandMaster",
+        "content": "b8"
+    },
+    {
+        "action": "TALK",
+        "time": "10:38:48",
+        "time_int": 38328,
+        "user": "GrandMaster",
+        "content": "and then?"
+    },
+    {
+        "action": "TALK",
+        "time": "10:39:01",
+        "time_int": 38341,
+        "user": "GrandMaster",
+        "content": "ant defence?"
+    },
+    {
+        "action": "TALK",
+        "time": "10:39:05",
+        "time_int": 38345,
+        "user": "GrandMaster",
+        "content": "any"
+    },
+    {
+        "action": "TALK",
+        "time": "10:39:12",
+        "time_int": 38352,
+        "user": "kingaxx",
+        "content": "k7"
+    },
+    {
+        "action": "MOVE",
+        "time": "10:39:19",
+        "time_int": 38359,
+        "user": "GrandMaster",
+        "content": "b7"
+    },
+    {
+        "action": "MOVE",
+        "time": "10:39:33",
+        "time_int": 38373,
+        "user": "GrandMaster",
+        "content": "77"
+    },
+    {
+        "action": "MOVE",
+        "time": "10:39:34",
+        "time_int": 38374,
+        "user": "GrandMaster",
+        "content": "66"
+    },
+    {
+        "action": "MOVE",
+        "time": "10:39:35",
+        "time_int": 38375,
+        "user": "GrandMaster",
+        "content": "87"
+    },
+    {
+        "action": "TALK",
+        "time": "10:39:49",
+        "time_int": 38389,
+        "user": "kingaxx",
+        "content": "F7"
+    },
+    {
+        "action": "MOVE",
+        "time": "10:39:51",
+        "time_int": 38391,
+        "user": "GrandMaster",
+        "content": "67"
+    },
+    {
+        "action": "MOVE",
+        "time": "10:40:24",
+        "time_int": 38424,
+        "user": "GrandMaster",
+        "content": "86"
+    },
+    {
+        "action": "TALK",
+        "time": "10:40:45",
+        "time_int": 38445,
+        "user": "kingaxx",
+        "content": "h5"
+    },
+    {
+        "action": "MOVE",
+        "time": "10:40:50",
+        "time_int": 38450,
+        "user": "GrandMaster",
+        "content": "85"
+    },
+    {
+        "action": "MOVE",
+        "time": "10:41:01",
+        "time_int": 38461,
+        "user": "GrandMaster",
+        "content": "59"
+    },
+    {
+        "action": "TALK",
+        "time": "10:41:22",
+        "time_int": 38482,
+        "user": "kingaxx",
+        "content": "d10"
+    },
+    {
+        "action": "MOVE",
+        "time": "10:41:26",
+        "time_int": 38486,
+        "user": "GrandMaster",
+        "content": "4a"
+    },
+    {
+        "action": "MOVE",
+        "time": "10:41:27",
+        "time_int": 38487,
+        "user": "GrandMaster",
+        "content": "58"
+    },
+    {
+        "action": "MOVE",
+        "time": "10:41:50",
+        "time_int": 38510,
+        "user": "GrandMaster",
+        "content": "5a"
+    },
+    {
+        "action": "MOVE",
+        "time": "10:41:51",
+        "time_int": 38511,
+        "user": "GrandMaster",
+        "content": "68"
+    },
+    {
+        "action": "MOVE",
+        "time": "10:41:51",
+        "time_int": 38511,
+        "user": "GrandMaster",
+        "content": "95"
+    },
+    {
+        "action": "MOVE",
+        "time": "10:41:55",
+        "time_int": 38515,
+        "user": "GrandMaster",
+        "content": "78"
+    },
+    {
+        "action": "MOVE",
+        "time": "10:41:55",
+        "time_int": 38515,
+        "user": "GrandMaster",
+        "content": "48"
+    },
+    {
+        "action": "MOVE",
+        "time": "10:42:01",
+        "time_int": 38521,
+        "user": "GrandMaster",
+        "content": "76"
+    },
+    {
+        "action": "MOVE",
+        "time": "10:42:02",
+        "time_int": 38522,
+        "user": "GrandMaster",
+        "content": "79"
+    },
+    {
+        "action": "TALK",
+        "time": "10:42:03",
+        "time_int": 38523,
+        "user": "tieuphilac",
+        "content": "gg"
+    },
+    {
+        "action": "MOVE",
+        "time": "10:42:03",
+        "time_int": 38523,
+        "user": "GrandMaster",
+        "content": "96"
+    },
+    {
+        "action": "TALK",
+        "time": "10:42:07",
+        "time_int": 38527,
+        "user": "Chancewu",
+        "content": "gg"
+    },
+    {
+        "action": "TALK",
+        "time": "10:42:11",
+        "time_int": 38531,
+        "user": "kingaxx",
+        "content": "good"
+    },
+    {
+        "action": "GOTO",
+        "time": "10:42:32",
+        "time_int": 38552,
+        "user": "GrandMaster",
+        "content": 11
+    },
+    {
+        "action": "MOVE",
+        "time": "10:42:36",
+        "time_int": 38556,
+        "user": "GrandMaster",
+        "content": "a9"
+    },
+    {
+        "action": "MOVE",
+        "time": "10:42:43",
+        "time_int": 38563,
+        "user": "GrandMaster",
+        "content": "b9"
+    },
+    {
+        "action": "MOVE",
+        "time": "10:42:44",
+        "time_int": 38564,
+        "user": "GrandMaster",
+        "content": "ca"
+    },
+    {
+        "action": "MOVE",
+        "time": "10:42:47",
+        "time_int": 38567,
+        "user": "GrandMaster",
+        "content": "9a"
+    },
+    {
+        "action": "MOVE",
+        "time": "10:42:54",
+        "time_int": 38574,
+        "user": "GrandMaster",
+        "content": "6a"
+    },
+    {
+        "action": "MOVE",
+        "time": "10:42:57",
+        "time_int": 38577,
+        "user": "GrandMaster",
+        "content": "b7"
+    },
+    {
+        "action": "MOVE",
+        "time": "10:43:01",
+        "time_int": 38581,
+        "user": "GrandMaster",
+        "content": "ba"
+    },
+    {
+        "action": "MOVE",
+        "time": "10:43:01",
+        "time_int": 38581,
+        "user": "GrandMaster",
+        "content": "87"
+    },
+    {
+        "action": "TALK",
+        "time": "10:43:07",
+        "time_int": 38587,
+        "user": "GrandMaster",
+        "content": "win"
+    },
+    {
+        "action": "TALK",
+        "time": "10:43:13",
+        "time_int": 38593,
+        "user": "Chancewu",
+        "content": "gg"
+    },
+    {
+        "action": "BACK",
+        "time": "10:43:16",
+        "time_int": 38596,
+        "user": "GrandMaster",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time": "10:43:17",
+        "time_int": 38597,
+        "user": "GrandMaster",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time": "10:43:17",
+        "time_int": 38597,
+        "user": "GrandMaster",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time": "10:43:17",
+        "time_int": 38597,
+        "user": "GrandMaster",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time": "10:43:18",
+        "time_int": 38598,
+        "user": "GrandMaster",
+        "content": "6b"
+    },
+    {
+        "action": "MOVE",
+        "time": "10:43:19",
+        "time_int": 38599,
+        "user": "GrandMaster",
+        "content": "5b"
+    },
+    {
+        "action": "MOVE",
+        "time": "10:43:22",
+        "time_int": 38602,
+        "user": "GrandMaster",
+        "content": "aa"
+    },
+    {
+        "action": "MOVE",
+        "time": "10:43:24",
+        "time_int": 38604,
+        "user": "GrandMaster",
+        "content": "79"
+    },
+    {
+        "action": "MOVE",
+        "time": "10:43:25",
+        "time_int": 38605,
+        "user": "GrandMaster",
+        "content": "6a"
+    },
+    {
+        "action": "MOVE",
+        "time": "10:43:28",
+        "time_int": 38608,
+        "user": "GrandMaster",
+        "content": "75"
+    },
+    {
+        "action": "BACK",
+        "time": "10:43:29",
+        "time_int": 38609,
+        "user": "GrandMaster",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time": "10:43:30",
+        "time_int": 38610,
+        "user": "GrandMaster",
+        "content": "86"
+    },
+    {
+        "action": "MOVE",
+        "time": "10:43:30",
+        "time_int": 38610,
+        "user": "GrandMaster",
+        "content": "75"
+    },
+    {
+        "action": "MOVE",
+        "time": "10:43:31",
+        "time_int": 38611,
+        "user": "GrandMaster",
+        "content": "77"
+    },
+    {
+        "action": "TALK",
+        "time": "10:43:38",
+        "time_int": 38618,
+        "user": "GrandMaster",
+        "content": "also win"
+    },
+    {
+        "action": "TALK",
+        "time": "10:43:44",
+        "time_int": 38624,
+        "user": "tieuphilac",
+        "content": "very weak"
+    },
+    {
+        "action": "TALK",
+        "time": "10:43:48",
+        "time_int": 38628,
+        "user": "tieuphilac",
+        "content": "ok"
+    },
+    {
+        "action": "TALK",
+        "time": "10:43:52",
+        "time_int": 38632,
+        "user": "GrandMaster",
+        "content": "other 12 not serious enough"
+    },
+    {
+        "action": "TALK",
+        "time": "10:44:15",
+        "time_int": 38655,
+        "user": "leto",
+        "content": "im so fast!"
+    },
+    {
+        "action": "TALK",
+        "time": "10:44:23",
+        "time_int": 38663,
+        "user": "leto",
+        "content": ":)"
+    },
+    {
+        "action": "GOTO",
+        "time": "10:44:29",
+        "time_int": 38669,
+        "user": "GrandMaster",
+        "content": 5
+    },
+    {
+        "action": "TALK",
+        "time": "10:44:34",
+        "time_int": 38674,
+        "user": "GrandMaster",
+        "content": "any other 6?"
+    },
+    {
+        "action": "TALK",
+        "time": "10:44:35",
+        "time_int": 38675,
+        "user": "tunnet99",
+        "content": "nah"
+    },
+    {
+        "action": "CHECKRESULT",
+        "time": "10:44:44",
+        "time_int": 38684,
+        "user": "",
+        "content": " leto, Chancewu, Alan, fallnavy, zemeban, kingaxx, shuwang, alcore, Intotherenju, LiuJianping, tieuphilac, virag, pantrike, paradise."
+    },
+    {
+        "action": "TALK",
+        "time": "10:45:24",
+        "time_int": 38724,
+        "user": "GrandMaster",
+        "content": "if no, we change 4"
+    },
+    {
+        "action": "BACK",
+        "time": "10:45:25",
+        "time_int": 38725,
+        "user": "GrandMaster",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time": "10:45:26",
+        "time_int": 38726,
+        "user": "GrandMaster",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time": "10:45:27",
+        "time_int": 38727,
+        "user": "GrandMaster",
+        "content": "a9"
+    },
+    {
+        "action": "MOVE",
+        "time": "10:45:32",
+        "time_int": 38732,
+        "user": "GrandMaster",
+        "content": "99"
+    },
+    {
+        "action": "MOVE",
+        "time": "10:45:33",
+        "time_int": 38733,
+        "user": "GrandMaster",
+        "content": "9a"
+    },
+    {
+        "action": "TALK",
+        "time": "10:45:44",
+        "time_int": 38744,
+        "user": "GrandMaster",
+        "content": "we have learned this variant"
+    },
+    {
+        "action": "TALK",
+        "time": "10:45:45",
+        "time_int": 38745,
+        "user": "Chancewu",
+        "content": "not g9 ?"
+    },
+    {
+        "action": "TALK",
+        "time": "10:45:48",
+        "time_int": 38748,
+        "user": "GrandMaster",
+        "content": "remember?"
+    },
+    {
+        "action": "BACK",
+        "time": "10:45:59",
+        "time_int": 38759,
+        "user": "GrandMaster",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time": "10:46:00",
+        "time_int": 38760,
+        "user": "GrandMaster",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time": "10:46:01",
+        "time_int": 38761,
+        "user": "GrandMaster",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time": "10:46:02",
+        "time_int": 38762,
+        "user": "GrandMaster",
+        "content": "9a"
+    },
+    {
+        "action": "MOVE",
+        "time": "10:46:02",
+        "time_int": 38762,
+        "user": "GrandMaster",
+        "content": "99"
+    },
+    {
+        "action": "MOVE",
+        "time": "10:46:03",
+        "time_int": 38763,
+        "user": "GrandMaster",
+        "content": "a9"
+    },
+    {
+        "action": "TALK",
+        "time": "10:46:07",
+        "time_int": 38767,
+        "user": "GrandMaster",
+        "content": "the same"
+    },
+    {
+        "action": "BACK",
+        "time": "10:46:16",
+        "time_int": 38776,
+        "user": "GrandMaster",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time": "10:46:16",
+        "time_int": 38776,
+        "user": "GrandMaster",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time": "10:46:17",
+        "time_int": 38777,
+        "user": "GrandMaster",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time": "10:46:18",
+        "time_int": 38778,
+        "user": "GrandMaster",
+        "content": "a9"
+    },
+    {
+        "action": "MOVE",
+        "time": "10:46:19",
+        "time_int": 38779,
+        "user": "GrandMaster",
+        "content": "99"
+    },
+    {
+        "action": "MOVE",
+        "time": "10:46:26",
+        "time_int": 38786,
+        "user": "GrandMaster",
+        "content": "aa"
+    },
+    {
+        "action": "MOVE",
+        "time": "10:46:27",
+        "time_int": 38787,
+        "user": "GrandMaster",
+        "content": "a8"
+    },
+    {
+        "action": "TALK",
+        "time": "10:46:40",
+        "time_int": 38800,
+        "user": "GrandMaster",
+        "content": "if 6-j10 7-j8"
+    },
+    {
+        "action": "TALK",
+        "time": "10:46:59",
+        "time_int": 38819,
+        "user": "GrandMaster",
+        "content": "the alternative 5"
+    },
+    {
+        "action": "BACK",
+        "time": "10:47:00",
+        "time_int": 38820,
+        "user": "GrandMaster",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time": "10:47:01",
+        "time_int": 38821,
+        "user": "GrandMaster",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time": "10:47:02",
+        "time_int": 38822,
+        "user": "GrandMaster",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time": "10:47:03",
+        "time_int": 38823,
+        "user": "GrandMaster",
+        "content": "79"
+    },
+    {
+        "action": "MOVE",
+        "time": "10:47:33",
+        "time_int": 38853,
+        "user": "GrandMaster",
+        "content": "97"
+    },
+    {
+        "action": "MOVE",
+        "time": "10:47:34",
+        "time_int": 38854,
+        "user": "GrandMaster",
+        "content": "68"
+    },
+    {
+        "action": "MOVE",
+        "time": "10:47:37",
+        "time_int": 38857,
+        "user": "GrandMaster",
+        "content": "9b"
+    },
+    {
+        "action": "MOVE",
+        "time": "10:47:38",
+        "time_int": 38858,
+        "user": "GrandMaster",
+        "content": "6a"
+    },
+    {
+        "action": "MOVE",
+        "time": "10:47:53",
+        "time_int": 38873,
+        "user": "GrandMaster",
+        "content": "99"
+    },
+    {
+        "action": "TALK",
+        "time": "10:47:59",
+        "time_int": 38879,
+        "user": "Chancewu",
+        "content": "hehe  look's nice"
+    },
+    {
+        "action": "TALK",
+        "time": "10:48:10",
+        "time_int": 38890,
+        "user": "GrandMaster",
+        "content": "be careful here"
+    },
+    {
+        "action": "TALK",
+        "time": "10:48:20",
+        "time_int": 38900,
+        "user": "Chancewu",
+        "content": "likes \"yanzhen \""
+    },
+    {
+        "action": "TALK",
+        "time": "10:48:23",
+        "time_int": 38903,
+        "user": "GrandMaster",
+        "content": "which is the next move?"
+    },
+    {
+        "action": "TALK",
+        "time": "10:48:38",
+        "time_int": 38918,
+        "user": "kingaxx",
+        "content": "E9?"
+    },
+    {
+        "action": "TALK",
+        "time": "10:48:43",
+        "time_int": 38923,
+        "user": "carnivore",
+        "content": "E9"
+    },
+    {
+        "action": "TALK",
+        "time": "10:48:50",
+        "time_int": 38930,
+        "user": "aivo",
+        "content": "e9"
+    },
+    {
+        "action": "MOVE",
+        "time": "10:49:09",
+        "time_int": 38949,
+        "user": "GrandMaster",
+        "content": "7a"
+    },
+    {
+        "action": "TALK",
+        "time": "10:49:14",
+        "time_int": 38954,
+        "user": "GrandMaster",
+        "content": "this 11 wrong"
+    },
+    {
+        "action": "TALK",
+        "time": "10:49:23",
+        "time_int": 38963,
+        "user": "Chancewu",
+        "content": "en"
+    },
+    {
+        "action": "MOVE",
+        "time": "10:49:26",
+        "time_int": 38966,
+        "user": "GrandMaster",
+        "content": "9a"
+    },
+    {
+        "action": "MOVE",
+        "time": "10:49:27",
+        "time_int": 38967,
+        "user": "GrandMaster",
+        "content": "98"
+    },
+    {
+        "action": "MOVE",
+        "time": "10:49:30",
+        "time_int": 38970,
+        "user": "GrandMaster",
+        "content": "78"
+    },
+    {
+        "action": "MOVE",
+        "time": "10:49:30",
+        "time_int": 38970,
+        "user": "GrandMaster",
+        "content": "67"
+    },
+    {
+        "action": "MOVE",
+        "time": "10:49:36",
+        "time_int": 38976,
+        "user": "GrandMaster",
+        "content": "ab"
+    },
+    {
+        "action": "MOVE",
+        "time": "10:49:37",
+        "time_int": 38977,
+        "user": "GrandMaster",
+        "content": "bc"
+    },
+    {
+        "action": "MOVE",
+        "time": "10:49:37",
+        "time_int": 38977,
+        "user": "GrandMaster",
+        "content": "9c"
+    },
+    {
+        "action": "MOVE",
+        "time": "10:49:38",
+        "time_int": 38978,
+        "user": "GrandMaster",
+        "content": "9d"
+    },
+    {
+        "action": "MOVE",
+        "time": "10:49:39",
+        "time_int": 38979,
+        "user": "GrandMaster",
+        "content": "c9"
+    },
+    {
+        "action": "TALK",
+        "time": "10:49:42",
+        "time_int": 38982,
+        "user": "Chancewu",
+        "content": "vcf"
+    },
+    {
+        "action": "TALK",
+        "time": "10:49:44",
+        "time_int": 38984,
+        "user": "GrandMaster",
+        "content": "white win"
+    },
+    {
+        "action": "GOTO",
+        "time": "10:49:48",
+        "time_int": 38988,
+        "user": "GrandMaster",
+        "content": 10
+    },
+    {
+        "action": "MOVE",
+        "time": "10:49:49",
+        "time_int": 38989,
+        "user": "GrandMaster",
+        "content": "5a"
+    },
+    {
+        "action": "TALK",
+        "time": "10:49:53",
+        "time_int": 38993,
+        "user": "Chancewu",
+        "content": "hehe  Iam slow"
+    },
+    {
+        "action": "TALK",
+        "time": "10:50:00",
+        "time_int": 39000,
+        "user": "GrandMaster",
+        "content": "the right 11"
+    },
+    {
+        "action": "TALK",
+        "time": "10:50:07",
+        "time_int": 39007,
+        "user": "Chancewu",
+        "content": "en"
+    },
+    {
+        "action": "TALK",
+        "time": "10:50:14",
+        "time_int": 39014,
+        "user": "GrandMaster",
+        "content": "and e9 is ok too"
+    },
+    {
+        "action": "MOVE",
+        "time": "10:50:27",
+        "time_int": 39027,
+        "user": "GrandMaster",
+        "content": "7a"
+    },
+    {
+        "action": "MOVE",
+        "time": "10:50:30",
+        "time_int": 39030,
+        "user": "GrandMaster",
+        "content": "98"
+    },
+    {
+        "action": "MOVE",
+        "time": "10:50:31",
+        "time_int": 39031,
+        "user": "GrandMaster",
+        "content": "78"
+    },
+    {
+        "action": "MOVE",
+        "time": "10:50:36",
+        "time_int": 39036,
+        "user": "GrandMaster",
+        "content": "58"
+    },
+    {
+        "action": "MOVE",
+        "time": "10:50:37",
+        "time_int": 39037,
+        "user": "GrandMaster",
+        "content": "59"
+    },
+    {
+        "action": "MOVE",
+        "time": "10:50:42",
+        "time_int": 39042,
+        "user": "GrandMaster",
+        "content": "67"
+    },
+    {
+        "action": "MOVE",
+        "time": "10:50:43",
+        "time_int": 39043,
+        "user": "GrandMaster",
+        "content": "69"
+    },
+    {
+        "action": "MOVE",
+        "time": "10:50:43",
+        "time_int": 39043,
+        "user": "GrandMaster",
+        "content": "49"
+    },
+    {
+        "action": "MOVE",
+        "time": "10:50:47",
+        "time_int": 39047,
+        "user": "GrandMaster",
+        "content": "3a"
+    },
+    {
+        "action": "MOVE",
+        "time": "10:50:48",
+        "time_int": 39048,
+        "user": "GrandMaster",
+        "content": "38"
+    },
+    {
+        "action": "MOVE",
+        "time": "10:50:48",
+        "time_int": 39048,
+        "user": "GrandMaster",
+        "content": "27"
+    },
+    {
+        "action": "MOVE",
+        "time": "10:50:53",
+        "time_int": 39053,
+        "user": "GrandMaster",
+        "content": "48"
+    },
+    {
+        "action": "MOVE",
+        "time": "10:50:54",
+        "time_int": 39054,
+        "user": "GrandMaster",
+        "content": "28"
+    },
+    {
+        "action": "MOVE",
+        "time": "10:50:55",
+        "time_int": 39055,
+        "user": "GrandMaster",
+        "content": "46"
+    },
+    {
+        "action": "TALK",
+        "time": "10:51:07",
+        "time_int": 39067,
+        "user": "GrandMaster",
+        "content": "and other 16"
+    },
+    {
+        "action": "GOTO",
+        "time": "10:51:10",
+        "time_int": 39070,
+        "user": "GrandMaster",
+        "content": 15
+    },
+    {
+        "action": "MOVE",
+        "time": "10:51:11",
+        "time_int": 39071,
+        "user": "GrandMaster",
+        "content": "57"
+    },
+    {
+        "action": "MOVE",
+        "time": "10:51:18",
+        "time_int": 39078,
+        "user": "GrandMaster",
+        "content": "5b"
+    },
+    {
+        "action": "MOVE",
+        "time": "10:51:18",
+        "time_int": 39078,
+        "user": "GrandMaster",
+        "content": "4c"
+    },
+    {
+        "action": "MOVE",
+        "time": "10:51:19",
+        "time_int": 39079,
+        "user": "GrandMaster",
+        "content": "6b"
+    },
+    {
+        "action": "MOVE",
+        "time": "10:51:20",
+        "time_int": 39080,
+        "user": "GrandMaster",
+        "content": "69"
+    },
+    {
+        "action": "MOVE",
+        "time": "10:51:26",
+        "time_int": 39086,
+        "user": "GrandMaster",
+        "content": "49"
+    },
+    {
+        "action": "MOVE",
+        "time": "10:51:27",
+        "time_int": 39087,
+        "user": "GrandMaster",
+        "content": "38"
+    },
+    {
+        "action": "MOVE",
+        "time": "10:51:27",
+        "time_int": 39087,
+        "user": "GrandMaster",
+        "content": "3a"
+    },
+    {
+        "action": "MOVE",
+        "time": "10:51:28",
+        "time_int": 39088,
+        "user": "GrandMaster",
+        "content": "67"
+    },
+    {
+        "action": "MOVE",
+        "time": "10:51:33",
+        "time_int": 39093,
+        "user": "GrandMaster",
+        "content": "4a"
+    },
+    {
+        "action": "MOVE",
+        "time": "10:51:34",
+        "time_int": 39094,
+        "user": "GrandMaster",
+        "content": "2a"
+    },
+    {
+        "action": "MOVE",
+        "time": "10:51:35",
+        "time_int": 39095,
+        "user": "GrandMaster",
+        "content": "59"
+    },
+    {
+        "action": "TALK",
+        "time": "10:51:49",
+        "time_int": 39109,
+        "user": "GrandMaster",
+        "content": "you can see, black is too strong"
+    },
+    {
+        "action": "TALK",
+        "time": "10:51:56",
+        "time_int": 39116,
+        "user": "Chancewu",
+        "content": "en"
+    },
+    {
+        "action": "TALK",
+        "time": "10:52:00",
+        "time_int": 39120,
+        "user": "GrandMaster",
+        "content": "can freely choose attacking style"
+    },
+    {
+        "action": "GOTO",
+        "time": "10:52:23",
+        "time_int": 39143,
+        "user": "GrandMaster",
+        "content": 5
+    },
+    {
+        "action": "MOVE",
+        "time": "10:52:24",
+        "time_int": 39144,
+        "user": "GrandMaster",
+        "content": "78"
+    },
+    {
+        "action": "TALK",
+        "time": "10:52:28",
+        "time_int": 39148,
+        "user": "GrandMaster",
+        "content": "if 6 here"
+    },
+    {
+        "action": "MOVE",
+        "time": "10:52:45",
+        "time_int": 39165,
+        "user": "GrandMaster",
+        "content": "9b"
+    },
+    {
+        "action": "MOVE",
+        "time": "10:52:46",
+        "time_int": 39166,
+        "user": "GrandMaster",
+        "content": "ac"
+    },
+    {
+        "action": "MOVE",
+        "time": "10:52:47",
+        "time_int": 39167,
+        "user": "GrandMaster",
+        "content": "6a"
+    },
+    {
+        "action": "MOVE",
+        "time": "10:52:59",
+        "time_int": 39179,
+        "user": "GrandMaster",
+        "content": "5b"
+    },
+    {
+        "action": "MOVE",
+        "time": "10:53:00",
+        "time_int": 39180,
+        "user": "GrandMaster",
+        "content": "aa"
+    },
+    {
+        "action": "MOVE",
+        "time": "10:53:14",
+        "time_int": 39194,
+        "user": "GrandMaster",
+        "content": "9a"
+    },
+    {
+        "action": "MOVE",
+        "time": "10:53:16",
+        "time_int": 39196,
+        "user": "GrandMaster",
+        "content": "67"
+    },
+    {
+        "action": "TALK",
+        "time": "10:53:28",
+        "time_int": 39208,
+        "user": "Chancewu",
+        "content": "oh gg"
+    },
+    {
+        "action": "MOVE",
+        "time": "10:53:31",
+        "time_int": 39211,
+        "user": "GrandMaster",
+        "content": "68"
+    },
+    {
+        "action": "MOVE",
+        "time": "10:53:31",
+        "time_int": 39211,
+        "user": "GrandMaster",
+        "content": "77"
+    },
+    {
+        "action": "BACK",
+        "time": "10:53:34",
+        "time_int": 39214,
+        "user": "GrandMaster",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time": "10:53:35",
+        "time_int": 39215,
+        "user": "GrandMaster",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time": "10:53:35",
+        "time_int": 39215,
+        "user": "GrandMaster",
+        "content": "57"
+    },
+    {
+        "action": "MOVE",
+        "time": "10:53:42",
+        "time_int": 39222,
+        "user": "GrandMaster",
+        "content": "99"
+    },
+    {
+        "action": "MOVE",
+        "time": "10:53:51",
+        "time_int": 39231,
+        "user": "GrandMaster",
+        "content": "bb"
+    },
+    {
+        "action": "TALK",
+        "time": "10:53:51",
+        "time_int": 39231,
+        "user": "tieuphilac",
+        "content": ":-)"
+    },
+    {
+        "action": "MOVE",
+        "time": "10:53:51",
+        "time_int": 39231,
+        "user": "GrandMaster",
+        "content": "a8"
+    },
+    {
+        "action": "MOVE",
+        "time": "10:53:57",
+        "time_int": 39237,
+        "user": "GrandMaster",
+        "content": "7b"
+    },
+    {
+        "action": "MOVE",
+        "time": "10:53:57",
+        "time_int": 39237,
+        "user": "GrandMaster",
+        "content": "97"
+    },
+    {
+        "action": "MOVE",
+        "time": "10:53:58",
+        "time_int": 39238,
+        "user": "GrandMaster",
+        "content": "a6"
+    },
+    {
+        "action": "MOVE",
+        "time": "10:54:03",
+        "time_int": 39243,
+        "user": "GrandMaster",
+        "content": "66"
+    },
+    {
+        "action": "MOVE",
+        "time": "10:54:04",
+        "time_int": 39244,
+        "user": "GrandMaster",
+        "content": "77"
+    },
+    {
+        "action": "MOVE",
+        "time": "10:54:10",
+        "time_int": 39250,
+        "user": "GrandMaster",
+        "content": "68"
+    },
+    {
+        "action": "MOVE",
+        "time": "10:54:10",
+        "time_int": 39250,
+        "user": "GrandMaster",
+        "content": "69"
+    },
+    {
+        "action": "MOVE",
+        "time": "10:54:12",
+        "time_int": 39252,
+        "user": "GrandMaster",
+        "content": "64"
+    },
+    {
+        "action": "MOVE",
+        "time": "10:54:13",
+        "time_int": 39253,
+        "user": "GrandMaster",
+        "content": "65"
+    },
+    {
+        "action": "MOVE",
+        "time": "10:54:14",
+        "time_int": 39254,
+        "user": "GrandMaster",
+        "content": "86"
+    },
+    {
+        "action": "MOVE",
+        "time": "10:54:14",
+        "time_int": 39254,
+        "user": "GrandMaster",
+        "content": "75"
+    },
+    {
+        "action": "MOVE",
+        "time": "10:54:15",
+        "time_int": 39255,
+        "user": "GrandMaster",
+        "content": "b9"
+    },
+    {
+        "action": "TALK",
+        "time": "10:54:34",
+        "time_int": 39274,
+        "user": "GrandMaster",
+        "content": "so that's all for D1 opening"
+    },
+    {
+        "action": "TALK",
+        "time": "10:54:54",
+        "time_int": 39294,
+        "user": "tieuphilac",
+        "content": "cool"
+    },
+    {
+        "action": "TALK",
+        "time": "10:54:54",
+        "time_int": 39294,
+        "user": "GrandMaster",
+        "content": "what's your conclusion about D1 opening after these leesons"
+    },
+    {
+        "action": "CLEAR",
+        "time": "10:54:57",
+        "time_int": 39297,
+        "user": "GrandMaster",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time": "10:54:59",
+        "time_int": 39299,
+        "user": "GrandMaster",
+        "content": "88"
+    },
+    {
+        "action": "MOVE",
+        "time": "10:54:59",
+        "time_int": 39299,
+        "user": "GrandMaster",
+        "content": "89"
+    },
+    {
+        "action": "MOVE",
+        "time": "10:55:00",
+        "time_int": 39300,
+        "user": "GrandMaster",
+        "content": "8a"
+    },
+    {
+        "action": "TALK",
+        "time": "10:55:13",
+        "time_int": 39313,
+        "user": "Intotherenju",
+        "content": "big advantage for black"
+    },
+    {
+        "action": "TALK",
+        "time": "10:55:14",
+        "time_int": 39314,
+        "user": "kingaxx",
+        "content": "BLACK WIN"
+    },
+    {
+        "action": "TALK",
+        "time": "10:55:22",
+        "time_int": 39322,
+        "user": "Chancewu",
+        "content": "en"
+    },
+    {
+        "action": "TALK",
+        "time": "10:55:28",
+        "time_int": 39328,
+        "user": "leto",
+        "content": "sure win for black"
+    },
+    {
+        "action": "TALK",
+        "time": "10:55:30",
+        "time_int": 39330,
+        "user": "GrandMaster",
+        "content": "is it black win?"
+    },
+    {
+        "action": "TALK",
+        "time": "10:55:41",
+        "time_int": 39341,
+        "user": "tieuphilac",
+        "content": "90 - 95 % win?"
+    },
+    {
+        "action": "TALK",
+        "time": "10:55:44",
+        "time_int": 39344,
+        "user": "Intotherenju",
+        "content": "i9 who can win?"
+    },
+    {
+        "action": "TALK",
+        "time": "10:55:44",
+        "time_int": 39344,
+        "user": "Chancewu",
+        "content": "black have big advantage"
+    },
+    {
+        "action": "TALK",
+        "time": "10:56:04",
+        "time_int": 39364,
+        "user": "tieuphilac",
+        "content": "yes i9 is hard"
+    },
+    {
+        "action": "TALK",
+        "time": "10:56:08",
+        "time_int": 39368,
+        "user": "GrandMaster",
+        "content": "we can find easy win if 4-h11 i11 j10 j9"
+    },
+    {
+        "action": "TALK",
+        "time": "10:56:12",
+        "time_int": 39372,
+        "user": "Chancewu",
+        "content": "but not sure win"
+    },
+    {
+        "action": "TALK",
+        "time": "10:56:26",
+        "time_int": 39386,
+        "user": "GrandMaster",
+        "content": "and difficult sure win after 4-i10"
+    },
+    {
+        "action": "TALK",
+        "time": "10:56:39",
+        "time_int": 39399,
+        "user": "GrandMaster",
+        "content": "but no win after 4-i9"
+    },
+    {
+        "action": "TALK",
+        "time": "10:56:41",
+        "time_int": 39401,
+        "user": "leto",
+        "content": "not yet, i think"
+    },
+    {
+        "action": "TALK",
+        "time": "10:57:04",
+        "time_int": 39424,
+        "user": "kingaxx",
+        "content": "90% B-WIN between two same level players"
+    },
+    {
+        "action": "MOVE",
+        "time": "10:57:08",
+        "time_int": 39428,
+        "user": "GrandMaster",
+        "content": "99"
+    },
+    {
+        "action": "TALK",
+        "time": "10:57:27",
+        "time_int": 39447,
+        "user": "GrandMaster",
+        "content": "if 4 here, difficult to make conclusion"
+    },
+    {
+        "action": "TALK",
+        "time": "10:57:50",
+        "time_int": 39470,
+        "user": "GrandMaster",
+        "content": "we can analyse deeper in i3 opening"
+    },
+    {
+        "action": "TALK",
+        "time": "10:57:55",
+        "time_int": 39475,
+        "user": "shuwang",
+        "content": "same as i33"
+    },
+    {
+        "action": "TALK",
+        "time": "10:58:02",
+        "time_int": 39482,
+        "user": "LiuJianping",
+        "content": "it is same as i3"
+    },
+    {
+        "action": "TALK",
+        "time": "10:58:12",
+        "time_int": 39492,
+        "user": "Chancewu",
+        "content": "en"
+    },
+    {
+        "action": "TALK",
+        "time": "10:58:19",
+        "time_int": 39499,
+        "user": "kingaxx",
+        "content": "EN"
+    },
+    {
+        "action": "TALK",
+        "time": "10:58:20",
+        "time_int": 39500,
+        "user": "Chancewu",
+        "content": "the same"
+    },
+    {
+        "action": "TALK",
+        "time": "10:58:29",
+        "time_int": 39509,
+        "user": "GrandMaster",
+        "content": "the last check and end of the lesson"
+    },
+    {
+        "action": "TALK",
+        "time": "10:58:31",
+        "time_int": 39511,
+        "user": "tieuphilac",
+        "content": ";-)"
+    },
+    {
+        "action": "TALK",
+        "time": "10:58:37",
+        "time_int": 39517,
+        "user": "carnivore",
+        "content": "I am here"
+    },
+    {
+        "action": "TALK",
+        "time": "10:58:40",
+        "time_int": 39520,
+        "user": "leto",
+        "content": ":)"
+    },
+    {
+        "action": "TALK",
+        "time": "10:58:46",
+        "time_int": 39526,
+        "user": "kingaxx",
+        "content": "LETO IS SO FAST"
+    },
+    {
+        "action": "TALK",
+        "time": "10:58:57",
+        "time_int": 39537,
+        "user": "shuwang",
+        "content": "leto is robot"
+    },
+    {
+        "action": "TALK",
+        "time": "10:58:59",
+        "time_int": 39539,
+        "user": "leto",
+        "content": "yhanks king!"
+    },
+    {
+        "action": "CHECKRESULT",
+        "time": "10:59:11",
+        "time_int": 39551,
+        "user": "",
+        "content": " leto, pantrike, Chancewu, shuwang, LiuJianping, alcore, kingaxx, zemeban, Alan, tieuphilac, virag, fallnavy, paradise, Intotherenju, weigui, aivo."
+    },
+    {
+        "action": "TALK",
+        "time": "10:59:14",
+        "time_int": 39554,
+        "user": "GrandMaster",
+        "content": "homework will be published tomorrow"
+    },
+    {
+        "action": "TALK",
+        "time": "10:59:16",
+        "time_int": 39556,
+        "user": "leto",
+        "content": "Im no robot!"
+    },
+    {
+        "action": "TALK",
+        "time": "10:59:18",
+        "time_int": 39558,
+        "user": "kingaxx",
+        "content": "robot?, where can download one?"
+    },
+    {
+        "action": "TALK",
+        "time": "10:59:19",
+        "time_int": 39559,
+        "user": "Chancewu",
+        "content": "thx yyRT"
+    },
+    {
+        "action": "CREDIT",
+        "time": "10:59:20",
+        "time_int": 39560,
+        "user": "",
+        "content": " alcore, Chancewu, fallnavy, kingaxx, leto, LiuJianping, pantrike, shuwang, tieuphilac, virag, zemeban."
+    }
+]

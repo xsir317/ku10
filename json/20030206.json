@@ -1,0 +1,6505 @@
+[
+    {
+        "action": "RESET",
+        "time": "13:29:04",
+        "time_int": 48544,
+        "user": "",
+        "content": "000000"
+    },
+    {
+        "action": "TALK",
+        "time": "13:29:21",
+        "time_int": 48561,
+        "user": "Alan",
+        "content": "ha, I am first"
+    },
+    {
+        "action": "TALK",
+        "time": "13:29:21",
+        "time_int": 48561,
+        "user": "RenjuTeacher",
+        "content": "Dear renju fans, I am glad to announce to opening of new series of lessons."
+    },
+    {
+        "action": "TALK",
+        "time": "13:29:54",
+        "time_int": 48594,
+        "user": "RenjuTeacher",
+        "content": "In the following weeks or months, we will learn different aspects of renju tactics."
+    },
+    {
+        "action": "TALK",
+        "time": "13:30:10",
+        "time_int": 48610,
+        "user": "luwenzhe",
+        "content": "we have been waiting it for a long time :-)"
+    },
+    {
+        "action": "TALK",
+        "time": "13:30:15",
+        "time_int": 48615,
+        "user": "RenjuTeacher",
+        "content": "All of these small aspects combined together makes you a strongest player."
+    },
+    {
+        "action": "TALK",
+        "time": "13:30:18",
+        "time_int": 48618,
+        "user": "killer21st",
+        "content": "yah:)"
+    },
+    {
+        "action": "TALK",
+        "time": "13:30:28",
+        "time_int": 48628,
+        "user": "tieuphilac",
+        "content": "we just cant wait"
+    },
+    {
+        "action": "TALK",
+        "time": "13:30:45",
+        "time_int": 48645,
+        "user": "Alan",
+        "content": "we are right here"
+    },
+    {
+        "action": "TALK",
+        "time": "13:30:49",
+        "time_int": 48649,
+        "user": "namic_99",
+        "content": "just do it"
+    },
+    {
+        "action": "TALK",
+        "time": "13:31:26",
+        "time_int": 48686,
+        "user": "span",
+        "content": "."
+    },
+    {
+        "action": "CHECKRESULT",
+        "time": "13:32:07",
+        "time_int": 48727,
+        "user": "",
+        "content": " tieuphilac, aivo, shuwang, nick_hopper, span, Intotherenju, Renjufans, moocheng, luwenzhe, killer21st, Ikon, namic_99, Jasny_sokol, bomb, Chancewu, Sakuma, Alan, jahre, L8RG8R, NZ21568377, wetcat."
+    },
+    {
+        "action": "TALK",
+        "time": "13:32:19",
+        "time_int": 48739,
+        "user": "RenjuTeacher",
+        "content": "One of the key terms of renju tactics is 'tempo'."
+    },
+    {
+        "action": "TALK",
+        "time": "13:32:28",
+        "time_int": 48748,
+        "user": "RenjuTeacher",
+        "content": "Do you know what it means?"
+    },
+    {
+        "action": "TALK",
+        "time": "13:32:43",
+        "time_int": 48763,
+        "user": "Renjufans",
+        "content": "no"
+    },
+    {
+        "action": "TALK",
+        "time": "13:32:43",
+        "time_int": 48763,
+        "user": "luwenzhe",
+        "content": "Can't find it in dictionary"
+    },
+    {
+        "action": "TALK",
+        "time": "13:32:45",
+        "time_int": 48765,
+        "user": "namic_99",
+        "content": "the right time ..."
+    },
+    {
+        "action": "TALK",
+        "time": "13:32:49",
+        "time_int": 48769,
+        "user": "Chancewu",
+        "content": "no"
+    },
+    {
+        "action": "TALK",
+        "time": "13:32:52",
+        "time_int": 48772,
+        "user": "Guest549",
+        "content": "it's in italian"
+    },
+    {
+        "action": "TALK",
+        "time": "13:32:54",
+        "time_int": 48774,
+        "user": "killer21st",
+        "content": "nono"
+    },
+    {
+        "action": "TALK",
+        "time": "13:33:01",
+        "time_int": 48781,
+        "user": "shuwang",
+        "content": "want to know"
+    },
+    {
+        "action": "TALK",
+        "time": "13:33:23",
+        "time_int": 48803,
+        "user": "bomb",
+        "content": "quick or slow?"
+    },
+    {
+        "action": "TALK",
+        "time": "13:33:30",
+        "time_int": 48810,
+        "user": "RenjuTeacher",
+        "content": "The word tempo is widely used in different fields, including sports ad music, etc."
+    },
+    {
+        "action": "TALK",
+        "time": "13:33:30",
+        "time_int": 48810,
+        "user": "Guest549",
+        "content": "pass by"
+    },
+    {
+        "action": "TALK",
+        "time": "13:34:06",
+        "time_int": 48846,
+        "user": "RenjuTeacher",
+        "content": "In general, it is related to speed."
+    },
+    {
+        "action": "TALK",
+        "time": "13:34:39",
+        "time_int": 48879,
+        "user": "Alan",
+        "content": "Chinese shall call 节奏 I believe"
+    },
+    {
+        "action": "TALK",
+        "time": "13:34:42",
+        "time_int": 48882,
+        "user": "RenjuTeacher",
+        "content": "In renju, we dont have 'speed', so you may wonder, what is the use of that term named 'tempo'."
+    },
+    {
+        "action": "TALK",
+        "time": "13:35:38",
+        "time_int": 48938,
+        "user": "RenjuTeacher",
+        "content": "We often use the phrases 'get tempo', 'keep tempo', 'lose tempo'..."
+    },
+    {
+        "action": "TALK",
+        "time": "13:35:39",
+        "time_int": 48939,
+        "user": "namic_99",
+        "content": "guess : do right thing at right time."
+    },
+    {
+        "action": "TALK",
+        "time": "13:36:00",
+        "time_int": 48960,
+        "user": "RenjuTeacher",
+        "content": "no, its nothing about right or wrong,"
+    },
+    {
+        "action": "TALK",
+        "time": "13:36:38",
+        "time_int": 48998,
+        "user": "RenjuTeacher",
+        "content": "if we imagine renju game as run race between two payers,"
+    },
+    {
+        "action": "TALK",
+        "time": "13:36:46",
+        "time_int": 49006,
+        "user": "RenjuTeacher",
+        "content": "then the one who is leading, has a tempo."
+    },
+    {
+        "action": "TALK",
+        "time": "13:36:54",
+        "time_int": 49014,
+        "user": "shuwang",
+        "content": "xian shou"
+    },
+    {
+        "action": "TALK",
+        "time": "13:37:00",
+        "time_int": 49020,
+        "user": "RenjuTeacher",
+        "content": "and another one has no choice but follow the leader."
+    },
+    {
+        "action": "TALK",
+        "time": "13:37:03",
+        "time_int": 49023,
+        "user": "bomb",
+        "content": "y,xianshou"
+    },
+    {
+        "action": "TALK",
+        "time": "13:37:20",
+        "time_int": 49040,
+        "user": "namic_99",
+        "content": "hm..."
+    },
+    {
+        "action": "TALK",
+        "time": "13:37:27",
+        "time_int": 49047,
+        "user": "Chancewu",
+        "content": "y iknow"
+    },
+    {
+        "action": "TALK",
+        "time": "13:37:34",
+        "time_int": 49054,
+        "user": "Alan",
+        "content": "O"
+    },
+    {
+        "action": "TALK",
+        "time": "13:37:46",
+        "time_int": 49066,
+        "user": "RenjuTeacher",
+        "content": "Do you know bicycle races... the one who rides in first position doesnt always win.. sometimes to be behind is better"
+    },
+    {
+        "action": "TALK",
+        "time": "13:37:55",
+        "time_int": 49075,
+        "user": "RenjuTeacher",
+        "content": "same in renju... to have tempo is not always good"
+    },
+    {
+        "action": "TALK",
+        "time": "13:38:02",
+        "time_int": 49082,
+        "user": "luwenzhe",
+        "content": "oh"
+    },
+    {
+        "action": "TALK",
+        "time": "13:38:04",
+        "time_int": 49084,
+        "user": "aivo",
+        "content": "y"
+    },
+    {
+        "action": "TALK",
+        "time": "13:38:07",
+        "time_int": 49087,
+        "user": "RenjuTeacher",
+        "content": "sometimes is better to let opponent take the lead and let him attack"
+    },
+    {
+        "action": "TALK",
+        "time": "13:38:23",
+        "time_int": 49103,
+        "user": "RenjuTeacher",
+        "content": "It is all clear so far."
+    },
+    {
+        "action": "TALK",
+        "time": "13:38:25",
+        "time_int": 49105,
+        "user": "Alan",
+        "content": "en"
+    },
+    {
+        "action": "TALK",
+        "time": "13:38:27",
+        "time_int": 49107,
+        "user": "RenjuTeacher",
+        "content": "The hardest part is:"
+    },
+    {
+        "action": "TALK",
+        "time": "13:38:32",
+        "time_int": 49112,
+        "user": "killer21st",
+        "content": "hmmmmmmm,attrack maker."
+    },
+    {
+        "action": "TALK",
+        "time": "13:38:39",
+        "time_int": 49119,
+        "user": "Guest551",
+        "content": "halou"
+    },
+    {
+        "action": "TALK",
+        "time": "13:38:42",
+        "time_int": 49122,
+        "user": "namic_99",
+        "content": "hm...waitting mode"
+    },
+    {
+        "action": "TALK",
+        "time": "13:38:43",
+        "time_int": 49123,
+        "user": "RenjuTeacher",
+        "content": "how to know, when it is good to have tempo and when it is better let opponent be active."
+    },
+    {
+        "action": "TALK",
+        "time": "13:38:47",
+        "time_int": 49127,
+        "user": "Guest551",
+        "content": "haolou"
+    },
+    {
+        "action": "TALK",
+        "time": "13:39:04",
+        "time_int": 49144,
+        "user": "Guest551",
+        "content": "dajiahalou"
+    },
+    {
+        "action": "TALK",
+        "time": "13:39:14",
+        "time_int": 49154,
+        "user": "Guest551",
+        "content": "I am sorry. I will behave."
+    },
+    {
+        "action": "TALK",
+        "time": "13:39:15",
+        "time_int": 49155,
+        "user": "killer21st",
+        "content": "i love \"tempo\"..."
+    },
+    {
+        "action": "TALK",
+        "time": "13:39:19",
+        "time_int": 49159,
+        "user": "RenjuTeacher",
+        "content": "To know this well, it takes long time.."
+    },
+    {
+        "action": "TALK",
+        "time": "13:39:28",
+        "time_int": 49168,
+        "user": "Guest551",
+        "content": "imno"
+    },
+    {
+        "action": "TALK",
+        "time": "13:39:31",
+        "time_int": 49171,
+        "user": "Alan",
+        "content": ":)"
+    },
+    {
+        "action": "TALK",
+        "time": "13:39:43",
+        "time_int": 49183,
+        "user": "RenjuTeacher",
+        "content": "Very often, even 9 dan players will make a mistake in judgement of tempo."
+    },
+    {
+        "action": "TALK",
+        "time": "13:39:50",
+        "time_int": 49190,
+        "user": "Alan",
+        "content": "when u knew this, u got first WC?"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:39:57",
+        "time_int": 49197,
+        "user": "RenjuTeacher",
+        "content": "88"
+    },
+    {
+        "action": "TALK",
+        "time": "13:40:19",
+        "time_int": 49219,
+        "user": "RenjuTeacher",
+        "content": "The best way to learn it is through examples."
+    },
+    {
+        "action": "MOVE",
+        "time": "13:40:22",
+        "time_int": 49222,
+        "user": "RenjuTeacher",
+        "content": "89"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:40:23",
+        "time_int": 49223,
+        "user": "RenjuTeacher",
+        "content": "aa"
+    },
+    {
+        "action": "TALK",
+        "time": "13:40:40",
+        "time_int": 49240,
+        "user": "RenjuTeacher",
+        "content": "I will start with the position from my game with Hayakawa in WC."
+    },
+    {
+        "action": "MOVE",
+        "time": "13:40:42",
+        "time_int": 49242,
+        "user": "RenjuTeacher",
+        "content": "99"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:40:44",
+        "time_int": 49244,
+        "user": "RenjuTeacher",
+        "content": "79"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:40:46",
+        "time_int": 49246,
+        "user": "RenjuTeacher",
+        "content": "97"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:40:48",
+        "time_int": 49248,
+        "user": "RenjuTeacher",
+        "content": "9a"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:40:50",
+        "time_int": 49250,
+        "user": "RenjuTeacher",
+        "content": "7a"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:40:51",
+        "time_int": 49251,
+        "user": "RenjuTeacher",
+        "content": "98"
+    },
+    {
+        "action": "BACK",
+        "time": "13:40:54",
+        "time_int": 49254,
+        "user": "RenjuTeacher",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time": "13:40:57",
+        "time_int": 49257,
+        "user": "RenjuTeacher",
+        "content": "b9"
+    },
+    {
+        "action": "TALK",
+        "time": "13:40:59",
+        "time_int": 49259,
+        "user": "RenjuTeacher",
+        "content": "I played here"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:41:03",
+        "time_int": 49263,
+        "user": "RenjuTeacher",
+        "content": "9b"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:41:06",
+        "time_int": 49266,
+        "user": "RenjuTeacher",
+        "content": "98"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:41:07",
+        "time_int": 49267,
+        "user": "RenjuTeacher",
+        "content": "a8"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:41:13",
+        "time_int": 49273,
+        "user": "RenjuTeacher",
+        "content": "b7"
+    },
+    {
+        "action": "TALK",
+        "time": "13:41:28",
+        "time_int": 49288,
+        "user": "killer21st",
+        "content": "ando RT is black in that game?"
+    },
+    {
+        "action": "TALK",
+        "time": "13:41:39",
+        "time_int": 49299,
+        "user": "RenjuTeacher",
+        "content": "I was black and I lost,"
+    },
+    {
+        "action": "TALK",
+        "time": "13:41:55",
+        "time_int": 49315,
+        "user": "Alan",
+        "content": "Oh"
+    },
+    {
+        "action": "TALK",
+        "time": "13:41:56",
+        "time_int": 49316,
+        "user": "RenjuTeacher",
+        "content": "the loss made me analyse the variant more"
+    },
+    {
+        "action": "TALK",
+        "time": "13:42:09",
+        "time_int": 49329,
+        "user": "RenjuTeacher",
+        "content": "and notice the issues of tempo there."
+    },
+    {
+        "action": "TALK",
+        "time": "13:42:27",
+        "time_int": 49347,
+        "user": "RenjuTeacher",
+        "content": "Remember the rule of tempo:"
+    },
+    {
+        "action": "TALK",
+        "time": "13:42:47",
+        "time_int": 49367,
+        "user": "RenjuTeacher",
+        "content": "DO NOT ATTEMPT TO GET THE TEMPO IF YOU HAVE NOTHING USEFUL TO DO WITH IT."
+    },
+    {
+        "action": "TALK",
+        "time": "13:42:57",
+        "time_int": 49377,
+        "user": "luwenzhe",
+        "content": ":)"
+    },
+    {
+        "action": "TALK",
+        "time": "13:43:10",
+        "time_int": 49390,
+        "user": "RenjuTeacher",
+        "content": "Many players fight severely over a tempo,"
+    },
+    {
+        "action": "TALK",
+        "time": "13:43:29",
+        "time_int": 49409,
+        "user": "RenjuTeacher",
+        "content": "but winner is the one who saw the outcome of the exchanges of tempo."
+    },
+    {
+        "action": "TALK",
+        "time": "13:43:40",
+        "time_int": 49420,
+        "user": "RenjuTeacher",
+        "content": "For example, at this moment, black is active.."
+    },
+    {
+        "action": "TALK",
+        "time": "13:43:48",
+        "time_int": 49428,
+        "user": "RenjuTeacher",
+        "content": "but white has two choices here:"
+    },
+    {
+        "action": "TALK",
+        "time": "13:43:49",
+        "time_int": 49429,
+        "user": "aivo",
+        "content": "y"
+    },
+    {
+        "action": "TALK",
+        "time": "13:44:05",
+        "time_int": 49445,
+        "user": "RenjuTeacher",
+        "content": "1. to defend passively and let black continue attacking."
+    },
+    {
+        "action": "MOVE",
+        "time": "13:44:16",
+        "time_int": 49456,
+        "user": "RenjuTeacher",
+        "content": "b8"
+    },
+    {
+        "action": "TALK",
+        "time": "13:44:18",
+        "time_int": 49458,
+        "user": "RenjuTeacher",
+        "content": "for example here."
+    },
+    {
+        "action": "TALK",
+        "time": "13:44:33",
+        "time_int": 49473,
+        "user": "RenjuTeacher",
+        "content": "2. to play actively and gain tempo."
+    },
+    {
+        "action": "BACK",
+        "time": "13:44:34",
+        "time_int": 49474,
+        "user": "RenjuTeacher",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time": "13:44:35",
+        "time_int": 49475,
+        "user": "RenjuTeacher",
+        "content": "8b"
+    },
+    {
+        "action": "TALK",
+        "time": "13:44:40",
+        "time_int": 49480,
+        "user": "RenjuTeacher",
+        "content": "such as here."
+    },
+    {
+        "action": "TALK",
+        "time": "13:44:57",
+        "time_int": 49497,
+        "user": "RenjuTeacher",
+        "content": "Since black cannot do his own stuff anymore, and has to follow whites,"
+    },
+    {
+        "action": "TALK",
+        "time": "13:45:04",
+        "time_int": 49504,
+        "user": "RenjuTeacher",
+        "content": "so we say \"white got the tempo\"."
+    },
+    {
+        "action": "MOVE",
+        "time": "13:45:12",
+        "time_int": 49512,
+        "user": "RenjuTeacher",
+        "content": "6b"
+    },
+    {
+        "action": "TALK",
+        "time": "13:45:33",
+        "time_int": 49533,
+        "user": "RenjuTeacher",
+        "content": "Was it good to get this tempo?"
+    },
+    {
+        "action": "TALK",
+        "time": "13:45:39",
+        "time_int": 49539,
+        "user": "RenjuTeacher",
+        "content": "It is very hard question."
+    },
+    {
+        "action": "TALK",
+        "time": "13:45:46",
+        "time_int": 49546,
+        "user": "Renjufans",
+        "content": "y"
+    },
+    {
+        "action": "TALK",
+        "time": "13:45:50",
+        "time_int": 49550,
+        "user": "RenjuTeacher",
+        "content": "And it may take long time even for top players to decide."
+    },
+    {
+        "action": "TALK",
+        "time": "13:45:54",
+        "time_int": 49554,
+        "user": "aivo",
+        "content": "y"
+    },
+    {
+        "action": "TALK",
+        "time": "13:46:01",
+        "time_int": 49561,
+        "user": "RenjuTeacher",
+        "content": "wow you are quick :)"
+    },
+    {
+        "action": "TALK",
+        "time": "13:46:15",
+        "time_int": 49575,
+        "user": "RenjuTeacher",
+        "content": "Even I lost the game, it took me 3 hours of analyses to decide if tempo was good for white."
+    },
+    {
+        "action": "TALK",
+        "time": "13:46:18",
+        "time_int": 49578,
+        "user": "Renjufans",
+        "content": "hard choice"
+    },
+    {
+        "action": "TALK",
+        "time": "13:46:35",
+        "time_int": 49595,
+        "user": "RenjuTeacher",
+        "content": "Lets see the options:"
+    },
+    {
+        "action": "BACK",
+        "time": "13:46:37",
+        "time_int": 49597,
+        "user": "RenjuTeacher",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time": "13:46:37",
+        "time_int": 49597,
+        "user": "RenjuTeacher",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time": "13:46:49",
+        "time_int": 49609,
+        "user": "RenjuTeacher",
+        "content": "c8"
+    },
+    {
+        "action": "TALK",
+        "time": "13:46:58",
+        "time_int": 49618,
+        "user": "RenjuTeacher",
+        "content": "For example, in case of passive style,"
+    },
+    {
+        "action": "TALK",
+        "time": "13:47:05",
+        "time_int": 49625,
+        "user": "RenjuTeacher",
+        "content": "black keeps tempo,"
+    },
+    {
+        "action": "TALK",
+        "time": "13:47:12",
+        "time_int": 49632,
+        "user": "RenjuTeacher",
+        "content": "and can continue development,"
+    },
+    {
+        "action": "TALK",
+        "time": "13:47:27",
+        "time_int": 49647,
+        "user": "RenjuTeacher",
+        "content": "but at the same time, if white survives this,"
+    },
+    {
+        "action": "TALK",
+        "time": "13:47:32",
+        "time_int": 49652,
+        "user": "RenjuTeacher",
+        "content": "and defends black attack,"
+    },
+    {
+        "action": "TALK",
+        "time": "13:47:44",
+        "time_int": 49664,
+        "user": "RenjuTeacher",
+        "content": "then upper side will be very promising for white,"
+    },
+    {
+        "action": "TALK",
+        "time": "13:47:55",
+        "time_int": 49675,
+        "user": "RenjuTeacher",
+        "content": "because, there will be even more white stones than now."
+    },
+    {
+        "action": "TALK",
+        "time": "13:48:07",
+        "time_int": 49687,
+        "user": "luwenzhe",
+        "content": "ye"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:48:08",
+        "time_int": 49688,
+        "user": "RenjuTeacher",
+        "content": "b8"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:48:09",
+        "time_int": 49689,
+        "user": "RenjuTeacher",
+        "content": "ba"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:48:10",
+        "time_int": 49690,
+        "user": "RenjuTeacher",
+        "content": "96"
+    },
+    {
+        "action": "TALK",
+        "time": "13:48:22",
+        "time_int": 49702,
+        "user": "RenjuTeacher",
+        "content": "For example the stone 16 will make upper side even stronger"
+    },
+    {
+        "action": "TALK",
+        "time": "13:48:32",
+        "time_int": 49712,
+        "user": "RenjuTeacher",
+        "content": "So, all that white needs is to stay cool and defend."
+    },
+    {
+        "action": "TALK",
+        "time": "13:48:44",
+        "time_int": 49724,
+        "user": "RenjuTeacher",
+        "content": "But there is always a risk of defense failure or mistake."
+    },
+    {
+        "action": "TALK",
+        "time": "13:48:51",
+        "time_int": 49731,
+        "user": "RenjuTeacher",
+        "content": "Lets look the other option:"
+    },
+    {
+        "action": "BACK",
+        "time": "13:48:52",
+        "time_int": 49732,
+        "user": "RenjuTeacher",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time": "13:48:52",
+        "time_int": 49732,
+        "user": "RenjuTeacher",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time": "13:48:53",
+        "time_int": 49733,
+        "user": "RenjuTeacher",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time": "13:48:54",
+        "time_int": 49734,
+        "user": "RenjuTeacher",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time": "13:48:55",
+        "time_int": 49735,
+        "user": "RenjuTeacher",
+        "content": "8b"
+    },
+    {
+        "action": "TALK",
+        "time": "13:48:59",
+        "time_int": 49739,
+        "user": "RenjuTeacher",
+        "content": "To take tempo."
+    },
+    {
+        "action": "TALK",
+        "time": "13:49:10",
+        "time_int": 49750,
+        "user": "RenjuTeacher",
+        "content": "White will be active now, forcing black to defend."
+    },
+    {
+        "action": "MOVE",
+        "time": "13:49:12",
+        "time_int": 49752,
+        "user": "RenjuTeacher",
+        "content": "6b"
+    },
+    {
+        "action": "TALK",
+        "time": "13:49:34",
+        "time_int": 49774,
+        "user": "RenjuTeacher",
+        "content": "The good side of this is.. maybe white can keep up the tempo and develop until it has winning power."
+    },
+    {
+        "action": "TALK",
+        "time": "13:49:52",
+        "time_int": 49792,
+        "user": "RenjuTeacher",
+        "content": "But for example, if white is unable to keep up the 'steam',"
+    },
+    {
+        "action": "TALK",
+        "time": "13:49:53",
+        "time_int": 49793,
+        "user": "luwenzhe",
+        "content": "but..."
+    },
+    {
+        "action": "TALK",
+        "time": "13:50:01",
+        "time_int": 49801,
+        "user": "RenjuTeacher",
+        "content": "then sooner or later white attack fails,"
+    },
+    {
+        "action": "TALK",
+        "time": "13:50:15",
+        "time_int": 49815,
+        "user": "RenjuTeacher",
+        "content": "and then black is powerful on both left and right sides."
+    },
+    {
+        "action": "TALK",
+        "time": "13:50:18",
+        "time_int": 49818,
+        "user": "RenjuTeacher",
+        "content": "yes lu?"
+    },
+    {
+        "action": "TALK",
+        "time": "13:50:32",
+        "time_int": 49832,
+        "user": "luwenzhe",
+        "content": "I agree with your 'but' :)"
+    },
+    {
+        "action": "TALK",
+        "time": "13:50:45",
+        "time_int": 49845,
+        "user": "RenjuTeacher",
+        "content": "ha ;)"
+    },
+    {
+        "action": "TALK",
+        "time": "13:50:46",
+        "time_int": 49846,
+        "user": "namic_99",
+        "content": "me too"
+    },
+    {
+        "action": "TALK",
+        "time": "13:50:52",
+        "time_int": 49852,
+        "user": "killer21st",
+        "content": ":)"
+    },
+    {
+        "action": "TALK",
+        "time": "13:50:59",
+        "time_int": 49859,
+        "user": "RenjuTeacher",
+        "content": "so... there are two options."
+    },
+    {
+        "action": "TALK",
+        "time": "13:51:06",
+        "time_int": 49866,
+        "user": "RenjuTeacher",
+        "content": "One with tempo, one without."
+    },
+    {
+        "action": "TALK",
+        "time": "13:51:09",
+        "time_int": 49869,
+        "user": "luwenzhe",
+        "content": "I often failed my attack"
+    },
+    {
+        "action": "TALK",
+        "time": "13:51:12",
+        "time_int": 49872,
+        "user": "RenjuTeacher",
+        "content": "Which one is good, hard to say."
+    },
+    {
+        "action": "TALK",
+        "time": "13:51:17",
+        "time_int": 49877,
+        "user": "aivo",
+        "content": "y"
+    },
+    {
+        "action": "TALK",
+        "time": "13:51:25",
+        "time_int": 49885,
+        "user": "Ikon",
+        "content": "."
+    },
+    {
+        "action": "TALK",
+        "time": "13:51:28",
+        "time_int": 49888,
+        "user": "RenjuTeacher",
+        "content": "So, we can say tempo is a method, not a goal."
+    },
+    {
+        "action": "TALK",
+        "time": "13:51:28",
+        "time_int": 49888,
+        "user": "Chancewu",
+        "content": "y"
+    },
+    {
+        "action": "TALK",
+        "time": "13:51:30",
+        "time_int": 49890,
+        "user": "RenjuTeacher",
+        "content": "Understrand?"
+    },
+    {
+        "action": "TALK",
+        "time": "13:51:35",
+        "time_int": 49895,
+        "user": "luwenzhe",
+        "content": "yes"
+    },
+    {
+        "action": "TALK",
+        "time": "13:51:36",
+        "time_int": 49896,
+        "user": "tieuphilac",
+        "content": "ok"
+    },
+    {
+        "action": "TALK",
+        "time": "13:51:36",
+        "time_int": 49896,
+        "user": "killer21st",
+        "content": "y"
+    },
+    {
+        "action": "TALK",
+        "time": "13:51:40",
+        "time_int": 49900,
+        "user": "Renjufans",
+        "content": "y"
+    },
+    {
+        "action": "TALK",
+        "time": "13:51:40",
+        "time_int": 49900,
+        "user": "Chancewu",
+        "content": "y"
+    },
+    {
+        "action": "TALK",
+        "time": "13:51:42",
+        "time_int": 49902,
+        "user": "L8RG8R",
+        "content": "So you wait until you know you can sustain the attack?"
+    },
+    {
+        "action": "TALK",
+        "time": "13:51:43",
+        "time_int": 49903,
+        "user": "Alan",
+        "content": "y"
+    },
+    {
+        "action": "TALK",
+        "time": "13:51:44",
+        "time_int": 49904,
+        "user": "shuwang",
+        "content": "yes"
+    },
+    {
+        "action": "TALK",
+        "time": "13:51:46",
+        "time_int": 49906,
+        "user": "Intotherenju",
+        "content": "y"
+    },
+    {
+        "action": "TALK",
+        "time": "13:51:48",
+        "time_int": 49908,
+        "user": "Jasny_sokol",
+        "content": "z"
+    },
+    {
+        "action": "TALK",
+        "time": "13:51:57",
+        "time_int": 49917,
+        "user": "shaoping",
+        "content": "o"
+    },
+    {
+        "action": "TALK",
+        "time": "13:52:17",
+        "time_int": 49937,
+        "user": "RenjuTeacher",
+        "content": "In general, there may be many kinds of needs for tempo."
+    },
+    {
+        "action": "TALK",
+        "time": "13:52:35",
+        "time_int": 49955,
+        "user": "RenjuTeacher",
+        "content": "One simple usage is to get tempo to win right away by VCT."
+    },
+    {
+        "action": "TALK",
+        "time": "13:52:51",
+        "time_int": 49971,
+        "user": "RenjuTeacher",
+        "content": "Second usage is to use tempo for defense purposes,"
+    },
+    {
+        "action": "TALK",
+        "time": "13:53:17",
+        "time_int": 49997,
+        "user": "RenjuTeacher",
+        "content": "for example, having tempo, you can use you 'useless' attack power just to fill up the part of the board,"
+    },
+    {
+        "action": "TALK",
+        "time": "13:53:28",
+        "time_int": 50008,
+        "user": "RenjuTeacher",
+        "content": "so that opponent has no good attack area left after you lose tempo."
+    },
+    {
+        "action": "TALK",
+        "time": "13:53:43",
+        "time_int": 50023,
+        "user": "luwenzhe",
+        "content": "good strategy"
+    },
+    {
+        "action": "TALK",
+        "time": "13:53:47",
+        "time_int": 50027,
+        "user": "bomb",
+        "content": ":)"
+    },
+    {
+        "action": "TALK",
+        "time": "13:53:56",
+        "time_int": 50036,
+        "user": "shaoping",
+        "content": "go on"
+    },
+    {
+        "action": "TALK",
+        "time": "13:53:57",
+        "time_int": 50037,
+        "user": "Chancewu",
+        "content": "^-^"
+    },
+    {
+        "action": "TALK",
+        "time": "13:54:05",
+        "time_int": 50045,
+        "user": "RenjuTeacher",
+        "content": "The second way is widely used."
+    },
+    {
+        "action": "CLEAR",
+        "time": "13:54:12",
+        "time_int": 50052,
+        "user": "RenjuTeacher",
+        "content": ""
+    },
+    {
+        "action": "TALK",
+        "time": "13:54:15",
+        "time_int": 50055,
+        "user": "RenjuTeacher",
+        "content": "for example"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:54:37",
+        "time_int": 50077,
+        "user": "RenjuTeacher",
+        "content": "88"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:54:55",
+        "time_int": 50095,
+        "user": "RenjuTeacher",
+        "content": "89"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:54:57",
+        "time_int": 50097,
+        "user": "RenjuTeacher",
+        "content": "aa"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:54:58",
+        "time_int": 50098,
+        "user": "RenjuTeacher",
+        "content": "99"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:54:58",
+        "time_int": 50098,
+        "user": "RenjuTeacher",
+        "content": "a9"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:54:59",
+        "time_int": 50099,
+        "user": "RenjuTeacher",
+        "content": "a8"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:55:00",
+        "time_int": 50100,
+        "user": "RenjuTeacher",
+        "content": "b7"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:55:01",
+        "time_int": 50101,
+        "user": "RenjuTeacher",
+        "content": "9a"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:55:02",
+        "time_int": 50102,
+        "user": "RenjuTeacher",
+        "content": "ab"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:55:04",
+        "time_int": 50104,
+        "user": "RenjuTeacher",
+        "content": "97"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:55:05",
+        "time_int": 50105,
+        "user": "RenjuTeacher",
+        "content": "98"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:55:07",
+        "time_int": 50107,
+        "user": "RenjuTeacher",
+        "content": "67"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:55:17",
+        "time_int": 50117,
+        "user": "RenjuTeacher",
+        "content": "87"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:55:18",
+        "time_int": 50118,
+        "user": "RenjuTeacher",
+        "content": "ba"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:55:19",
+        "time_int": 50119,
+        "user": "RenjuTeacher",
+        "content": "b9"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:55:20",
+        "time_int": 50120,
+        "user": "RenjuTeacher",
+        "content": "c8"
+    },
+    {
+        "action": "TALK",
+        "time": "13:55:45",
+        "time_int": 50145,
+        "user": "RenjuTeacher",
+        "content": "It was my game with Nakamura."
+    },
+    {
+        "action": "TALK",
+        "time": "13:55:56",
+        "time_int": 50156,
+        "user": "RenjuTeacher",
+        "content": "I was black,"
+    },
+    {
+        "action": "TALK",
+        "time": "13:56:06",
+        "time_int": 50166,
+        "user": "RenjuTeacher",
+        "content": "i still had the tempo as you see,"
+    },
+    {
+        "action": "TALK",
+        "time": "13:56:13",
+        "time_int": 50173,
+        "user": "RenjuTeacher",
+        "content": "white was forced to follow blacks"
+    },
+    {
+        "action": "TALK",
+        "time": "13:56:49",
+        "time_int": 50209,
+        "user": "RenjuTeacher",
+        "content": "So, I used the tempo to make several moves which have important value in the aspect of defense."
+    },
+    {
+        "action": "MOVE",
+        "time": "13:56:51",
+        "time_int": 50211,
+        "user": "RenjuTeacher",
+        "content": "69"
+    },
+    {
+        "action": "TALK",
+        "time": "13:57:01",
+        "time_int": 50221,
+        "user": "RenjuTeacher",
+        "content": "Here, a good defense, while still keeping tempo."
+    },
+    {
+        "action": "TALK",
+        "time": "13:57:21",
+        "time_int": 50241,
+        "user": "RenjuTeacher",
+        "content": "Had I given up tempo too soon, I would lose the game because the space for white future attacks was still too big."
+    },
+    {
+        "action": "TALK",
+        "time": "13:57:24",
+        "time_int": 50244,
+        "user": "RenjuTeacher",
+        "content": "Understand?"
+    },
+    {
+        "action": "TALK",
+        "time": "13:57:33",
+        "time_int": 50253,
+        "user": "aivo",
+        "content": "y"
+    },
+    {
+        "action": "TALK",
+        "time": "13:57:34",
+        "time_int": 50254,
+        "user": "RenjuTeacher",
+        "content": "So, I kept up the tempo."
+    },
+    {
+        "action": "TALK",
+        "time": "13:57:36",
+        "time_int": 50256,
+        "user": "L8RG8R",
+        "content": "y"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:57:40",
+        "time_int": 50260,
+        "user": "RenjuTeacher",
+        "content": "76"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:57:46",
+        "time_int": 50266,
+        "user": "RenjuTeacher",
+        "content": "58"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:57:49",
+        "time_int": 50269,
+        "user": "RenjuTeacher",
+        "content": "78"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:57:51",
+        "time_int": 50271,
+        "user": "RenjuTeacher",
+        "content": "56"
+    },
+    {
+        "action": "TALK",
+        "time": "13:58:01",
+        "time_int": 50281,
+        "user": "RenjuTeacher",
+        "content": "Black plays aggressively,"
+    },
+    {
+        "action": "TALK",
+        "time": "13:58:11",
+        "time_int": 50291,
+        "user": "RenjuTeacher",
+        "content": "leaving the pair 20_18 open,"
+    },
+    {
+        "action": "TALK",
+        "time": "13:58:24",
+        "time_int": 50304,
+        "user": "RenjuTeacher",
+        "content": "the reason was - black needs tempo so badly,"
+    },
+    {
+        "action": "TALK",
+        "time": "13:58:38",
+        "time_int": 50318,
+        "user": "RenjuTeacher",
+        "content": "so it cannot afford blocking everything at this point"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:58:43",
+        "time_int": 50323,
+        "user": "RenjuTeacher",
+        "content": "47"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:58:46",
+        "time_int": 50326,
+        "user": "RenjuTeacher",
+        "content": "57"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:58:47",
+        "time_int": 50327,
+        "user": "RenjuTeacher",
+        "content": "59"
+    },
+    {
+        "action": "MOVE",
+        "time": "13:58:50",
+        "time_int": 50330,
+        "user": "RenjuTeacher",
+        "content": "75"
+    },
+    {
+        "action": "TALK",
+        "time": "13:59:03",
+        "time_int": 50343,
+        "user": "RenjuTeacher",
+        "content": "As you see, ever since the move 13, black did not lose tempo at all,"
+    },
+    {
+        "action": "TALK",
+        "time": "13:59:09",
+        "time_int": 50349,
+        "user": "RenjuTeacher",
+        "content": "it was very very important."
+    },
+    {
+        "action": "TALK",
+        "time": "13:59:53",
+        "time_int": 50393,
+        "user": "RenjuTeacher",
+        "content": "And now, white realizing that such continuous black tempo will 'eat up' all the potential white space,"
+    },
+    {
+        "action": "TALK",
+        "time": "14:00:12",
+        "time_int": 50412,
+        "user": "RenjuTeacher",
+        "content": "so Nakamura made a brave attempt,"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:00:13",
+        "time_int": 50413,
+        "user": "RenjuTeacher",
+        "content": "84"
+    },
+    {
+        "action": "TALK",
+        "time": "14:00:24",
+        "time_int": 50424,
+        "user": "RenjuTeacher",
+        "content": "using this 26th move, that says clearly:"
+    },
+    {
+        "action": "TALK",
+        "time": "14:00:36",
+        "time_int": 50436,
+        "user": "RenjuTeacher",
+        "content": "\"you won't get the left lower corner with your tempo\""
+    },
+    {
+        "action": "TALK",
+        "time": "14:00:39",
+        "time_int": 50439,
+        "user": "RenjuTeacher",
+        "content": "understand?"
+    },
+    {
+        "action": "TALK",
+        "time": "14:00:43",
+        "time_int": 50443,
+        "user": "aivo",
+        "content": "y"
+    },
+    {
+        "action": "TALK",
+        "time": "14:00:44",
+        "time_int": 50444,
+        "user": "killer21st",
+        "content": "y"
+    },
+    {
+        "action": "TALK",
+        "time": "14:00:44",
+        "time_int": 50444,
+        "user": "tieuphilac",
+        "content": ":-)"
+    },
+    {
+        "action": "TALK",
+        "time": "14:00:44",
+        "time_int": 50444,
+        "user": "RenjuTeacher",
+        "content": "i meant right corner"
+    },
+    {
+        "action": "TALK",
+        "time": "14:00:45",
+        "time_int": 50445,
+        "user": "RenjuTeacher",
+        "content": "sorry"
+    },
+    {
+        "action": "TALK",
+        "time": "14:00:45",
+        "time_int": 50445,
+        "user": "Renjufans",
+        "content": "y"
+    },
+    {
+        "action": "TALK",
+        "time": "14:01:05",
+        "time_int": 50465,
+        "user": "shaoping",
+        "content": "o"
+    },
+    {
+        "action": "TALK",
+        "time": "14:01:11",
+        "time_int": 50471,
+        "user": "bomb",
+        "content": "."
+    },
+    {
+        "action": "TALK",
+        "time": "14:01:14",
+        "time_int": 50474,
+        "user": "RenjuTeacher",
+        "content": "so, white realized that tempo was used to fill up the board,"
+    },
+    {
+        "action": "TALK",
+        "time": "14:01:18",
+        "time_int": 50478,
+        "user": "shaoping",
+        "content": "."
+    },
+    {
+        "action": "TALK",
+        "time": "14:01:20",
+        "time_int": 50480,
+        "user": "namic_99",
+        "content": "hm...may be both conner"
+    },
+    {
+        "action": "TALK",
+        "time": "14:01:24",
+        "time_int": 50484,
+        "user": "RenjuTeacher",
+        "content": "and thats why the active 26th was made"
+    },
+    {
+        "action": "TALK",
+        "time": "14:01:37",
+        "time_int": 50497,
+        "user": "span",
+        "content": "O-)"
+    },
+    {
+        "action": "TALK",
+        "time": "14:01:37",
+        "time_int": 50497,
+        "user": "RenjuTeacher",
+        "content": "else, black will fill all 4 corners"
+    },
+    {
+        "action": "TALK",
+        "time": "14:01:50",
+        "time_int": 50510,
+        "user": "RenjuTeacher",
+        "content": "and even if black doesnt win after that, the draw is ensured."
+    },
+    {
+        "action": "TALK",
+        "time": "14:02:05",
+        "time_int": 50525,
+        "user": "RenjuTeacher",
+        "content": "That explains why he used such 26."
+    },
+    {
+        "action": "TALK",
+        "time": "14:02:22",
+        "time_int": 50542,
+        "user": "RenjuTeacher",
+        "content": "It was his weapon against tempo that was eating his space."
+    },
+    {
+        "action": "TALK",
+        "time": "14:02:25",
+        "time_int": 50545,
+        "user": "RenjuTeacher",
+        "content": "Understand?"
+    },
+    {
+        "action": "TALK",
+        "time": "14:02:36",
+        "time_int": 50556,
+        "user": "L8RG8R",
+        "content": "y"
+    },
+    {
+        "action": "TALK",
+        "time": "14:02:37",
+        "time_int": 50557,
+        "user": "aivo",
+        "content": "y"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:02:38",
+        "time_int": 50558,
+        "user": "RenjuTeacher",
+        "content": "7b"
+    },
+    {
+        "action": "TALK",
+        "time": "14:02:42",
+        "time_int": 50562,
+        "user": "killer21st",
+        "content": "4 corners seems so important.."
+    },
+    {
+        "action": "TALK",
+        "time": "14:02:43",
+        "time_int": 50563,
+        "user": "RenjuTeacher",
+        "content": "Black used his tempo,"
+    },
+    {
+        "action": "TALK",
+        "time": "14:02:45",
+        "time_int": 50565,
+        "user": "Renjufans",
+        "content": "y"
+    },
+    {
+        "action": "TALK",
+        "time": "14:02:47",
+        "time_int": 50567,
+        "user": "RenjuTeacher",
+        "content": "to take another good white spot"
+    },
+    {
+        "action": "TALK",
+        "time": "14:02:53",
+        "time_int": 50573,
+        "user": "RenjuTeacher",
+        "content": "notice if white takes it instead"
+    },
+    {
+        "action": "TALK",
+        "time": "14:02:56",
+        "time_int": 50576,
+        "user": "RenjuTeacher",
+        "content": "such power, eh?"
+    },
+    {
+        "action": "TALK",
+        "time": "14:03:01",
+        "time_int": 50581,
+        "user": "aivo",
+        "content": "y"
+    },
+    {
+        "action": "TALK",
+        "time": "14:03:07",
+        "time_int": 50587,
+        "user": "Alan",
+        "content": "yes"
+    },
+    {
+        "action": "TALK",
+        "time": "14:03:13",
+        "time_int": 50593,
+        "user": "RenjuTeacher",
+        "content": "and after 27, black STILL has the tempo"
+    },
+    {
+        "action": "TALK",
+        "time": "14:03:17",
+        "time_int": 50597,
+        "user": "RenjuTeacher",
+        "content": "so white was desperate"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:03:19",
+        "time_int": 50599,
+        "user": "RenjuTeacher",
+        "content": "9b"
+    },
+    {
+        "action": "TALK",
+        "time": "14:03:34",
+        "time_int": 50614,
+        "user": "namic_99",
+        "content": "ye"
+    },
+    {
+        "action": "TALK",
+        "time": "14:03:40",
+        "time_int": 50620,
+        "user": "RenjuTeacher",
+        "content": "White has lost all good potential attack points, while still under the pressure of opponents"
+    },
+    {
+        "action": "TALK",
+        "time": "14:03:55",
+        "time_int": 50635,
+        "user": "RenjuTeacher",
+        "content": "And further moves are not so important.."
+    },
+    {
+        "action": "MOVE",
+        "time": "14:03:57",
+        "time_int": 50637,
+        "user": "RenjuTeacher",
+        "content": "6c"
+    },
+    {
+        "action": "TALK",
+        "time": "14:04:02",
+        "time_int": 50642,
+        "user": "RenjuTeacher",
+        "content": "black ran into space.."
+    },
+    {
+        "action": "TALK",
+        "time": "14:04:06",
+        "time_int": 50646,
+        "user": "RenjuTeacher",
+        "content": "and won soon"
+    },
+    {
+        "action": "TALK",
+        "time": "14:04:13",
+        "time_int": 50653,
+        "user": "RenjuTeacher",
+        "content": "by connecting lower side over the left wing"
+    },
+    {
+        "action": "TALK",
+        "time": "14:04:25",
+        "time_int": 50665,
+        "user": "RenjuTeacher",
+        "content": "26 was the reason of loss"
+    },
+    {
+        "action": "TALK",
+        "time": "14:04:32",
+        "time_int": 50672,
+        "user": "RenjuTeacher",
+        "content": "a great gamble"
+    },
+    {
+        "action": "TALK",
+        "time": "14:04:35",
+        "time_int": 50675,
+        "user": "RenjuTeacher",
+        "content": "as we speak"
+    },
+    {
+        "action": "TALK",
+        "time": "14:04:50",
+        "time_int": 50690,
+        "user": "RenjuTeacher",
+        "content": "to make passive 26 will give white  0% chance to win this game"
+    },
+    {
+        "action": "TALK",
+        "time": "14:05:14",
+        "time_int": 50714,
+        "user": "RenjuTeacher",
+        "content": "so he made active 26, risky, but if stands, then white has some chances to win later"
+    },
+    {
+        "action": "TALK",
+        "time": "14:05:17",
+        "time_int": 50717,
+        "user": "RenjuTeacher",
+        "content": "understand?"
+    },
+    {
+        "action": "TALK",
+        "time": "14:05:24",
+        "time_int": 50724,
+        "user": "aivo",
+        "content": "y"
+    },
+    {
+        "action": "TALK",
+        "time": "14:05:30",
+        "time_int": 50730,
+        "user": "bomb",
+        "content": "y"
+    },
+    {
+        "action": "TALK",
+        "time": "14:05:32",
+        "time_int": 50732,
+        "user": "L8RG8R",
+        "content": "y"
+    },
+    {
+        "action": "TALK",
+        "time": "14:05:33",
+        "time_int": 50733,
+        "user": "Chancewu",
+        "content": "y"
+    },
+    {
+        "action": "TALK",
+        "time": "14:05:33",
+        "time_int": 50733,
+        "user": "Intotherenju",
+        "content": "y"
+    },
+    {
+        "action": "TALK",
+        "time": "14:05:34",
+        "time_int": 50734,
+        "user": "namic_99",
+        "content": "y"
+    },
+    {
+        "action": "TALK",
+        "time": "14:05:36",
+        "time_int": 50736,
+        "user": "Renjufans",
+        "content": "y"
+    },
+    {
+        "action": "TALK",
+        "time": "14:05:36",
+        "time_int": 50736,
+        "user": "killer21st",
+        "content": "y"
+    },
+    {
+        "action": "TALK",
+        "time": "14:05:41",
+        "time_int": 50741,
+        "user": "eastmen",
+        "content": "y"
+    },
+    {
+        "action": "TALK",
+        "time": "14:05:56",
+        "time_int": 50756,
+        "user": "RenjuTeacher",
+        "content": "When I made moves 13, 15, 17.. I had no hope of win..."
+    },
+    {
+        "action": "TALK",
+        "time": "14:06:09",
+        "time_int": 50769,
+        "user": "RenjuTeacher",
+        "content": "I knew he could always choose draw by being passive"
+    },
+    {
+        "action": "TALK",
+        "time": "14:06:33",
+        "time_int": 50793,
+        "user": "RenjuTeacher",
+        "content": "And to avoid loss, all the moves that you saw were necessary"
+    },
+    {
+        "action": "TALK",
+        "time": "14:06:44",
+        "time_int": 50804,
+        "user": "RenjuTeacher",
+        "content": "almost any other way would let black run out of power,"
+    },
+    {
+        "action": "TALK",
+        "time": "14:06:58",
+        "time_int": 50818,
+        "user": "RenjuTeacher",
+        "content": "and then white could take over tempo while free space is still big enough."
+    },
+    {
+        "action": "CLEAR",
+        "time": "14:07:09",
+        "time_int": 50829,
+        "user": "RenjuTeacher",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time": "14:07:11",
+        "time_int": 50831,
+        "user": "RenjuTeacher",
+        "content": "88"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:07:14",
+        "time_int": 50834,
+        "user": "RenjuTeacher",
+        "content": "89"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:07:14",
+        "time_int": 50834,
+        "user": "RenjuTeacher",
+        "content": "87"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:07:15",
+        "time_int": 50835,
+        "user": "RenjuTeacher",
+        "content": "86"
+    },
+    {
+        "action": "TALK",
+        "time": "14:07:26",
+        "time_int": 50846,
+        "user": "luwenzhe",
+        "content": "this is hard"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:07:30",
+        "time_int": 50850,
+        "user": "RenjuTeacher",
+        "content": "96"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:07:31",
+        "time_int": 50851,
+        "user": "RenjuTeacher",
+        "content": "78"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:07:32",
+        "time_int": 50852,
+        "user": "RenjuTeacher",
+        "content": "67"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:07:33",
+        "time_int": 50853,
+        "user": "RenjuTeacher",
+        "content": "97"
+    },
+    {
+        "action": "BACK",
+        "time": "14:07:39",
+        "time_int": 50859,
+        "user": "RenjuTeacher",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time": "14:07:39",
+        "time_int": 50859,
+        "user": "RenjuTeacher",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time": "14:07:39",
+        "time_int": 50859,
+        "user": "RenjuTeacher",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time": "14:07:40",
+        "time_int": 50860,
+        "user": "RenjuTeacher",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time": "14:07:41",
+        "time_int": 50861,
+        "user": "RenjuTeacher",
+        "content": "76"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:07:42",
+        "time_int": 50862,
+        "user": "RenjuTeacher",
+        "content": "98"
+    },
+    {
+        "action": "TALK",
+        "time": "14:07:46",
+        "time_int": 50866,
+        "user": "RenjuTeacher",
+        "content": "i use right angle"
+    },
+    {
+        "action": "TALK",
+        "time": "14:07:52",
+        "time_int": 50872,
+        "user": "RenjuTeacher",
+        "content": "some of you may not recognize mirror"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:07:54",
+        "time_int": 50874,
+        "user": "RenjuTeacher",
+        "content": "a7"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:07:54",
+        "time_int": 50874,
+        "user": "RenjuTeacher",
+        "content": "77"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:07:55",
+        "time_int": 50875,
+        "user": "RenjuTeacher",
+        "content": "a5"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:07:56",
+        "time_int": 50876,
+        "user": "RenjuTeacher",
+        "content": "68"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:07:57",
+        "time_int": 50877,
+        "user": "RenjuTeacher",
+        "content": "59"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:07:58",
+        "time_int": 50878,
+        "user": "RenjuTeacher",
+        "content": "67"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:07:59",
+        "time_int": 50879,
+        "user": "RenjuTeacher",
+        "content": "78"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:08:02",
+        "time_int": 50882,
+        "user": "RenjuTeacher",
+        "content": "96"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:08:03",
+        "time_int": 50883,
+        "user": "RenjuTeacher",
+        "content": "a6"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:08:04",
+        "time_int": 50884,
+        "user": "RenjuTeacher",
+        "content": "a4"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:08:05",
+        "time_int": 50885,
+        "user": "RenjuTeacher",
+        "content": "95"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:08:06",
+        "time_int": 50886,
+        "user": "RenjuTeacher",
+        "content": "97"
+    },
+    {
+        "action": "TALK",
+        "time": "14:08:13",
+        "time_int": 50893,
+        "user": "RenjuTeacher",
+        "content": "My 2nd game with Nakamura."
+    },
+    {
+        "action": "TALK",
+        "time": "14:08:24",
+        "time_int": 50904,
+        "user": "RenjuTeacher",
+        "content": "the one you just saw before was the 3rd"
+    },
+    {
+        "action": "TALK",
+        "time": "14:08:51",
+        "time_int": 50931,
+        "user": "luwenzhe",
+        "content": "You won both these two"
+    },
+    {
+        "action": "TALK",
+        "time": "14:08:53",
+        "time_int": 50933,
+        "user": "RenjuTeacher",
+        "content": "Here, although black has 3 offence lines"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:08:59",
+        "time_int": 50939,
+        "user": "RenjuTeacher",
+        "content": "99"
+    },
+    {
+        "action": "TALK",
+        "time": "14:09:04",
+        "time_int": 50944,
+        "user": "killer21st",
+        "content": "who's black in this game"
+    },
+    {
+        "action": "TALK",
+        "time": "14:09:06",
+        "time_int": 50946,
+        "user": "RenjuTeacher",
+        "content": "black chose to give up tempo"
+    },
+    {
+        "action": "TALK",
+        "time": "14:09:11",
+        "time_int": 50951,
+        "user": "aivo",
+        "content": "ando"
+    },
+    {
+        "action": "TALK",
+        "time": "14:09:13",
+        "time_int": 50953,
+        "user": "Renjufans",
+        "content": "y"
+    },
+    {
+        "action": "TALK",
+        "time": "14:09:14",
+        "time_int": 50954,
+        "user": "luwenzhe",
+        "content": "Ando was black in all 6 games"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:09:23",
+        "time_int": 50963,
+        "user": "RenjuTeacher",
+        "content": "b7"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:09:25",
+        "time_int": 50965,
+        "user": "RenjuTeacher",
+        "content": "75"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:09:27",
+        "time_int": 50967,
+        "user": "RenjuTeacher",
+        "content": "65"
+    },
+    {
+        "action": "TALK",
+        "time": "14:09:27",
+        "time_int": 50967,
+        "user": "killer21st",
+        "content": "cool"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:09:29",
+        "time_int": 50969,
+        "user": "RenjuTeacher",
+        "content": "66"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:09:31",
+        "time_int": 50971,
+        "user": "RenjuTeacher",
+        "content": "48"
+    },
+    {
+        "action": "TALK",
+        "time": "14:09:52",
+        "time_int": 50992,
+        "user": "RenjuTeacher",
+        "content": "This is a very important moment"
+    },
+    {
+        "action": "TALK",
+        "time": "14:10:05",
+        "time_int": 51005,
+        "user": "RenjuTeacher",
+        "content": "Should black keep tempo or not."
+    },
+    {
+        "action": "TALK",
+        "time": "14:10:18",
+        "time_int": 51018,
+        "user": "RenjuTeacher",
+        "content": "Maybe just attack e11.."
+    },
+    {
+        "action": "TALK",
+        "time": "14:10:30",
+        "time_int": 51030,
+        "user": "RenjuTeacher",
+        "content": "but then you will think of the result,"
+    },
+    {
+        "action": "TALK",
+        "time": "14:10:40",
+        "time_int": 51040,
+        "user": "RenjuTeacher",
+        "content": "what if you will fail the e11 attack,"
+    },
+    {
+        "action": "TALK",
+        "time": "14:10:49",
+        "time_int": 51049,
+        "user": "RenjuTeacher",
+        "content": "then it will be too late to defend both left and right side,"
+    },
+    {
+        "action": "TALK",
+        "time": "14:10:55",
+        "time_int": 51055,
+        "user": "luwenzhe",
+        "content": "white will be strong at left"
+    },
+    {
+        "action": "TALK",
+        "time": "14:11:06",
+        "time_int": 51066,
+        "user": "RenjuTeacher",
+        "content": "so, before going to e11, you have to secure at least one side"
+    },
+    {
+        "action": "TALK",
+        "time": "14:11:26",
+        "time_int": 51086,
+        "user": "killer21st",
+        "content": "hi,yy GM"
+    },
+    {
+        "action": "TALK",
+        "time": "14:11:27",
+        "time_int": 51087,
+        "user": "RenjuTeacher",
+        "content": "and black must secure the side by using tempo,"
+    },
+    {
+        "action": "TALK",
+        "time": "14:11:43",
+        "time_int": 51103,
+        "user": "yyfcsd",
+        "content": "hi"
+    },
+    {
+        "action": "TALK",
+        "time": "14:11:46",
+        "time_int": 51106,
+        "user": "RenjuTeacher",
+        "content": "and it has to be done so that black will keep the tempo."
+    },
+    {
+        "action": "TALK",
+        "time": "14:11:48",
+        "time_int": 51108,
+        "user": "luwenzhe",
+        "content": "hi, yy"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:11:49",
+        "time_int": 51109,
+        "user": "RenjuTeacher",
+        "content": "84"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:11:50",
+        "time_int": 51110,
+        "user": "RenjuTeacher",
+        "content": "93"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:11:52",
+        "time_int": 51112,
+        "user": "RenjuTeacher",
+        "content": "b5"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:11:53",
+        "time_int": 51113,
+        "user": "RenjuTeacher",
+        "content": "85"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:11:58",
+        "time_int": 51118,
+        "user": "RenjuTeacher",
+        "content": "c7"
+    },
+    {
+        "action": "TALK",
+        "time": "14:12:09",
+        "time_int": 51129,
+        "user": "RenjuTeacher",
+        "content": "Now, the right side is safe."
+    },
+    {
+        "action": "TALK",
+        "time": "14:12:10",
+        "time_int": 51130,
+        "user": "namic_99",
+        "content": "hello, yyfcsd"
+    },
+    {
+        "action": "TALK",
+        "time": "14:12:20",
+        "time_int": 51140,
+        "user": "aivo",
+        "content": "y"
+    },
+    {
+        "action": "TALK",
+        "time": "14:12:20",
+        "time_int": 51140,
+        "user": "RenjuTeacher",
+        "content": "White will not have enough power to attack there,"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:12:22",
+        "time_int": 51142,
+        "user": "RenjuTeacher",
+        "content": "d8"
+    },
+    {
+        "action": "TALK",
+        "time": "14:12:48",
+        "time_int": 51168,
+        "user": "RenjuTeacher",
+        "content": "Move 30 speaks same words as the move 26 in previous game -"
+    },
+    {
+        "action": "TALK",
+        "time": "14:13:08",
+        "time_int": 51188,
+        "user": "Alan",
+        "content": "en, yes"
+    },
+    {
+        "action": "TALK",
+        "time": "14:13:11",
+        "time_int": 51191,
+        "user": "luwenzhe",
+        "content": "I had thought you were planning for future connection to left. But it was defense!"
+    },
+    {
+        "action": "TALK",
+        "time": "14:13:12",
+        "time_int": 51192,
+        "user": "RenjuTeacher",
+        "content": "\"I wont let you use your tempo to crawl to upper area and fill it\""
+    },
+    {
+        "action": "TALK",
+        "time": "14:13:31",
+        "time_int": 51211,
+        "user": "RenjuTeacher",
+        "content": "luwenzhe, it was also attack."
+    },
+    {
+        "action": "TALK",
+        "time": "14:13:42",
+        "time_int": 51222,
+        "user": "RenjuTeacher",
+        "content": "in another lesson, we learn attack techniques,"
+    },
+    {
+        "action": "TALK",
+        "time": "14:13:49",
+        "time_int": 51229,
+        "user": "luwenzhe",
+        "content": "ok. great"
+    },
+    {
+        "action": "TALK",
+        "time": "14:14:04",
+        "time_int": 51244,
+        "user": "RenjuTeacher",
+        "content": "and someday in future, we learn, the great player can combine many tehniques into one stone"
+    },
+    {
+        "action": "TALK",
+        "time": "14:14:07",
+        "time_int": 51247,
+        "user": "RenjuTeacher",
+        "content": "understand?"
+    },
+    {
+        "action": "TALK",
+        "time": "14:14:14",
+        "time_int": 51254,
+        "user": "aivo",
+        "content": "y"
+    },
+    {
+        "action": "TALK",
+        "time": "14:14:14",
+        "time_int": 51254,
+        "user": "killer21st",
+        "content": "y"
+    },
+    {
+        "action": "TALK",
+        "time": "14:14:25",
+        "time_int": 51265,
+        "user": "L8RG8R",
+        "content": "y"
+    },
+    {
+        "action": "TALK",
+        "time": "14:14:28",
+        "time_int": 51268,
+        "user": "namic_99",
+        "content": "wow !"
+    },
+    {
+        "action": "TALK",
+        "time": "14:14:30",
+        "time_int": 51270,
+        "user": "Renjufans",
+        "content": "y"
+    },
+    {
+        "action": "TALK",
+        "time": "14:14:31",
+        "time_int": 51271,
+        "user": "Alan",
+        "content": "Oh"
+    },
+    {
+        "action": "TALK",
+        "time": "14:14:34",
+        "time_int": 51274,
+        "user": "RenjuTeacher",
+        "content": "So, speaking of the aspect of tempo,"
+    },
+    {
+        "action": "TALK",
+        "time": "14:14:35",
+        "time_int": 51275,
+        "user": "Alan",
+        "content": "yes, it is"
+    },
+    {
+        "action": "TALK",
+        "time": "14:14:41",
+        "time_int": 51281,
+        "user": "luwenzhe",
+        "content": "understand. But don't know how to do it :)"
+    },
+    {
+        "action": "TALK",
+        "time": "14:14:56",
+        "time_int": 51296,
+        "user": "RenjuTeacher",
+        "content": "the move 30 tries to cut off blacks from coming to upper side."
+    },
+    {
+        "action": "TALK",
+        "time": "14:14:59",
+        "time_int": 51299,
+        "user": "span",
+        "content": "hard to me to do it."
+    },
+    {
+        "action": "TALK",
+        "time": "14:15:05",
+        "time_int": 51305,
+        "user": "eastmen",
+        "content": ":("
+    },
+    {
+        "action": "MOVE",
+        "time": "14:15:07",
+        "time_int": 51307,
+        "user": "RenjuTeacher",
+        "content": "b9"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:15:08",
+        "time_int": 51308,
+        "user": "RenjuTeacher",
+        "content": "aa"
+    },
+    {
+        "action": "TALK",
+        "time": "14:15:15",
+        "time_int": 51315,
+        "user": "RenjuTeacher",
+        "content": "Move 32, same purpose."
+    },
+    {
+        "action": "TALK",
+        "time": "14:15:21",
+        "time_int": 51321,
+        "user": "luwenzhe",
+        "content": "yes, 30 is like 26 in the other game"
+    },
+    {
+        "action": "TALK",
+        "time": "14:15:30",
+        "time_int": 51330,
+        "user": "RenjuTeacher",
+        "content": "Now, the right wing is pretty safe,"
+    },
+    {
+        "action": "TALK",
+        "time": "14:15:52",
+        "time_int": 51352,
+        "user": "RenjuTeacher",
+        "content": "but the super-good 30 and 32 ruined black plans a bit:"
+    },
+    {
+        "action": "TALK",
+        "time": "14:16:18",
+        "time_int": 51378,
+        "user": "RenjuTeacher",
+        "content": "black had counted that the tempo will do all the good job by securing on of two dangerous sides,"
+    },
+    {
+        "action": "TALK",
+        "time": "14:16:56",
+        "time_int": 51416,
+        "user": "RenjuTeacher",
+        "content": "but good stones 30 and 32 created a new potential are for white while black was filling up right wing."
+    },
+    {
+        "action": "TALK",
+        "time": "14:17:09",
+        "time_int": 51429,
+        "user": "RenjuTeacher",
+        "content": "Now, white had strong upper space and left space."
+    },
+    {
+        "action": "TALK",
+        "time": "14:17:22",
+        "time_int": 51442,
+        "user": "RenjuTeacher",
+        "content": "So, black was still facing two potential white areas,"
+    },
+    {
+        "action": "TALK",
+        "time": "14:17:31",
+        "time_int": 51451,
+        "user": "RenjuTeacher",
+        "content": "so, it was still early to go to e11."
+    },
+    {
+        "action": "TALK",
+        "time": "14:17:51",
+        "time_int": 51471,
+        "user": "RenjuTeacher",
+        "content": "So, black used the lower side source, to neutralize left side."
+    },
+    {
+        "action": "MOVE",
+        "time": "14:17:52",
+        "time_int": 51472,
+        "user": "RenjuTeacher",
+        "content": "46"
+    },
+    {
+        "action": "TALK",
+        "time": "14:18:02",
+        "time_int": 51482,
+        "user": "RenjuTeacher",
+        "content": "Move 33 creates a VCT in the botton"
+    },
+    {
+        "action": "TALK",
+        "time": "14:18:03",
+        "time_int": 51483,
+        "user": "luwenzhe",
+        "content": "Can't feel white's strength on top"
+    },
+    {
+        "action": "TALK",
+        "time": "14:18:05",
+        "time_int": 51485,
+        "user": "RenjuTeacher",
+        "content": "bottom"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:18:20",
+        "time_int": 51500,
+        "user": "RenjuTeacher",
+        "content": "5a"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:18:21",
+        "time_int": 51501,
+        "user": "RenjuTeacher",
+        "content": "73"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:18:21",
+        "time_int": 51501,
+        "user": "RenjuTeacher",
+        "content": "62"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:18:22",
+        "time_int": 51502,
+        "user": "RenjuTeacher",
+        "content": "64"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:18:24",
+        "time_int": 51504,
+        "user": "RenjuTeacher",
+        "content": "55"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:18:24",
+        "time_int": 51504,
+        "user": "RenjuTeacher",
+        "content": "74"
+    },
+    {
+        "action": "TALK",
+        "time": "14:18:27",
+        "time_int": 51507,
+        "user": "RenjuTeacher",
+        "content": "win"
+    },
+    {
+        "action": "TALK",
+        "time": "14:18:27",
+        "time_int": 51507,
+        "user": "luwenzhe",
+        "content": "yes"
+    },
+    {
+        "action": "BACK",
+        "time": "14:18:28",
+        "time_int": 51508,
+        "user": "RenjuTeacher",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time": "14:18:28",
+        "time_int": 51508,
+        "user": "RenjuTeacher",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time": "14:18:29",
+        "time_int": 51509,
+        "user": "RenjuTeacher",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time": "14:18:29",
+        "time_int": 51509,
+        "user": "RenjuTeacher",
+        "content": ""
+    },
+    {
+        "action": "TALK",
+        "time": "14:18:29",
+        "time_int": 51509,
+        "user": "Renjufans",
+        "content": "y"
+    },
+    {
+        "action": "BACK",
+        "time": "14:18:30",
+        "time_int": 51510,
+        "user": "RenjuTeacher",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time": "14:18:31",
+        "time_int": 51511,
+        "user": "RenjuTeacher",
+        "content": "73"
+    },
+    {
+        "action": "BACK",
+        "time": "14:18:32",
+        "time_int": 51512,
+        "user": "RenjuTeacher",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time": "14:18:33",
+        "time_int": 51513,
+        "user": "RenjuTeacher",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time": "14:18:34",
+        "time_int": 51514,
+        "user": "RenjuTeacher",
+        "content": "73"
+    },
+    {
+        "action": "TALK",
+        "time": "14:18:39",
+        "time_int": 51519,
+        "user": "RenjuTeacher",
+        "content": "So he defended."
+    },
+    {
+        "action": "TALK",
+        "time": "14:18:50",
+        "time_int": 51530,
+        "user": "RenjuTeacher",
+        "content": "But move 34 was kind of unexpected"
+    },
+    {
+        "action": "TALK",
+        "time": "14:18:56",
+        "time_int": 51536,
+        "user": "tunnet99",
+        "content": "hello:P"
+    },
+    {
+        "action": "TALK",
+        "time": "14:18:57",
+        "time_int": 51537,
+        "user": "RenjuTeacher",
+        "content": "It was not as though as 30 and 32"
+    },
+    {
+        "action": "TALK",
+        "time": "14:19:03",
+        "time_int": 51543,
+        "user": "tunnet99",
+        "content": "wow"
+    },
+    {
+        "action": "TALK",
+        "time": "14:19:08",
+        "time_int": 51548,
+        "user": "Alan",
+        "content": "can white defend actively?"
+    },
+    {
+        "action": "TALK",
+        "time": "14:19:09",
+        "time_int": 51549,
+        "user": "tunnet99",
+        "content": "sry, I was late"
+    },
+    {
+        "action": "TALK",
+        "time": "14:19:18",
+        "time_int": 51558,
+        "user": "Guest561",
+        "content": "i am here"
+    },
+    {
+        "action": "TALK",
+        "time": "14:19:21",
+        "time_int": 51561,
+        "user": "RenjuTeacher",
+        "content": "So, this relatively poor 34 allowed black to secure left side without further problems"
+    },
+    {
+        "action": "TALK",
+        "time": "14:19:22",
+        "time_int": 51562,
+        "user": "luwenzhe",
+        "content": "a little too passive?"
+    },
+    {
+        "action": "TALK",
+        "time": "14:19:30",
+        "time_int": 51570,
+        "user": "RenjuTeacher",
+        "content": "yes lu"
+    },
+    {
+        "action": "TALK",
+        "time": "14:19:40",
+        "time_int": 51580,
+        "user": "killer21st",
+        "content": "hello,tunnet"
+    },
+    {
+        "action": "TALK",
+        "time": "14:19:41",
+        "time_int": 51581,
+        "user": "RenjuTeacher",
+        "content": "So, now it was safe to go to e11... finally.."
+    },
+    {
+        "action": "MOVE",
+        "time": "14:19:43",
+        "time_int": 51583,
+        "user": "RenjuTeacher",
+        "content": "5a"
+    },
+    {
+        "action": "TALK",
+        "time": "14:19:52",
+        "time_int": 51592,
+        "user": "RenjuTeacher",
+        "content": "As you see, it was an obvious point long time ago.."
+    },
+    {
+        "action": "TALK",
+        "time": "14:20:00",
+        "time_int": 51600,
+        "user": "RenjuTeacher",
+        "content": "but before black took that point,"
+    },
+    {
+        "action": "TALK",
+        "time": "14:20:09",
+        "time_int": 51609,
+        "user": "luwenzhe",
+        "content": "So many thoughts under each move!"
+    },
+    {
+        "action": "TALK",
+        "time": "14:20:15",
+        "time_int": 51615,
+        "user": "RenjuTeacher",
+        "content": "one had to think if the tempo could serve some other purposes first"
+    },
+    {
+        "action": "TALK",
+        "time": "14:20:29",
+        "time_int": 51629,
+        "user": "tieuphilac",
+        "content": "e11 or e10?"
+    },
+    {
+        "action": "TALK",
+        "time": "14:20:31",
+        "time_int": 51631,
+        "user": "RenjuTeacher",
+        "content": "and in this case, tempo did good fill-up job"
+    },
+    {
+        "action": "TALK",
+        "time": "14:20:39",
+        "time_int": 51639,
+        "user": "RenjuTeacher",
+        "content": "sorry, e10 is it"
+    },
+    {
+        "action": "TALK",
+        "time": "14:20:53",
+        "time_int": 51653,
+        "user": "RenjuTeacher",
+        "content": "i dont know why i said e11 ;) pardon me"
+    },
+    {
+        "action": "TALK",
+        "time": "14:21:00",
+        "time_int": 51660,
+        "user": "Alan",
+        "content": ":)"
+    },
+    {
+        "action": "TALK",
+        "time": "14:21:15",
+        "time_int": 51675,
+        "user": "killer21st",
+        "content": ":)"
+    },
+    {
+        "action": "TALK",
+        "time": "14:21:22",
+        "time_int": 51682,
+        "user": "RenjuTeacher",
+        "content": "of course, in the lesson of attacks in the future,"
+    },
+    {
+        "action": "TALK",
+        "time": "14:21:27",
+        "time_int": 51687,
+        "user": "RenjuTeacher",
+        "content": "we can review same game,"
+    },
+    {
+        "action": "TALK",
+        "time": "14:21:34",
+        "time_int": 51694,
+        "user": "span",
+        "content": "O-)"
+    },
+    {
+        "action": "TALK",
+        "time": "14:21:49",
+        "time_int": 51709,
+        "user": "RenjuTeacher",
+        "content": "and see how the stone 33... point j9 etc, helped the attack of e10"
+    },
+    {
+        "action": "TALK",
+        "time": "14:22:03",
+        "time_int": 51723,
+        "user": "RenjuTeacher",
+        "content": "but it is not important in today's lesson about Tempo"
+    },
+    {
+        "action": "TALK",
+        "time": "14:22:22",
+        "time_int": 51742,
+        "user": "RenjuTeacher",
+        "content": "the game ended few moves after"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:22:24",
+        "time_int": 51744,
+        "user": "RenjuTeacher",
+        "content": "5b"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:22:25",
+        "time_int": 51745,
+        "user": "RenjuTeacher",
+        "content": "69"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:22:25",
+        "time_int": 51745,
+        "user": "RenjuTeacher",
+        "content": "4b"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:22:26",
+        "time_int": 51746,
+        "user": "RenjuTeacher",
+        "content": "49"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:22:27",
+        "time_int": 51747,
+        "user": "RenjuTeacher",
+        "content": "39"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:22:28",
+        "time_int": 51748,
+        "user": "RenjuTeacher",
+        "content": "8b"
+    },
+    {
+        "action": "BACK",
+        "time": "14:22:31",
+        "time_int": 51751,
+        "user": "RenjuTeacher",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time": "14:22:32",
+        "time_int": 51752,
+        "user": "RenjuTeacher",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time": "14:22:32",
+        "time_int": 51752,
+        "user": "RenjuTeacher",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time": "14:22:32",
+        "time_int": 51752,
+        "user": "RenjuTeacher",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time": "14:22:33",
+        "time_int": 51753,
+        "user": "RenjuTeacher",
+        "content": ""
+    },
+    {
+        "action": "TALK",
+        "time": "14:22:36",
+        "time_int": 51756,
+        "user": "RenjuTeacher",
+        "content": "poor memory"
+    },
+    {
+        "action": "TALK",
+        "time": "14:22:37",
+        "time_int": 51757,
+        "user": "Alan",
+        "content": "H11!"
+    },
+    {
+        "action": "TALK",
+        "time": "14:22:37",
+        "time_int": 51757,
+        "user": "RenjuTeacher",
+        "content": ";)"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:22:40",
+        "time_int": 51760,
+        "user": "RenjuTeacher",
+        "content": "c8"
+    },
+    {
+        "action": "TALK",
+        "time": "14:22:43",
+        "time_int": 51763,
+        "user": "RenjuTeacher",
+        "content": "here first"
+    },
+    {
+        "action": "TALK",
+        "time": "14:22:47",
+        "time_int": 51767,
+        "user": "tunnet99",
+        "content": "ye"
+    },
+    {
+        "action": "TALK",
+        "time": "14:22:49",
+        "time_int": 51769,
+        "user": "RenjuTeacher",
+        "content": "to remove cut"
+    },
+    {
+        "action": "TALK",
+        "time": "14:22:50",
+        "time_int": 51770,
+        "user": "bomb",
+        "content": "."
+    },
+    {
+        "action": "MOVE",
+        "time": "14:22:51",
+        "time_int": 51771,
+        "user": "RenjuTeacher",
+        "content": "c6"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:22:52",
+        "time_int": 51772,
+        "user": "RenjuTeacher",
+        "content": "69"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:22:53",
+        "time_int": 51773,
+        "user": "RenjuTeacher",
+        "content": "4b"
+    },
+    {
+        "action": "TALK",
+        "time": "14:22:53",
+        "time_int": 51773,
+        "user": "yyfcsd",
+        "content": "yes"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:22:53",
+        "time_int": 51773,
+        "user": "RenjuTeacher",
+        "content": "49"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:22:55",
+        "time_int": 51775,
+        "user": "RenjuTeacher",
+        "content": "39"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:22:56",
+        "time_int": 51776,
+        "user": "RenjuTeacher",
+        "content": "8b"
+    },
+    {
+        "action": "TALK",
+        "time": "14:22:59",
+        "time_int": 51779,
+        "user": "RenjuTeacher",
+        "content": "and done"
+    },
+    {
+        "action": "TALK",
+        "time": "14:23:07",
+        "time_int": 51787,
+        "user": "tieuphilac",
+        "content": "wow"
+    },
+    {
+        "action": "TALK",
+        "time": "14:23:16",
+        "time_int": 51796,
+        "user": "RenjuTeacher",
+        "content": "so, actually, while black was systematically manipulating with tempo,"
+    },
+    {
+        "action": "TALK",
+        "time": "14:23:21",
+        "time_int": 51801,
+        "user": "Alan",
+        "content": "wonderful!"
+    },
+    {
+        "action": "TALK",
+        "time": "14:23:24",
+        "time_int": 51804,
+        "user": "RenjuTeacher",
+        "content": "the chance of win came by itself"
+    },
+    {
+        "action": "TALK",
+        "time": "14:23:40",
+        "time_int": 51820,
+        "user": "RenjuTeacher",
+        "content": "as opponent was doing wild attempts to break the use of tempo."
+    },
+    {
+        "action": "TALK",
+        "time": "14:23:49",
+        "time_int": 51829,
+        "user": "moocheng",
+        "content": "how about 36->E8"
+    },
+    {
+        "action": "TALK",
+        "time": "14:24:11",
+        "time_int": 51851,
+        "user": "killer21st",
+        "content": "oh, i love tempo."
+    },
+    {
+        "action": "TALK",
+        "time": "14:24:12",
+        "time_int": 51852,
+        "user": "RenjuTeacher",
+        "content": "the defense is not todays topic, so i skip further analysis today"
+    },
+    {
+        "action": "TALK",
+        "time": "14:24:25",
+        "time_int": 51865,
+        "user": "RenjuTeacher",
+        "content": "we will review same game many times in future"
+    },
+    {
+        "action": "TALK",
+        "time": "14:24:29",
+        "time_int": 51869,
+        "user": "RenjuTeacher",
+        "content": "under different aspect"
+    },
+    {
+        "action": "TALK",
+        "time": "14:24:30",
+        "time_int": 51870,
+        "user": "RenjuTeacher",
+        "content": ":)"
+    },
+    {
+        "action": "EMOTE",
+        "time": "14:24:33",
+        "time_int": 51873,
+        "user": "span",
+        "content": " faints"
+    },
+    {
+        "action": "TALK",
+        "time": "14:24:38",
+        "time_int": 51878,
+        "user": "RenjuTeacher",
+        "content": "including defense powers"
+    },
+    {
+        "action": "TALK",
+        "time": "14:24:42",
+        "time_int": 51882,
+        "user": "moocheng",
+        "content": "ok:)"
+    },
+    {
+        "action": "CLEAR",
+        "time": "14:24:45",
+        "time_int": 51885,
+        "user": "RenjuTeacher",
+        "content": ""
+    },
+    {
+        "action": "TALK",
+        "time": "14:24:45",
+        "time_int": 51885,
+        "user": "killer21st",
+        "content": "cool 43"
+    },
+    {
+        "action": "LOAD",
+        "time": "14:24:52",
+        "time_int": 51892,
+        "user": "RenjuTeacher",
+        "content": "8889aa9979979a7ab99b98a8b78b6b"
+    },
+    {
+        "action": "TALK",
+        "time": "14:25:13",
+        "time_int": 51913,
+        "user": "eastmen",
+        "content": "i"
+    },
+    {
+        "action": "TALK",
+        "time": "14:25:21",
+        "time_int": 51921,
+        "user": "RenjuTeacher",
+        "content": "Now, going back to the main diagram of today's lesson,"
+    },
+    {
+        "action": "TALK",
+        "time": "14:25:22",
+        "time_int": 51922,
+        "user": "luwenzhe",
+        "content": "button, eastmen"
+    },
+    {
+        "action": "CHECKRESULT",
+        "time": "14:25:36",
+        "time_int": 51936,
+        "user": "",
+        "content": " tieuphilac, span, moocheng, luwenzhe, Renjufans, Sakuma, shuwang, Ikon, wetcat, nick_hopper, tunnet99, L8RG8R, namic_99, Chancewu, Jasny_sokol, killer21st, bomb, yyfcsd, NZ21568377, aivo, Intotherenju, Alan."
+    },
+    {
+        "action": "TALK",
+        "time": "14:25:55",
+        "time_int": 51955,
+        "user": "eastmen",
+        "content": "i am here"
+    },
+    {
+        "action": "TALK",
+        "time": "14:26:04",
+        "time_int": 51964,
+        "user": "killer21st",
+        "content": "hehe"
+    },
+    {
+        "action": "TALK",
+        "time": "14:26:09",
+        "time_int": 51969,
+        "user": "RenjuTeacher",
+        "content": "We were standing on crossroads.. and trying to decide the best path..."
+    },
+    {
+        "action": "TALK",
+        "time": "14:26:13",
+        "time_int": 51973,
+        "user": "NZ21568377",
+        "content": "just like me"
+    },
+    {
+        "action": "TALK",
+        "time": "14:26:15",
+        "time_int": 51975,
+        "user": "RenjuTeacher",
+        "content": "with tempo or without"
+    },
+    {
+        "action": "TALK",
+        "time": "14:26:18",
+        "time_int": 51978,
+        "user": "eastmen",
+        "content": ":("
+    },
+    {
+        "action": "TALK",
+        "time": "14:26:46",
+        "time_int": 52006,
+        "user": "RenjuTeacher",
+        "content": "I tell you, although tempo should be a tactical tool, and only be used when needed,"
+    },
+    {
+        "action": "TALK",
+        "time": "14:27:03",
+        "time_int": 52023,
+        "user": "RenjuTeacher",
+        "content": "most players in the world are too emotional,"
+    },
+    {
+        "action": "TALK",
+        "time": "14:27:10",
+        "time_int": 52030,
+        "user": "tieuphilac",
+        "content": ":-)"
+    },
+    {
+        "action": "TALK",
+        "time": "14:27:34",
+        "time_int": 52054,
+        "user": "RenjuTeacher",
+        "content": "and their passion of game decides their use of tempo."
+    },
+    {
+        "action": "TALK",
+        "time": "14:27:49",
+        "time_int": 52069,
+        "user": "RenjuTeacher",
+        "content": "So players always hunt the tempo while others will stay behind,"
+    },
+    {
+        "action": "TALK",
+        "time": "14:27:55",
+        "time_int": 52075,
+        "user": "RenjuTeacher",
+        "content": "even when there is a chance to go."
+    },
+    {
+        "action": "TALK",
+        "time": "14:28:13",
+        "time_int": 52093,
+        "user": "RenjuTeacher",
+        "content": "A great player is also a great bluffer sometimes."
+    },
+    {
+        "action": "TALK",
+        "time": "14:28:18",
+        "time_int": 52098,
+        "user": "Guest560",
+        "content": "人海"
+    },
+    {
+        "action": "TALK",
+        "time": "14:28:35",
+        "time_int": 52115,
+        "user": "RenjuTeacher",
+        "content": "To offer the opponent to go to attack is a brave move.."
+    },
+    {
+        "action": "TALK",
+        "time": "14:28:41",
+        "time_int": 52121,
+        "user": "Guest561",
+        "content": "i am here"
+    },
+    {
+        "action": "EMOTE",
+        "time": "14:29:11",
+        "time_int": 52151,
+        "user": "span",
+        "content": " faints"
+    },
+    {
+        "action": "TALK",
+        "time": "14:29:15",
+        "time_int": 52155,
+        "user": "RenjuTeacher",
+        "content": "Nakamura is the biggest gambler in the world when it comes to offering dangerous tempos to opponents"
+    },
+    {
+        "action": "TALK",
+        "time": "14:29:29",
+        "time_int": 52169,
+        "user": "luwenzhe",
+        "content": "yeah, heard so"
+    },
+    {
+        "action": "TALK",
+        "time": "14:29:38",
+        "time_int": 52178,
+        "user": "RenjuTeacher",
+        "content": "There were tens of games where Nakamura gives win chances to opponent."
+    },
+    {
+        "action": "TALK",
+        "time": "14:29:44",
+        "time_int": 52184,
+        "user": "RenjuTeacher",
+        "content": "But you know,"
+    },
+    {
+        "action": "TALK",
+        "time": "14:29:54",
+        "time_int": 52194,
+        "user": "RenjuTeacher",
+        "content": "if you sit against Nakamura, and he gives you tempo,"
+    },
+    {
+        "action": "TALK",
+        "time": "14:30:02",
+        "time_int": 52202,
+        "user": "RenjuTeacher",
+        "content": "you dont want to belive this tempo is relaly useful"
+    },
+    {
+        "action": "TALK",
+        "time": "14:30:08",
+        "time_int": 52208,
+        "user": "luwenzhe",
+        "content": "haha"
+    },
+    {
+        "action": "TALK",
+        "time": "14:30:09",
+        "time_int": 52209,
+        "user": "RenjuTeacher",
+        "content": "so you will give it back to him"
+    },
+    {
+        "action": "TALK",
+        "time": "14:30:10",
+        "time_int": 52210,
+        "user": "Alan",
+        "content": "ha"
+    },
+    {
+        "action": "TALK",
+        "time": "14:30:14",
+        "time_int": 52214,
+        "user": "RenjuTeacher",
+        "content": "and he got you"
+    },
+    {
+        "action": "TALK",
+        "time": "14:30:15",
+        "time_int": 52215,
+        "user": "RenjuTeacher",
+        "content": ":)"
+    },
+    {
+        "action": "TALK",
+        "time": "14:30:23",
+        "time_int": 52223,
+        "user": "RenjuTeacher",
+        "content": "he did it oh so many times.."
+    },
+    {
+        "action": "TALK",
+        "time": "14:30:25",
+        "time_int": 52225,
+        "user": "tieuphilac",
+        "content": "if we ever had a chance to sit against him?"
+    },
+    {
+        "action": "TALK",
+        "time": "14:30:26",
+        "time_int": 52226,
+        "user": "shaoping",
+        "content": "？"
+    },
+    {
+        "action": "TALK",
+        "time": "14:30:28",
+        "time_int": 52228,
+        "user": "killer21st",
+        "content": "hoho"
+    },
+    {
+        "action": "TALK",
+        "time": "14:30:33",
+        "time_int": 52233,
+        "user": "RenjuTeacher",
+        "content": "you can sometimes do it when you are so strong"
+    },
+    {
+        "action": "TALK",
+        "time": "14:30:33",
+        "time_int": 52233,
+        "user": "tunnet99",
+        "content": "like your first game with him?"
+    },
+    {
+        "action": "TALK",
+        "time": "14:30:37",
+        "time_int": 52237,
+        "user": "RenjuTeacher",
+        "content": "and others fear you so much"
+    },
+    {
+        "action": "TALK",
+        "time": "14:30:55",
+        "time_int": 52255,
+        "user": "RenjuTeacher",
+        "content": "my first game was exception, there he had home analysis"
+    },
+    {
+        "action": "TALK",
+        "time": "14:31:06",
+        "time_int": 52266,
+        "user": "RenjuTeacher",
+        "content": "but some of his games he plays wildly by feeling."
+    },
+    {
+        "action": "TALK",
+        "time": "14:31:10",
+        "time_int": 52270,
+        "user": "tunnet99",
+        "content": "yea"
+    },
+    {
+        "action": "TALK",
+        "time": "14:31:19",
+        "time_int": 52279,
+        "user": "RenjuTeacher",
+        "content": "a great and brave man indeed."
+    },
+    {
+        "action": "TALK",
+        "time": "14:31:31",
+        "time_int": 52291,
+        "user": "RenjuTeacher",
+        "content": "This is what I admire about him,"
+    },
+    {
+        "action": "TALK",
+        "time": "14:31:36",
+        "time_int": 52296,
+        "user": "luwenzhe",
+        "content": "It is not your style :)"
+    },
+    {
+        "action": "TALK",
+        "time": "14:31:41",
+        "time_int": 52301,
+        "user": "RenjuTeacher",
+        "content": "the courage to give out crazy tempos."
+    },
+    {
+        "action": "TALK",
+        "time": "14:31:47",
+        "time_int": 52307,
+        "user": "RenjuTeacher",
+        "content": "But you know what,"
+    },
+    {
+        "action": "TALK",
+        "time": "14:31:54",
+        "time_int": 52314,
+        "user": "RenjuTeacher",
+        "content": "Japanese style is this:"
+    },
+    {
+        "action": "TALK",
+        "time": "14:32:05",
+        "time_int": 52325,
+        "user": "RenjuTeacher",
+        "content": "you get tempo with good win potential, you go for it,"
+    },
+    {
+        "action": "TALK",
+        "time": "14:32:16",
+        "time_int": 52336,
+        "user": "RenjuTeacher",
+        "content": "So most Japanese, whenever get tempo from nakamura,"
+    },
+    {
+        "action": "TALK",
+        "time": "14:32:27",
+        "time_int": 52347,
+        "user": "RenjuTeacher",
+        "content": "they launch a big attack, directly, strongly..."
+    },
+    {
+        "action": "TALK",
+        "time": "14:32:33",
+        "time_int": 52353,
+        "user": "RenjuTeacher",
+        "content": "and fail later, of course.. :)"
+    },
+    {
+        "action": "TALK",
+        "time": "14:32:37",
+        "time_int": 52357,
+        "user": "luwenzhe",
+        "content": "and failed finally"
+    },
+    {
+        "action": "TALK",
+        "time": "14:32:38",
+        "time_int": 52358,
+        "user": "bomb",
+        "content": ":)"
+    },
+    {
+        "action": "TALK",
+        "time": "14:32:40",
+        "time_int": 52360,
+        "user": "Alan",
+        "content": "yah"
+    },
+    {
+        "action": "TALK",
+        "time": "14:32:40",
+        "time_int": 52360,
+        "user": "killer21st",
+        "content": "um,so strange man ..now i wanna know which 16 did he choose next."
+    },
+    {
+        "action": "TALK",
+        "time": "14:32:42",
+        "time_int": 52362,
+        "user": "RenjuTeacher",
+        "content": "result is.. Nakamura wins."
+    },
+    {
+        "action": "TALK",
+        "time": "14:33:00",
+        "time_int": 52380,
+        "user": "RenjuTeacher",
+        "content": "My style was unexpected for him,"
+    },
+    {
+        "action": "TALK",
+        "time": "14:33:13",
+        "time_int": 52393,
+        "user": "RenjuTeacher",
+        "content": "he gave me same wild tempo as he gave to many others before"
+    },
+    {
+        "action": "TALK",
+        "time": "14:33:16",
+        "time_int": 52396,
+        "user": "Alan",
+        "content": "two extreme"
+    },
+    {
+        "action": "TALK",
+        "time": "14:33:27",
+        "time_int": 52407,
+        "user": "RenjuTeacher",
+        "content": "but he did not expect that i will manipulate with this tempo"
+    },
+    {
+        "action": "TALK",
+        "time": "14:33:36",
+        "time_int": 52416,
+        "user": "RenjuTeacher",
+        "content": "and use it for many tactical purposes"
+    },
+    {
+        "action": "TALK",
+        "time": "14:33:51",
+        "time_int": 52431,
+        "user": "RenjuTeacher",
+        "content": "that is the main reason of the match result"
+    },
+    {
+        "action": "TALK",
+        "time": "14:33:51",
+        "time_int": 52431,
+        "user": "bomb",
+        "content": "jiang ji jiu ji"
+    },
+    {
+        "action": "TALK",
+        "time": "14:34:02",
+        "time_int": 52442,
+        "user": "RenjuTeacher",
+        "content": "as we saw two previous examples,"
+    },
+    {
+        "action": "TALK",
+        "time": "14:34:06",
+        "time_int": 52446,
+        "user": "luwenzhe",
+        "content": "He would have regret for giving you the tempo :)"
+    },
+    {
+        "action": "TALK",
+        "time": "14:34:13",
+        "time_int": 52453,
+        "user": "RenjuTeacher",
+        "content": "tempo was used as main tactical tool."
+    },
+    {
+        "action": "TALK",
+        "time": "14:34:52",
+        "time_int": 52492,
+        "user": "tieuphilac",
+        "content": "did you know that he gave you the tempp in purpose?"
+    },
+    {
+        "action": "TALK",
+        "time": "14:34:53",
+        "time_int": 52493,
+        "user": "RenjuTeacher",
+        "content": "Now, the game you see on screen is my game from 1999,"
+    },
+    {
+        "action": "TALK",
+        "time": "14:34:58",
+        "time_int": 52498,
+        "user": "RenjuTeacher",
+        "content": "against Hayakawa,"
+    },
+    {
+        "action": "TALK",
+        "time": "14:35:26",
+        "time_int": 52526,
+        "user": "RenjuTeacher",
+        "content": "(I knew he was going to give me tempo, as I analysed his previous games)"
+    },
+    {
+        "action": "TALK",
+        "time": "14:35:44",
+        "time_int": 52544,
+        "user": "tieuphilac",
+        "content": "ok, thank you"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:35:49",
+        "time_int": 52549,
+        "user": "RenjuTeacher",
+        "content": "69"
+    },
+    {
+        "action": "BACK",
+        "time": "14:35:51",
+        "time_int": 52551,
+        "user": "RenjuTeacher",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time": "14:35:52",
+        "time_int": 52552,
+        "user": "RenjuTeacher",
+        "content": "9c"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:35:53",
+        "time_int": 52553,
+        "user": "RenjuTeacher",
+        "content": "ad"
+    },
+    {
+        "action": "TALK",
+        "time": "14:35:59",
+        "time_int": 52559,
+        "user": "RenjuTeacher",
+        "content": "Lets analyse a bit here"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:36:09",
+        "time_int": 52569,
+        "user": "RenjuTeacher",
+        "content": "68"
+    },
+    {
+        "action": "TALK",
+        "time": "14:36:14",
+        "time_int": 52574,
+        "user": "RenjuTeacher",
+        "content": "Haywakawa played here,"
+    },
+    {
+        "action": "TALK",
+        "time": "14:36:21",
+        "time_int": 52581,
+        "user": "RenjuTeacher",
+        "content": "and my next foolish move ended the game"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:36:23",
+        "time_int": 52583,
+        "user": "RenjuTeacher",
+        "content": "86"
+    },
+    {
+        "action": "TALK",
+        "time": "14:36:30",
+        "time_int": 52590,
+        "user": "RenjuTeacher",
+        "content": "I was too greedy at the bottom"
+    },
+    {
+        "action": "TALK",
+        "time": "14:36:33",
+        "time_int": 52593,
+        "user": "RenjuTeacher",
+        "content": "and missed 4x3x3"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:36:36",
+        "time_int": 52596,
+        "user": "RenjuTeacher",
+        "content": "67"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:36:37",
+        "time_int": 52597,
+        "user": "RenjuTeacher",
+        "content": "69"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:36:39",
+        "time_int": 52599,
+        "user": "RenjuTeacher",
+        "content": "77"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:36:41",
+        "time_int": 52601,
+        "user": "RenjuTeacher",
+        "content": "87"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:36:42",
+        "time_int": 52602,
+        "user": "RenjuTeacher",
+        "content": "ab"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:36:43",
+        "time_int": 52603,
+        "user": "RenjuTeacher",
+        "content": "bb"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:36:44",
+        "time_int": 52604,
+        "user": "RenjuTeacher",
+        "content": "c9"
+    },
+    {
+        "action": "TALK",
+        "time": "14:37:05",
+        "time_int": 52625,
+        "user": "RenjuTeacher",
+        "content": "white won"
+    },
+    {
+        "action": "BACK",
+        "time": "14:37:06",
+        "time_int": 52626,
+        "user": "RenjuTeacher",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time": "14:37:07",
+        "time_int": 52627,
+        "user": "RenjuTeacher",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time": "14:37:07",
+        "time_int": 52627,
+        "user": "RenjuTeacher",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time": "14:37:07",
+        "time_int": 52627,
+        "user": "RenjuTeacher",
+        "content": ""
+    },
+    {
+        "action": "TALK",
+        "time": "14:37:08",
+        "time_int": 52628,
+        "user": "luwenzhe",
+        "content": "oopsie"
+    },
+    {
+        "action": "BACK",
+        "time": "14:37:08",
+        "time_int": 52628,
+        "user": "RenjuTeacher",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time": "14:37:09",
+        "time_int": 52629,
+        "user": "RenjuTeacher",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time": "14:37:11",
+        "time_int": 52631,
+        "user": "RenjuTeacher",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time": "14:37:14",
+        "time_int": 52634,
+        "user": "RenjuTeacher",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time": "14:37:16",
+        "time_int": 52636,
+        "user": "RenjuTeacher",
+        "content": "58"
+    },
+    {
+        "action": "TALK",
+        "time": "14:37:16",
+        "time_int": 52636,
+        "user": "killer21st",
+        "content": "......"
+    },
+    {
+        "action": "TALK",
+        "time": "14:37:26",
+        "time_int": 52646,
+        "user": "RenjuTeacher",
+        "content": "But if 19 here, all game would be different."
+    },
+    {
+        "action": "TALK",
+        "time": "14:37:40",
+        "time_int": 52660,
+        "user": "yyfcsd",
+        "content": "e9?"
+    },
+    {
+        "action": "TALK",
+        "time": "14:37:41",
+        "time_int": 52661,
+        "user": "RenjuTeacher",
+        "content": "White is still active, but not so sure to win anymore..."
+    },
+    {
+        "action": "MOVE",
+        "time": "14:37:49",
+        "time_int": 52669,
+        "user": "RenjuTeacher",
+        "content": "59"
+    },
+    {
+        "action": "TALK",
+        "time": "14:38:43",
+        "time_int": 52723,
+        "user": "RenjuTeacher",
+        "content": "and here is the puzzling moments"
+    },
+    {
+        "action": "TALK",
+        "time": "14:38:49",
+        "time_int": 52729,
+        "user": "RenjuTeacher",
+        "content": "of who really has the tempo"
+    },
+    {
+        "action": "TALK",
+        "time": "14:38:53",
+        "time_int": 52733,
+        "user": "RenjuTeacher",
+        "content": "and who needs tempo"
+    },
+    {
+        "action": "TALK",
+        "time": "14:39:19",
+        "time_int": 52759,
+        "user": "aivo",
+        "content": "so white does not need it"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:39:22",
+        "time_int": 52762,
+        "user": "RenjuTeacher",
+        "content": "76"
+    },
+    {
+        "action": "TALK",
+        "time": "14:39:32",
+        "time_int": 52772,
+        "user": "RenjuTeacher",
+        "content": "for example, black will try some wild move"
+    },
+    {
+        "action": "TALK",
+        "time": "14:39:37",
+        "time_int": 52777,
+        "user": "RenjuTeacher",
+        "content": "allowing white to attack"
+    },
+    {
+        "action": "TALK",
+        "time": "14:39:50",
+        "time_int": 52790,
+        "user": "RenjuTeacher",
+        "content": "it takes lots of analyses, whether there is vct or not.."
+    },
+    {
+        "action": "TALK",
+        "time": "14:40:11",
+        "time_int": 52811,
+        "user": "RenjuTeacher",
+        "content": "this is very complicated.."
+    },
+    {
+        "action": "TALK",
+        "time": "14:40:16",
+        "time_int": 52816,
+        "user": "RenjuTeacher",
+        "content": "But then,"
+    },
+    {
+        "action": "BACK",
+        "time": "14:40:17",
+        "time_int": 52817,
+        "user": "RenjuTeacher",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time": "14:40:17",
+        "time_int": 52817,
+        "user": "RenjuTeacher",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time": "14:40:18",
+        "time_int": 52818,
+        "user": "RenjuTeacher",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time": "14:40:19",
+        "time_int": 52819,
+        "user": "RenjuTeacher",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time": "14:40:20",
+        "time_int": 52820,
+        "user": "RenjuTeacher",
+        "content": "67"
+    },
+    {
+        "action": "TALK",
+        "time": "14:40:31",
+        "time_int": 52831,
+        "user": "RenjuTeacher",
+        "content": "I began to analyse this 18th move"
+    },
+    {
+        "action": "TALK",
+        "time": "14:40:47",
+        "time_int": 52847,
+        "user": "RenjuTeacher",
+        "content": "since white's main idea was to add black stone to h7,"
+    },
+    {
+        "action": "TALK",
+        "time": "14:40:56",
+        "time_int": 52856,
+        "user": "RenjuTeacher",
+        "content": "which would make 3x3 at k10"
+    },
+    {
+        "action": "TALK",
+        "time": "14:41:08",
+        "time_int": 52868,
+        "user": "RenjuTeacher",
+        "content": "so, how about this 18 immediately here"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:41:12",
+        "time_int": 52872,
+        "user": "RenjuTeacher",
+        "content": "69"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:41:13",
+        "time_int": 52873,
+        "user": "RenjuTeacher",
+        "content": "77"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:41:14",
+        "time_int": 52874,
+        "user": "RenjuTeacher",
+        "content": "87"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:41:15",
+        "time_int": 52875,
+        "user": "RenjuTeacher",
+        "content": "ab"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:41:17",
+        "time_int": 52877,
+        "user": "RenjuTeacher",
+        "content": "bb"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:41:18",
+        "time_int": 52878,
+        "user": "RenjuTeacher",
+        "content": "c9"
+    },
+    {
+        "action": "TALK",
+        "time": "14:41:20",
+        "time_int": 52880,
+        "user": "RenjuTeacher",
+        "content": "and win."
+    },
+    {
+        "action": "BACK",
+        "time": "14:41:24",
+        "time_int": 52884,
+        "user": "RenjuTeacher",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time": "14:41:24",
+        "time_int": 52884,
+        "user": "RenjuTeacher",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time": "14:41:25",
+        "time_int": 52885,
+        "user": "RenjuTeacher",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time": "14:41:25",
+        "time_int": 52885,
+        "user": "RenjuTeacher",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time": "14:41:26",
+        "time_int": 52886,
+        "user": "RenjuTeacher",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time": "14:41:26",
+        "time_int": 52886,
+        "user": "RenjuTeacher",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time": "14:41:26",
+        "time_int": 52886,
+        "user": "RenjuTeacher",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time": "14:41:28",
+        "time_int": 52888,
+        "user": "RenjuTeacher",
+        "content": "67"
+    },
+    {
+        "action": "TALK",
+        "time": "14:41:45",
+        "time_int": 52905,
+        "user": "RenjuTeacher",
+        "content": "By the way,"
+    },
+    {
+        "action": "BACK",
+        "time": "14:41:46",
+        "time_int": 52906,
+        "user": "RenjuTeacher",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time": "14:41:47",
+        "time_int": 52907,
+        "user": "RenjuTeacher",
+        "content": "68"
+    },
+    {
+        "action": "TALK",
+        "time": "14:41:54",
+        "time_int": 52914,
+        "user": "RenjuTeacher",
+        "content": "Speaking of this 18th move,"
+    },
+    {
+        "action": "TALK",
+        "time": "14:42:02",
+        "time_int": 52922,
+        "user": "RenjuTeacher",
+        "content": "there was also an interesting response,"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:42:04",
+        "time_int": 52924,
+        "user": "RenjuTeacher",
+        "content": "a7"
+    },
+    {
+        "action": "TALK",
+        "time": "14:42:23",
+        "time_int": 52943,
+        "user": "RenjuTeacher",
+        "content": "which really makes the whole variant chaotic"
+    },
+    {
+        "action": "BACK",
+        "time": "14:42:39",
+        "time_int": 52959,
+        "user": "RenjuTeacher",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time": "14:42:40",
+        "time_int": 52960,
+        "user": "RenjuTeacher",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time": "14:42:41",
+        "time_int": 52961,
+        "user": "RenjuTeacher",
+        "content": "67"
+    },
+    {
+        "action": "TALK",
+        "time": "14:42:56",
+        "time_int": 52976,
+        "user": "RenjuTeacher",
+        "content": "So, when I studied this 18th move here, I had to check same 19th move"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:42:59",
+        "time_int": 52979,
+        "user": "RenjuTeacher",
+        "content": "a7"
+    },
+    {
+        "action": "TALK",
+        "time": "14:43:10",
+        "time_int": 52990,
+        "user": "RenjuTeacher",
+        "content": "Black tries to take away the tempo"
+    },
+    {
+        "action": "TALK",
+        "time": "14:43:27",
+        "time_int": 53007,
+        "user": "RenjuTeacher",
+        "content": "firstly, tempo would help to block some of white stuff,"
+    },
+    {
+        "action": "TALK",
+        "time": "14:43:55",
+        "time_int": 53035,
+        "user": "RenjuTeacher",
+        "content": "and secondly, in case of passive style we saw that white would practically wi"
+    },
+    {
+        "action": "TALK",
+        "time": "14:43:57",
+        "time_int": 53037,
+        "user": "RenjuTeacher",
+        "content": "win"
+    },
+    {
+        "action": "TALK",
+        "time": "14:44:11",
+        "time_int": 53051,
+        "user": "RenjuTeacher",
+        "content": "so, the active 19 as an attempt to gain tempo was necessary."
+    },
+    {
+        "action": "TALK",
+        "time": "14:44:16",
+        "time_int": 53056,
+        "user": "RenjuTeacher",
+        "content": "What should white do now?"
+    },
+    {
+        "action": "TALK",
+        "time": "14:44:28",
+        "time_int": 53068,
+        "user": "RenjuTeacher",
+        "content": "Does white have VCT now?"
+    },
+    {
+        "action": "TALK",
+        "time": "14:44:36",
+        "time_int": 53076,
+        "user": "yyfcsd",
+        "content": "f6"
+    },
+    {
+        "action": "TALK",
+        "time": "14:44:39",
+        "time_int": 53079,
+        "user": "Renjufans",
+        "content": "y"
+    },
+    {
+        "action": "TALK",
+        "time": "14:44:42",
+        "time_int": 53082,
+        "user": "Renjufans",
+        "content": "f6,"
+    },
+    {
+        "action": "TALK",
+        "time": "14:44:58",
+        "time_int": 53098,
+        "user": "shaoping",
+        "content": "19－m10 ？"
+    },
+    {
+        "action": "TALK",
+        "time": "14:45:16",
+        "time_int": 53116,
+        "user": "RenjuTeacher",
+        "content": "others?"
+    },
+    {
+        "action": "TALK",
+        "time": "14:45:27",
+        "time_int": 53127,
+        "user": "RenjuTeacher",
+        "content": "so silent?"
+    },
+    {
+        "action": "TALK",
+        "time": "14:45:31",
+        "time_int": 53131,
+        "user": "aivo",
+        "content": "y"
+    },
+    {
+        "action": "TALK",
+        "time": "14:45:50",
+        "time_int": 53150,
+        "user": "RenjuTeacher",
+        "content": "aivo please show"
+    },
+    {
+        "action": "TALK",
+        "time": "14:45:54",
+        "time_int": 53154,
+        "user": "killer21st",
+        "content": "agree with yy"
+    },
+    {
+        "action": "TALK",
+        "time": "14:45:55",
+        "time_int": 53155,
+        "user": "span",
+        "content": "."
+    },
+    {
+        "action": "TALK",
+        "time": "14:46:00",
+        "time_int": 53160,
+        "user": "NZ21568377",
+        "content": "f6"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:46:08",
+        "time_int": 53168,
+        "user": "aivo",
+        "content": "49"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:46:11",
+        "time_int": 53171,
+        "user": "RenjuTeacher",
+        "content": "58"
+    },
+    {
+        "action": "TALK",
+        "time": "14:46:24",
+        "time_int": 53184,
+        "user": "tunnet99",
+        "content": ":("
+    },
+    {
+        "action": "TALK",
+        "time": "14:46:29",
+        "time_int": 53189,
+        "user": "killer21st",
+        "content": ":("
+    },
+    {
+        "action": "TALK",
+        "time": "14:46:36",
+        "time_int": 53196,
+        "user": "killer21st",
+        "content": "f6"
+    },
+    {
+        "action": "TALK",
+        "time": "14:46:39",
+        "time_int": 53199,
+        "user": "tunnet99",
+        "content": "try f6 aivo"
+    },
+    {
+        "action": "TALK",
+        "time": "14:46:46",
+        "time_int": 53206,
+        "user": "Renjufans",
+        "content": "not understand this 20th."
+    },
+    {
+        "action": "MOVE",
+        "time": "14:46:58",
+        "time_int": 53218,
+        "user": "aivo",
+        "content": "4a"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:47:02",
+        "time_int": 53222,
+        "user": "RenjuTeacher",
+        "content": "b8"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:47:06",
+        "time_int": 53226,
+        "user": "aivo",
+        "content": "ba"
+    },
+    {
+        "action": "TALK",
+        "time": "14:47:10",
+        "time_int": 53230,
+        "user": "NZ21568377",
+        "content": "."
+    },
+    {
+        "action": "MOVE",
+        "time": "14:47:11",
+        "time_int": 53231,
+        "user": "RenjuTeacher",
+        "content": "c9"
+    },
+    {
+        "action": "TALK",
+        "time": "14:47:13",
+        "time_int": 53233,
+        "user": "tunnet99",
+        "content": "khm"
+    },
+    {
+        "action": "TALK",
+        "time": "14:47:14",
+        "time_int": 53234,
+        "user": "tunnet99",
+        "content": ":P"
+    },
+    {
+        "action": "TALK",
+        "time": "14:47:22",
+        "time_int": 53242,
+        "user": "aivo",
+        "content": "i give up"
+    },
+    {
+        "action": "TALK",
+        "time": "14:47:26",
+        "time_int": 53246,
+        "user": "RenjuTeacher",
+        "content": "ok"
+    },
+    {
+        "action": "TALK",
+        "time": "14:47:30",
+        "time_int": 53250,
+        "user": "tunnet99",
+        "content": ":))"
+    },
+    {
+        "action": "TALK",
+        "time": "14:47:50",
+        "time_int": 53270,
+        "user": "RenjuTeacher",
+        "content": "GM yyfcsd wil show right moves"
+    },
+    {
+        "action": "BACK",
+        "time": "14:47:55",
+        "time_int": 53275,
+        "user": "RenjuTeacher",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time": "14:47:55",
+        "time_int": 53275,
+        "user": "RenjuTeacher",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time": "14:47:56",
+        "time_int": 53276,
+        "user": "RenjuTeacher",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time": "14:47:56",
+        "time_int": 53276,
+        "user": "RenjuTeacher",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time": "14:47:56",
+        "time_int": 53276,
+        "user": "RenjuTeacher",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time": "14:47:57",
+        "time_int": 53277,
+        "user": "RenjuTeacher",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time": "14:47:58",
+        "time_int": 53278,
+        "user": "RenjuTeacher",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time": "14:47:59",
+        "time_int": 53279,
+        "user": "RenjuTeacher",
+        "content": "a7"
+    },
+    {
+        "action": "TALK",
+        "time": "14:48:00",
+        "time_int": 53280,
+        "user": "killer21st",
+        "content": "come on,yyfcsd"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:48:00",
+        "time_int": 53280,
+        "user": "yyfcsd",
+        "content": "66"
+    },
+    {
+        "action": "TALK",
+        "time": "14:48:10",
+        "time_int": 53290,
+        "user": "RenjuTeacher",
+        "content": "Can you explain this move, yy?"
+    },
+    {
+        "action": "TALK",
+        "time": "14:48:15",
+        "time_int": 53295,
+        "user": "RenjuTeacher",
+        "content": "So that others will understand"
+    },
+    {
+        "action": "TALK",
+        "time": "14:48:54",
+        "time_int": 53334,
+        "user": "yyfcsd",
+        "content": "it's vct threat"
+    },
+    {
+        "action": "TALK",
+        "time": "14:49:01",
+        "time_int": 53341,
+        "user": "killer21st",
+        "content": "hi,jiumei"
+    },
+    {
+        "action": "TALK",
+        "time": "14:49:23",
+        "time_int": 53363,
+        "user": "luwenzhe",
+        "content": "nice connection to 12-6"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:49:29",
+        "time_int": 53369,
+        "user": "yyfcsd",
+        "content": "69"
+    },
+    {
+        "action": "TALK",
+        "time": "14:49:34",
+        "time_int": 53374,
+        "user": "yyfcsd",
+        "content": "if 21 here"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:49:38",
+        "time_int": 53378,
+        "user": "yyfcsd",
+        "content": "86"
+    },
+    {
+        "action": "TALK",
+        "time": "14:49:38",
+        "time_int": 53378,
+        "user": "RenjuTeacher",
+        "content": "This 20th move is the only way for white - it creates a 4x3 threat, after which  white has no blocks."
+    },
+    {
+        "action": "TALK",
+        "time": "14:49:45",
+        "time_int": 53385,
+        "user": "yyfcsd",
+        "content": "keep vct threat"
+    },
+    {
+        "action": "TALK",
+        "time": "14:49:51",
+        "time_int": 53391,
+        "user": "RenjuTeacher",
+        "content": "i mean blac"
+    },
+    {
+        "action": "BACK",
+        "time": "14:49:57",
+        "time_int": 53397,
+        "user": "RenjuTeacher",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time": "14:49:58",
+        "time_int": 53398,
+        "user": "RenjuTeacher",
+        "content": ""
+    },
+    {
+        "action": "TALK",
+        "time": "14:49:58",
+        "time_int": 53398,
+        "user": "killer21st",
+        "content": "white has a tempo now.and well-commect with 12."
+    },
+    {
+        "action": "MOVE",
+        "time": "14:50:00",
+        "time_int": 53400,
+        "user": "RenjuTeacher",
+        "content": "58"
+    },
+    {
+        "action": "TALK",
+        "time": "14:50:32",
+        "time_int": 53432,
+        "user": "RenjuTeacher",
+        "content": "This 21 - maybe the strongest,"
+    },
+    {
+        "action": "TALK",
+        "time": "14:50:36",
+        "time_int": 53436,
+        "user": "RenjuTeacher",
+        "content": "but still hopeless"
+    },
+    {
+        "action": "TALK",
+        "time": "14:50:39",
+        "time_int": 53439,
+        "user": "RenjuTeacher",
+        "content": "yy will show"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:50:43",
+        "time_int": 53443,
+        "user": "yyfcsd",
+        "content": "68"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:50:44",
+        "time_int": 53444,
+        "user": "yyfcsd",
+        "content": "69"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:50:45",
+        "time_int": 53445,
+        "user": "yyfcsd",
+        "content": "86"
+    },
+    {
+        "action": "TALK",
+        "time": "14:50:46",
+        "time_int": 53446,
+        "user": "wetcat",
+        "content": "4"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:50:47",
+        "time_int": 53447,
+        "user": "yyfcsd",
+        "content": "64"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:50:48",
+        "time_int": 53448,
+        "user": "yyfcsd",
+        "content": "56"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:50:56",
+        "time_int": 53456,
+        "user": "RenjuTeacher",
+        "content": "76"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:50:58",
+        "time_int": 53458,
+        "user": "yyfcsd",
+        "content": "45"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:51:01",
+        "time_int": 53461,
+        "user": "RenjuTeacher",
+        "content": "78"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:51:05",
+        "time_int": 53465,
+        "user": "yyfcsd",
+        "content": "77"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:51:09",
+        "time_int": 53469,
+        "user": "RenjuTeacher",
+        "content": "59"
+    },
+    {
+        "action": "TALK",
+        "time": "14:51:18",
+        "time_int": 53478,
+        "user": "yyfcsd",
+        "content": "h7 forbidden"
+    },
+    {
+        "action": "TALK",
+        "time": "14:51:18",
+        "time_int": 53478,
+        "user": "luwenzhe",
+        "content": "so many red cross"
+    },
+    {
+        "action": "TALK",
+        "time": "14:51:19",
+        "time_int": 53479,
+        "user": "Alan",
+        "content": "wa so many 33"
+    },
+    {
+        "action": "TALK",
+        "time": "14:51:33",
+        "time_int": 53493,
+        "user": "eastmen",
+        "content": ":)"
+    },
+    {
+        "action": "TALK",
+        "time": "14:51:44",
+        "time_int": 53504,
+        "user": "RenjuTeacher",
+        "content": "good!"
+    },
+    {
+        "action": "BACK",
+        "time": "14:51:47",
+        "time_int": 53507,
+        "user": "RenjuTeacher",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time": "14:51:47",
+        "time_int": 53507,
+        "user": "RenjuTeacher",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time": "14:51:48",
+        "time_int": 53508,
+        "user": "RenjuTeacher",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time": "14:51:48",
+        "time_int": 53508,
+        "user": "RenjuTeacher",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time": "14:51:48",
+        "time_int": 53508,
+        "user": "RenjuTeacher",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time": "14:51:49",
+        "time_int": 53509,
+        "user": "RenjuTeacher",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time": "14:51:50",
+        "time_int": 53510,
+        "user": "RenjuTeacher",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time": "14:51:50",
+        "time_int": 53510,
+        "user": "RenjuTeacher",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time": "14:51:51",
+        "time_int": 53511,
+        "user": "RenjuTeacher",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time": "14:51:51",
+        "time_int": 53511,
+        "user": "RenjuTeacher",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time": "14:51:53",
+        "time_int": 53513,
+        "user": "RenjuTeacher",
+        "content": ""
+    },
+    {
+        "action": "TALK",
+        "time": "14:52:08",
+        "time_int": 53528,
+        "user": "RenjuTeacher",
+        "content": "As you see, this beautiful 20th move led white to win"
+    },
+    {
+        "action": "TALK",
+        "time": "14:52:18",
+        "time_int": 53538,
+        "user": "RenjuTeacher",
+        "content": "so the attempt to gain tempo with move 19 failed"
+    },
+    {
+        "action": "TALK",
+        "time": "14:52:29",
+        "time_int": 53549,
+        "user": "RenjuTeacher",
+        "content": "Since black cannot get tempo,"
+    },
+    {
+        "action": "TALK",
+        "time": "14:52:36",
+        "time_int": 53556,
+        "user": "killer21st",
+        "content": "cool this point"
+    },
+    {
+        "action": "TALK",
+        "time": "14:52:38",
+        "time_int": 53558,
+        "user": "RenjuTeacher",
+        "content": "one should play passively instead"
+    },
+    {
+        "action": "BACK",
+        "time": "14:52:39",
+        "time_int": 53559,
+        "user": "RenjuTeacher",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time": "14:52:40",
+        "time_int": 53560,
+        "user": "RenjuTeacher",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time": "14:52:44",
+        "time_int": 53564,
+        "user": "RenjuTeacher",
+        "content": "77"
+    },
+    {
+        "action": "TALK",
+        "time": "14:52:53",
+        "time_int": 53573,
+        "user": "RenjuTeacher",
+        "content": "But passive style is so poor here."
+    },
+    {
+        "action": "TALK",
+        "time": "14:53:23",
+        "time_int": 53603,
+        "user": "RenjuTeacher",
+        "content": "white can now build the attack freely"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:53:25",
+        "time_int": 53605,
+        "user": "RenjuTeacher",
+        "content": "66"
+    },
+    {
+        "action": "TALK",
+        "time": "14:53:28",
+        "time_int": 53608,
+        "user": "tunnet99",
+        "content": "yea"
+    },
+    {
+        "action": "TALK",
+        "time": "14:53:30",
+        "time_int": 53610,
+        "user": "RenjuTeacher",
+        "content": "maybe even same move"
+    },
+    {
+        "action": "TALK",
+        "time": "14:53:33",
+        "time_int": 53613,
+        "user": "tunnet99",
+        "content": "18 is good"
+    },
+    {
+        "action": "TALK",
+        "time": "14:53:35",
+        "time_int": 53615,
+        "user": "killer21st",
+        "content": "also f6"
+    },
+    {
+        "action": "BACK",
+        "time": "14:53:40",
+        "time_int": 53620,
+        "user": "RenjuTeacher",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time": "14:53:40",
+        "time_int": 53620,
+        "user": "RenjuTeacher",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time": "14:53:43",
+        "time_int": 53623,
+        "user": "RenjuTeacher",
+        "content": ""
+    },
+    {
+        "action": "TALK",
+        "time": "14:53:52",
+        "time_int": 53632,
+        "user": "shaoping",
+        "content": "19-m10 try it"
+    },
+    {
+        "action": "TALK",
+        "time": "14:53:56",
+        "time_int": 53636,
+        "user": "RenjuTeacher",
+        "content": "If white did not have such beautiful win"
+    },
+    {
+        "action": "TALK",
+        "time": "14:54:14",
+        "time_int": 53654,
+        "user": "RenjuTeacher",
+        "content": "m10?"
+    },
+    {
+        "action": "TALK",
+        "time": "14:54:18",
+        "time_int": 53658,
+        "user": "shaoping",
+        "content": "ye"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:54:21",
+        "time_int": 53661,
+        "user": "RenjuTeacher",
+        "content": "67"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:54:23",
+        "time_int": 53663,
+        "user": "RenjuTeacher",
+        "content": "da"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:54:26",
+        "time_int": 53666,
+        "user": "RenjuTeacher",
+        "content": "ba"
+    },
+    {
+        "action": "TALK",
+        "time": "14:54:40",
+        "time_int": 53680,
+        "user": "tunnet99",
+        "content": "nothing.. :("
+    },
+    {
+        "action": "TALK",
+        "time": "14:54:47",
+        "time_int": 53687,
+        "user": "killer21st",
+        "content": ":("
+    },
+    {
+        "action": "TALK",
+        "time": "14:54:50",
+        "time_int": 53690,
+        "user": "RenjuTeacher",
+        "content": "then what?"
+    },
+    {
+        "action": "TALK",
+        "time": "14:54:59",
+        "time_int": 53699,
+        "user": "shaoping",
+        "content": "j11?"
+    },
+    {
+        "action": "TALK",
+        "time": "14:55:13",
+        "time_int": 53713,
+        "user": "RenjuTeacher",
+        "content": "you move"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:55:13",
+        "time_int": 53713,
+        "user": "shaoping",
+        "content": "ab"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:55:15",
+        "time_int": 53715,
+        "user": "RenjuTeacher",
+        "content": "ac"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:55:21",
+        "time_int": 53721,
+        "user": "shaoping",
+        "content": "bc"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:55:26",
+        "time_int": 53726,
+        "user": "RenjuTeacher",
+        "content": "cb"
+    },
+    {
+        "action": "TALK",
+        "time": "14:55:42",
+        "time_int": 53742,
+        "user": "shaoping",
+        "content": "：（（"
+    },
+    {
+        "action": "TALK",
+        "time": "14:55:48",
+        "time_int": 53748,
+        "user": "tunnet99",
+        "content": "but now"
+    },
+    {
+        "action": "TALK",
+        "time": "14:55:53",
+        "time_int": 53753,
+        "user": "Guest541",
+        "content": "nothing"
+    },
+    {
+        "action": "TALK",
+        "time": "14:55:59",
+        "time_int": 53759,
+        "user": "RenjuTeacher",
+        "content": "same result"
+    },
+    {
+        "action": "TALK",
+        "time": "14:56:00",
+        "time_int": 53760,
+        "user": "tunnet99",
+        "content": "its possible to play f9"
+    },
+    {
+        "action": "TALK",
+        "time": "14:56:06",
+        "time_int": 53766,
+        "user": "tunnet99",
+        "content": "or e8"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:56:12",
+        "time_int": 53772,
+        "user": "shaoping",
+        "content": "69"
+    },
+    {
+        "action": "TALK",
+        "time": "14:56:16",
+        "time_int": 53776,
+        "user": "tunnet99",
+        "content": "yes"
+    },
+    {
+        "action": "TALK",
+        "time": "14:56:39",
+        "time_int": 53799,
+        "user": "killer21st",
+        "content": "good,shaoping"
+    },
+    {
+        "action": "TALK",
+        "time": "14:56:51",
+        "time_int": 53811,
+        "user": "luwenzhe",
+        "content": "no 4-3-3 now, anyway :)"
+    },
+    {
+        "action": "TALK",
+        "time": "14:56:58",
+        "time_int": 53818,
+        "user": "tunnet99",
+        "content": "yup"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:57:25",
+        "time_int": 53845,
+        "user": "RenjuTeacher",
+        "content": "6c"
+    },
+    {
+        "action": "TALK",
+        "time": "14:57:35",
+        "time_int": 53855,
+        "user": "tunnet99",
+        "content": "but still... black had strong right side before playing 19"
+    },
+    {
+        "action": "TALK",
+        "time": "14:57:39",
+        "time_int": 53859,
+        "user": "tunnet99",
+        "content": "now theres nothing"
+    },
+    {
+        "action": "TALK",
+        "time": "14:57:53",
+        "time_int": 53873,
+        "user": "Volodymyr",
+        "content": "hi"
+    },
+    {
+        "action": "TALK",
+        "time": "14:57:57",
+        "time_int": 53877,
+        "user": "RenjuTeacher",
+        "content": "black used the tempo to fill up upper side"
+    },
+    {
+        "action": "TALK",
+        "time": "14:57:59",
+        "time_int": 53879,
+        "user": "tunnet99",
+        "content": "hi volodya"
+    },
+    {
+        "action": "TALK",
+        "time": "14:58:13",
+        "time_int": 53893,
+        "user": "Guest541",
+        "content": "en"
+    },
+    {
+        "action": "TALK",
+        "time": "14:58:17",
+        "time_int": 53897,
+        "user": "Guest541",
+        "content": "fillup"
+    },
+    {
+        "action": "TALK",
+        "time": "14:58:21",
+        "time_int": 53901,
+        "user": "yyfcsd",
+        "content": "black gain nothng with 19\/21\/23"
+    },
+    {
+        "action": "TALK",
+        "time": "14:58:25",
+        "time_int": 53905,
+        "user": "luwenzhe",
+        "content": "Isn't it the tactic we learned?"
+    },
+    {
+        "action": "TALK",
+        "time": "14:58:32",
+        "time_int": 53912,
+        "user": "RenjuTeacher",
+        "content": "interesting idea of defense... but as I said.. it always has two sides.."
+    },
+    {
+        "action": "TALK",
+        "time": "14:58:43",
+        "time_int": 53923,
+        "user": "tunnet99",
+        "content": "yup.."
+    },
+    {
+        "action": "TALK",
+        "time": "14:58:50",
+        "time_int": 53930,
+        "user": "RenjuTeacher",
+        "content": "now black has lost power on right"
+    },
+    {
+        "action": "TALK",
+        "time": "14:58:57",
+        "time_int": 53937,
+        "user": "yyfcsd",
+        "content": "y"
+    },
+    {
+        "action": "TALK",
+        "time": "14:59:01",
+        "time_int": 53941,
+        "user": "RenjuTeacher",
+        "content": "with the price of surviving longer"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:59:04",
+        "time_int": 53944,
+        "user": "RenjuTeacher",
+        "content": "8c"
+    },
+    {
+        "action": "MOVE",
+        "time": "14:59:08",
+        "time_int": 53948,
+        "user": "RenjuTeacher",
+        "content": "75"
+    },
+    {
+        "action": "TALK",
+        "time": "14:59:20",
+        "time_int": 53960,
+        "user": "RenjuTeacher",
+        "content": "and white is fearless now"
+    },
+    {
+        "action": "TALK",
+        "time": "14:59:33",
+        "time_int": 53973,
+        "user": "tunnet99",
+        "content": "true"
+    },
+    {
+        "action": "TALK",
+        "time": "14:59:38",
+        "time_int": 53978,
+        "user": "Guest563",
+        "content": "."
+    },
+    {
+        "action": "TALK",
+        "time": "14:59:38",
+        "time_int": 53978,
+        "user": "tunnet99",
+        "content": "no counter attack"
+    },
+    {
+        "action": "TALK",
+        "time": "14:59:45",
+        "time_int": 53985,
+        "user": "luwenzhe",
+        "content": "so strong at bottom"
+    },
+    {
+        "action": "TALK",
+        "time": "15:00:04",
+        "time_int": 54004,
+        "user": "RenjuTeacher",
+        "content": "but shaoping's example was still useful for us.."
+    },
+    {
+        "action": "TALK",
+        "time": "15:00:14",
+        "time_int": 54014,
+        "user": "RenjuTeacher",
+        "content": "because it just showed one possible usage of tempo again"
+    },
+    {
+        "action": "TALK",
+        "time": "15:00:19",
+        "time_int": 54019,
+        "user": "RenjuTeacher",
+        "content": "so it helped my class"
+    },
+    {
+        "action": "TALK",
+        "time": "15:00:21",
+        "time_int": 54021,
+        "user": "RenjuTeacher",
+        "content": ":)"
+    },
+    {
+        "action": "TALK",
+        "time": "15:00:21",
+        "time_int": 54021,
+        "user": "killer21st",
+        "content": ":)"
+    },
+    {
+        "action": "TALK",
+        "time": "15:00:32",
+        "time_int": 54032,
+        "user": "Guest541",
+        "content": "!:)"
+    },
+    {
+        "action": "TALK",
+        "time": "15:00:35",
+        "time_int": 54035,
+        "user": "killer21st",
+        "content": "good,shaoping:)"
+    },
+    {
+        "action": "BACK",
+        "time": "15:00:37",
+        "time_int": 54037,
+        "user": "RenjuTeacher",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time": "15:00:38",
+        "time_int": 54038,
+        "user": "RenjuTeacher",
+        "content": ""
+    },
+    {
+        "action": "TALK",
+        "time": "15:00:38",
+        "time_int": 54038,
+        "user": "Renjufans",
+        "content": "y, good ,shaoping.:)"
+    },
+    {
+        "action": "BACK",
+        "time": "15:00:46",
+        "time_int": 54046,
+        "user": "RenjuTeacher",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time": "15:00:46",
+        "time_int": 54046,
+        "user": "RenjuTeacher",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time": "15:00:47",
+        "time_int": 54047,
+        "user": "RenjuTeacher",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time": "15:00:48",
+        "time_int": 54048,
+        "user": "RenjuTeacher",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time": "15:00:48",
+        "time_int": 54048,
+        "user": "RenjuTeacher",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time": "15:00:49",
+        "time_int": 54049,
+        "user": "RenjuTeacher",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time": "15:00:49",
+        "time_int": 54049,
+        "user": "RenjuTeacher",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time": "15:00:49",
+        "time_int": 54049,
+        "user": "RenjuTeacher",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time": "15:00:50",
+        "time_int": 54050,
+        "user": "RenjuTeacher",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time": "15:00:52",
+        "time_int": 54052,
+        "user": "RenjuTeacher",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time": "15:00:52",
+        "time_int": 54052,
+        "user": "RenjuTeacher",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time": "15:00:53",
+        "time_int": 54053,
+        "user": "RenjuTeacher",
+        "content": ""
+    },
+    {
+        "action": "BACK",
+        "time": "15:00:56",
+        "time_int": 54056,
+        "user": "RenjuTeacher",
+        "content": ""
+    },
+    {
+        "action": "TALK",
+        "time": "15:01:02",
+        "time_int": 54062,
+        "user": "RenjuTeacher",
+        "content": "So, what is the conclusion here?"
+    },
+    {
+        "action": "TALK",
+        "time": "15:01:08",
+        "time_int": 54068,
+        "user": "RenjuTeacher",
+        "content": "is tempo good for white or not?"
+    },
+    {
+        "action": "TALK",
+        "time": "15:01:11",
+        "time_int": 54071,
+        "user": "Guest560",
+        "content": "1"
+    },
+    {
+        "action": "TALK",
+        "time": "15:01:14",
+        "time_int": 54074,
+        "user": "tunnet99",
+        "content": "good)"
+    },
+    {
+        "action": "TALK",
+        "time": "15:01:21",
+        "time_int": 54081,
+        "user": "L8RG8R",
+        "content": "yep"
+    },
+    {
+        "action": "TALK",
+        "time": "15:01:21",
+        "time_int": 54081,
+        "user": "luwenzhe",
+        "content": "white to get the tempo :)"
+    },
+    {
+        "action": "TALK",
+        "time": "15:01:29",
+        "time_int": 54089,
+        "user": "yyfcsd",
+        "content": "maybe not"
+    },
+    {
+        "action": "TALK",
+        "time": "15:01:45",
+        "time_int": 54105,
+        "user": "Alan",
+        "content": "I like tempo"
+    },
+    {
+        "action": "TALK",
+        "time": "15:01:45",
+        "time_int": 54105,
+        "user": "NZ21568377",
+        "content": "yy"
+    },
+    {
+        "action": "TALK",
+        "time": "15:01:53",
+        "time_int": 54113,
+        "user": "RenjuTeacher",
+        "content": "indeed, we did not look carefully the second way that is passive style"
+    },
+    {
+        "action": "MOVE",
+        "time": "15:01:55",
+        "time_int": 54115,
+        "user": "RenjuTeacher",
+        "content": "c8"
+    },
+    {
+        "action": "TALK",
+        "time": "15:02:00",
+        "time_int": 54120,
+        "user": "RenjuTeacher",
+        "content": "To know the whole truth,"
+    },
+    {
+        "action": "TALK",
+        "time": "15:02:07",
+        "time_int": 54127,
+        "user": "RenjuTeacher",
+        "content": "we should analyse both ways as far as possible"
+    },
+    {
+        "action": "TALK",
+        "time": "15:02:12",
+        "time_int": 54132,
+        "user": "tunnet99",
+        "content": "many good ways maybe)"
+    },
+    {
+        "action": "TALK",
+        "time": "15:02:15",
+        "time_int": 54135,
+        "user": "RenjuTeacher",
+        "content": "and compare final outcomes"
+    },
+    {
+        "action": "TALK",
+        "time": "15:02:20",
+        "time_int": 54140,
+        "user": "RenjuTeacher",
+        "content": "do you agree?"
+    },
+    {
+        "action": "TALK",
+        "time": "15:02:24",
+        "time_int": 54144,
+        "user": "NZ21568377",
+        "content": "y"
+    },
+    {
+        "action": "TALK",
+        "time": "15:02:25",
+        "time_int": 54145,
+        "user": "tunnet99",
+        "content": "sure"
+    },
+    {
+        "action": "TALK",
+        "time": "15:02:25",
+        "time_int": 54145,
+        "user": "aivo",
+        "content": "y"
+    },
+    {
+        "action": "TALK",
+        "time": "15:02:26",
+        "time_int": 54146,
+        "user": "tieuphilac",
+        "content": "100 %"
+    },
+    {
+        "action": "TALK",
+        "time": "15:02:28",
+        "time_int": 54148,
+        "user": "Renjufans",
+        "content": "y"
+    },
+    {
+        "action": "TALK",
+        "time": "15:02:28",
+        "time_int": 54148,
+        "user": "killer21st",
+        "content": "y"
+    },
+    {
+        "action": "TALK",
+        "time": "15:02:29",
+        "time_int": 54149,
+        "user": "L8RG8R",
+        "content": "ok"
+    },
+    {
+        "action": "TALK",
+        "time": "15:02:34",
+        "time_int": 54154,
+        "user": "luwenzhe",
+        "content": "yes"
+    },
+    {
+        "action": "TALK",
+        "time": "15:02:38",
+        "time_int": 54158,
+        "user": "nick_hopper",
+        "content": "yes"
+    },
+    {
+        "action": "TALK",
+        "time": "15:02:38",
+        "time_int": 54158,
+        "user": "Guest567",
+        "content": "y"
+    },
+    {
+        "action": "TALK",
+        "time": "15:02:43",
+        "time_int": 54163,
+        "user": "RenjuTeacher",
+        "content": "However,"
+    },
+    {
+        "action": "TALK",
+        "time": "15:02:48",
+        "time_int": 54168,
+        "user": "RenjuTeacher",
+        "content": "from what we saw today here,"
+    },
+    {
+        "action": "TALK",
+        "time": "15:02:59",
+        "time_int": 54179,
+        "user": "RenjuTeacher",
+        "content": "we can say the active style looks fine at least."
+    },
+    {
+        "action": "TALK",
+        "time": "15:03:09",
+        "time_int": 54189,
+        "user": "RenjuTeacher",
+        "content": "We did not find any moment of danger where white could lose"
+    },
+    {
+        "action": "TALK",
+        "time": "15:03:20",
+        "time_int": 54200,
+        "user": "RenjuTeacher",
+        "content": "Therefore the tempo was justified."
+    },
+    {
+        "action": "BACK",
+        "time": "15:03:22",
+        "time_int": 54202,
+        "user": "RenjuTeacher",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time": "15:03:23",
+        "time_int": 54203,
+        "user": "RenjuTeacher",
+        "content": "8b"
+    },
+    {
+        "action": "TALK",
+        "time": "15:03:34",
+        "time_int": 54214,
+        "user": "RenjuTeacher",
+        "content": "So, great Haywakawa chose this 14 without doubt."
+    },
+    {
+        "action": "TALK",
+        "time": "15:03:46",
+        "time_int": 54226,
+        "user": "RenjuTeacher",
+        "content": "But knowing him, I must say he played it by feeling"
+    },
+    {
+        "action": "TALK",
+        "time": "15:03:56",
+        "time_int": 54236,
+        "user": "tunnet99",
+        "content": "how about g11 now?"
+    },
+    {
+        "action": "TALK",
+        "time": "15:03:57",
+        "time_int": 54237,
+        "user": "luwenzhe",
+        "content": "haha, good feeling"
+    },
+    {
+        "action": "TALK",
+        "time": "15:03:59",
+        "time_int": 54239,
+        "user": "RenjuTeacher",
+        "content": "not by analysing the final outcome of tempo"
+    },
+    {
+        "action": "TALK",
+        "time": "15:04:07",
+        "time_int": 54247,
+        "user": "RenjuTeacher",
+        "content": "So, his feeling was right this time."
+    },
+    {
+        "action": "TALK",
+        "time": "15:04:10",
+        "time_int": 54250,
+        "user": "span",
+        "content": "it's hard"
+    },
+    {
+        "action": "MOVE",
+        "time": "15:04:14",
+        "time_int": 54254,
+        "user": "RenjuTeacher",
+        "content": "7b"
+    },
+    {
+        "action": "TALK",
+        "time": "15:04:16",
+        "time_int": 54256,
+        "user": "Guest563",
+        "content": "哎呀"
+    },
+    {
+        "action": "TALK",
+        "time": "15:04:23",
+        "time_int": 54263,
+        "user": "RenjuTeacher",
+        "content": "g11.. this was Kim-Soosyrv?"
+    },
+    {
+        "action": "TALK",
+        "time": "15:04:26",
+        "time_int": 54266,
+        "user": "NZ21568377",
+        "content": "no chinese"
+    },
+    {
+        "action": "TALK",
+        "time": "15:04:27",
+        "time_int": 54267,
+        "user": "tunnet99",
+        "content": "no"
+    },
+    {
+        "action": "TALK",
+        "time": "15:04:30",
+        "time_int": 54270,
+        "user": "tunnet99",
+        "content": "f9"
+    },
+    {
+        "action": "TALK",
+        "time": "15:04:32",
+        "time_int": 54272,
+        "user": "RenjuTeacher",
+        "content": "no?"
+    },
+    {
+        "action": "TALK",
+        "time": "15:04:38",
+        "time_int": 54278,
+        "user": "tunnet99",
+        "content": "g11 is the most played move here"
+    },
+    {
+        "action": "TALK",
+        "time": "15:04:42",
+        "time_int": 54282,
+        "user": "Ikon",
+        "content": "by analysing is hard !!!!!!!!!!"
+    },
+    {
+        "action": "TALK",
+        "time": "15:04:59",
+        "time_int": 54299,
+        "user": "Guest563",
+        "content": "sorry i don't know english"
+    },
+    {
+        "action": "TALK",
+        "time": "15:05:04",
+        "time_int": 54304,
+        "user": "tunnet99",
+        "content": "f9 was kim soosyrv"
+    },
+    {
+        "action": "MOVE",
+        "time": "15:05:06",
+        "time_int": 54306,
+        "user": "RenjuTeacher",
+        "content": "6b"
+    },
+    {
+        "action": "TALK",
+        "time": "15:05:14",
+        "time_int": 54314,
+        "user": "tunnet99",
+        "content": "wo)"
+    },
+    {
+        "action": "TALK",
+        "time": "15:05:18",
+        "time_int": 54318,
+        "user": "RenjuTeacher",
+        "content": "goes to same?"
+    },
+    {
+        "action": "TALK",
+        "time": "15:05:23",
+        "time_int": 54323,
+        "user": "tunnet99",
+        "content": "um"
+    },
+    {
+        "action": "TALK",
+        "time": "15:05:26",
+        "time_int": 54326,
+        "user": "Guest563",
+        "content": "冯宪综"
+    },
+    {
+        "action": "TALK",
+        "time": "15:05:45",
+        "time_int": 54345,
+        "user": "tunnet99",
+        "content": "h12?"
+    },
+    {
+        "action": "TALK",
+        "time": "15:06:13",
+        "time_int": 54373,
+        "user": "RenjuTeacher",
+        "content": "The problem of black here is:"
+    },
+    {
+        "action": "TALK",
+        "time": "15:06:27",
+        "time_int": 54387,
+        "user": "RenjuTeacher",
+        "content": "Black has only one strong side, that is right side, and no tempo"
+    },
+    {
+        "action": "TALK",
+        "time": "15:06:35",
+        "time_int": 54395,
+        "user": "RenjuTeacher",
+        "content": "which means, white can forever attack on left."
+    },
+    {
+        "action": "TALK",
+        "time": "15:06:38",
+        "time_int": 54398,
+        "user": "Volodymyr",
+        "content": "."
+    },
+    {
+        "action": "TALK",
+        "time": "15:06:42",
+        "time_int": 54402,
+        "user": "tunnet99",
+        "content": "um"
+    },
+    {
+        "action": "TALK",
+        "time": "15:06:44",
+        "time_int": 54404,
+        "user": "RenjuTeacher",
+        "content": "And it is so unlikely black can survive it"
+    },
+    {
+        "action": "TALK",
+        "time": "15:07:07",
+        "time_int": 54427,
+        "user": "tunnet99",
+        "content": "hm"
+    },
+    {
+        "action": "TALK",
+        "time": "15:07:07",
+        "time_int": 54427,
+        "user": "eastmen",
+        "content": "o~~~~"
+    },
+    {
+        "action": "BACK",
+        "time": "15:07:12",
+        "time_int": 54432,
+        "user": "RenjuTeacher",
+        "content": ""
+    },
+    {
+        "action": "MOVE",
+        "time": "15:07:13",
+        "time_int": 54433,
+        "user": "RenjuTeacher",
+        "content": "9c"
+    },
+    {
+        "action": "MOVE",
+        "time": "15:07:18",
+        "time_int": 54438,
+        "user": "RenjuTeacher",
+        "content": "ad"
+    },
+    {
+        "action": "MOVE",
+        "time": "15:07:20",
+        "time_int": 54440,
+        "user": "RenjuTeacher",
+        "content": "5c"
+    },
+    {
+        "action": "TALK",
+        "time": "15:07:24",
+        "time_int": 54444,
+        "user": "RenjuTeacher",
+        "content": "maybe better?"
+    },
+    {
+        "action": "TALK",
+        "time": "15:07:27",
+        "time_int": 54447,
+        "user": "tunnet99",
+        "content": "maybe"
+    },
+    {
+        "action": "TALK",
+        "time": "15:07:34",
+        "time_int": 54454,
+        "user": "tunnet99",
+        "content": "but.."
+    },
+    {
+        "action": "TALK",
+        "time": "15:07:57",
+        "time_int": 54477,
+        "user": "RenjuTeacher",
+        "content": "anyway, I believe you all got the idea of todays lesson.. how to evaluate the use of tempo"
+    },
+    {
+        "action": "TALK",
+        "time": "15:08:02",
+        "time_int": 54482,
+        "user": "RenjuTeacher",
+        "content": "and how to manipulate with tempo."
+    },
+    {
+        "action": "TALK",
+        "time": "15:08:04",
+        "time_int": 54484,
+        "user": "aivo",
+        "content": "y"
+    },
+    {
+        "action": "TALK",
+        "time": "15:08:07",
+        "time_int": 54487,
+        "user": "span",
+        "content": "y"
+    },
+    {
+        "action": "TALK",
+        "time": "15:08:11",
+        "time_int": 54491,
+        "user": "luwenzhe",
+        "content": "got the idea, but hard to use it"
+    },
+    {
+        "action": "TALK",
+        "time": "15:08:15",
+        "time_int": 54495,
+        "user": "RenjuTeacher",
+        "content": "The exact analysis of this variant is not that important."
+    },
+    {
+        "action": "TALK",
+        "time": "15:08:22",
+        "time_int": 54502,
+        "user": "killer21st",
+        "content": ":)"
+    },
+    {
+        "action": "TALK",
+        "time": "15:08:23",
+        "time_int": 54503,
+        "user": "tunnet99",
+        "content": "not sure about this 15 still.."
+    },
+    {
+        "action": "TALK",
+        "time": "15:08:27",
+        "time_int": 54507,
+        "user": "tieuphilac",
+        "content": "ok"
+    },
+    {
+        "action": "TALK",
+        "time": "15:08:28",
+        "time_int": 54508,
+        "user": "RenjuTeacher",
+        "content": "Because this is not analysis lesson."
+    },
+    {
+        "action": "TALK",
+        "time": "15:08:34",
+        "time_int": 54514,
+        "user": "span",
+        "content": "agree"
+    },
+    {
+        "action": "TALK",
+        "time": "15:08:44",
+        "time_int": 54524,
+        "user": "luwenzhe",
+        "content": "y"
+    },
+    {
+        "action": "TALK",
+        "time": "15:08:50",
+        "time_int": 54530,
+        "user": "namic_99",
+        "content": "yes"
+    },
+    {
+        "action": "TALK",
+        "time": "15:08:51",
+        "time_int": 54531,
+        "user": "tunnet99",
+        "content": "true"
+    },
+    {
+        "action": "TALK",
+        "time": "15:08:59",
+        "time_int": 54539,
+        "user": "RenjuTeacher",
+        "content": "Any questions about tempo?"
+    },
+    {
+        "action": "TALK",
+        "time": "15:09:03",
+        "time_int": 54543,
+        "user": "aivo",
+        "content": "no"
+    },
+    {
+        "action": "CLEAR",
+        "time": "15:09:05",
+        "time_int": 54545,
+        "user": "RenjuTeacher",
+        "content": ""
+    },
+    {
+        "action": "TALK",
+        "time": "15:09:15",
+        "time_int": 54555,
+        "user": "span",
+        "content": "no"
+    },
+    {
+        "action": "TALK",
+        "time": "15:09:22",
+        "time_int": 54562,
+        "user": "killer21st",
+        "content": "i love it:)"
+    },
+    {
+        "action": "TALK",
+        "time": "15:09:34",
+        "time_int": 54574,
+        "user": "NZ21568377",
+        "content": "great."
+    },
+    {
+        "action": "TALK",
+        "time": "15:09:48",
+        "time_int": 54588,
+        "user": "shaoping",
+        "content": "i love who?"
+    },
+    {
+        "action": "TALK",
+        "time": "15:09:50",
+        "time_int": 54590,
+        "user": "Alan",
+        "content": "really ..."
+    },
+    {
+        "action": "TALK",
+        "time": "15:09:55",
+        "time_int": 54595,
+        "user": "killer21st",
+        "content": "me"
+    },
+    {
+        "action": "TALK",
+        "time": "15:09:55",
+        "time_int": 54595,
+        "user": "eastmen",
+        "content": "great"
+    },
+    {
+        "action": "TALK",
+        "time": "15:09:57",
+        "time_int": 54597,
+        "user": "RenjuTeacher",
+        "content": "seems no questions :)"
+    },
+    {
+        "action": "TALK",
+        "time": "15:10:00",
+        "time_int": 54600,
+        "user": "namic_99",
+        "content": "understand a little , but hard to use in game ... :)"
+    },
+    {
+        "action": "TALK",
+        "time": "15:10:02",
+        "time_int": 54602,
+        "user": "shaoping",
+        "content": "ha"
+    },
+    {
+        "action": "TALK",
+        "time": "15:10:03",
+        "time_int": 54603,
+        "user": "RenjuTeacher",
+        "content": "therefore,"
+    },
+    {
+        "action": "TALK",
+        "time": "15:10:05",
+        "time_int": 54605,
+        "user": "luwenzhe",
+        "content": "yes, nimic"
+    },
+    {
+        "action": "TALK",
+        "time": "15:10:06",
+        "time_int": 54606,
+        "user": "Volodymyr",
+        "content": "."
+    },
+    {
+        "action": "TALK",
+        "time": "15:10:09",
+        "time_int": 54609,
+        "user": "RenjuTeacher",
+        "content": "we will play last button game before we end"
+    },
+    {
+        "action": "TALK",
+        "time": "15:10:23",
+        "time_int": 54623,
+        "user": "Guest547",
+        "content": "i am  here"
+    },
+    {
+        "action": "TALK",
+        "time": "15:10:26",
+        "time_int": 54626,
+        "user": "span",
+        "content": "haha"
+    },
+    {
+        "action": "TALK",
+        "time": "15:10:27",
+        "time_int": 54627,
+        "user": "tieuphilac",
+        "content": "button game?"
+    },
+    {
+        "action": "TALK",
+        "time": "15:10:28",
+        "time_int": 54628,
+        "user": "eastmen",
+        "content": "i really want to know how to think about"
+    },
+    {
+        "action": "TALK",
+        "time": "15:10:31",
+        "time_int": 54631,
+        "user": "killer21st",
+        "content": "agree with namic"
+    },
+    {
+        "action": "TALK",
+        "time": "15:10:34",
+        "time_int": 54634,
+        "user": "tieuphilac",
+        "content": "u seem to enjoy it :-)"
+    },
+    {
+        "action": "TALK",
+        "time": "15:10:34",
+        "time_int": 54634,
+        "user": "Guest541",
+        "content": "only understand a little"
+    },
+    {
+        "action": "CHECKRESULT",
+        "time": "15:10:50",
+        "time_int": 54650,
+        "user": "",
+        "content": " tieuphilac, Ikon, aivo, luwenzhe, Intotherenju, L8RG8R, span, Chancewu, wetcat, shuwang, Sakuma, Renjufans, Jasny_sokol, namic_99, nick_hopper, yyfcsd, bomb, NZ21568377, jiujiumei, killer21st, tunnet99, moocheng, Alan, Volodymyr, eastmen."
+    },
+    {
+        "action": "TALK",
+        "time": "15:10:53",
+        "time_int": 54653,
+        "user": "RenjuTeacher",
+        "content": "Now we will end our first lesson of Tactics. There will be many more to come. I hope you keep up your interest and join the next lessons as well! See you then!"
+    },
+    {
+        "action": "TALK",
+        "time": "15:10:53",
+        "time_int": 54653,
+        "user": "luwenzhe",
+        "content": "you got it, eastmen"
+    },
+    {
+        "action": "CREDIT",
+        "time": "15:10:57",
+        "time_int": 54657,
+        "user": "",
+        "content": " Alan, aivo, Chancewu, tieuphilac, Ikon, Jasny_sokol, killer21st, span, luwenzhe, moocheng, Renjufans, wetcat, bomb, shuwang, nick_hopper, namic_99, Sakuma, Intotherenju."
+    }
+]

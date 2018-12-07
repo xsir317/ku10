@@ -7,6 +7,20 @@
         "content": "001000GH"
     },
     {
+        "action": "LOAD",
+        "time": "13:34:24",
+        "time_int": 48864,
+        "user": "",
+        "content": "78"
+    },
+    {
+        "action": "GOTO",
+        "time": "13:34:24",
+        "time_int": 48864,
+        "user": "",
+        "content": 0
+    },
+    {
         "action": "TALK",
         "time": "13:34:38",
         "time_int": 48878,

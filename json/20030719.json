@@ -7,6 +7,20 @@
         "content": "001000KN"
     },
     {
+        "action": "LOAD",
+        "time": "09:36:44",
+        "time_int": 34604,
+        "user": "",
+        "content": "be"
+    },
+    {
+        "action": "GOTO",
+        "time": "09:36:44",
+        "time_int": 34604,
+        "user": "",
+        "content": 0
+    },
+    {
         "action": "TALK",
         "time": "09:37:13",
         "time_int": 34633,

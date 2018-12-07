@@ -7,6 +7,20 @@
         "content": "001000ON"
     },
     {
+        "action": "LOAD",
+        "time": "16:31:17",
+        "time_int": 59477,
+        "user": "",
+        "content": "fe"
+    },
+    {
+        "action": "GOTO",
+        "time": "16:31:17",
+        "time_int": 59477,
+        "user": "",
+        "content": 0
+    },
+    {
         "action": "TALK",
         "time": "16:31:30",
         "time_int": 59490,

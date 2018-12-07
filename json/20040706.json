@@ -7,6 +7,20 @@
         "content": "001000EA"
     },
     {
+        "action": "LOAD",
+        "time": "16:42:07",
+        "time_int": 60127,
+        "user": "",
+        "content": "51"
+    },
+    {
+        "action": "GOTO",
+        "time": "16:42:07",
+        "time_int": 60127,
+        "user": "",
+        "content": 0
+    },
+    {
         "action": "TALK",
         "time": "16:42:14",
         "time_int": 60134,

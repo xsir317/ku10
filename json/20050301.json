@@ -7,6 +7,20 @@
         "content": "001000JI"
     },
     {
+        "action": "LOAD",
+        "time": "13:41:12",
+        "time_int": 49272,
+        "user": "",
+        "content": "a9"
+    },
+    {
+        "action": "GOTO",
+        "time": "13:41:12",
+        "time_int": 49272,
+        "user": "",
+        "content": 0
+    },
+    {
         "action": "TALK",
         "time": "13:41:30",
         "time_int": 49290,

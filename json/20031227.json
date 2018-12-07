@@ -7,6 +7,20 @@
         "content": "001000KO"
     },
     {
+        "action": "LOAD",
+        "time": "12:56:28",
+        "time_int": 46588,
+        "user": "",
+        "content": "bf"
+    },
+    {
+        "action": "GOTO",
+        "time": "12:56:28",
+        "time_int": 46588,
+        "user": "",
+        "content": 0
+    },
+    {
         "action": "TALK",
         "time": "12:56:31",
         "time_int": 46591,

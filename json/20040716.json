@@ -7,6 +7,20 @@
         "content": "001000KC"
     },
     {
+        "action": "LOAD",
+        "time": "12:04:29",
+        "time_int": 43469,
+        "user": "",
+        "content": "b3"
+    },
+    {
+        "action": "GOTO",
+        "time": "12:04:29",
+        "time_int": 43469,
+        "user": "",
+        "content": 0
+    },
+    {
         "action": "TALK",
         "time": "12:04:29",
         "time_int": 43469,

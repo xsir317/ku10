@@ -7,6 +7,20 @@
         "content": "013013"
     },
     {
+        "action": "LOAD",
+        "time": "12:04:23",
+        "time_int": 43463,
+        "user": "",
+        "content": ""
+    },
+    {
+        "action": "GOTO",
+        "time": "12:04:23",
+        "time_int": 43463,
+        "user": "",
+        "content": 13
+    },
+    {
         "action": "TALK",
         "time": "12:04:32",
         "time_int": 43472,

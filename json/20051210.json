@@ -7,6 +7,20 @@
         "content": "002001HHFF"
     },
     {
+        "action": "LOAD",
+        "time": "13:54:14",
+        "time_int": 50054,
+        "user": "",
+        "content": "8866"
+    },
+    {
+        "action": "GOTO",
+        "time": "13:54:14",
+        "time_int": 50054,
+        "user": "",
+        "content": 1
+    },
+    {
         "action": "CLEAR",
         "time": "13:54:22",
         "time_int": 50062,

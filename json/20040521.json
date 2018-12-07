@@ -7,6 +7,20 @@
         "content": "002001HHFE"
     },
     {
+        "action": "LOAD",
+        "time": "12:09:49",
+        "time_int": 43789,
+        "user": "",
+        "content": "8865"
+    },
+    {
+        "action": "GOTO",
+        "time": "12:09:49",
+        "time_int": 43789,
+        "user": "",
+        "content": 1
+    },
+    {
         "action": "TALK",
         "time": "12:09:51",
         "time_int": 43791,

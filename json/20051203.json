@@ -7,6 +7,20 @@
         "content": "001000MB"
     },
     {
+        "action": "LOAD",
+        "time": "13:45:34",
+        "time_int": 49534,
+        "user": "",
+        "content": "d2"
+    },
+    {
+        "action": "GOTO",
+        "time": "13:45:34",
+        "time_int": 49534,
+        "user": "",
+        "content": 0
+    },
+    {
         "action": "TALK",
         "time": "13:45:35",
         "time_int": 49535,

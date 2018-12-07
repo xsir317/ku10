@@ -7,6 +7,20 @@
         "content": "001000OA"
     },
     {
+        "action": "LOAD",
+        "time": "16:34:59",
+        "time_int": 59699,
+        "user": "",
+        "content": "f1"
+    },
+    {
+        "action": "GOTO",
+        "time": "16:34:59",
+        "time_int": 59699,
+        "user": "",
+        "content": 0
+    },
+    {
         "action": "MOVE",
         "time": "16:35:02",
         "time_int": 59702,

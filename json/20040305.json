@@ -7,6 +7,20 @@
         "content": "003001HHIIHF"
     },
     {
+        "action": "LOAD",
+        "time": "12:06:04",
+        "time_int": 43564,
+        "user": "",
+        "content": "889986"
+    },
+    {
+        "action": "GOTO",
+        "time": "12:06:04",
+        "time_int": 43564,
+        "user": "",
+        "content": 1
+    },
+    {
         "action": "MOVE",
         "time": "12:06:08",
         "time_int": 43568,

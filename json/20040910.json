@@ -7,6 +7,20 @@
         "content": "003001HHIIJJ"
     },
     {
+        "action": "LOAD",
+        "time": "12:06:17",
+        "time_int": 43577,
+        "user": "",
+        "content": "8899aa"
+    },
+    {
+        "action": "GOTO",
+        "time": "12:06:17",
+        "time_int": 43577,
+        "user": "",
+        "content": 1
+    },
+    {
         "action": "TALK",
         "time": "12:06:41",
         "time_int": 43601,

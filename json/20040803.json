@@ -7,6 +7,20 @@
         "content": "001000ED"
     },
     {
+        "action": "LOAD",
+        "time": "13:32:13",
+        "time_int": 48733,
+        "user": "",
+        "content": "54"
+    },
+    {
+        "action": "GOTO",
+        "time": "13:32:13",
+        "time_int": 48733,
+        "user": "",
+        "content": 0
+    },
+    {
         "action": "TALK",
         "time": "13:32:23",
         "time_int": 48743,

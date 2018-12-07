@@ -7,6 +7,20 @@
         "content": "001001HH"
     },
     {
+        "action": "LOAD",
+        "time": "16:37:21",
+        "time_int": 59841,
+        "user": "",
+        "content": "88"
+    },
+    {
+        "action": "GOTO",
+        "time": "16:37:21",
+        "time_int": 59841,
+        "user": "",
+        "content": 1
+    },
+    {
         "action": "TALK",
         "time": "16:37:29",
         "time_int": 59849,

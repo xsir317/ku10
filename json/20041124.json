@@ -7,6 +7,20 @@
         "content": "002000HHII"
     },
     {
+        "action": "LOAD",
+        "time": "12:03:43",
+        "time_int": 43423,
+        "user": "",
+        "content": "8899"
+    },
+    {
+        "action": "GOTO",
+        "time": "12:03:43",
+        "time_int": 43423,
+        "user": "",
+        "content": 0
+    },
+    {
         "action": "MOVE",
         "time": "12:03:53",
         "time_int": 43433,

@@ -7,6 +7,20 @@
         "content": "001000BM"
     },
     {
+        "action": "LOAD",
+        "time": "12:14:00",
+        "time_int": 44040,
+        "user": "",
+        "content": "2d"
+    },
+    {
+        "action": "GOTO",
+        "time": "12:14:00",
+        "time_int": 44040,
+        "user": "",
+        "content": 0
+    },
+    {
         "action": "TALK",
         "time": "12:14:16",
         "time_int": 44056,

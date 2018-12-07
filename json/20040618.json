@@ -7,6 +7,20 @@
         "content": "002000JEHH"
     },
     {
+        "action": "LOAD",
+        "time": "12:13:33",
+        "time_int": 44013,
+        "user": "",
+        "content": "a588"
+    },
+    {
+        "action": "GOTO",
+        "time": "12:13:33",
+        "time_int": 44013,
+        "user": "",
+        "content": 0
+    },
+    {
         "action": "MOVE",
         "time": "12:13:36",
         "time_int": 44016,

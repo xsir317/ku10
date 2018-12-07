@@ -7,6 +7,20 @@
         "content": "001000MN"
     },
     {
+        "action": "LOAD",
+        "time": "13:32:14",
+        "time_int": 48734,
+        "user": "",
+        "content": "de"
+    },
+    {
+        "action": "GOTO",
+        "time": "13:32:14",
+        "time_int": 48734,
+        "user": "",
+        "content": 0
+    },
+    {
         "action": "TALK",
         "time": "13:32:22",
         "time_int": 48742,

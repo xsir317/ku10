@@ -7,6 +7,20 @@
         "content": "002002HHHI"
     },
     {
+        "action": "LOAD",
+        "time": "16:38:12",
+        "time_int": 59892,
+        "user": "",
+        "content": "8889"
+    },
+    {
+        "action": "GOTO",
+        "time": "16:38:12",
+        "time_int": 59892,
+        "user": "",
+        "content": 2
+    },
+    {
         "action": "TALK",
         "time": "16:38:31",
         "time_int": 59911,

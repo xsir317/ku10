@@ -7,6 +7,20 @@
         "content": "002000OAOB"
     },
     {
+        "action": "LOAD",
+        "time": "13:35:43",
+        "time_int": 48943,
+        "user": "",
+        "content": "f1f2"
+    },
+    {
+        "action": "GOTO",
+        "time": "13:35:43",
+        "time_int": 48943,
+        "user": "",
+        "content": 0
+    },
+    {
         "action": "TALK",
         "time": "13:35:44",
         "time_int": 48944,

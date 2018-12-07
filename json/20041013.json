@@ -7,6 +7,20 @@
         "content": "002001HHLD"
     },
     {
+        "action": "LOAD",
+        "time": "12:03:00",
+        "time_int": 43380,
+        "user": "",
+        "content": "88c4"
+    },
+    {
+        "action": "GOTO",
+        "time": "12:03:00",
+        "time_int": 43380,
+        "user": "",
+        "content": 1
+    },
+    {
         "action": "TALK",
         "time": "12:03:23",
         "time_int": 43403,

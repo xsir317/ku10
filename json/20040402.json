@@ -7,6 +7,20 @@
         "content": "004003HHHIHJIH"
     },
     {
+        "action": "LOAD",
+        "time": "12:12:05",
+        "time_int": 43925,
+        "user": "",
+        "content": "88898a98"
+    },
+    {
+        "action": "GOTO",
+        "time": "12:12:05",
+        "time_int": 43925,
+        "user": "",
+        "content": 3
+    },
+    {
         "action": "MOVE",
         "time": "12:12:13",
         "time_int": 43933,

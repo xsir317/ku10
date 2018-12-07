@@ -7,6 +7,20 @@
         "content": "003003OANAOB"
     },
     {
+        "action": "LOAD",
+        "time": "13:39:11",
+        "time_int": 49151,
+        "user": "",
+        "content": "f1e1f2"
+    },
+    {
+        "action": "GOTO",
+        "time": "13:39:11",
+        "time_int": 49151,
+        "user": "",
+        "content": 3
+    },
+    {
         "action": "TALK",
         "time": "13:39:17",
         "time_int": 49157,

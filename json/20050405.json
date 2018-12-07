@@ -7,6 +7,20 @@
         "content": "001000LL"
     },
     {
+        "action": "LOAD",
+        "time": "13:31:05",
+        "time_int": 48665,
+        "user": "",
+        "content": "cc"
+    },
+    {
+        "action": "GOTO",
+        "time": "13:31:05",
+        "time_int": 48665,
+        "user": "",
+        "content": 0
+    },
+    {
         "action": "TALK",
         "time": "13:31:09",
         "time_int": 48669,

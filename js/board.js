@@ -2,11 +2,10 @@
  * @author xsir317@gmail.com
  * @license http://creativecommons.org/licenses/by-sa/3.0/deed.zh
  */
-let board = function (div)
+let board = function (div,gameinit)
 {
 	let boardobj = this;
-	this.gameinit = div.attr('game');
-	this.chars = div.attr('chars');
+	this.gameinit = (typeof gameinit == 'string') ? gameinit : div.attr('game');
 	this.currgame = '';
 	this.endgame = '';
 	this.currcolor = 'black';
@@ -25,19 +24,11 @@ let board = function (div)
 	this.next = function(){
 		if(boardobj.endgame != boardobj.currgame)
 		{
-			nextstep = boardobj.endgame.substr(boardobj.currgame.length,2);
-			nextstepcell = boardobj.Boardview.find('.'+nextstep);
+            let nextstep = boardobj.endgame.substr(boardobj.currgame.length,2);
+            let nextstepcell = boardobj.Boardview.find('.'+nextstep);
 			nextstepcell.removeClass('blank').addClass(boardobj.currcolor).html(boardobj.currstep++);
 			boardobj.currcolor = (boardobj.currcolor == 'black' ? 'white':'black');
 			boardobj.currgame += nextstep;
-			if(boardobj.currgame == boardobj.gameinit)
-			{
-				boardobj.show_char();
-			}
-			else
-			{
-				boardobj.hide_char();
-			}
 			return true;
 		}
 		else
@@ -49,20 +40,12 @@ let board = function (div)
 	this.pre = function(){
 		if(boardobj.currgame != '')
 		{
-			currstep = boardobj.currgame.substr(boardobj.currgame.length-2,2);
-			currstepcell = boardobj.Boardview.find('.'+currstep);
+			let currstep = boardobj.currgame.substr(boardobj.currgame.length-2,2);
+            let currstepcell = boardobj.Boardview.find('.'+currstep);
 			currstepcell.removeClass('black white').addClass('blank').html('');
 			boardobj.currcolor = (boardobj.currcolor == 'black' ? 'white':'black');
 			boardobj.currgame = boardobj.currgame.substr(0,boardobj.currgame.length-2);
 			boardobj.currstep --;
-			if(boardobj.currgame == boardobj.gameinit)
-			{
-				boardobj.show_char();
-			}
-			else
-			{
-				boardobj.hide_char();
-			}
 			return true;
 		}
 		else
@@ -78,26 +61,7 @@ let board = function (div)
 	this.end = function(){
 		while(boardobj.next());
 	};
-	
-	//显示备注字符
-	this.show_char = function(){
-		if(!boardobj.chars) return false;
-		for(let sub=0;sub< boardobj.chars.length;sub += 3)
-		{
-			curr = boardobj.chars.substr(sub,3);
-			point = curr.substr(0,2);
-			char = curr.substr(2,1);
-			if(boardobj.Boardview.find('.'+point).hasClass('blank'))
-			{
-				boardobj.Boardview.find('.'+point).addClass('char').html(char);
-			}
-		}
-	};
-	//隐藏备注字符
-	this.hide_char = function(){
-		if(!boardobj.chars) return false;
-		boardobj.Boardview.find(".char").removeClass('char').html('');
-	};
+
 	//根据gameinit显示整盘棋
 	this.init = function(){
 		boardobj.endgame = boardobj.gameinit;
@@ -111,13 +75,13 @@ let board = function (div)
 	for(i=15;i>0;i--)
 	{
 		//insert a row
-		newrow = $(document.createElement("div"));
+		let newrow = $(document.createElement("div"));
 		newrow.addClass('row');
 		boardobj.Boardview.append(newrow);
 		for(j=1;j<=15;j++)
 		{
 			//insert a cross point
-			newcell = $(document.createElement("div"));
+			let newcell = $(document.createElement("div"));
 			newcell.addClass(j.toString(16) + i.toString(16));
 			newcell.attr('alt',j.toString(16) + i.toString(16));
 			newcell.addClass('blank');
@@ -125,14 +89,14 @@ let board = function (div)
 		}
 	}
 	//生成控制按钮
-	controlbar = $(document.createElement("div"));
+	let controlbar = $(document.createElement("div"));
 	controlbar.addClass('controlbar');
 	boardobj.Boardview.after(controlbar);
-	nextbtn = $(document.createElement("input"));
-	pre = $(document.createElement("input"));
-	end = $(document.createElement("input"));
-	init = $(document.createElement("input"));
-	first = $(document.createElement("input"));
+	let nextbtn = $(document.createElement("input"));
+	let pre = $(document.createElement("input"));
+	let end = $(document.createElement("input"));
+	let init = $(document.createElement("input"));
+	let first = $(document.createElement("input"));
 	first   .attr('type','button').val('|<<第一手').click(boardobj.clean).appendTo(controlbar);
 	pre     .attr('type','button').val('<前一手').click(boardobj.pre).appendTo(controlbar);
 	nextbtn .attr('type','button').val('后一手>').click(boardobj.next).appendTo(controlbar);
@@ -145,7 +109,6 @@ let board = function (div)
 		{
 			return false;
 		}
-		boardobj.hide_char();
 		$(this).removeClass('blank').addClass(boardobj.currcolor).html(boardobj.currstep++);
 		boardobj.currcolor = (boardobj.currcolor == 'black' ? 'white':'black');
 		boardobj.currgame += $(this).attr('alt');

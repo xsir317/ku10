@@ -571,7 +571,6 @@
                         record_player.sysMsg("Loading......");
                         load_game($(this).attr('data-source'),function(){
                             record_player.sysMsg("开始播放" + $("title").text());
-                            record_player.sysMsg("播放棋盘不提供摆棋功能，请使用" + "<a href='/board.html' target='_blank'>摆棋棋盘</a>。");
                         });
                     });
                     $("<li></li>").append(_link).appendTo($("#lesson_list>ul"));

@@ -2,9 +2,9 @@
  * @author xsir317@gmail.com
  * @license http://creativecommons.org/licenses/by-sa/3.0/deed.zh
  */
-board = function (div)
+let board = function (div)
 {
-	var boardobj = this;
+	let boardobj = this;
 	this.gameinit = div.attr('game');
 	this.chars = div.attr('chars');
 	this.currgame = '';
@@ -82,7 +82,7 @@ board = function (div)
 	//显示备注字符
 	this.show_char = function(){
 		if(!boardobj.chars) return false;
-		for(var sub=0;sub< boardobj.chars.length;sub += 3)
+		for(let sub=0;sub< boardobj.chars.length;sub += 3)
 		{
 			curr = boardobj.chars.substr(sub,3);
 			point = curr.substr(0,2);
@@ -118,8 +118,8 @@ board = function (div)
 		{
 			//insert a cross point
 			newcell = $(document.createElement("div"));
-			newcell.addClass(i.toString(16) + j.toString(16));
-			newcell.attr('alt',i.toString(16) + j.toString(16));
+			newcell.addClass(j.toString(16) + i.toString(16));
+			newcell.attr('alt',j.toString(16) + i.toString(16));
 			newcell.addClass('blank');
 			newrow.append(newcell);
 		}
@@ -154,9 +154,4 @@ board = function (div)
 	});
 	//恢复棋盘。
 	this.init();
-}
-$(document).ready(function(){
-	$('.board_main').each(function(){
-		new board($(this));
-	});
-});
+};

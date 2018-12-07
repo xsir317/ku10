@@ -297,13 +297,6 @@
                 _obj.curr_step = 1;
                 board.html('');
 
-                board.mousedown(function(e){
-                    if(e.which == 3)
-                    {
-                        _obj.move_pre();
-                        return false;
-                    }
-                });
                 board.bind("contextmenu", function() { return false; });
                 for(let i=15;i>=1;i--)
                 {
@@ -338,11 +331,15 @@
                 controlbar.addClass('controlbar');
                 board.after(controlbar);
                 //按钮
-                $(document.createElement("button")).addClass('button').text('<')  .click(_obj.move_pre   ).appendTo(controlbar);
-                $(document.createElement("button")).addClass('button').text('>')  .click(_obj.move_next  ).appendTo(controlbar);
-                $(document.createElement("button")).addClass('button').text('|<<')  .click(_obj.board_clean).appendTo(controlbar);
-                $(document.createElement("button")).addClass('button').text('>>|').click(_obj.board_end  ).appendTo(controlbar);
-                $(document.createElement("button")).addClass('button').text("重置")    .click(_obj.show_origin).appendTo(controlbar);
+                //$(document.createElement("button")).addClass('button').text('<')  .click(_obj.move_pre   ).appendTo(controlbar);
+                //$(document.createElement("button")).addClass('button').text('>')  .click(_obj.move_next  ).appendTo(controlbar);
+                //$(document.createElement("button")).addClass('button').text('|<<')  .click(_obj.board_clean).appendTo(controlbar);
+                //$(document.createElement("button")).addClass('button').text('>>|').click(_obj.board_end  ).appendTo(controlbar);
+                //$(document.createElement("button")).addClass('button').text("重置")    .click(_obj.show_origin).appendTo(controlbar);
+                $(document.createElement("button")).addClass('button').text("分析")    .click(function(){
+                    record_player.pause();
+                    window.open('/board.html#' + _obj.currgame , 'analyze', 'height=660,width=660,fullscreen=0,location=0,menubar=0,resize=0',true);
+                }).appendTo(controlbar);
                 $(document.createElement("button")).addClass('button show').text("隐藏数字").click(function(){
                     let _btn = $(this);
                     if(_btn.hasClass("show"))
@@ -418,6 +415,7 @@
                     obj.status = 0;
                     clearTimeout(obj.timer);
                     obj.timer = 0;
+                    obj.sysMsg("播放暂停");
                 }
             };
 
@@ -589,7 +587,6 @@
             $(".btn_pause").click(function(){
                 if(record_player.status == 1)
                 {
-                    record_player.sysMsg("播放暂停");
                     record_player.pause();
                 }
             });

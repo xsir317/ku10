@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>摆棋用的棋盘</title>
+    <style>
+        body
+        {
+            font-family: "微软雅黑",Arial,Helvetica,sans-serif;
+            background-color: #EFEEF7;
+        }
+        h1,h2,h3{margin:0;}
+        p{font-size:14px;margin:0 0 5px 0;line-height:22px;}
+        ul,li,dt,dd,ol{list-style:none;padding:0;margin:0}
+        .main{width:1140px;margin:20px auto;overflow:hidden;}
+        .board_main
+        {
+            background:url('/images/board-0.png') 0 -3px no-repeat;
+            height:583px;
+            width:590px;
+            padding-top:3px;
+            user-select:none;
+            -moz-user-select: none;
+            -webkit-user-select: none;
+        }
+        .blank:hover
+        {
+            height:35px;
+            width:35px;
+            border:1px solid #fff
+        }
+        .black
+        {
+            background:url('/images/b.png') center center no-repeat;
+            color:white;
+        }
+        .white
+        {
+            background:url('/images/w.png') center center no-repeat;
+        }
+
+        .row
+        {
+            height:37px;
+            width:556px;
+            margin-left:5px;
+            overflow:hidden;
+        }
+        .row div
+        {
+            font-family:Arial;
+            height:37px;
+            width:37px;
+            float:left;
+            line-height:37px;
+            text-align:center;
+            font-weight:bold;
+            font-size:18px;
+            cursor:pointer;
+            overflow:hidden;
+        }
+        .char{
+            background:#EDD674;
+            color:#195AFF;
+        }
+        .controlbar{width: 550px;}
+        .controlbar input{margin-left:25px;}
+    </style>
+</head>
+<body>
+<div class="main">
+    <div class="board_main">loading...</div>
+</div>
+
+<script src="https://cdn.bootcss.com/jquery/1.12.1/jquery.min.js" type="text/javascript"></script>
+<script type="text/javascript">
+    if (typeof jQuery == 'undefined') {
+        document.write(unescape("%3Cscript src='http://lib.sinaapp.com/js/jquery/1.12.4/jquery-1.12.4.min.js' type='text/javascript'%3E%3C/script%3E"));
+    }
+</script>
+<script src="/js/board.js" type="text/javascript"></script>
+</body>
+</html>

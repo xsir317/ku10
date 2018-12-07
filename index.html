@@ -564,8 +564,10 @@
                 {
                     let _tmp = _data[i];
                     let _link = $(document.createElement('a'));
-                    _link.attr("href","javascript:void(0);");
-                    _link.attr("data-source",_tmp["data"]);
+                    _link.attr("title",_tmp['show_name'])
+                        .attr("data-source",_tmp["data"])
+                        .attr("href","#" + i)
+                        .html(_tmp['show_name']);
                     _link.click(function(){
                         $("title").text($(this).text() + " @ RenjuClass课程在线学习");
                         record_player.sysMsg("Loading......");
@@ -574,7 +576,6 @@
                             record_player.sysMsg("播放棋盘不提供摆棋功能，请使用" + "<a href='/board.html' target='_blank'>摆棋棋盘</a>。");
                         });
                     });
-                    _link.html(_tmp['show_name']);
                     $("<li></li>").append(_link).appendTo($("#lesson_list>ul"));
                 }
             });

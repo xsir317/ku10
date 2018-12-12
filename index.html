@@ -420,8 +420,7 @@
             };
 
             obj.renderRow = function(row){
-                console.log(row['action']);
-                console.log(row);
+                //console.log(row);
                 let function_name = 'action'+row['action'];
                 let $return = false;
                 if(typeof obj[function_name] == 'function')
@@ -430,7 +429,7 @@
                 }
                 else
                 {
-                    console.log(row);
+                    //console.log(row);
                 }
                 if($("#chat_content").find("li").length > 150)
                 {
@@ -549,7 +548,7 @@
             let load_game = function(source,callback){
                 $.getJSON("/json/" + source,{},function(_data){
                     //play data
-                    console.log(source);
+                    //console.log(source);
                     record_player.load(_data);
                     if(typeof callback == 'function')
                     {

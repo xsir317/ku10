@@ -556,6 +556,24 @@
                     }
                 });
             };
+            let auto_play = function(){
+                console.log(window.location.hash);
+                if(window.location.hash.charAt(0) == '#')
+                {
+                    console.log(window.location.hash.charAt(0));
+                    let autoplay_num = parseInt(window.location.hash.substring(1));
+                    console.log(autoplay_num);
+                    console.log($("#lesson_list>ul li").length);
+                    if(autoplay_num >= 0 && autoplay_num < $("#lesson_list>ul li").length)
+                    {
+                        $("#lesson_list>ul li a").eq(autoplay_num).click();
+                    }
+                }
+                else
+                {
+                    record_player.sysMsg("欢迎，请遵照自己的学习计划或者兴趣点击课程开始学习。新手请从 021219花月 开始学习。如果您偏好中文课程，请Ctrl+F搜索“中文”。");
+                }
+            };
             $.getJSON('/trans.json',{},function(_data){
                 for (let i in _data)
                 {
@@ -574,6 +592,7 @@
                     });
                     $("<li></li>").append(_link).appendTo($("#lesson_list>ul"));
                 }
+                auto_play();
             });
             $(".btn_play").click(function(){
                 if(record_player.status == 0)

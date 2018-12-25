@@ -19,6 +19,11 @@ let board = function (div,gameinit)
 			return false;
 		}
 	});
+	this.setCurrGame = function(curr)
+	{
+		console.log("board: " + curr);
+        this.currgame = curr;
+	};
 	boardobj.Boardview.bind("contextmenu", function() { return false; }); 
 	//根据endgame的记录，落下后面一手棋
 	this.next = function(){
@@ -28,7 +33,7 @@ let board = function (div,gameinit)
             let nextstepcell = boardobj.Boardview.find('.'+nextstep);
 			nextstepcell.removeClass('blank').addClass(boardobj.currcolor).html(boardobj.currstep++);
 			boardobj.currcolor = (boardobj.currcolor == 'black' ? 'white':'black');
-			boardobj.currgame += nextstep;
+            boardobj.setCurrGame(boardobj.currgame + nextstep);
 			return true;
 		}
 		else
@@ -44,7 +49,7 @@ let board = function (div,gameinit)
             let currstepcell = boardobj.Boardview.find('.'+currstep);
 			currstepcell.removeClass('black white').addClass('blank').html('');
 			boardobj.currcolor = (boardobj.currcolor == 'black' ? 'white':'black');
-			boardobj.currgame = boardobj.currgame.substr(0,boardobj.currgame.length-2);
+            boardobj.setCurrGame(boardobj.currgame.substr(0,boardobj.currgame.length-2));
 			boardobj.currstep --;
 			return true;
 		}
@@ -65,20 +70,20 @@ let board = function (div,gameinit)
 	//根据gameinit显示整盘棋
 	this.init = function(){
 		boardobj.endgame = boardobj.gameinit;
-		boardobj.currgame = '';
+        boardobj.setCurrGame('');
 		boardobj.currcolor = 'black';
 		boardobj.currstep = 1;
 		boardobj.Boardview.find('.row div').removeClass('black white').addClass('blank').html('');
 		boardobj.end();
 	};
 	//生成棋盘
-	for(i=15;i>0;i--)
+	for(let i=15;i>0;i--)
 	{
 		//insert a row
 		let newrow = $(document.createElement("div"));
 		newrow.addClass('row');
 		boardobj.Boardview.append(newrow);
-		for(j=1;j<=15;j++)
+		for(let j=1;j<=15;j++)
 		{
 			//insert a cross point
 			let newcell = $(document.createElement("div"));
@@ -104,6 +109,7 @@ let board = function (div,gameinit)
 	init    .attr('type','button').val('恢复').click(boardobj.init).appendTo(controlbar);
 	
 	boardobj.Boardview.find('.row div').click(function(){
+		console.log("position: " + $(this).attr('alt'));
 		//落子
 		if(!$(this).hasClass('blank'))
 		{
@@ -111,7 +117,7 @@ let board = function (div,gameinit)
 		}
 		$(this).removeClass('blank').addClass(boardobj.currcolor).html(boardobj.currstep++);
 		boardobj.currcolor = (boardobj.currcolor == 'black' ? 'white':'black');
-		boardobj.currgame += $(this).attr('alt');
+        boardobj.setCurrGame(boardobj.currgame + $(this).attr('alt'));
 		boardobj.endgame = boardobj.currgame;
 		return true;
 	});

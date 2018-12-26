@@ -22,6 +22,7 @@ let board = function (div,gameinit)
 	this.setCurrGame = function(curr)
 	{
 		console.log("board: " + curr);
+		window.location.hash = '#' + curr;
         this.currgame = curr;
 	};
 	boardobj.Boardview.bind("contextmenu", function() { return false; }); 

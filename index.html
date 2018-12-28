@@ -571,7 +571,9 @@
                 }
                 else
                 {
-                    record_player.sysMsg("欢迎，请遵照自己的学习计划或者兴趣点击课程开始学习。新手请从 021219花月 开始学习。如果您偏好中文课程，请Ctrl+F搜索“中文”。");
+                    load_game("20181229.json",function(){
+                        record_player.sysMsg("欢迎！");
+                    });
                 }
             };
             $.getJSON('/trans.json',{},function(_data){

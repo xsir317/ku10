@@ -9,6 +9,7 @@ class transformer
     {
         $split = explode("\n",$text);
         $data = [];
+        $title = '';
         $data[] = [
             'action' => 'RESET',
             'user' => 'GM',
@@ -16,9 +17,16 @@ class transformer
             'time_int' => 0
         ];
         $time = 2;
-        foreach ($split as $row)
+        foreach ($split as $num => $row)
         {
             $row = trim($row);
+            if($num == 0)
+            {
+                if($row{0} == '#')
+                {
+                    $title = substr($row,1);
+                }
+            }
             if($row == '')
             {
                 continue;
@@ -30,10 +38,13 @@ class transformer
             }
             //处理一下时间吧
             $tmp['time_int'] = $time;
-            $time += ($tmp['action'] == 'TALK' ? 4 : 2);
+            $time += ($tmp['action'] == 'TALK' ? 9 : 4);
             $data[] = $tmp;
         }
-        return $data;
+        return [
+            'data' => $data,
+            'title' => $title,
+        ];
     }
 
     /**
@@ -75,6 +86,23 @@ class transformer
     }
 }
 
-$trans_json = transformer::do_transform(file_get_contents('./intro.txt'));
+//遍历docs文件夹，处理其中的txt
+$trans = [];
+$open_folder = opendir("./docs");
+while($file = readdir($open_folder))
+{
+    if(preg_match('/(\d+)\.txt$/',$file,$match))
+    {
+        $transformed = transformer::do_transform(file_get_contents('./docs/'.$file));
+        file_put_contents("./json/".$match[1].'.json',
+            json_encode($transformed['data'],JSON_PRETTY_PRINT | JSON_UNESCAPED_UNICODE)
+        );
+        $trans[] = [
+            'show_name' => $transformed['title'],
+            'data' => $match[1].'.json',
+            'source_file_name' => $file
+        ];
+    }
+}
 
-echo json_encode($trans_json,JSON_PRETTY_PRINT | JSON_UNESCAPED_UNICODE);
+echo json_encode($trans,JSON_PRETTY_PRINT | JSON_UNESCAPED_UNICODE);

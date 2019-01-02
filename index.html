@@ -43,6 +43,7 @@
         .white
         {
             background:url('/images/w.png') center center no-repeat;
+            /*background:url('/images/ishi.png') center center no-repeat;*/
         }
 
         .row
@@ -207,6 +208,14 @@
                     return false;
                 }
                 target_cell.removeClass('blank').addClass(_obj.curr_color).html(_obj.curr_step ++);
+                /*try rand stone*/
+                //if(_obj.curr_color == 'white')
+                //{
+                //    target_cell.css({
+                //        "background-position" : "0px " + (-37 * Math.floor(Math.random() * 3 )).toString() + "px",
+                //        "transform" : "rotate(" + Math.round(Math.random() * 360 ).toString() + "deg)"
+                //    });
+                //}
                 _obj.curr_color = (_obj.curr_color == 'black' ? 'white':'black');
                 _obj.currgame += coordinate;
                 if(_obj.currgame != _obj.endgame.substr(0,_obj.currgame.length))
@@ -331,11 +340,6 @@
                 controlbar.addClass('controlbar');
                 board.after(controlbar);
                 //按钮
-                //$(document.createElement("button")).addClass('button').text('<')  .click(_obj.move_pre   ).appendTo(controlbar);
-                //$(document.createElement("button")).addClass('button').text('>')  .click(_obj.move_next  ).appendTo(controlbar);
-                //$(document.createElement("button")).addClass('button').text('|<<')  .click(_obj.board_clean).appendTo(controlbar);
-                //$(document.createElement("button")).addClass('button').text('>>|').click(_obj.board_end  ).appendTo(controlbar);
-                //$(document.createElement("button")).addClass('button').text("重置")    .click(_obj.show_origin).appendTo(controlbar);
                 $(document.createElement("button")).addClass('button').text("分析")    .click(function(){
                     record_player.pause();
                     window.open('/board.html#' + _obj.currgame , 'analyze', 'height=660,width=660,fullscreen=0,location=0,menubar=0,resize=0',true);

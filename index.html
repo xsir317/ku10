@@ -374,6 +374,7 @@
                 obj.status = 0;
                 board.load('');
                 $("#chat_content").empty();
+                $("#progress>div").css("width", '0%');
                 obj.play();
             };
             obj.play = function(){
@@ -548,7 +549,6 @@
         record_player = new recordPlayer();
         $(document).ready(function(){
             board.init_board();
-            board.load('8889869a96997978ab97');
             let load_game = function(source,callback){
                 $.getJSON("/json/" + source,{},function(_data){
                     //play data

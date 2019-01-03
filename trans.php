@@ -38,7 +38,7 @@ class transformer
             }
             //处理一下时间吧
             $tmp['time_int'] = $time;
-            $time += ($tmp['action'] == 'TALK' ? 9 : 4);
+            $time += ($tmp['action'] == 'TALK' ? 5 : 3);
             $data[] = $tmp;
         }
         return [
@@ -72,7 +72,7 @@ class transformer
         {
             $return['action'] = 'BACK';
         }
-        elseif(strlen($row) == 2)
+        elseif(preg_match('/^[0-9a-f]{2}$/',$row))
         {
             $return['action'] = 'MOVE';
             $return['content'] = $row;

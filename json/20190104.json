@@ -56,37 +56,37 @@
     {
         "action": "TALK",
         "user": "GM",
-        "content": "5",
+        "content": "下面公布答案，愿意继续思考的<span style='font-weight:bold;color:#F00;'>请按暂停播放按钮！<\/span>",
         "time_int": 40
     },
     {
         "action": "TALK",
         "user": "GM",
-        "content": "4",
+        "content": "5",
         "time_int": 45
     },
     {
         "action": "TALK",
         "user": "GM",
-        "content": "3",
+        "content": "4",
         "time_int": 50
     },
     {
         "action": "TALK",
         "user": "GM",
-        "content": "2",
+        "content": "3",
         "time_int": 55
     },
     {
         "action": "TALK",
         "user": "GM",
-        "content": "1",
+        "content": "2",
         "time_int": 60
     },
     {
         "action": "TALK",
         "user": "GM",
-        "content": "下面公布答案，愿意继续思考的<span style='font-weight:bold;color:#F00;'>请按暂停播放按钮！<\/span>",
+        "content": "1",
         "time_int": 65
     },
     {
@@ -164,572 +164,548 @@
     {
         "action": "TALK",
         "user": "GM",
-        "content": "答案：",
+        "content": "5",
         "time_int": 118
+    },
+    {
+        "action": "TALK",
+        "user": "GM",
+        "content": "4",
+        "time_int": 123
+    },
+    {
+        "action": "TALK",
+        "user": "GM",
+        "content": "3",
+        "time_int": 128
+    },
+    {
+        "action": "TALK",
+        "user": "GM",
+        "content": "2",
+        "time_int": 133
+    },
+    {
+        "action": "TALK",
+        "user": "GM",
+        "content": "1",
+        "time_int": 138
+    },
+    {
+        "action": "TALK",
+        "user": "GM",
+        "content": "答案：",
+        "time_int": 143
     },
     {
         "action": "MOVE",
         "user": "GM",
         "content": "69",
-        "time_int": 123
+        "time_int": 148
     },
     {
         "action": "MOVE",
         "user": "GM",
         "content": "99",
-        "time_int": 126
+        "time_int": 151
     },
     {
         "action": "MOVE",
         "user": "GM",
         "content": "9a",
-        "time_int": 129
+        "time_int": 154
     },
     {
         "action": "MOVE",
         "user": "GM",
         "content": "67",
-        "time_int": 132
+        "time_int": 157
     },
     {
         "action": "MOVE",
         "user": "GM",
         "content": "59",
-        "time_int": 135
+        "time_int": 160
     },
     {
         "action": "MOVE",
         "user": "GM",
         "content": "49",
-        "time_int": 138
+        "time_int": 163
     },
     {
         "action": "MOVE",
         "user": "GM",
         "content": "77",
-        "time_int": 141
+        "time_int": 166
+    },
+    {
+        "action": "TALK",
+        "user": "GM",
+        "content": "这样，黑方无法逃脱这个三三禁手，白方获胜。",
+        "time_int": 169
     },
     {
         "action": "TALK",
         "user": "GM",
         "content": "白方控制住先手，找到黑方的弱点即可获胜。",
-        "time_int": 144
+        "time_int": 174
     },
     {
         "action": "TALK",
         "user": "GM",
         "content": "黑方在无法控制先手时，太多的活二反而成为了自己的弱点。",
-        "time_int": 149
+        "time_int": 179
     },
     {
         "action": "TALK",
         "user": "GM",
         "content": "第三题：黑先如何胜（禁手相关）",
-        "time_int": 154
+        "time_int": 184
     },
     {
         "action": "TALK",
         "user": "GM",
         "content": "本题来自坂田吾朗先生的《三手胜五子棋题解》，高级题。",
-        "time_int": 159
+        "time_int": 189
     },
     {
         "action": "LOAD",
         "user": "GM",
         "content": "88998797a998967786856776797a",
-        "time_int": 164
+        "time_int": 194
     },
     {
         "action": "TALK",
         "user": "GM",
         "content": "可以点击“分析”按钮进行分析。",
-        "time_int": 167
-    },
-    {
-        "action": "TALK",
-        "user": "GM",
-        "content": "5",
-        "time_int": 172
-    },
-    {
-        "action": "TALK",
-        "user": "GM",
-        "content": "4",
-        "time_int": 177
-    },
-    {
-        "action": "TALK",
-        "user": "GM",
-        "content": "3",
-        "time_int": 182
-    },
-    {
-        "action": "TALK",
-        "user": "GM",
-        "content": "2",
-        "time_int": 187
-    },
-    {
-        "action": "TALK",
-        "user": "GM",
-        "content": "1",
-        "time_int": 192
-    },
-    {
-        "action": "TALK",
-        "user": "GM",
-        "content": "下面公布答案，愿意继续思考的<span style='font-weight:bold;color:#F00;'>请按暂停播放按钮！<\/span>",
         "time_int": 197
     },
     {
         "action": "TALK",
         "user": "GM",
-        "content": "答案：",
+        "content": "下面公布答案，愿意继续思考的<span style='font-weight:bold;color:#F00;'>请按暂停播放按钮！<\/span>",
         "time_int": 202
-    },
-    {
-        "action": "MOVE",
-        "user": "GM",
-        "content": "78",
-        "time_int": 207
-    },
-    {
-        "action": "MOVE",
-        "user": "GM",
-        "content": "9b",
-        "time_int": 210
-    },
-    {
-        "action": "MOVE",
-        "user": "GM",
-        "content": "9a",
-        "time_int": 213
-    },
-    {
-        "action": "MOVE",
-        "user": "GM",
-        "content": "69",
-        "time_int": 216
-    },
-    {
-        "action": "MOVE",
-        "user": "GM",
-        "content": "8b",
-        "time_int": 219
-    },
-    {
-        "action": "MOVE",
-        "user": "GM",
-        "content": "7c",
-        "time_int": 222
-    },
-    {
-        "action": "MOVE",
-        "user": "GM",
-        "content": "89",
-        "time_int": 225
-    },
-    {
-        "action": "TALK",
-        "user": "GM",
-        "content": "19之后，原先四四禁手的点，又可以落子了！",
-        "time_int": 228
-    },
-    {
-        "action": "TALK",
-        "user": "GM",
-        "content": "用长连解掉四四禁手，是一个不太常见的手段。",
-        "time_int": 233
-    },
-    {
-        "action": "TALK",
-        "user": "GM",
-        "content": "第四题： 黑先如何胜",
-        "time_int": 238
-    },
-    {
-        "action": "LOAD",
-        "user": "GM",
-        "content": "889976897997",
-        "time_int": 243
-    },
-    {
-        "action": "TALK",
-        "user": "GM",
-        "content": "这是一个黑方连续进攻的题目，不是很难，请花时间找出双方最强的走法。",
-        "time_int": 246
-    },
-    {
-        "action": "TALK",
-        "user": "GM",
-        "content": "如果能目算出来就最好了。",
-        "time_int": 251
-    },
-    {
-        "action": "TALK",
-        "user": "GM",
-        "content": "可以点击“分析”按钮进行分析。",
-        "time_int": 256
     },
     {
         "action": "TALK",
         "user": "GM",
         "content": "5",
-        "time_int": 261
+        "time_int": 207
     },
     {
         "action": "TALK",
         "user": "GM",
         "content": "4",
-        "time_int": 266
+        "time_int": 212
     },
     {
         "action": "TALK",
         "user": "GM",
         "content": "3",
-        "time_int": 271
+        "time_int": 217
     },
     {
         "action": "TALK",
         "user": "GM",
         "content": "2",
-        "time_int": 276
+        "time_int": 222
     },
     {
         "action": "TALK",
         "user": "GM",
         "content": "1",
-        "time_int": 281
+        "time_int": 227
     },
     {
         "action": "TALK",
         "user": "GM",
         "content": "答案：",
-        "time_int": 286
+        "time_int": 232
     },
     {
         "action": "MOVE",
         "user": "GM",
         "content": "78",
-        "time_int": 291
+        "time_int": 237
     },
     {
         "action": "MOVE",
         "user": "GM",
-        "content": "77",
-        "time_int": 294
+        "content": "9b",
+        "time_int": 240
     },
     {
         "action": "MOVE",
         "user": "GM",
-        "content": "98",
-        "time_int": 297
+        "content": "9a",
+        "time_int": 243
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "69",
+        "time_int": 246
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "8b",
+        "time_int": 249
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "7c",
+        "time_int": 252
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "89",
+        "time_int": 255
     },
     {
         "action": "TALK",
         "user": "GM",
-        "content": "此时白方有2个防点，先看右边",
-        "time_int": 300
+        "content": "19之后，原先四四禁手的点，又可以落子了！",
+        "time_int": 258
     },
     {
-        "action": "MOVE",
+        "action": "TALK",
         "user": "GM",
-        "content": "a8",
-        "time_int": 305
+        "content": "用长连解掉四四禁手，是一个不太常见的手段。",
+        "time_int": 263
     },
     {
-        "action": "MOVE",
+        "action": "TALK",
         "user": "GM",
-        "content": "87",
-        "time_int": 308
+        "content": "第四题： 黑先如何胜",
+        "time_int": 268
     },
     {
-        "action": "MOVE",
+        "action": "LOAD",
         "user": "GM",
-        "content": "65",
+        "content": "889976897997",
+        "time_int": 273
+    },
+    {
+        "action": "TALK",
+        "user": "GM",
+        "content": "这是一个黑方连续进攻的题目，不是很难，请花时间找出双方最强的走法。",
+        "time_int": 276
+    },
+    {
+        "action": "TALK",
+        "user": "GM",
+        "content": "如果能目算出来就最好了。",
+        "time_int": 281
+    },
+    {
+        "action": "TALK",
+        "user": "GM",
+        "content": "可以点击“分析”按钮进行分析。",
+        "time_int": 286
+    },
+    {
+        "action": "TALK",
+        "user": "GM",
+        "content": "下面公布答案，愿意继续思考的<span style='font-weight:bold;color:#F00;'>请按暂停播放按钮！<\/span>",
+        "time_int": 291
+    },
+    {
+        "action": "TALK",
+        "user": "GM",
+        "content": "5",
+        "time_int": 296
+    },
+    {
+        "action": "TALK",
+        "user": "GM",
+        "content": "4",
+        "time_int": 301
+    },
+    {
+        "action": "TALK",
+        "user": "GM",
+        "content": "3",
+        "time_int": 306
+    },
+    {
+        "action": "TALK",
+        "user": "GM",
+        "content": "2",
         "time_int": 311
     },
     {
         "action": "TALK",
         "user": "GM",
-        "content": "白方12如果不反击，那么",
-        "time_int": 314
-    },
-    {
-        "action": "MOVE",
-        "user": "GM",
-        "content": "96",
-        "time_int": 319
-    },
-    {
-        "action": "MOVE",
-        "user": "GM",
-        "content": "a5",
-        "time_int": 322
-    },
-    {
-        "action": "MOVE",
-        "user": "GM",
-        "content": "85",
-        "time_int": 325
+        "content": "1",
+        "time_int": 316
     },
     {
         "action": "TALK",
         "user": "GM",
-        "content": "直接就挂了，",
-        "time_int": 328
-    },
-    {
-        "action": "TALK",
-        "user": "GM",
-        "content": "所以12必须反击",
-        "time_int": 333
-    },
-    {
-        "action": "BACK",
-        "user": "GM",
-        "content": "",
-        "time_int": 338
-    },
-    {
-        "action": "BACK",
-        "user": "GM",
-        "content": "",
-        "time_int": 341
-    },
-    {
-        "action": "BACK",
-        "user": "GM",
-        "content": "",
-        "time_int": 344
-    },
-    {
-        "action": "BACK",
-        "user": "GM",
-        "content": "",
-        "time_int": 347
+        "content": "答案：",
+        "time_int": 321
     },
     {
         "action": "MOVE",
         "user": "GM",
-        "content": "a9",
-        "time_int": 350
-    },
-    {
-        "action": "TALK",
-        "user": "GM",
-        "content": "白方反击，",
-        "time_int": 353
+        "content": "78",
+        "time_int": 326
     },
     {
         "action": "MOVE",
         "user": "GM",
-        "content": "86",
-        "time_int": 358
-    },
-    {
-        "action": "TALK",
-        "user": "GM",
-        "content": "黑方直接反先，白方已经没有其他手段了，黑胜。",
-        "time_int": 361
-    },
-    {
-        "action": "TALK",
-        "user": "GM",
-        "content": "所以10只能防在左边。",
-        "time_int": 366
-    },
-    {
-        "action": "BACK",
-        "user": "GM",
-        "content": "",
-        "time_int": 371
-    },
-    {
-        "action": "BACK",
-        "user": "GM",
-        "content": "",
-        "time_int": 374
-    },
-    {
-        "action": "BACK",
-        "user": "GM",
-        "content": "",
-        "time_int": 377
-    },
-    {
-        "action": "BACK",
-        "user": "GM",
-        "content": "",
-        "time_int": 380
+        "content": "77",
+        "time_int": 329
     },
     {
         "action": "MOVE",
         "user": "GM",
-        "content": "68",
-        "time_int": 383
+        "content": "98",
+        "time_int": 332
+    },
+    {
+        "action": "TALK",
+        "user": "GM",
+        "content": "此时白方有2个防点，先看右边",
+        "time_int": 335
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "a8",
+        "time_int": 340
     },
     {
         "action": "MOVE",
         "user": "GM",
         "content": "87",
-        "time_int": 386
+        "time_int": 343
     },
     {
         "action": "MOVE",
         "user": "GM",
         "content": "65",
-        "time_int": 389
+        "time_int": 346
     },
     {
         "action": "TALK",
         "user": "GM",
-        "content": "如果白12不反击，那么",
-        "time_int": 392
+        "content": "白方12如果不反击，那么",
+        "time_int": 349
     },
     {
         "action": "MOVE",
         "user": "GM",
         "content": "96",
-        "time_int": 397
+        "time_int": 354
     },
     {
         "action": "MOVE",
         "user": "GM",
         "content": "a5",
-        "time_int": 400
+        "time_int": 357
     },
     {
         "action": "MOVE",
         "user": "GM",
         "content": "85",
-        "time_int": 403
+        "time_int": 360
     },
     {
         "action": "TALK",
         "user": "GM",
-        "content": "黑胜。 所以白12必须试图反击。",
+        "content": "直接就挂了，",
+        "time_int": 363
+    },
+    {
+        "action": "TALK",
+        "user": "GM",
+        "content": "所以12必须反击",
+        "time_int": 368
+    },
+    {
+        "action": "BACK",
+        "user": "GM",
+        "content": "",
+        "time_int": 373
+    },
+    {
+        "action": "BACK",
+        "user": "GM",
+        "content": "",
+        "time_int": 376
+    },
+    {
+        "action": "BACK",
+        "user": "GM",
+        "content": "",
+        "time_int": 379
+    },
+    {
+        "action": "BACK",
+        "user": "GM",
+        "content": "",
+        "time_int": 382
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "a9",
+        "time_int": 385
+    },
+    {
+        "action": "TALK",
+        "user": "GM",
+        "content": "白方反击，",
+        "time_int": 388
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "86",
+        "time_int": 393
+    },
+    {
+        "action": "TALK",
+        "user": "GM",
+        "content": "黑方直接反先，白方已经没有其他手段了，黑胜。",
+        "time_int": 396
+    },
+    {
+        "action": "TALK",
+        "user": "GM",
+        "content": "所以10只能防在左边。",
+        "time_int": 401
+    },
+    {
+        "action": "BACK",
+        "user": "GM",
+        "content": "",
         "time_int": 406
     },
     {
         "action": "BACK",
         "user": "GM",
         "content": "",
-        "time_int": 411
+        "time_int": 409
     },
     {
         "action": "BACK",
         "user": "GM",
         "content": "",
-        "time_int": 414
+        "time_int": 412
     },
     {
         "action": "BACK",
         "user": "GM",
         "content": "",
-        "time_int": 417
-    },
-    {
-        "action": "BACK",
-        "user": "GM",
-        "content": "",
-        "time_int": 420
+        "time_int": 415
     },
     {
         "action": "MOVE",
         "user": "GM",
-        "content": "a9",
-        "time_int": 423
+        "content": "68",
+        "time_int": 418
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "87",
+        "time_int": 421
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "65",
+        "time_int": 424
+    },
+    {
+        "action": "TALK",
+        "user": "GM",
+        "content": "如果白12不反击，那么",
+        "time_int": 427
     },
     {
         "action": "MOVE",
         "user": "GM",
         "content": "96",
-        "time_int": 426
+        "time_int": 432
     },
     {
         "action": "MOVE",
         "user": "GM",
         "content": "a5",
-        "time_int": 429
-    },
-    {
-        "action": "MOVE",
-        "user": "GM",
-        "content": "86",
-        "time_int": 432
-    },
-    {
-        "action": "TALK",
-        "user": "GM",
-        "content": "可以看到无论怎么防，黑都可以",
         "time_int": 435
     },
     {
         "action": "MOVE",
         "user": "GM",
-        "content": "a6",
-        "time_int": 440
-    },
-    {
-        "action": "MOVE",
-        "user": "GM",
         "content": "85",
-        "time_int": 443
-    },
-    {
-        "action": "MOVE",
-        "user": "GM",
-        "content": "84",
-        "time_int": 446
-    },
-    {
-        "action": "MOVE",
-        "user": "GM",
-        "content": "b8",
-        "time_int": 449
+        "time_int": 438
     },
     {
         "action": "TALK",
         "user": "GM",
-        "content": "唯一的手段是",
+        "content": "黑胜。 所以白12必须试图反击。",
+        "time_int": 441
+    },
+    {
+        "action": "BACK",
+        "user": "GM",
+        "content": "",
+        "time_int": 446
+    },
+    {
+        "action": "BACK",
+        "user": "GM",
+        "content": "",
+        "time_int": 449
+    },
+    {
+        "action": "BACK",
+        "user": "GM",
+        "content": "",
         "time_int": 452
     },
     {
         "action": "BACK",
         "user": "GM",
         "content": "",
-        "time_int": 457
-    },
-    {
-        "action": "BACK",
-        "user": "GM",
-        "content": "",
-        "time_int": 460
-    },
-    {
-        "action": "BACK",
-        "user": "GM",
-        "content": "",
-        "time_int": 463
-    },
-    {
-        "action": "BACK",
-        "user": "GM",
-        "content": "",
-        "time_int": 466
+        "time_int": 455
     },
     {
         "action": "MOVE",
         "user": "GM",
-        "content": "c9",
-        "time_int": 469
+        "content": "a9",
+        "time_int": 458
     },
     {
         "action": "MOVE",
         "user": "GM",
-        "content": "b9",
-        "time_int": 472
+        "content": "96",
+        "time_int": 461
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "a5",
+        "time_int": 464
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "86",
+        "time_int": 467
+    },
+    {
+        "action": "TALK",
+        "user": "GM",
+        "content": "可以看到无论怎么防，黑都可以",
+        "time_int": 470
     },
     {
         "action": "MOVE",
@@ -738,147 +714,213 @@
         "time_int": 475
     },
     {
-        "action": "TALK",
+        "action": "MOVE",
         "user": "GM",
-        "content": "然后",
+        "content": "85",
         "time_int": 478
     },
     {
         "action": "MOVE",
         "user": "GM",
-        "content": "a8",
-        "time_int": 483
+        "content": "84",
+        "time_int": 481
     },
     {
         "action": "MOVE",
         "user": "GM",
         "content": "b8",
-        "time_int": 486
-    },
-    {
-        "action": "MOVE",
-        "user": "GM",
-        "content": "74",
-        "time_int": 489
+        "time_int": 484
     },
     {
         "action": "TALK",
         "user": "GM",
-        "content": "这样，最终黑方获胜。",
+        "content": "唯一的手段是",
+        "time_int": 487
+    },
+    {
+        "action": "BACK",
+        "user": "GM",
+        "content": "",
         "time_int": 492
     },
     {
-        "action": "TALK",
+        "action": "BACK",
         "user": "GM",
-        "content": "注意这里19是必须的。",
-        "time_int": 497
-    },
-    {
-        "action": "TALK",
-        "user": "GM",
-        "content": "如果",
-        "time_int": 502
+        "content": "",
+        "time_int": 495
     },
     {
         "action": "BACK",
         "user": "GM",
         "content": "",
+        "time_int": 498
+    },
+    {
+        "action": "BACK",
+        "user": "GM",
+        "content": "",
+        "time_int": 501
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "c9",
+        "time_int": 504
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "b9",
         "time_int": 507
-    },
-    {
-        "action": "BACK",
-        "user": "GM",
-        "content": "",
-        "time_int": 510
-    },
-    {
-        "action": "BACK",
-        "user": "GM",
-        "content": "",
-        "time_int": 513
-    },
-    {
-        "action": "BACK",
-        "user": "GM",
-        "content": "",
-        "time_int": 516
-    },
-    {
-        "action": "MOVE",
-        "user": "GM",
-        "content": "66",
-        "time_int": 519
-    },
-    {
-        "action": "TALK",
-        "user": "GM",
-        "content": "白18反挡，则注意要冲掉19来防止白方的反四。",
-        "time_int": 522
-    },
-    {
-        "action": "MOVE",
-        "user": "GM",
-        "content": "85",
-        "time_int": 527
-    },
-    {
-        "action": "MOVE",
-        "user": "GM",
-        "content": "84",
-        "time_int": 530
-    },
-    {
-        "action": "MOVE",
-        "user": "GM",
-        "content": "b8",
-        "time_int": 533
-    },
-    {
-        "action": "MOVE",
-        "user": "GM",
-        "content": "a8",
-        "time_int": 536
-    },
-    {
-        "action": "MOVE",
-        "user": "GM",
-        "content": "b6",
-        "time_int": 539
     },
     {
         "action": "MOVE",
         "user": "GM",
         "content": "a6",
-        "time_int": 542
+        "time_int": 510
+    },
+    {
+        "action": "TALK",
+        "user": "GM",
+        "content": "然后",
+        "time_int": 513
     },
     {
         "action": "MOVE",
         "user": "GM",
-        "content": "a7",
-        "time_int": 545
+        "content": "a8",
+        "time_int": 518
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "b8",
+        "time_int": 521
     },
     {
         "action": "MOVE",
         "user": "GM",
         "content": "74",
-        "time_int": 548
-    },
-    {
-        "action": "MOVE",
-        "user": "GM",
-        "content": "b7",
-        "time_int": 551
+        "time_int": 524
     },
     {
         "action": "TALK",
         "user": "GM",
-        "content": "这是一个偏向实战的题目，黑方发现机会之后要算清楚对方的防御手段。",
+        "content": "这样，最终黑方获胜。",
+        "time_int": 527
+    },
+    {
+        "action": "TALK",
+        "user": "GM",
+        "content": "注意这里19是必须的。",
+        "time_int": 532
+    },
+    {
+        "action": "TALK",
+        "user": "GM",
+        "content": "如果",
+        "time_int": 537
+    },
+    {
+        "action": "BACK",
+        "user": "GM",
+        "content": "",
+        "time_int": 542
+    },
+    {
+        "action": "BACK",
+        "user": "GM",
+        "content": "",
+        "time_int": 545
+    },
+    {
+        "action": "BACK",
+        "user": "GM",
+        "content": "",
+        "time_int": 548
+    },
+    {
+        "action": "BACK",
+        "user": "GM",
+        "content": "",
+        "time_int": 551
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "66",
         "time_int": 554
     },
     {
         "action": "TALK",
         "user": "GM",
+        "content": "白18反挡，则注意要冲掉19来防止白方的反四。",
+        "time_int": 557
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "85",
+        "time_int": 562
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "84",
+        "time_int": 565
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "b8",
+        "time_int": 568
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "a8",
+        "time_int": 571
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "b6",
+        "time_int": 574
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "a6",
+        "time_int": 577
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "a7",
+        "time_int": 580
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "74",
+        "time_int": 583
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "b7",
+        "time_int": 586
+    },
+    {
+        "action": "TALK",
+        "user": "GM",
+        "content": "这是一个偏向实战的题目，黑方发现机会之后要算清楚对方的防御手段。",
+        "time_int": 589
+    },
+    {
+        "action": "TALK",
+        "user": "GM",
         "content": "每一个分支变化都不难，但是需要严谨，顺序也不能出错。",
-        "time_int": 559
+        "time_int": 594
     }
 ]

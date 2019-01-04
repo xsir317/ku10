@@ -31,12 +31,6 @@
             -moz-user-select: none;
             -webkit-user-select: none;
         }
-        .blank:hover
-        {
-            height:35px;
-            width:35px;
-            border:1px solid #fff
-        }
         .black
         {
             background:url('/images/b.png') center center no-repeat;
@@ -44,8 +38,8 @@
         }
         .white
         {
-            background:url('/images/w.png') center center no-repeat;
-            /*background:url('/images/ishi.png') center center no-repeat;*/
+            /*background:url('/images/w.png') center center no-repeat;*/
+            background:url('/images/w_combine.png') center center no-repeat;
         }
 
         .row
@@ -211,13 +205,12 @@
                 }
                 target_cell.removeClass('blank').addClass(_obj.curr_color).html(_obj.curr_step ++);
                 /*try rand stone*/
-                //if(_obj.curr_color == 'white')
-                //{
-                //    target_cell.css({
-                //        "background-position" : "0px " + (-37 * Math.floor(Math.random() * 3 )).toString() + "px",
-                //        "transform" : "rotate(" + Math.round(Math.random() * 360 ).toString() + "deg)"
-                //    });
-                //}
+                if(_obj.curr_color == 'white')
+                {
+                   target_cell.css({
+                       "background-position" : "0px " + (-37 * Math.floor(Math.random() * 9 )).toString() + "px"
+                   });
+                }
                 _obj.curr_color = (_obj.curr_color == 'black' ? 'white':'black');
                 _obj.currgame += coordinate;
                 if(_obj.currgame != _obj.endgame.substr(0,_obj.currgame.length))
@@ -249,7 +242,7 @@
                     let last_move = _obj.currgame.substr(_obj.currgame.length-2,2);
                     //这个棋子拿起来。。。
                     let target_cell = board.find('.'+last_move);
-                    target_cell.removeClass('black white').addClass('blank').html('');
+                    target_cell.removeClass('black white').addClass('blank').removeAttr('style').html('');
                     _obj.curr_step --;
                     _obj.curr_color = (_obj.curr_color == 'black' ? 'white':'black');
                     _obj.currgame = _obj.currgame.substr(0,_obj.currgame.length-2);

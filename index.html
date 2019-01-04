@@ -575,7 +575,7 @@
                     });
                 }
             };
-            $.getJSON('/trans.json',{},function(_data){
+            $.getJSON('/trans.json?d=20190104',{},function(_data){
                 for (let i in _data)
                 {
                     let _tmp = _data[i];

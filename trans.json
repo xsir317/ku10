@@ -2075,13 +2075,21 @@
         "source_file_name": "20060610.orc"
     },
     {
-        "show_name": "初级习题",
-        "data": "20190104.json",
-        "source_file_name": "20190104.txt"
-    },
-    {
         "show_name": "本站简介",
         "data": "20181229.json",
-        "source_file_name": "20181229.txt"
+        "source_file_name": "20181229.txt",
+        "origin": true
+    },
+    {
+        "show_name": "初级习题",
+        "data": "20190104.json",
+        "source_file_name": "20190104.txt",
+        "origin": true
+    },
+    {
+        "show_name": "基础课：先手必胜(1)",
+        "data": "20190202.json",
+        "source_file_name": "20190202.txt",
+        "origin": true
     }
 ]

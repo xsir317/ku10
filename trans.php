@@ -100,7 +100,8 @@ while($file = readdir($open_folder))
         $trans[] = [
             'show_name' => $transformed['title'],
             'data' => $match[1].'.json',
-            'source_file_name' => $file
+            'source_file_name' => $file,
+            'origin' => true
         ];
     }
 }

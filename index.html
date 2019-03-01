@@ -565,17 +565,17 @@
                     console.log($("#lesson_list>ul li").length);
                     if(autoplay_num >= 0 && autoplay_num < $("#lesson_list>ul li").length)
                     {
-                        $("#lesson_list>ul li a").eq(autoplay_num).click();
+                        $("#lesson_list>ul").find('#play_link_' + autoplay_num).click();
                     }
                 }
                 else
                 {
                     load_game("20181229.json",function(){
-                        record_player.sysMsg("欢迎！");
+                        //record_player.sysMsg("欢迎！");
                     });
                 }
             };
-            $.getJSON('/trans.json?d=20190104',{},function(_data){
+            $.getJSON('/trans.json?d=20190301',{},function(_data){
                 for (let i in _data)
                 {
                     let _tmp = _data[i];
@@ -583,6 +583,7 @@
                     _link.attr("title",_tmp['show_name'])
                         .attr("data-source",_tmp["data"])
                         .attr("href","#" + i)
+                        .attr("id",'play_link_' + i)
                         .html(_tmp['show_name']);
                     _link.click(function(){
                         $("title").text($(this).text() + " @ RenjuClass课程在线学习");
@@ -591,7 +592,15 @@
                             record_player.sysMsg("开始播放" + $("title").text());
                         });
                     });
-                    $("<li></li>").append(_link).appendTo($("#lesson_list>ul"));
+                    if (typeof _tmp['origin'] == 'boolean' && _tmp['origin'])
+                    {
+                        $("<li></li>").append(_link).prependTo($("#lesson_list>ul"));
+                    }
+                    else
+                    {
+                        $("<li></li>").append(_link).appendTo($("#lesson_list>ul"));
+                    }
+                    
                 }
                 auto_play();
             });

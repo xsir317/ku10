@@ -1546,5 +1546,923 @@
         "user": "GM",
         "content": "这里白棋要么直接挡掉H7，要么走在 i8 威胁H7的禁手。",
         "time_int": 808
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "98",
+        "time_int": 813
+    },
+    {
+        "action": "TALK",
+        "user": "GM",
+        "content": "先看这个",
+        "time_int": 816
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "86",
+        "time_int": 821
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "87",
+        "time_int": 824
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "76",
+        "time_int": 827
+    },
+    {
+        "action": "TALK",
+        "user": "GM",
+        "content": "黑方这样之后，有2个活二，并且有比较宽广的空间，后面白棋只能跟防。",
+        "time_int": 830
+    },
+    {
+        "action": "TALK",
+        "user": "GM",
+        "content": "这里说个题外话：手割",
+        "time_int": 835
+    },
+    {
+        "action": "TALK",
+        "user": "GM",
+        "content": "手割的理论起源于围棋，由道策提出。是分析着法优劣的重要思维方式。",
+        "time_int": 840
+    },
+    {
+        "action": "BACK",
+        "user": "GM",
+        "content": "",
+        "time_int": 845
+    },
+    {
+        "action": "BACK",
+        "user": "GM",
+        "content": "",
+        "time_int": 846
+    },
+    {
+        "action": "BACK",
+        "user": "GM",
+        "content": "",
+        "time_int": 847
+    },
+    {
+        "action": "TALK",
+        "user": "GM",
+        "content": "在这个局面，有棋手提出可以不走跳三，直接走这里：",
+        "time_int": 848
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "76",
+        "time_int": 853
+    },
+    {
+        "action": "TALK",
+        "user": "GM",
+        "content": "此时白棋依然要面对黑方两个活二，白方的最强防守依然是走在H7；",
+        "time_int": 856
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "87",
+        "time_int": 861
+    },
+    {
+        "action": "TALK",
+        "user": "GM",
+        "content": "那么这时候，如果黑方走在刚刚的跳三点，那么整个棋局形状就还原了：",
+        "time_int": 864
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "86",
+        "time_int": 869
+    },
+    {
+        "action": "TALK",
+        "user": "GM",
+        "content": "当然这时候如果黑发现有更好的走法，他就可以走更好的走法； 如果没有更好的走法，他至少可以走到和跳三一样的局面。",
+        "time_int": 872
+    },
+    {
+        "action": "TALK",
+        "user": "GM",
+        "content": "由此可知，这个9的走法至少和跳三一样好，可能比跳三更好。",
+        "time_int": 877
+    },
+    {
+        "action": "TALK",
+        "user": "GM",
+        "content": "这种通过棋子顺序和价值对比，进行局面分析的方式，叫做“手割”。",
+        "time_int": 882
+    },
+    {
+        "action": "TALK",
+        "user": "GM",
+        "content": "这里跳三是必胜的，也比较简单，我们就不纠结“更好的走法”了。毕竟黑必胜这个结论已经足够好了。",
+        "time_int": 887
+    },
+    {
+        "action": "TALK",
+        "user": "GM",
+        "content": "题外话结束，我们继续往下看",
+        "time_int": 892
+    },
+    {
+        "action": "TALK",
+        "user": "GM",
+        "content": "白棋显然暂时无法反击，只能跟防。",
+        "time_int": 897
+    },
+    {
+        "action": "TALK",
+        "user": "GM",
+        "content": "如果防在F6这种点，显然是不行的：",
+        "time_int": 902
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "66",
+        "time_int": 907
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "a6",
+        "time_int": 910
+    },
+    {
+        "action": "TALK",
+        "user": "GM",
+        "content": "黑方继续做棋，局面比刚才还要差，白方无法防守。",
+        "time_int": 913
+    },
+    {
+        "action": "BACK",
+        "user": "GM",
+        "content": "",
+        "time_int": 918
+    },
+    {
+        "action": "BACK",
+        "user": "GM",
+        "content": "",
+        "time_int": 919
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "96",
+        "time_int": 920
+    },
+    {
+        "action": "TALK",
+        "user": "GM",
+        "content": "这个走法比刚才积极一些。",
+        "time_int": 923
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "75",
+        "time_int": 928
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "64",
+        "time_int": 931
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "a5",
+        "time_int": 934
+    },
+    {
+        "action": "TALK",
+        "user": "GM",
+        "content": "白棋什么都没有，黑方优势很大，后面不难取胜。",
+        "time_int": 937
+    },
+    {
+        "action": "BACK",
+        "user": "GM",
+        "content": "",
+        "time_int": 942
+    },
+    {
+        "action": "BACK",
+        "user": "GM",
+        "content": "",
+        "time_int": 943
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "a8",
+        "time_int": 944
+    },
+    {
+        "action": "TALK",
+        "user": "GM",
+        "content": "白14反向防守，",
+        "time_int": 947
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "74",
+        "time_int": 952
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "77",
+        "time_int": 955
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "66",
+        "time_int": 958
+    },
+    {
+        "action": "TALK",
+        "user": "GM",
+        "content": "黑这里还有VCF，白方无法防守了。",
+        "time_int": 961
+    },
+    {
+        "action": "BACK",
+        "user": "GM",
+        "content": "",
+        "time_int": 966
+    },
+    {
+        "action": "BACK",
+        "user": "GM",
+        "content": "",
+        "time_int": 967
+    },
+    {
+        "action": "BACK",
+        "user": "GM",
+        "content": "",
+        "time_int": 968
+    },
+    {
+        "action": "BACK",
+        "user": "GM",
+        "content": "",
+        "time_int": 969
+    },
+    {
+        "action": "BACK",
+        "user": "GM",
+        "content": "",
+        "time_int": 970
+    },
+    {
+        "action": "BACK",
+        "user": "GM",
+        "content": "",
+        "time_int": 971
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "a8",
+        "time_int": 972
+    },
+    {
+        "action": "TALK",
+        "user": "GM",
+        "content": "白选择防住斜向的活二，则",
+        "time_int": 975
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "96",
+        "time_int": 980
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "66",
+        "time_int": 983
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "85",
+        "time_int": 986
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "74",
+        "time_int": 989
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "94",
+        "time_int": 992
+    },
+    {
+        "action": "TALK",
+        "user": "GM",
+        "content": "黑胜。",
+        "time_int": 995
+    },
+    {
+        "action": "TALK",
+        "user": "GM",
+        "content": "12反挡看起来强一些，黑方进攻线路也是一样的，就不再演示了。",
+        "time_int": 1000
+    },
+    {
+        "action": "LOAD",
+        "user": "GM",
+        "content": "88999779a7a98998",
+        "time_int": 1005
+    },
+    {
+        "action": "BACK",
+        "user": "GM",
+        "content": "",
+        "time_int": 1008
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "87",
+        "time_int": 1009
+    },
+    {
+        "action": "TALK",
+        "user": "GM",
+        "content": "我们来看这个。",
+        "time_int": 1012
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "98",
+        "time_int": 1017
+    },
+    {
+        "action": "TALK",
+        "user": "GM",
+        "content": "黑方活三必然。",
+        "time_int": 1020
+    },
+    {
+        "action": "TALK",
+        "user": "GM",
+        "content": "此时如果白防在上面，黑就活三，白反三的话黑就防一下，白没有后续手段，跟着去防黑棋也不现实。",
+        "time_int": 1025
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "7a",
+        "time_int": 1030
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "a8",
+        "time_int": 1033
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "78",
+        "time_int": 1036
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "77",
+        "time_int": 1039
+    },
+    {
+        "action": "TALK",
+        "user": "GM",
+        "content": "12反挡的话更弱。",
+        "time_int": 1042
+    },
+    {
+        "action": "BACK",
+        "user": "GM",
+        "content": "",
+        "time_int": 1047
+    },
+    {
+        "action": "BACK",
+        "user": "GM",
+        "content": "",
+        "time_int": 1048
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "b8",
+        "time_int": 1049
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "a6",
+        "time_int": 1052
+    },
+    {
+        "action": "TALK",
+        "user": "GM",
+        "content": "白棋已经无法防守。",
+        "time_int": 1055
+    },
+    {
+        "action": "BACK",
+        "user": "GM",
+        "content": "",
+        "time_int": 1060
+    },
+    {
+        "action": "BACK",
+        "user": "GM",
+        "content": "",
+        "time_int": 1061
+    },
+    {
+        "action": "BACK",
+        "user": "GM",
+        "content": "",
+        "time_int": 1062
+    },
+    {
+        "action": "BACK",
+        "user": "GM",
+        "content": "",
+        "time_int": 1063
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "b6",
+        "time_int": 1064
+    },
+    {
+        "action": "TALK",
+        "user": "GM",
+        "content": "所以白10走这里更强一些。",
+        "time_int": 1067
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "a8",
+        "time_int": 1072
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "78",
+        "time_int": 1075
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "b9",
+        "time_int": 1078
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "ca",
+        "time_int": 1081
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "96",
+        "time_int": 1084
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "b8",
+        "time_int": 1087
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "95",
+        "time_int": 1090
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "94",
+        "time_int": 1093
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "a5",
+        "time_int": 1096
+    },
+    {
+        "action": "TALK",
+        "user": "GM",
+        "content": "到这里白棋无法防守。",
+        "time_int": 1099
+    },
+    {
+        "action": "BACK",
+        "user": "GM",
+        "content": "",
+        "time_int": 1104
+    },
+    {
+        "action": "BACK",
+        "user": "GM",
+        "content": "",
+        "time_int": 1105
+    },
+    {
+        "action": "BACK",
+        "user": "GM",
+        "content": "",
+        "time_int": 1106
+    },
+    {
+        "action": "BACK",
+        "user": "GM",
+        "content": "",
+        "time_int": 1107
+    },
+    {
+        "action": "BACK",
+        "user": "GM",
+        "content": "",
+        "time_int": 1108
+    },
+    {
+        "action": "BACK",
+        "user": "GM",
+        "content": "",
+        "time_int": 1109
+    },
+    {
+        "action": "TALK",
+        "user": "GM",
+        "content": "14换一个点，",
+        "time_int": 1110
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "86",
+        "time_int": 1115
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "c8",
+        "time_int": 1118
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "b8",
+        "time_int": 1121
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "c7",
+        "time_int": 1124
+    },
+    {
+        "action": "TALK",
+        "user": "GM",
+        "content": "还是防不住。",
+        "time_int": 1127
+    },
+    {
+        "action": "TALK",
+        "user": "GM",
+        "content": "这个12比较弱，",
+        "time_int": 1132
+    },
+    {
+        "action": "BACK",
+        "user": "GM",
+        "content": "",
+        "time_int": 1137
+    },
+    {
+        "action": "BACK",
+        "user": "GM",
+        "content": "",
+        "time_int": 1138
+    },
+    {
+        "action": "BACK",
+        "user": "GM",
+        "content": "",
+        "time_int": 1139
+    },
+    {
+        "action": "BACK",
+        "user": "GM",
+        "content": "",
+        "time_int": 1140
+    },
+    {
+        "action": "BACK",
+        "user": "GM",
+        "content": "",
+        "time_int": 1141
+    },
+    {
+        "action": "BACK",
+        "user": "GM",
+        "content": "",
+        "time_int": 1142
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "b8",
+        "time_int": 1143
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "b9",
+        "time_int": 1146
+    },
+    {
+        "action": "TALK",
+        "user": "GM",
+        "content": "14防下面的话",
+        "time_int": 1149
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "86",
+        "time_int": 1154
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "ab",
+        "time_int": 1157
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "9a",
+        "time_int": 1160
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "8b",
+        "time_int": 1163
+    },
+    {
+        "action": "TALK",
+        "user": "GM",
+        "content": "后面白棋有几个点，都防不住。",
+        "time_int": 1166
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "9b",
+        "time_int": 1171
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "7a",
+        "time_int": 1174
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "6b",
+        "time_int": 1177
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "9c",
+        "time_int": 1180
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "ad",
+        "time_int": 1183
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "8c",
+        "time_int": 1186
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "8a",
+        "time_int": 1189
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "ac",
+        "time_int": 1192
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "bc",
+        "time_int": 1195
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "7e",
+        "time_int": 1198
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "8d",
+        "time_int": 1201
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "9d",
+        "time_int": 1204
+    },
+    {
+        "action": "LOAD",
+        "user": "GM",
+        "content": "88999779a7a9898798b6a8b8b986ab9a8b9b",
+        "time_int": 1207
+    },
+    {
+        "action": "BACK",
+        "user": "GM",
+        "content": "",
+        "time_int": 1210
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "8a",
+        "time_int": 1211
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "7a",
+        "time_int": 1214
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "6b",
+        "time_int": 1217
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "9c",
+        "time_int": 1220
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "ad",
+        "time_int": 1223
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "ba",
+        "time_int": 1226
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "c9",
+        "time_int": 1229
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "bb",
+        "time_int": 1232
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "9b",
+        "time_int": 1235
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "ac",
+        "time_int": 1238
+    },
+    {
+        "action": "LOAD",
+        "user": "GM",
+        "content": "88999779a7a9898798b6a8b8b986ab9a8b8a",
+        "time_int": 1241
+    },
+    {
+        "action": "BACK",
+        "user": "GM",
+        "content": "",
+        "time_int": 1244
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "8c",
+        "time_int": 1245
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "ac",
+        "time_int": 1248
+    },
+    {
+        "action": "TALK",
+        "user": "GM",
+        "content": "以F11，i11，K11，L10的VCF威胁白棋，同时还有J13活三之后G10四三的手段，白棋无法防守。",
+        "time_int": 1251
+    },
+    {
+        "action": "BACK",
+        "user": "GM",
+        "content": "",
+        "time_int": 1256
+    },
+    {
+        "action": "BACK",
+        "user": "GM",
+        "content": "",
+        "time_int": 1257
+    },
+    {
+        "action": "BACK",
+        "user": "GM",
+        "content": "",
+        "time_int": 1258
+    },
+    {
+        "action": "BACK",
+        "user": "GM",
+        "content": "",
+        "time_int": 1259
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "78",
+        "time_int": 1260
+    },
+    {
+        "action": "TALK",
+        "user": "GM",
+        "content": "这一路变化怎么这么多！好烦！",
+        "time_int": 1263
     }
 ]

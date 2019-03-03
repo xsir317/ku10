@@ -2462,7 +2462,709 @@
     {
         "action": "TALK",
         "user": "GM",
-        "content": "这一路变化怎么这么多！好烦！",
+        "content": "16换个防点，",
         "time_int": 1263
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "bb",
+        "time_int": 1268
+    },
+    {
+        "action": "TALK",
+        "user": "GM",
+        "content": "17叫杀，白棋无法同时防住这个活二和这个眠三，后面黑棋还能继续利用这些资源进行进攻。",
+        "time_int": 1271
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "cb",
+        "time_int": 1276
+    },
+    {
+        "action": "TALK",
+        "user": "GM",
+        "content": "18如果这样防住活二，",
+        "time_int": 1279
+    },
+    {
+        "action": "TALK",
+        "user": "GM",
+        "content": "黑冲四之后做杀，黑胜。",
+        "time_int": 1284
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "7a",
+        "time_int": 1289
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "6b",
+        "time_int": 1292
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "8b",
+        "time_int": 1295
+    },
+    {
+        "action": "BACK",
+        "user": "GM",
+        "content": "",
+        "time_int": 1298
+    },
+    {
+        "action": "BACK",
+        "user": "GM",
+        "content": "",
+        "time_int": 1299
+    },
+    {
+        "action": "BACK",
+        "user": "GM",
+        "content": "",
+        "time_int": 1300
+    },
+    {
+        "action": "BACK",
+        "user": "GM",
+        "content": "",
+        "time_int": 1301
+    },
+    {
+        "action": "TALK",
+        "user": "GM",
+        "content": "如果白选择防住眠三，那么黑可以继续利用这个活二。",
+        "time_int": 1302
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "ca",
+        "time_int": 1307
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "8b",
+        "time_int": 1310
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "9b",
+        "time_int": 1313
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "7a",
+        "time_int": 1316
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "6b",
+        "time_int": 1319
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "8a",
+        "time_int": 1322
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "8c",
+        "time_int": 1325
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "9a",
+        "time_int": 1328
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "aa",
+        "time_int": 1331
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "9c",
+        "time_int": 1334
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "ad",
+        "time_int": 1337
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "bc",
+        "time_int": 1340
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "cd",
+        "time_int": 1343
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "ba",
+        "time_int": 1346
+    },
+    {
+        "action": "TALK",
+        "user": "GM",
+        "content": "黑方获胜。",
+        "time_int": 1349
+    },
+    {
+        "action": "LOAD",
+        "user": "GM",
+        "content": "88999779a7a9898798b6a8b8b986ab78bb",
+        "time_int": 1354
+    },
+    {
+        "action": "TALK",
+        "user": "GM",
+        "content": "白方如果选择反向挡住活二，",
+        "time_int": 1357
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "9b",
+        "time_int": 1362
+    },
+    {
+        "action": "TALK",
+        "user": "GM",
+        "content": "局部黑方还是可以强攻得手。",
+        "time_int": 1365
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "9a",
+        "time_int": 1370
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "bc",
+        "time_int": 1373
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "7a",
+        "time_int": 1376
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "6b",
+        "time_int": 1379
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "8a",
+        "time_int": 1382
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "aa",
+        "time_int": 1385
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "9d",
+        "time_int": 1388
+    },
+    {
+        "action": "TALK",
+        "user": "GM",
+        "content": "所以这个16也防不住。",
+        "time_int": 1391
+    },
+    {
+        "action": "LOAD",
+        "user": "GM",
+        "content": "88999779a7a9898798b6a8b8b986ab78",
+        "time_int": 1396
+    },
+    {
+        "action": "BACK",
+        "user": "GM",
+        "content": "",
+        "time_int": 1399
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "bc",
+        "time_int": 1400
+    },
+    {
+        "action": "TALK",
+        "user": "GM",
+        "content": "最后一个16防点，",
+        "time_int": 1403
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "8b",
+        "time_int": 1408
+    },
+    {
+        "action": "TALK",
+        "user": "GM",
+        "content": "17做棋，这里黑有2套VCF，我们看一下",
+        "time_int": 1411
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "96",
+        "time_int": 1416
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "6b",
+        "time_int": 1419
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "7a",
+        "time_int": 1422
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "9b",
+        "time_int": 1425
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "7b",
+        "time_int": 1428
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "8c",
+        "time_int": 1431
+    },
+    {
+        "action": "TALK",
+        "user": "GM",
+        "content": "这样 和",
+        "time_int": 1434
+    },
+    {
+        "action": "BACK",
+        "user": "GM",
+        "content": "",
+        "time_int": 1439
+    },
+    {
+        "action": "BACK",
+        "user": "GM",
+        "content": "",
+        "time_int": 1440
+    },
+    {
+        "action": "BACK",
+        "user": "GM",
+        "content": "",
+        "time_int": 1441
+    },
+    {
+        "action": "BACK",
+        "user": "GM",
+        "content": "",
+        "time_int": 1442
+    },
+    {
+        "action": "BACK",
+        "user": "GM",
+        "content": "",
+        "time_int": 1443
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "78",
+        "time_int": 1444
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "68",
+        "time_int": 1447
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "9a",
+        "time_int": 1450
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "67",
+        "time_int": 1453
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "8a",
+        "time_int": 1456
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "8c",
+        "time_int": 1459
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "7a",
+        "time_int": 1462
+    },
+    {
+        "action": "TALK",
+        "user": "GM",
+        "content": "所以这里18必须要同时防住这2套进攻",
+        "time_int": 1465
+    },
+    {
+        "action": "LOAD",
+        "user": "GM",
+        "content": "88999779a7a9898798b6a8b8b986abbc8b",
+        "time_int": 1470
+    },
+    {
+        "action": "TALK",
+        "user": "GM",
+        "content": "无论18如何防守，最终黑都可以通过 i12的要点来取胜。",
+        "time_int": 1473
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "aa",
+        "time_int": 1478
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "9c",
+        "time_int": 1481
+    },
+    {
+        "action": "BACK",
+        "user": "GM",
+        "content": "",
+        "time_int": 1484
+    },
+    {
+        "action": "BACK",
+        "user": "GM",
+        "content": "",
+        "time_int": 1485
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "8a",
+        "time_int": 1486
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "9c",
+        "time_int": 1489
+    },
+    {
+        "action": "BACK",
+        "user": "GM",
+        "content": "",
+        "time_int": 1492
+    },
+    {
+        "action": "BACK",
+        "user": "GM",
+        "content": "",
+        "time_int": 1493
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "8c",
+        "time_int": 1494
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "9c",
+        "time_int": 1497
+    },
+    {
+        "action": "TALK",
+        "user": "GM",
+        "content": "那么这个14看完了，我们来看另一边的14",
+        "time_int": 1500
+    },
+    {
+        "action": "BACK",
+        "user": "GM",
+        "content": "",
+        "time_int": 1505
+    },
+    {
+        "action": "BACK",
+        "user": "GM",
+        "content": "",
+        "time_int": 1506
+    },
+    {
+        "action": "BACK",
+        "user": "GM",
+        "content": "",
+        "time_int": 1507
+    },
+    {
+        "action": "BACK",
+        "user": "GM",
+        "content": "",
+        "time_int": 1508
+    },
+    {
+        "action": "BACK",
+        "user": "GM",
+        "content": "",
+        "time_int": 1509
+    },
+    {
+        "action": "BACK",
+        "user": "GM",
+        "content": "",
+        "time_int": 1510
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "ca",
+        "time_int": 1511
+    },
+    {
+        "action": "TALK",
+        "user": "GM",
+        "content": "这个和前面说的 6走8位置的那个形状有点类似的，不同的是10这个位置被白棋占据了。",
+        "time_int": 1514
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "95",
+        "time_int": 1519
+    },
+    {
+        "action": "TALK",
+        "user": "GM",
+        "content": "还是类似的做杀，白棋必须跟防。",
+        "time_int": 1522
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "86",
+        "time_int": 1527
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "a6",
+        "time_int": 1530
+    },
+    {
+        "action": "TALK",
+        "user": "GM",
+        "content": "继续做杀，",
+        "time_int": 1533
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "a5",
+        "time_int": 1538
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "c8",
+        "time_int": 1541
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "b7",
+        "time_int": 1544
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "78",
+        "time_int": 1547
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "68",
+        "time_int": 1550
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "9a",
+        "time_int": 1553
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "ab",
+        "time_int": 1556
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "aa",
+        "time_int": 1559
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "9b",
+        "time_int": 1562
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "7a",
+        "time_int": 1565
+    },
+    {
+        "action": "TALK",
+        "user": "GM",
+        "content": "这样就获胜了。 注意刚刚说的10这个位置被白棋占据了，相对的，5，9，7这条线在上面就多了个眠三，最终还是依赖这个眠三来杀的。",
+        "time_int": 1568
+    },
+    {
+        "action": "TALK",
+        "user": "GM",
+        "content": "注意这里有个次序问题：",
+        "time_int": 1573
+    },
+    {
+        "action": "BACK",
+        "user": "GM",
+        "content": "",
+        "time_int": 1578
+    },
+    {
+        "action": "BACK",
+        "user": "GM",
+        "content": "",
+        "time_int": 1579
+    },
+    {
+        "action": "BACK",
+        "user": "GM",
+        "content": "",
+        "time_int": 1580
+    },
+    {
+        "action": "BACK",
+        "user": "GM",
+        "content": "",
+        "time_int": 1581
+    },
+    {
+        "action": "BACK",
+        "user": "GM",
+        "content": "",
+        "time_int": 1582
+    },
+    {
+        "action": "BACK",
+        "user": "GM",
+        "content": "",
+        "time_int": 1583
+    },
+    {
+        "action": "BACK",
+        "user": "GM",
+        "content": "",
+        "time_int": 1584
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "aa",
+        "time_int": 1585
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "9b",
+        "time_int": 1588
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "9a",
+        "time_int": 1591
+    },
+    {
+        "action": "TALK",
+        "user": "GM",
+        "content": "这样是不行的，虽然在G8和G10 都是四三点，但是白棋可以防住。",
+        "time_int": 1594
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "8a",
+        "time_int": 1599
+    },
+    {
+        "action": "TALK",
+        "user": "GM",
+        "content": "这样就逆转了，黑棋失去先手之后很快就崩溃了。",
+        "time_int": 1602
     }
 ]

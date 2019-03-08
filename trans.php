@@ -38,7 +38,7 @@ class transformer
             }
             //处理一下时间吧
             $tmp['time_int'] = $time;
-            $time += ($tmp['action'] == 'TALK' ? 5 : 3);
+            $time += ($tmp['action'] == 'TALK' ? 5 : ($tmp['action'] == 'BACK' ? 1 : 3));
             $data[] = $tmp;
         }
         return [

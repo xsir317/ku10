@@ -3,14 +3,15 @@
 <head>
     <meta charset="utf-8"><meta name="keywords" content="五子棋,连珠,五子棋必胜,Renjuclass,连珠教室,安度教室,五子棋先手必胜" />
     <meta name="description" content="本站收集了RenjuClass的五子棋课程，详细讲解了五子棋先手必胜的走法，适合初学者，也适合有一定基础的五子棋爱好者自学。" />
+    <meta name="viewport" content="width=800, initial-scale=1">
     <title>RenjuClass五子棋课程在线学习</title>
+    <link rel="stylesheet" href="/layui/css/layui.css"  media="all">
     <style>
         body
         {
             font-family: "微软雅黑",Arial,Helvetica,sans-serif;
             background-color: #EFEEF7;
         }
-        .layui-main {width:1140px;margin:0 auto;}
         img{border:none;}
         h1,h2,h3{margin:0;}
         p{font-size:14px;margin:0 0 5px 0;line-height:22px;}
@@ -62,20 +63,20 @@
             overflow:hidden;
         }
         .controlbar{width: 550px;}
-        .controlbar button{margin-left:25px;}
+        .controlbar button{margin-left:5px;}
 
-        #chat_content_list {height:600px;overflow-x: hidden;overflow-y:auto;padding: 12px 8px;background: #f2f2f2}
+        #chat_content_list {height:600px;overflow-x: hidden;overflow-y:auto;padding: 12px 0px;background: #f2f2f2;margin-left:40px;}
         #chat_content li{border-bottom: 1px solid #ddd;line-height: 25px;}
         #chat_content .chat-name{font-weight: bold;color:#59A8F3;}
         #chat_content .teacher{color:#e24329;}
         #chat_content .chat-move{color:#3f9343;}
         #chat_content .chat-sys{color:#9e5724;}
-        #lesson_list{padding: 0 5px 0 5px;width:21%;height:560px;float:left;overflow-x:hidden;overflow-y:scroll;}
+        #lesson_list{height:560px;overflow-x:hidden;overflow-y:scroll;}
         #lesson_list ul li{line-height:26px;height:26px;overflow:hidden;white-space:nowrap;}
         #lesson_list ul li a{color:#5b76a0}
         #lesson_list ul li a:hover{color:#ffaa56}
         #lesson_list ul li a:visited{color:#894e14}
-        #play_control{padding: 0 5px 0 5px;width:21%;height:60px;float:left;overflow:hidden;}
+        #play_control{padding: 0 5px 0 5px;height:60px;overflow:hidden;}
         #progress{width:100%;height:20px;overflow:hidden;border:1px solid #ddd}
         #progress>div{width:0%;height:20px;background-color:#779e23;}
         #lesson_list a{text-decoration: none; margin-bottom: 5px; display: block; }
@@ -83,44 +84,44 @@
     </style>
 </head>
 <body>
-<div class="layui-main site-inline" style="margin-top: 20px;overflow: hidden;">
-    <div style="width:52%;height:624px;float:left;"><div id="board_main"></div></div>
-    <div class="chat_area" style="padding: 0 5px 0 5px;width:24%;min-height:600px;float:left;">
-        <div id="chat_content_list">
-            <ul id="chat_content"></ul>
+<div class="layui-container" style="margin-top: 20px;">
+    <div class="layui-col-space5 layui-row">
+        <div class="layui-col-md6 layui-col-xs9"><div id="board_main"></div></div>
+        <div class="chat_area layui-col-md3 layui-col-xs3">
+            <div id="chat_content_list">
+                <ul id="chat_content"></ul>
+            </div>
         </div>
-    </div>
-    <div id="lesson_list">
-        <ul></ul>
-    </div>
-    <div id="play_control">
-        <div id="progress">
-            <div></div>
+        <div id="lesson_list" class="layui-col-md3 layui-col-xs12">
+            <ul></ul>
         </div>
-        <div class="buttons">
-            <button class="button btn_play">Play &gt;</button>
-            <button class="button btn_pause">Pause ||</button>
-            <select name="speed">
-                <option value="1000">播放速度</option>
-                <option value="1333">0.75倍速</option>
-                <option value="999">正常</option>
-                <option value="667">1.5倍速</option>
-                <option value="1333">0.75倍速</option>
-                <option value="500">2倍速</option>
-                <option value="333" selected="selected">3倍速</option>
-                <option value="100">10倍速</option>
-                <option value="10">100倍速</option>
-            </select>
+        <div id="play_control" class="layui-col-md3 layui-col-xs12">
+            <div id="progress">
+                <div></div>
+            </div>
+            <div class="buttons">
+                <button class="button btn_play"> &gt; </button>
+                <button class="button btn_pause"> ||</button>
+                <select name="speed">
+                    <option value="1000">播放速度</option>
+                    <option value="1333">0.75倍速</option>
+                    <option value="999">正常</option>
+                    <option value="667">1.5倍速</option>
+                    <option value="1333">0.75倍速</option>
+                    <option value="500">2倍速</option>
+                    <option value="333" selected="selected">3倍速</option>
+                    <option value="100">10倍速</option>
+                    <option value="10">100倍速</option>
+                </select>
+            </div>
         </div>
     </div>
 </div>
 <div class="layui-footer footer footer-doc">
-    <div class="layui-main">
-        <p>
-            本项目在<a href="https://github.com/xsir317/ku10" target="_blank">Github</a>维护。主页展示的是所有ORC课程记录，另有<a href="/resources/index.html" target="_blank">文本资料</a>。 </p>
-        <p>
-            请使用Chrome或Firefox访问。本站内容来自网络，感谢Ando老师、Luwenzhe老师和课程讲师的贡献。内容版权归原作者所有。<br />如有疑问欢迎联系我 xsir317@gmail.com </p>
-    </div>
+    <p>
+        本项目在<a href="https://github.com/xsir317/ku10" target="_blank">Github</a>维护。主页展示的是所有ORC课程记录，另有<a href="/resources/index.html" target="_blank">文本资料</a>。 </p>
+    <p>
+        请使用Chrome或Firefox访问。本站内容来自网络，感谢Ando老师、Luwenzhe老师和课程讲师的贡献。内容版权归原作者所有。<br />如有疑问欢迎联系我 xsir317@gmail.com </p>
 </div>
     <script src="https://cdn.bootcss.com/jquery/3.3.1/jquery.min.js"></script>
     <script type="text/javascript">

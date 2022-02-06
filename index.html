@@ -77,7 +77,9 @@
         #lesson_list ul li a:hover{color:#ffaa56}
         #lesson_list ul li a:visited{color:#894e14}
         #play_control{padding: 0 5px 0 5px;height:60px;overflow:hidden;}
-        #progress{width:100%;height:20px;overflow:hidden;border:1px solid #ddd}
+        #progress{width:100%;height:20px;overflow:hidden;border:1px solid #ddd;position: relative;}
+        #progress ul{z-index: 1; width:inherit;height:20px;position: absolute;top:0px;left:0px;}
+        #progress ul li{width: 1% ;height:20px;float:left;}
         #progress>div{width:0%;height:20px;background-color:#779e23;}
         #lesson_list a{text-decoration: none; margin-bottom: 5px; display: block; }
 
@@ -330,6 +332,12 @@
 
                     return true;
                 });
+                //进度条bar
+                let _ul = $(document.createElement("ul"))
+                for(let i=1;i<=99;i++){
+                    $(document.createElement("li")).attr("title","" + i + "%"). appendTo(_ul);
+                }
+                _ul.appendTo($("#progress"));
                 //生成控制按钮
                 let controlbar = $(document.createElement("div"));
                 controlbar.addClass('controlbar');
@@ -355,19 +363,22 @@
             };
         };
 
-        let recordPlayer = function(){
+        let recordPlayer = function(boardHandler){
             let obj = this;
             this.pointer = 0;//当前播放到第几个action
             this.timer = 0;//计时器
             this.record = [];
             this.status = 0;
+            this.boardHandler = boardHandler;
+            this._progress = -1;
             obj.load = function(record){
                 obj.pause();
                 obj.record = record;
                 obj.pointer = 0;
                 obj.timer = 0;
                 obj.status = 0;
-                board.load('');
+                obj._progress = -1;
+                this.boardHandler.load('');
                 $("#chat_content").empty();
                 $("#progress>div").css("width", '0%');
                 obj.play();
@@ -390,6 +401,10 @@
                 {
                     progress_percent = parseInt(obj.pointer * 100 / obj.record.length );
                     $("#progress>div").css("width", progress_percent + '%');
+                    if (obj._progress != -1 && progress_percent >= obj._progress){
+                        obj._progress = -1;
+                        //obj.pause();
+                    }
                 }
                 //progress 结束
                 if(typeof(obj.record[obj.pointer]) == 'object')
@@ -402,7 +417,9 @@
                     }
                     delta_time = delta_time <= 5 ? delta_time : 5;
                     let speed = parseInt($("select[name=speed]").val());
-                    obj.timer = setTimeout(function(){obj.play();},10 + speed * delta_time);
+                    //progress快进逻辑
+                    _timeout = obj._progress == -1 ? 10 + speed * delta_time : 3;
+                    obj.timer = setTimeout(function(){obj.play();},_timeout);
                 }
                 else
                 {
@@ -417,6 +434,21 @@
                     obj.timer = 0;
                     obj.sysMsg("播放暂停");
                 }
+            };
+            obj.gotoProgress = function(i){
+                if (i < 0 || i > 99){
+                    return;
+                }
+                //类似于 load
+                obj.pause();
+                obj.pointer = 0;
+                obj.timer = 0;
+                obj.status = 0;
+                obj._progress = i;
+                this.boardHandler.load('');
+                $("#chat_content").empty();
+                $("#progress>div").css("width", '0%');
+                obj.play();
             };
 
             obj.renderRow = function(row){
@@ -447,7 +479,7 @@
              */
 
             obj.actionRESET = function(){
-                board.load('');
+                this.boardHandler.load('');
                 return true;
             };
 
@@ -471,13 +503,13 @@
                 let show_x = String.fromCharCode(c_x);
                 if(show_x == 'l') show_x = 'L';
 
-                let show_content = board.curr_step.toString() + ' - ' + show_x + c_y.toString();
+                let show_content = this.boardHandler.curr_step.toString() + ' - ' + show_x + c_y.toString();
 
                 let _content = $("<span>").html(row.user + ': ' + show_content).addClass("chat-move");
                 let li = $("<li>");
                 li.append(_content);
                 li.appendTo($("#chat_content"));
-                return board.place_stone(row.content);
+                return this.boardHandler.place_stone(row.content);
             };
 
             obj.actionCHECKRESULT = function(row){
@@ -490,24 +522,24 @@
             };
 
             obj.actionGOTO = function(row){
-                while(board.get_current_board().length > row.content * 2)
+                while(this.boardHandler.get_current_board().length > row.content * 2)
                 {
-                    if(!board.move_pre()) break;
+                    if(!this.boardHandler.move_pre()) break;
                 }
-                while(board.get_current_board().length < row.content * 2)
+                while(this.boardHandler.get_current_board().length < row.content * 2)
                 {
-                    if(!board.move_next()) break;
+                    if(!this.boardHandler.move_next()) break;
                 }
                 return true;
             };
 
             obj.actionBACK = function(row){
-                board.move_pre();
+                this.boardHandler.move_pre();
                 return true;
             };
             obj.actionFIRST = function(row){
-                board.board_clean();
-                board.move_next();
+                this.boardHandler.board_clean();
+                this.boardHandler.move_next();
                 return true;
             };
             obj.actionCREDIT = function(row){
@@ -515,19 +547,19 @@
                 return true;
             };
             obj.actionNEXT = function(row){
-                board.move_next();
+                this.boardHandler.move_next();
                 return true;
             };
             obj.actionCLEAR = function(row){
-                board.load('');
+                this.boardHandler.load('');
                 return true;
             };
             obj.actionLOAD = function(row){
-                board.load(row.content);
+                this.boardHandler.load(row.content);
                 return true;
             };
             obj.actionLAST = function(row){
-                board.board_end();
+                this.boardHandler.board_end();
                 return true;
             };
             //事件处理结束
@@ -541,9 +573,15 @@
 
         //1.new出对象
         board = new boardObj();
-        record_player = new recordPlayer();
+        record_player = new recordPlayer(board);
         $(document).ready(function(){
             board.init_board();
+            $("#progress>ul>li").each(function(idx){
+                $(this).click(function(){
+                    record_player.gotoProgress(idx+1);
+                    //console.log(idx+1)
+                });
+            });
             let load_game = function(source,callback){
                 $.getJSON("/json/" + source,{},function(_data){
                     //play data

@@ -5,7 +5,7 @@
     <meta name="description" content="本站收集了RenjuClass的五子棋课程，详细讲解了五子棋先手必胜的走法，适合初学者，也适合有一定基础的五子棋爱好者自学。" />
     <meta name="viewport" content="width=800, initial-scale=1">
     <title>RenjuClass五子棋课程在线学习</title>
-    <link rel="stylesheet" href="/layui/css/layui.css"  media="all">
+    <link rel="stylesheet" href="./layui/css/layui.css"  media="all">
     <style>
         body
         {
@@ -23,7 +23,7 @@
         .button:hover{background:#3F96E5;}
         #board_main
         {
-            background:url('/images/board-0.png') 0 -3px no-repeat;
+            background:url('./images/board-0.png') 0 -3px no-repeat;
             height:583px;
             width:590px;
             padding-top:3px;
@@ -33,13 +33,13 @@
         }
         .black
         {
-            background:url('/images/b.png') center center no-repeat;
+            background:url('./images/b.png') center center no-repeat;
             color:white;
         }
         .white
         {
-            /*background:url('/images/w.png') center center no-repeat;*/
-            background:url('/images/w_combine.png') center center no-repeat;
+            /*background:url('./images/w.png') center center no-repeat;*/
+            background:url('./images/w_combine.png') center center no-repeat;
         }
 
         .row
@@ -121,7 +121,7 @@
 </div>
 <div class="layui-footer footer footer-doc">
     <p>
-        本项目在<a href="https://github.com/xsir317/ku10" target="_blank">Github</a>维护。主页展示的是所有ORC课程记录，另有<a href="/resources/index.html" target="_blank">文本资料</a>。 </p>
+        本项目在<a href="https://github.com/xsir317/ku10" target="_blank">Github</a>维护。主页展示的是所有ORC课程记录，另有<a href="./resources/index.html" target="_blank">文本资料</a>。 </p>
     <p>
         请使用Chrome或Firefox访问。本站内容来自网络，感谢Ando老师、Luwenzhe老师和课程讲师的贡献。内容版权归原作者所有。<br />如有疑问欢迎联系我 xsir317@gmail.com </p>
 </div>
@@ -182,10 +182,10 @@
                     {
                         case 'game':
                             //board.removeClass("mode_analyze").addClass("mode_game");
-                            board.css("background-image","url(/images/board.png)");
+                            board.css("background-image","url(./images/board.png)");
                             break;
                         case 'analyze':
-                            board.css("background-image","url(/images/board-grey.png)");
+                            board.css("background-image","url(./images/board-grey.png)");
                             break;
                         default:
                             break;
@@ -345,7 +345,7 @@
                 //按钮
                 $(document.createElement("button")).addClass('button').text("分析")    .click(function(){
                     record_player.pause();
-                    window.open('/board.html#' + _obj.currgame , 'analyze', 'height=660,width=660,fullscreen=0,location=0,menubar=0,resize=0',true);
+                    window.open('./board.html#' + _obj.currgame , 'analyze', 'height=660,width=660,fullscreen=0,location=0,menubar=0,resize=0',true);
                 }).appendTo(controlbar);
                 $(document.createElement("button")).addClass('button show').text("隐藏数字").click(function(){
                     let _btn = $(this);
@@ -583,7 +583,7 @@
                 });
             });
             let load_game = function(source,callback){
-                $.getJSON("/json/" + source,{},function(_data){
+                $.getJSON("./json/" + source,{},function(_data){
                     //play data
                     //console.log(source);
                     record_player.load(_data);
@@ -613,7 +613,7 @@
                     });
                 }
             };
-            $.getJSON('/trans.json?d=20190314',{},function(_data){
+            $.getJSON('./trans.json?d=20190314',{},function(_data){
                 for (let i in _data)
                 {
                     let _tmp = _data[i];

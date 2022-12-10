@@ -22,7 +22,7 @@ class transformer
             $row = trim($row);
             if($num == 0)
             {
-                if($row{0} == '#')
+                if($row[0] == '#')
                 {
                     $title = substr($row,1);
                 }
@@ -59,7 +59,7 @@ class transformer
             'user' => 'GM',
             'content' => '',
         ];
-        if($row{0} == '#')
+        if($row[0] == '#')
         {
             return false;
         }

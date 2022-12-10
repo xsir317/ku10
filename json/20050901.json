@@ -1,0 +1,4154 @@
+[
+    {
+        "action": "RESET",
+        "user": "GM",
+        "content": "",
+        "time_int": 0
+    },
+    {
+        "action": "RESET",
+        "user": "",
+        "content": "",
+        "time_int": 2
+    },
+    {
+        "action": "LOAD",
+        "user": "",
+        "content": "",
+        "time_int": 5
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "上课~~",
+        "time_int": 8
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "点名~~~~~~``",
+        "time_int": 13
+    },
+    {
+        "action": "TALK",
+        "user": "sosei",
+        "content": "昏~~~~~~~~",
+        "time_int": 18
+    },
+    {
+        "action": "TALK",
+        "user": "fivestar27",
+        "content": "哈~~",
+        "time_int": 23
+    },
+    {
+        "action": "TALK",
+        "user": "fivestar27",
+        "content": "跟我一样第一次用",
+        "time_int": 28
+    },
+    {
+        "action": "TALK",
+        "user": "Guest973",
+        "content": "我还是不明白~!~#",
+        "time_int": 33
+    },
+    {
+        "action": "TALK",
+        "user": "fivestar04",
+        "content": "哈哈 Ug姑妈真好！",
+        "time_int": 38
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "……",
+        "time_int": 43
+    },
+    {
+        "action": "TALK",
+        "user": "sosei",
+        "content": "下课按钮按了以后，问yes,no，千万要按No",
+        "time_int": 48
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "我汗",
+        "time_int": 53
+    },
+    {
+        "action": "MOVE",
+        "user": "GrandMaster",
+        "content": "88",
+        "time_int": 58
+    },
+    {
+        "action": "MOVE",
+        "user": "GrandMaster",
+        "content": "99",
+        "time_int": 61
+    },
+    {
+        "action": "MOVE",
+        "user": "GrandMaster",
+        "content": "87",
+        "time_int": 64
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "今天讲银月2打",
+        "time_int": 67
+    },
+    {
+        "action": "TALK",
+        "user": "fivestar13",
+        "content": "汗",
+        "time_int": 72
+    },
+    {
+        "action": "TALK",
+        "user": "sosei",
+        "content": "按yes，Lu该找我妈翻了",
+        "time_int": 77
+    },
+    {
+        "action": "TALK",
+        "user": "sosei",
+        "content": "麻烦",
+        "time_int": 82
+    },
+    {
+        "action": "CHECKRESULT",
+        "user": "",
+        "content": " fivestar20, fivestar13, fivestar25, fivestar30, mayhem, fivestar04, wzqclass70, fivestar27, fivestar21, sosei, fivestar10, fivestar11.",
+        "time_int": 87
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "哦。",
+        "time_int": 90
+    },
+    {
+        "action": "MOVE",
+        "user": "GrandMaster",
+        "content": "89",
+        "time_int": 95
+    },
+    {
+        "action": "MOVE",
+        "user": "GrandMaster",
+        "content": "79",
+        "time_int": 98
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "一打",
+        "time_int": 101
+    },
+    {
+        "action": "BACK",
+        "user": "",
+        "content": "{GrandMaster}",
+        "time_int": 106
+    },
+    {
+        "action": "MOVE",
+        "user": "GrandMaster",
+        "content": "97",
+        "time_int": 107
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "2打",
+        "time_int": 110
+    },
+    {
+        "action": "BACK",
+        "user": "",
+        "content": "{GrandMaster}",
+        "time_int": 115
+    },
+    {
+        "action": "MOVE",
+        "user": "GrandMaster",
+        "content": "a9",
+        "time_int": 116
+    },
+    {
+        "action": "TALK",
+        "user": "sosei",
+        "content": "姑妈好帅阿",
+        "time_int": 119
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "这个好象是3打",
+        "time_int": 124
+    },
+    {
+        "action": "BACK",
+        "user": "",
+        "content": "{GrandMaster}",
+        "time_int": 129
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "汗",
+        "time_int": 130
+    },
+    {
+        "action": "MOVE",
+        "user": "GrandMaster",
+        "content": "97",
+        "time_int": 135
+    },
+    {
+        "action": "MOVE",
+        "user": "GrandMaster",
+        "content": "79",
+        "time_int": 138
+    },
+    {
+        "action": "TALK",
+        "user": "fivestar27",
+        "content": "嗯~~",
+        "time_int": 141
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "白6有很多选择",
+        "time_int": 146
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "这个是最强白6",
+        "time_int": 151
+    },
+    {
+        "action": "BACK",
+        "user": "",
+        "content": "{GrandMaster}",
+        "time_int": 156
+    },
+    {
+        "action": "MOVE",
+        "user": "GrandMaster",
+        "content": "a7",
+        "time_int": 157
+    },
+    {
+        "action": "BACK",
+        "user": "",
+        "content": "{GrandMaster}",
+        "time_int": 160
+    },
+    {
+        "action": "MOVE",
+        "user": "GrandMaster",
+        "content": "77",
+        "time_int": 161
+    },
+    {
+        "action": "BACK",
+        "user": "",
+        "content": "{GrandMaster}",
+        "time_int": 164
+    },
+    {
+        "action": "MOVE",
+        "user": "GrandMaster",
+        "content": "79",
+        "time_int": 165
+    },
+    {
+        "action": "MOVE",
+        "user": "GrandMaster",
+        "content": "a9",
+        "time_int": 168
+    },
+    {
+        "action": "TALK",
+        "user": "fivestar27",
+        "content": "这个白6最强：）",
+        "time_int": 171
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "黑7唯一吧",
+        "time_int": 176
+    },
+    {
+        "action": "BACK",
+        "user": "",
+        "content": "{GrandMaster}",
+        "time_int": 181
+    },
+    {
+        "action": "MOVE",
+        "user": "GrandMaster",
+        "content": "69",
+        "time_int": 182
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "这里能杀吗",
+        "time_int": 185
+    },
+    {
+        "action": "TALK",
+        "user": "fivestar27",
+        "content": "应当能杀的？",
+        "time_int": 190
+    },
+    {
+        "action": "TALK",
+        "user": "sosei",
+        "content": "能",
+        "time_int": 195
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "谁来杀？",
+        "time_int": 200
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "恩？没人来啊……",
+        "time_int": 205
+    },
+    {
+        "action": "TALK",
+        "user": "fivestar04",
+        "content": "我",
+        "time_int": 210
+    },
+    {
+        "action": "TALK",
+        "user": "fivestar04",
+        "content": "西西  支持Ug姑妈",
+        "time_int": 215
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "怎么解放？",
+        "time_int": 220
+    },
+    {
+        "action": "MOVE",
+        "user": "fivestar04",
+        "content": "78",
+        "time_int": 225
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "……",
+        "time_int": 228
+    },
+    {
+        "action": "TALK",
+        "user": "fivestar13",
+        "content": "。。。。",
+        "time_int": 233
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "-_-怎么可以点了啊",
+        "time_int": 238
+    },
+    {
+        "action": "MOVE",
+        "user": "GrandMaster",
+        "content": "67",
+        "time_int": 243
+    },
+    {
+        "action": "MOVE",
+        "user": "fivestar04",
+        "content": "77",
+        "time_int": 246
+    },
+    {
+        "action": "MOVE",
+        "user": "GrandMaster",
+        "content": "7a",
+        "time_int": 249
+    },
+    {
+        "action": "MOVE",
+        "user": "fivestar04",
+        "content": "68",
+        "time_int": 252
+    },
+    {
+        "action": "TALK",
+        "user": "fivestar13",
+        "content": "谁都可以点？",
+        "time_int": 255
+    },
+    {
+        "action": "MOVE",
+        "user": "GrandMaster",
+        "content": "58",
+        "time_int": 260
+    },
+    {
+        "action": "MOVE",
+        "user": "fivestar04",
+        "content": "b9",
+        "time_int": 263
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "这个13活三应该是最容易想到的。。",
+        "time_int": 266
+    },
+    {
+        "action": "MOVE",
+        "user": "GrandMaster",
+        "content": "a9",
+        "time_int": 271
+    },
+    {
+        "action": "MOVE",
+        "user": "fivestar04",
+        "content": "75",
+        "time_int": 274
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "但是直接抓了",
+        "time_int": 277
+    },
+    {
+        "action": "TALK",
+        "user": "fivestar13",
+        "content": "。。",
+        "time_int": 282
+    },
+    {
+        "action": "TALK",
+        "user": "fivestar04",
+        "content": "好久没看到红。。。",
+        "time_int": 287
+    },
+    {
+        "action": "TALK",
+        "user": "fivestar27",
+        "content": "呵呵",
+        "time_int": 292
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "3Q~多多",
+        "time_int": 297
+    },
+    {
+        "action": "BACK",
+        "user": "",
+        "content": "{GrandMaster}",
+        "time_int": 302
+    },
+    {
+        "action": "BACK",
+        "user": "",
+        "content": "{GrandMaster}",
+        "time_int": 303
+    },
+    {
+        "action": "BACK",
+        "user": "",
+        "content": "{GrandMaster}",
+        "time_int": 304
+    },
+    {
+        "action": "BACK",
+        "user": "",
+        "content": "{GrandMaster}",
+        "time_int": 305
+    },
+    {
+        "action": "TALK",
+        "user": "fivestar04",
+        "content": "：）",
+        "time_int": 306
+    },
+    {
+        "action": "MOVE",
+        "user": "GrandMaster",
+        "content": "86",
+        "time_int": 311
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "这里呢",
+        "time_int": 314
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "谁来杀",
+        "time_int": 319
+    },
+    {
+        "action": "MOVE",
+        "user": "fivestar04",
+        "content": "9b",
+        "time_int": 324
+    },
+    {
+        "action": "MOVE",
+        "user": "GrandMaster",
+        "content": "8a",
+        "time_int": 327
+    },
+    {
+        "action": "TALK",
+        "user": "fivestar04",
+        "content": "不好意思",
+        "time_int": 330
+    },
+    {
+        "action": "TALK",
+        "user": "fivestar04",
+        "content": "我点了",
+        "time_int": 335
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "没事",
+        "time_int": 340
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "继续来",
+        "time_int": 345
+    },
+    {
+        "action": "MOVE",
+        "user": "fivestar04",
+        "content": "9a",
+        "time_int": 350
+    },
+    {
+        "action": "TALK",
+        "user": "fivestar27",
+        "content": "04是多多啊~~好久不见",
+        "time_int": 353
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "sosei不教我锁定T_T",
+        "time_int": 358
+    },
+    {
+        "action": "MOVE",
+        "user": "GrandMaster",
+        "content": "98",
+        "time_int": 363
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "恩",
+        "time_int": 366
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "杀了",
+        "time_int": 371
+    },
+    {
+        "action": "TALK",
+        "user": "sosei",
+        "content": "按free",
+        "time_int": 376
+    },
+    {
+        "action": "TALK",
+        "user": "fivestar04",
+        "content": "恩",
+        "time_int": 381
+    },
+    {
+        "action": "MOVE",
+        "user": "GrandMaster",
+        "content": "8b",
+        "time_int": 386
+    },
+    {
+        "action": "BACK",
+        "user": "",
+        "content": "{GrandMaster}",
+        "time_int": 389
+    },
+    {
+        "action": "BACK",
+        "user": "",
+        "content": "{GrandMaster}",
+        "time_int": 390
+    },
+    {
+        "action": "MOVE",
+        "user": "GrandMaster",
+        "content": "9c",
+        "time_int": 391
+    },
+    {
+        "action": "MOVE",
+        "user": "GrandMaster",
+        "content": "8b",
+        "time_int": 394
+    },
+    {
+        "action": "BACK",
+        "user": "",
+        "content": "{GrandMaster}",
+        "time_int": 397
+    },
+    {
+        "action": "BACK",
+        "user": "",
+        "content": "{GrandMaster}",
+        "time_int": 398
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "看懂了吗",
+        "time_int": 399
+    },
+    {
+        "action": "BACK",
+        "user": "",
+        "content": "{GrandMaster}",
+        "time_int": 404
+    },
+    {
+        "action": "BACK",
+        "user": "",
+        "content": "{GrandMaster}",
+        "time_int": 405
+    },
+    {
+        "action": "BACK",
+        "user": "",
+        "content": "{GrandMaster}",
+        "time_int": 406
+    },
+    {
+        "action": "BACK",
+        "user": "",
+        "content": "{GrandMaster}",
+        "time_int": 407
+    },
+    {
+        "action": "TALK",
+        "user": "sosei",
+        "content": "不懂",
+        "time_int": 408
+    },
+    {
+        "action": "MOVE",
+        "user": "GrandMaster",
+        "content": "8a",
+        "time_int": 413
+    },
+    {
+        "action": "TALK",
+        "user": "sosei",
+        "content": "cc",
+        "time_int": 416
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "饿。。",
+        "time_int": 421
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "-_-打",
+        "time_int": 426
+    },
+    {
+        "action": "TALK",
+        "user": "fivestar27",
+        "content": "哈~~",
+        "time_int": 431
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "这个13呢",
+        "time_int": 436
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "谁来",
+        "time_int": 441
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "13号~~",
+        "time_int": 446
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "MM~`来",
+        "time_int": 451
+    },
+    {
+        "action": "TALK",
+        "user": "fivestar13",
+        "content": "不在",
+        "time_int": 456
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "……",
+        "time_int": 461
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "强烈要求口分分",
+        "time_int": 466
+    },
+    {
+        "action": "MOVE",
+        "user": "GrandMaster",
+        "content": "86",
+        "time_int": 471
+    },
+    {
+        "action": "MOVE",
+        "user": "GrandMaster",
+        "content": "59",
+        "time_int": 474
+    },
+    {
+        "action": "TALK",
+        "user": "fivestar13",
+        "content": "。。。。。。",
+        "time_int": 477
+    },
+    {
+        "action": "MOVE",
+        "user": "GrandMaster",
+        "content": "a6",
+        "time_int": 482
+    },
+    {
+        "action": "TALK",
+        "user": "fivestar13",
+        "content": "本来就没分的",
+        "time_int": 485
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "有的啊",
+        "time_int": 490
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "点名有1分的",
+        "time_int": 495
+    },
+    {
+        "action": "MOVE",
+        "user": "GrandMaster",
+        "content": "76",
+        "time_int": 500
+    },
+    {
+        "action": "MOVE",
+        "user": "GrandMaster",
+        "content": "95",
+        "time_int": 503
+    },
+    {
+        "action": "MOVE",
+        "user": "GrandMaster",
+        "content": "a4",
+        "time_int": 506
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "小元^_^",
+        "time_int": 509
+    },
+    {
+        "action": "TALK",
+        "user": "fivestar13",
+        "content": "而且这个我看也看不懂",
+        "time_int": 514
+    },
+    {
+        "action": "TALK",
+        "user": "chess",
+        "content": ":)",
+        "time_int": 519
+    },
+    {
+        "action": "MOVE",
+        "user": "GrandMaster",
+        "content": "b7",
+        "time_int": 524
+    },
+    {
+        "action": "MOVE",
+        "user": "GrandMaster",
+        "content": "c8",
+        "time_int": 527
+    },
+    {
+        "action": "MOVE",
+        "user": "GrandMaster",
+        "content": "b6",
+        "time_int": 530
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "这里22应该是增加子力（我是跟别人学着说的）",
+        "time_int": 533
+    },
+    {
+        "action": "TALK",
+        "user": "sosei",
+        "content": "5555，不会白棋杀了吧",
+        "time_int": 538
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "22-20 做34",
+        "time_int": 543
+    },
+    {
+        "action": "TALK",
+        "user": "fivestar27",
+        "content": "哦",
+        "time_int": 548
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "是白杀啊。。",
+        "time_int": 553
+    },
+    {
+        "action": "MOVE",
+        "user": "fivestar27",
+        "content": "a9",
+        "time_int": 558
+    },
+    {
+        "action": "MOVE",
+        "user": "fivestar27",
+        "content": "c6",
+        "time_int": 561
+    },
+    {
+        "action": "MOVE",
+        "user": "fivestar27",
+        "content": "96",
+        "time_int": 564
+    },
+    {
+        "action": "MOVE",
+        "user": "fivestar27",
+        "content": "d5",
+        "time_int": 567
+    },
+    {
+        "action": "MOVE",
+        "user": "fivestar27",
+        "content": "a8",
+        "time_int": 570
+    },
+    {
+        "action": "TALK",
+        "user": "fivestar13",
+        "content": "－ －",
+        "time_int": 573
+    },
+    {
+        "action": "MOVE",
+        "user": "fivestar27",
+        "content": "c5",
+        "time_int": 578
+    },
+    {
+        "action": "TALK",
+        "user": "fivestar27",
+        "content": "哈",
+        "time_int": 581
+    },
+    {
+        "action": "TALK",
+        "user": "sosei",
+        "content": "强烈要求黑杀",
+        "time_int": 586
+    },
+    {
+        "action": "TALK",
+        "user": "fivestar13",
+        "content": "我以为你说黑杀",
+        "time_int": 591
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "^_^27急于表现",
+        "time_int": 596
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "汗",
+        "time_int": 601
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "好吧",
+        "time_int": 606
+    },
+    {
+        "action": "TALK",
+        "user": "fivestar13",
+        "content": "怎么变白杀拉",
+        "time_int": 611
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "继续",
+        "time_int": 616
+    },
+    {
+        "action": "GOTO",
+        "user": "GrandMaster",
+        "content": "007",
+        "time_int": 621
+    },
+    {
+        "action": "BACK",
+        "user": "",
+        "content": "{GrandMaster}",
+        "time_int": 624
+    },
+    {
+        "action": "MOVE",
+        "user": "GrandMaster",
+        "content": "a9",
+        "time_int": 625
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "这里",
+        "time_int": 628
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "黑7唯一~",
+        "time_int": 633
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "不然就见阎王了",
+        "time_int": 638
+    },
+    {
+        "action": "BACK",
+        "user": "",
+        "content": "{GrandMaster}",
+        "time_int": 643
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "sosei点名中间点几次无所谓的咯？",
+        "time_int": 644
+    },
+    {
+        "action": "TALK",
+        "user": "fivestar27",
+        "content": "嗯",
+        "time_int": 649
+    },
+    {
+        "action": "TALK",
+        "user": "fivestar27",
+        "content": "最后一个给分的~~",
+        "time_int": 654
+    },
+    {
+        "action": "TALK",
+        "user": "sosei",
+        "content": "是",
+        "time_int": 659
+    },
+    {
+        "action": "TALK",
+        "user": "fivestar27",
+        "content": "你点给分也行：）））））））））",
+        "time_int": 664
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "……",
+        "time_int": 669
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "-_-",
+        "time_int": 674
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "等会再说，现在讲课",
+        "time_int": 679
+    },
+    {
+        "action": "MOVE",
+        "user": "GrandMaster",
+        "content": "a9",
+        "time_int": 684
+    },
+    {
+        "action": "MOVE",
+        "user": "GrandMaster",
+        "content": "77",
+        "time_int": 687
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "白8最强手",
+        "time_int": 690
+    },
+    {
+        "action": "MOVE",
+        "user": "GrandMaster",
+        "content": "78",
+        "time_int": 695
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "黑9怎么说？谁来告诉我？",
+        "time_int": 698
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "- -+",
+        "time_int": 703
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "好小的眼睛",
+        "time_int": 708
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "我们跳过去。。这个黑9我不知道怎么解释",
+        "time_int": 713
+    },
+    {
+        "action": "MOVE",
+        "user": "GrandMaster",
+        "content": "69",
+        "time_int": 718
+    },
+    {
+        "action": "MOVE",
+        "user": "GrandMaster",
+        "content": "59",
+        "time_int": 721
+    },
+    {
+        "action": "MOVE",
+        "user": "GrandMaster",
+        "content": "a7",
+        "time_int": 724
+    },
+    {
+        "action": "TALK",
+        "user": "fivestar13",
+        "content": "没人了",
+        "time_int": 727
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "恩。。",
+        "time_int": 732
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "都去潜水了",
+        "time_int": 737
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "要不要现在点名？",
+        "time_int": 742
+    },
+    {
+        "action": "TALK",
+        "user": "fivestar27",
+        "content": "只知道黑9必要。为什么不知",
+        "time_int": 747
+    },
+    {
+        "action": "TALK",
+        "user": "fivestar13",
+        "content": "嗯",
+        "time_int": 752
+    },
+    {
+        "action": "MOVE",
+        "user": "GrandMaster",
+        "content": "7a",
+        "time_int": 757
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "这个13老定式",
+        "time_int": 760
+    },
+    {
+        "action": "BACK",
+        "user": "",
+        "content": "{GrandMaster}",
+        "time_int": 765
+    },
+    {
+        "action": "MOVE",
+        "user": "GrandMaster",
+        "content": "b6",
+        "time_int": 766
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "这个13是新的^_^",
+        "time_int": 769
+    },
+    {
+        "action": "TALK",
+        "user": "fivestar04",
+        "content": "这个13浩",
+        "time_int": 774
+    },
+    {
+        "action": "TALK",
+        "user": "fivestar04",
+        "content": "好",
+        "time_int": 779
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "陈文夏研究过这个13",
+        "time_int": 784
+    },
+    {
+        "action": "MOVE",
+        "user": "GrandMaster",
+        "content": "7a",
+        "time_int": 789
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "这个14是名人战上陈文夏和一个日本人下的",
+        "time_int": 792
+    },
+    {
+        "action": "TALK",
+        "user": "fivestar13",
+        "content": "。。。",
+        "time_int": 797
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "HOHO",
+        "time_int": 802
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "忘记那个人叫什么了",
+        "time_int": 807
+    },
+    {
+        "action": "MOVE",
+        "user": "GrandMaster",
+        "content": "6b",
+        "time_int": 812
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "15是最强手",
+        "time_int": 815
+    },
+    {
+        "action": "MOVE",
+        "user": "GrandMaster",
+        "content": "9a",
+        "time_int": 820
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "这个是日本老伯选择的16",
+        "time_int": 823
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "-_-怎么就GM一个人讲~",
+        "time_int": 828
+    },
+    {
+        "action": "TALK",
+        "user": "fivestar30",
+        "content": "GM万岁~",
+        "time_int": 833
+    },
+    {
+        "action": "TALK",
+        "user": "fivestar13",
+        "content": "。。",
+        "time_int": 838
+    },
+    {
+        "action": "TALK",
+        "user": "sosei",
+        "content": "嘿嘿",
+        "time_int": 843
+    },
+    {
+        "action": "TALK",
+        "user": "fivestar27",
+        "content": "点名",
+        "time_int": 848
+    },
+    {
+        "action": "MOVE",
+        "user": "fivestar10",
+        "content": "e3",
+        "time_int": 853
+    },
+    {
+        "action": "TALK",
+        "user": "fivestar13",
+        "content": "这个30是谁",
+        "time_int": 856
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "……",
+        "time_int": 861
+    },
+    {
+        "action": "BACK",
+        "user": "",
+        "content": "{GrandMaster}",
+        "time_int": 866
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "我呀",
+        "time_int": 867
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "^_^",
+        "time_int": 872
+    },
+    {
+        "action": "TALK",
+        "user": "fivestar13",
+        "content": "。。。。。。。。",
+        "time_int": 877
+    },
+    {
+        "action": "MOVE",
+        "user": "GrandMaster",
+        "content": "58",
+        "time_int": 882
+    },
+    {
+        "action": "TALK",
+        "user": "fivestar13",
+        "content": "自己对自己说？",
+        "time_int": 885
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "陈文夏下的这个17",
+        "time_int": 890
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "带动一下气愤。",
+        "time_int": 895
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "气氛。。",
+        "time_int": 900
+    },
+    {
+        "action": "TALK",
+        "user": "fivestar27",
+        "content": "日本老伯最后完蛋了",
+        "time_int": 905
+    },
+    {
+        "action": "TALK",
+        "user": "fivestar13",
+        "content": "怎么讲实战拉",
+        "time_int": 910
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "一点点分析。。",
+        "time_int": 915
+    },
+    {
+        "action": "MOVE",
+        "user": "fivestar10",
+        "content": "c5",
+        "time_int": 920
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "还有40分钟来",
+        "time_int": 923
+    },
+    {
+        "action": "BACK",
+        "user": "",
+        "content": "{GrandMaster}",
+        "time_int": 928
+    },
+    {
+        "action": "TALK",
+        "user": "fivestar13",
+        "content": "。。。。。",
+        "time_int": 929
+    },
+    {
+        "action": "TALK",
+        "user": "fivestar27",
+        "content": "哈~~``",
+        "time_int": 934
+    },
+    {
+        "action": "TALK",
+        "user": "fivestar04",
+        "content": "。。。。。。",
+        "time_int": 939
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "10号是谁。。别乱点，谢谢",
+        "time_int": 944
+    },
+    {
+        "action": "TALK",
+        "user": "sosei",
+        "content": "实战也好听",
+        "time_int": 949
+    },
+    {
+        "action": "TALK",
+        "user": "fivestar27",
+        "content": "你可以禁FREE",
+        "time_int": 954
+    },
+    {
+        "action": "TALK",
+        "user": "fivestar13",
+        "content": "你浪费我时间嘛",
+        "time_int": 959
+    },
+    {
+        "action": "TALK",
+        "user": "sosei",
+        "content": "你按Free",
+        "time_int": 964
+    },
+    {
+        "action": "TALK",
+        "user": "fivestar20",
+        "content": "抗日成功 哈哈",
+        "time_int": 969
+    },
+    {
+        "action": "TALK",
+        "user": "sosei",
+        "content": "按钮",
+        "time_int": 974
+    },
+    {
+        "action": "TALK",
+        "user": "fivestar13",
+        "content": "早知道今天不来了",
+        "time_int": 979
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "HOHO",
+        "time_int": 984
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "早不告诉我",
+        "time_int": 989
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "花月",
+        "time_int": 994
+    },
+    {
+        "action": "TALK",
+        "user": "sosei",
+        "content": "说了一句",
+        "time_int": 999
+    },
+    {
+        "action": "TALK",
+        "user": "fivestar04",
+        "content": "哈哈 这会帅了",
+        "time_int": 1004
+    },
+    {
+        "action": "TALK",
+        "user": "fivestar13",
+        "content": "－ －",
+        "time_int": 1009
+    },
+    {
+        "action": "TALK",
+        "user": "sosei",
+        "content": "你没听，cc",
+        "time_int": 1014
+    },
+    {
+        "action": "TALK",
+        "user": "fivestar13",
+        "content": "？",
+        "time_int": 1019
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "实战分析然后分析这个实战局涉及到的定式",
+        "time_int": 1024
+    },
+    {
+        "action": "MOVE",
+        "user": "GrandMaster",
+        "content": "98",
+        "time_int": 1029
+    },
+    {
+        "action": "TALK",
+        "user": "fivestar27",
+        "content": "先给点甜头",
+        "time_int": 1032
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "日本老伯下了这个18",
+        "time_int": 1037
+    },
+    {
+        "action": "TALK",
+        "user": "fivestar20",
+        "content": "好好 姑妈多讲点啊",
+        "time_int": 1042
+    },
+    {
+        "action": "MOVE",
+        "user": "GrandMaster",
+        "content": "5a",
+        "time_int": 1047
+    },
+    {
+        "action": "MOVE",
+        "user": "GrandMaster",
+        "content": "5b",
+        "time_int": 1050
+    },
+    {
+        "action": "MOVE",
+        "user": "GrandMaster",
+        "content": "49",
+        "time_int": 1053
+    },
+    {
+        "action": "MOVE",
+        "user": "GrandMaster",
+        "content": "38",
+        "time_int": 1056
+    },
+    {
+        "action": "MOVE",
+        "user": "GrandMaster",
+        "content": "3a",
+        "time_int": 1059
+    },
+    {
+        "action": "MOVE",
+        "user": "GrandMaster",
+        "content": "67",
+        "time_int": 1062
+    },
+    {
+        "action": "MOVE",
+        "user": "GrandMaster",
+        "content": "4a",
+        "time_int": 1065
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "现在已经无防了。。",
+        "time_int": 1068
+    },
+    {
+        "action": "MOVE",
+        "user": "GrandMaster",
+        "content": "6a",
+        "time_int": 1073
+    },
+    {
+        "action": "MOVE",
+        "user": "GrandMaster",
+        "content": "68",
+        "time_int": 1076
+    },
+    {
+        "action": "MOVE",
+        "user": "GrandMaster",
+        "content": "48",
+        "time_int": 1079
+    },
+    {
+        "action": "MOVE",
+        "user": "GrandMaster",
+        "content": "2c",
+        "time_int": 1082
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "VCF",
+        "time_int": 1085
+    },
+    {
+        "action": "TALK",
+        "user": "fivestar13",
+        "content": "这个18什么意思？",
+        "time_int": 1090
+    },
+    {
+        "action": "GOTO",
+        "user": "GrandMaster",
+        "content": "026",
+        "time_int": 1095
+    },
+    {
+        "action": "TALK",
+        "user": "fivestar04",
+        "content": "不是啊 这个17太强了",
+        "time_int": 1098
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "防收啊。。",
+        "time_int": 1103
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "防守啊。。",
+        "time_int": 1108
+    },
+    {
+        "action": "TALK",
+        "user": "fivestar13",
+        "content": "哦哦",
+        "time_int": 1113
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "^_^",
+        "time_int": 1118
+    },
+    {
+        "action": "BACK",
+        "user": "",
+        "content": "{GrandMaster}",
+        "time_int": 1123
+    },
+    {
+        "action": "MOVE",
+        "user": "GrandMaster",
+        "content": "2a",
+        "time_int": 1124
+    },
+    {
+        "action": "MOVE",
+        "user": "GrandMaster",
+        "content": "48",
+        "time_int": 1127
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "直接杀了",
+        "time_int": 1130
+    },
+    {
+        "action": "TALK",
+        "user": "fivestar27",
+        "content": "18防F8呢",
+        "time_int": 1135
+    },
+    {
+        "action": "GOTO",
+        "user": "GrandMaster",
+        "content": "017",
+        "time_int": 1140
+    },
+    {
+        "action": "MOVE",
+        "user": "GrandMaster",
+        "content": "68",
+        "time_int": 1143
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "这里？",
+        "time_int": 1146
+    },
+    {
+        "action": "TALK",
+        "user": "fivestar13",
+        "content": "嗯",
+        "time_int": 1151
+    },
+    {
+        "action": "MOVE",
+        "user": "GrandMaster",
+        "content": "98",
+        "time_int": 1156
+    },
+    {
+        "action": "TALK",
+        "user": "fivestar13",
+        "content": "怎么杀",
+        "time_int": 1159
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "19关键",
+        "time_int": 1164
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "HOHO",
+        "time_int": 1169
+    },
+    {
+        "action": "MOVE",
+        "user": "GrandMaster",
+        "content": "ba",
+        "time_int": 1174
+    },
+    {
+        "action": "MOVE",
+        "user": "GrandMaster",
+        "content": "8a",
+        "time_int": 1177
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "以下黑必胜了",
+        "time_int": 1180
+    },
+    {
+        "action": "BACK",
+        "user": "",
+        "content": "{GrandMaster}",
+        "time_int": 1185
+    },
+    {
+        "action": "MOVE",
+        "user": "GrandMaster",
+        "content": "57",
+        "time_int": 1186
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "我们看看这里",
+        "time_int": 1189
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "这个21是个反三",
+        "time_int": 1194
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "你们认为能胜吗",
+        "time_int": 1199
+    },
+    {
+        "action": "TALK",
+        "user": "fivestar27",
+        "content": "白胜",
+        "time_int": 1204
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "Y~",
+        "time_int": 1209
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "^_^点名拉~~~~~~~~~`",
+        "time_int": 1214
+    },
+    {
+        "action": "TALK",
+        "user": "fivestar13",
+        "content": "汗啊",
+        "time_int": 1219
+    },
+    {
+        "action": "TALK",
+        "user": "fivestar27",
+        "content": "第一~~~哈",
+        "time_int": 1224
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "哈哈~~~~~~``",
+        "time_int": 1229
+    },
+    {
+        "action": "TALK",
+        "user": "fivestar13",
+        "content": "我在躺椅上。。。。",
+        "time_int": 1234
+    },
+    {
+        "action": "CHECKRESULT",
+        "user": "",
+        "content": " fivestar27, fivestar30, fivestar13, mayhem, fivestar25, wzqclass70, fivestar21, fivestar20, fivestar04, fivestar05.",
+        "time_int": 1239
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "21白必胜",
+        "time_int": 1242
+    },
+    {
+        "action": "MOVE",
+        "user": "GrandMaster",
+        "content": "8a",
+        "time_int": 1247
+    },
+    {
+        "action": "MOVE",
+        "user": "GrandMaster",
+        "content": "aa",
+        "time_int": 1250
+    },
+    {
+        "action": "MOVE",
+        "user": "GrandMaster",
+        "content": "5a",
+        "time_int": 1253
+    },
+    {
+        "action": "MOVE",
+        "user": "GrandMaster",
+        "content": "6a",
+        "time_int": 1256
+    },
+    {
+        "action": "MOVE",
+        "user": "GrandMaster",
+        "content": "9c",
+        "time_int": 1259
+    },
+    {
+        "action": "MOVE",
+        "user": "GrandMaster",
+        "content": "8b",
+        "time_int": 1262
+    },
+    {
+        "action": "MOVE",
+        "user": "GrandMaster",
+        "content": "a8",
+        "time_int": 1265
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "看到了吗",
+        "time_int": 1268
+    },
+    {
+        "action": "TALK",
+        "user": "fivestar27",
+        "content": "28？",
+        "time_int": 1273
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "抓小手了",
+        "time_int": 1278
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "恩？",
+        "time_int": 1283
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "28不对吗",
+        "time_int": 1288
+    },
+    {
+        "action": "TALK",
+        "user": "fivestar27",
+        "content": "I1144",
+        "time_int": 1293
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "饿。。",
+        "time_int": 1298
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "抓小手比直接杀有味道^_^个人喜爱",
+        "time_int": 1303
+    },
+    {
+        "action": "TALK",
+        "user": "fivestar27",
+        "content": "黑J8先冲",
+        "time_int": 1308
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "恩",
+        "time_int": 1313
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "那样可能就是直接杀了，唯一杀",
+        "time_int": 1318
+    },
+    {
+        "action": "GOTO",
+        "user": "GrandMaster",
+        "content": "015",
+        "time_int": 1323
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "我们回到这里",
+        "time_int": 1326
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "谁建议其他16？",
+        "time_int": 1331
+    },
+    {
+        "action": "TALK",
+        "user": "fivestar27",
+        "content": "I8？",
+        "time_int": 1336
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "-_-",
+        "time_int": 1341
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "27的要求等等考虑",
+        "time_int": 1346
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "其他",
+        "time_int": 1351
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "有吗",
+        "time_int": 1356
+    },
+    {
+        "action": "TALK",
+        "user": "fivestar13",
+        "content": "I8",
+        "time_int": 1361
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "。。。。。。。",
+        "time_int": 1366
+    },
+    {
+        "action": "TALK",
+        "user": "fivestar13",
+        "content": "划3防掉",
+        "time_int": 1371
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "？",
+        "time_int": 1376
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "那里？",
+        "time_int": 1381
+    },
+    {
+        "action": "TALK",
+        "user": "fivestar04",
+        "content": "i11",
+        "time_int": 1386
+    },
+    {
+        "action": "TALK",
+        "user": "fivestar13",
+        "content": "禁手点",
+        "time_int": 1391
+    },
+    {
+        "action": "MOVE",
+        "user": "GrandMaster",
+        "content": "9b",
+        "time_int": 1396
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "这里？",
+        "time_int": 1399
+    },
+    {
+        "action": "TALK",
+        "user": "fivestar04",
+        "content": "西西",
+        "time_int": 1404
+    },
+    {
+        "action": "MOVE",
+        "user": "GrandMaster",
+        "content": "68",
+        "time_int": 1409
+    },
+    {
+        "action": "MOVE",
+        "user": "GrandMaster",
+        "content": "98",
+        "time_int": 1412
+    },
+    {
+        "action": "MOVE",
+        "user": "GrandMaster",
+        "content": "58",
+        "time_int": 1415
+    },
+    {
+        "action": "MOVE",
+        "user": "GrandMaster",
+        "content": "48",
+        "time_int": 1418
+    },
+    {
+        "action": "MOVE",
+        "user": "GrandMaster",
+        "content": "9a",
+        "time_int": 1421
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "这样的",
+        "time_int": 1424
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "17手解禁，活三",
+        "time_int": 1429
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "18唯一",
+        "time_int": 1434
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "19冲了挡白连2",
+        "time_int": 1439
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "21做一手。。白没有任何反击之力了",
+        "time_int": 1444
+    },
+    {
+        "action": "TALK",
+        "user": "fivestar10",
+        "content": "点名。",
+        "time_int": 1449
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "我倒。",
+        "time_int": 1454
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "刚点过",
+        "time_int": 1459
+    },
+    {
+        "action": "TALK",
+        "user": "fivestar13",
+        "content": "又点名，，，，",
+        "time_int": 1464
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "谁来说22防那里？",
+        "time_int": 1469
+    },
+    {
+        "action": "TALK",
+        "user": "fivestar27",
+        "content": "点不点无所谓，最后给分就行 ^-^",
+        "time_int": 1474
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "T_TGM要哭了",
+        "time_int": 1479
+    },
+    {
+        "action": "TALK",
+        "user": "fivestar13",
+        "content": "？",
+        "time_int": 1484
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "22~~",
+        "time_int": 1489
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "谁来防？",
+        "time_int": 1494
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "防那里？",
+        "time_int": 1499
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "-_-快~不提就没机会拉~",
+        "time_int": 1504
+    },
+    {
+        "action": "TALK",
+        "user": "fivestar13",
+        "content": "不知道",
+        "time_int": 1509
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "饿。。",
+        "time_int": 1514
+    },
+    {
+        "action": "MOVE",
+        "user": "GrandMaster",
+        "content": "8b",
+        "time_int": 1519
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "这个22",
+        "time_int": 1522
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "挡黑连2",
+        "time_int": 1527
+    },
+    {
+        "action": "MOVE",
+        "user": "GrandMaster",
+        "content": "5a",
+        "time_int": 1532
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "但是这里有杀",
+        "time_int": 1535
+    },
+    {
+        "action": "MOVE",
+        "user": "GrandMaster",
+        "content": "5b",
+        "time_int": 1540
+    },
+    {
+        "action": "MOVE",
+        "user": "GrandMaster",
+        "content": "49",
+        "time_int": 1543
+    },
+    {
+        "action": "MOVE",
+        "user": "GrandMaster",
+        "content": "38",
+        "time_int": 1546
+    },
+    {
+        "action": "TALK",
+        "user": "fivestar13",
+        "content": "嗯",
+        "time_int": 1549
+    },
+    {
+        "action": "MOVE",
+        "user": "GrandMaster",
+        "content": "76",
+        "time_int": 1554
+    },
+    {
+        "action": "MOVE",
+        "user": "GrandMaster",
+        "content": "67",
+        "time_int": 1557
+    },
+    {
+        "action": "MOVE",
+        "user": "GrandMaster",
+        "content": "b4",
+        "time_int": 1560
+    },
+    {
+        "action": "TALK",
+        "user": "fivestar27",
+        "content": "29好远~~~~",
+        "time_int": 1563
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "29又是远远的飘了一手",
+        "time_int": 1568
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "HOHO",
+        "time_int": 1573
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "sosei流~飘~",
+        "time_int": 1578
+    },
+    {
+        "action": "TALK",
+        "user": "fivestar13",
+        "content": "太飘了",
+        "time_int": 1583
+    },
+    {
+        "action": "TALK",
+        "user": "fivestar27",
+        "content": "飘的飘亮~~`",
+        "time_int": 1588
+    },
+    {
+        "action": "TALK",
+        "user": "fivestar20",
+        "content": "飘洋过海~~  强",
+        "time_int": 1593
+    },
+    {
+        "action": "TALK",
+        "user": "fivestar13",
+        "content": "、、",
+        "time_int": 1598
+    },
+    {
+        "action": "MOVE",
+        "user": "GrandMaster",
+        "content": "a5",
+        "time_int": 1603
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "这个最强吧",
+        "time_int": 1606
+    },
+    {
+        "action": "MOVE",
+        "user": "GrandMaster",
+        "content": "b5",
+        "time_int": 1611
+    },
+    {
+        "action": "MOVE",
+        "user": "GrandMaster",
+        "content": "b3",
+        "time_int": 1614
+    },
+    {
+        "action": "MOVE",
+        "user": "GrandMaster",
+        "content": "a6",
+        "time_int": 1617
+    },
+    {
+        "action": "MOVE",
+        "user": "GrandMaster",
+        "content": "c4",
+        "time_int": 1620
+    },
+    {
+        "action": "MOVE",
+        "user": "GrandMaster",
+        "content": "86",
+        "time_int": 1623
+    },
+    {
+        "action": "MOVE",
+        "user": "GrandMaster",
+        "content": "96",
+        "time_int": 1626
+    },
+    {
+        "action": "MOVE",
+        "user": "GrandMaster",
+        "content": "85",
+        "time_int": 1629
+    },
+    {
+        "action": "BACK",
+        "user": "",
+        "content": "{GrandMaster}",
+        "time_int": 1632
+    },
+    {
+        "action": "BACK",
+        "user": "",
+        "content": "{GrandMaster}",
+        "time_int": 1633
+    },
+    {
+        "action": "BACK",
+        "user": "",
+        "content": "{GrandMaster}",
+        "time_int": 1634
+    },
+    {
+        "action": "MOVE",
+        "user": "GrandMaster",
+        "content": "b8",
+        "time_int": 1635
+    },
+    {
+        "action": "MOVE",
+        "user": "GrandMaster",
+        "content": "b7",
+        "time_int": 1638
+    },
+    {
+        "action": "MOVE",
+        "user": "GrandMaster",
+        "content": "d6",
+        "time_int": 1641
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "直接杀。。",
+        "time_int": 1644
+    },
+    {
+        "action": "BACK",
+        "user": "",
+        "content": "{GrandMaster}",
+        "time_int": 1649
+    },
+    {
+        "action": "BACK",
+        "user": "",
+        "content": "{GrandMaster}",
+        "time_int": 1650
+    },
+    {
+        "action": "BACK",
+        "user": "",
+        "content": "{GrandMaster}",
+        "time_int": 1651
+    },
+    {
+        "action": "BACK",
+        "user": "",
+        "content": "{GrandMaster}",
+        "time_int": 1652
+    },
+    {
+        "action": "BACK",
+        "user": "",
+        "content": "{GrandMaster}",
+        "time_int": 1653
+    },
+    {
+        "action": "BACK",
+        "user": "",
+        "content": "{GrandMaster}",
+        "time_int": 1654
+    },
+    {
+        "action": "MOVE",
+        "user": "GrandMaster",
+        "content": "b7",
+        "time_int": 1655
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "所以32反挡",
+        "time_int": 1658
+    },
+    {
+        "action": "MOVE",
+        "user": "GrandMaster",
+        "content": "b2",
+        "time_int": 1663
+    },
+    {
+        "action": "MOVE",
+        "user": "GrandMaster",
+        "content": "b3",
+        "time_int": 1666
+    },
+    {
+        "action": "MOVE",
+        "user": "GrandMaster",
+        "content": "85",
+        "time_int": 1669
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "这里又做了一手",
+        "time_int": 1672
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "谁来说一下防？",
+        "time_int": 1677
+    },
+    {
+        "action": "MOVE",
+        "user": "GrandMaster",
+        "content": "f1",
+        "time_int": 1682
+    },
+    {
+        "action": "MOVE",
+        "user": "GrandMaster",
+        "content": "94",
+        "time_int": 1685
+    },
+    {
+        "action": "MOVE",
+        "user": "GrandMaster",
+        "content": "a3",
+        "time_int": 1688
+    },
+    {
+        "action": "MOVE",
+        "user": "GrandMaster",
+        "content": "c4",
+        "time_int": 1691
+    },
+    {
+        "action": "MOVE",
+        "user": "GrandMaster",
+        "content": "a6",
+        "time_int": 1694
+    },
+    {
+        "action": "MOVE",
+        "user": "GrandMaster",
+        "content": "a4",
+        "time_int": 1697
+    },
+    {
+        "action": "BACK",
+        "user": "",
+        "content": "{GrandMaster}",
+        "time_int": 1700
+    },
+    {
+        "action": "BACK",
+        "user": "",
+        "content": "{GrandMaster}",
+        "time_int": 1701
+    },
+    {
+        "action": "BACK",
+        "user": "",
+        "content": "{GrandMaster}",
+        "time_int": 1702
+    },
+    {
+        "action": "BACK",
+        "user": "",
+        "content": "{GrandMaster}",
+        "time_int": 1703
+    },
+    {
+        "action": "BACK",
+        "user": "",
+        "content": "{GrandMaster}",
+        "time_int": 1704
+    },
+    {
+        "action": "BACK",
+        "user": "",
+        "content": "{GrandMaster}",
+        "time_int": 1705
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "做V",
+        "time_int": 1706
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "谁来防？",
+        "time_int": 1711
+    },
+    {
+        "action": "TALK",
+        "user": "fivestar27",
+        "content": "二个V",
+        "time_int": 1716
+    },
+    {
+        "action": "TALK",
+        "user": "fivestar27",
+        "content": "怎么防？",
+        "time_int": 1721
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "HOHO",
+        "time_int": 1726
+    },
+    {
+        "action": "TALK",
+        "user": "fivestar27",
+        "content": "E6。H6",
+        "time_int": 1731
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "-_-27太聪明了",
+        "time_int": 1736
+    },
+    {
+        "action": "GOTO",
+        "user": "GrandMaster",
+        "content": "016",
+        "time_int": 1741
+    },
+    {
+        "action": "BACK",
+        "user": "",
+        "content": "{GrandMaster}",
+        "time_int": 1744
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "还有谁来防16？",
+        "time_int": 1745
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "抓sosei。。带头开小差",
+        "time_int": 1750
+    },
+    {
+        "action": "TALK",
+        "user": "fivestar27",
+        "content": "16E8？",
+        "time_int": 1755
+    },
+    {
+        "action": "MOVE",
+        "user": "GrandMaster",
+        "content": "58",
+        "time_int": 1760
+    },
+    {
+        "action": "MOVE",
+        "user": "GrandMaster",
+        "content": "8b",
+        "time_int": 1763
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "然后呢。怎么防",
+        "time_int": 1766
+    },
+    {
+        "action": "TALK",
+        "user": "fivestar27",
+        "content": "K8",
+        "time_int": 1771
+    },
+    {
+        "action": "TALK",
+        "user": "sosei",
+        "content": "哎呀阿",
+        "time_int": 1776
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "怪不得没人当姑妈……原来侄子们都去泡MM了",
+        "time_int": 1781
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "^_^",
+        "time_int": 1786
+    },
+    {
+        "action": "TALK",
+        "user": "sosei",
+        "content": "嘻嘻",
+        "time_int": 1791
+    },
+    {
+        "action": "TALK",
+        "user": "fivestar04",
+        "content": "。。。。。。。",
+        "time_int": 1796
+    },
+    {
+        "action": "TALK",
+        "user": "fivestar13",
+        "content": "。。。。。",
+        "time_int": 1801
+    },
+    {
+        "action": "MOVE",
+        "user": "GrandMaster",
+        "content": "b8",
+        "time_int": 1806
+    },
+    {
+        "action": "MOVE",
+        "user": "GrandMaster",
+        "content": "98",
+        "time_int": 1809
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "防哪",
+        "time_int": 1812
+    },
+    {
+        "action": "TALK",
+        "user": "fivestar27",
+        "content": "下面",
+        "time_int": 1817
+    },
+    {
+        "action": "MOVE",
+        "user": "GrandMaster",
+        "content": "76",
+        "time_int": 1822
+    },
+    {
+        "action": "TALK",
+        "user": "fivestar13",
+        "content": "我妈叫我睡觉了。。。。",
+        "time_int": 1825
+    },
+    {
+        "action": "MOVE",
+        "user": "GrandMaster",
+        "content": "a8",
+        "time_int": 1830
+    },
+    {
+        "action": "MOVE",
+        "user": "GrandMaster",
+        "content": "68",
+        "time_int": 1833
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "哦。。",
+        "time_int": 1836
+    },
+    {
+        "action": "TALK",
+        "user": "fivestar04",
+        "content": "。。。。。。",
+        "time_int": 1841
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "去吧",
+        "time_int": 1846
+    },
+    {
+        "action": "MOVE",
+        "user": "GrandMaster",
+        "content": "b9",
+        "time_int": 1851
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "防那里？",
+        "time_int": 1854
+    },
+    {
+        "action": "TALK",
+        "user": "fivestar13",
+        "content": "等你上好课呀",
+        "time_int": 1859
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "……",
+        "time_int": 1864
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "我还20分钟",
+        "time_int": 1869
+    },
+    {
+        "action": "MOVE",
+        "user": "GrandMaster",
+        "content": "ca",
+        "time_int": 1874
+    },
+    {
+        "action": "MOVE",
+        "user": "GrandMaster",
+        "content": "9b",
+        "time_int": 1877
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "防哪？",
+        "time_int": 1880
+    },
+    {
+        "action": "TALK",
+        "user": "fivestar27",
+        "content": "只能中间还能哪",
+        "time_int": 1885
+    },
+    {
+        "action": "MOVE",
+        "user": "GrandMaster",
+        "content": "7b",
+        "time_int": 1890
+    },
+    {
+        "action": "MOVE",
+        "user": "GrandMaster",
+        "content": "cb",
+        "time_int": 1893
+    },
+    {
+        "action": "MOVE",
+        "user": "GrandMaster",
+        "content": "ba",
+        "time_int": 1896
+    },
+    {
+        "action": "MOVE",
+        "user": "GrandMaster",
+        "content": "ab",
+        "time_int": 1899
+    },
+    {
+        "action": "MOVE",
+        "user": "GrandMaster",
+        "content": "bb",
+        "time_int": 1902
+    },
+    {
+        "action": "MOVE",
+        "user": "GrandMaster",
+        "content": "aa",
+        "time_int": 1905
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "一个VCF",
+        "time_int": 1908
+    },
+    {
+        "action": "GOTO",
+        "user": "GrandMaster",
+        "content": "025",
+        "time_int": 1913
+    },
+    {
+        "action": "MOVE",
+        "user": "GrandMaster",
+        "content": "ab",
+        "time_int": 1916
+    },
+    {
+        "action": "MOVE",
+        "user": "GrandMaster",
+        "content": "8c",
+        "time_int": 1919
+    },
+    {
+        "action": "MOVE",
+        "user": "GrandMaster",
+        "content": "aa",
+        "time_int": 1922
+    },
+    {
+        "action": "MOVE",
+        "user": "GrandMaster",
+        "content": "7b",
+        "time_int": 1925
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "26挡E11一样",
+        "time_int": 1928
+    },
+    {
+        "action": "BACK",
+        "user": "",
+        "content": "{GrandMaster}",
+        "time_int": 1933
+    },
+    {
+        "action": "BACK",
+        "user": "",
+        "content": "{GrandMaster}",
+        "time_int": 1934
+    },
+    {
+        "action": "BACK",
+        "user": "",
+        "content": "{GrandMaster}",
+        "time_int": 1935
+    },
+    {
+        "action": "BACK",
+        "user": "",
+        "content": "{GrandMaster}",
+        "time_int": 1936
+    },
+    {
+        "action": "BACK",
+        "user": "",
+        "content": "{GrandMaster}",
+        "time_int": 1937
+    },
+    {
+        "action": "BACK",
+        "user": "",
+        "content": "{GrandMaster}",
+        "time_int": 1938
+    },
+    {
+        "action": "BACK",
+        "user": "",
+        "content": "{GrandMaster}",
+        "time_int": 1939
+    },
+    {
+        "action": "BACK",
+        "user": "",
+        "content": "{GrandMaster}",
+        "time_int": 1940
+    },
+    {
+        "action": "BACK",
+        "user": "",
+        "content": "{GrandMaster}",
+        "time_int": 1941
+    },
+    {
+        "action": "BACK",
+        "user": "",
+        "content": "{GrandMaster}",
+        "time_int": 1942
+    },
+    {
+        "action": "BACK",
+        "user": "",
+        "content": "{GrandMaster}",
+        "time_int": 1943
+    },
+    {
+        "action": "BACK",
+        "user": "",
+        "content": "{GrandMaster}",
+        "time_int": 1944
+    },
+    {
+        "action": "BACK",
+        "user": "",
+        "content": "{GrandMaster}",
+        "time_int": 1945
+    },
+    {
+        "action": "BACK",
+        "user": "",
+        "content": "{GrandMaster}",
+        "time_int": 1946
+    },
+    {
+        "action": "MOVE",
+        "user": "GrandMaster",
+        "content": "98",
+        "time_int": 1947
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "这个是最强16",
+        "time_int": 1950
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "直接下在禁手点",
+        "time_int": 1955
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "也是一种很强的下法",
+        "time_int": 1960
+    },
+    {
+        "action": "MOVE",
+        "user": "GrandMaster",
+        "content": "8b",
+        "time_int": 1965
+    },
+    {
+        "action": "TALK",
+        "user": "fivestar27",
+        "content": "老13的16也挡在这里的：）",
+        "time_int": 1968
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "啊？",
+        "time_int": 1973
+    },
+    {
+        "action": "GOTO",
+        "user": "GrandMaster",
+        "content": "012",
+        "time_int": 1978
+    },
+    {
+        "action": "MOVE",
+        "user": "GrandMaster",
+        "content": "7a",
+        "time_int": 1981
+    },
+    {
+        "action": "MOVE",
+        "user": "GrandMaster",
+        "content": "b6",
+        "time_int": 1984
+    },
+    {
+        "action": "MOVE",
+        "user": "GrandMaster",
+        "content": "c5",
+        "time_int": 1987
+    },
+    {
+        "action": "MOVE",
+        "user": "GrandMaster",
+        "content": "98",
+        "time_int": 1990
+    },
+    {
+        "action": "BACK",
+        "user": "",
+        "content": "{GrandMaster}",
+        "time_int": 1993
+    },
+    {
+        "action": "MOVE",
+        "user": "GrandMaster",
+        "content": "98",
+        "time_int": 1994
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "这样？",
+        "time_int": 1997
+    },
+    {
+        "action": "TALK",
+        "user": "fivestar13",
+        "content": "－ －",
+        "time_int": 2002
+    },
+    {
+        "action": "MOVE",
+        "user": "GrandMaster",
+        "content": "c6",
+        "time_int": 2007
+    },
+    {
+        "action": "BACK",
+        "user": "",
+        "content": "{GrandMaster}",
+        "time_int": 2010
+    },
+    {
+        "action": "BACK",
+        "user": "",
+        "content": "{GrandMaster}",
+        "time_int": 2011
+    },
+    {
+        "action": "BACK",
+        "user": "",
+        "content": "{GrandMaster}",
+        "time_int": 2012
+    },
+    {
+        "action": "BACK",
+        "user": "",
+        "content": "{GrandMaster}",
+        "time_int": 2013
+    },
+    {
+        "action": "BACK",
+        "user": "",
+        "content": "{GrandMaster}",
+        "time_int": 2014
+    },
+    {
+        "action": "MOVE",
+        "user": "GrandMaster",
+        "content": "b6",
+        "time_int": 2015
+    },
+    {
+        "action": "MOVE",
+        "user": "GrandMaster",
+        "content": "7a",
+        "time_int": 2018
+    },
+    {
+        "action": "MOVE",
+        "user": "GrandMaster",
+        "content": "6b",
+        "time_int": 2021
+    },
+    {
+        "action": "MOVE",
+        "user": "GrandMaster",
+        "content": "98",
+        "time_int": 2024
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "我们讲这个13。`不讲老的~",
+        "time_int": 2027
+    },
+    {
+        "action": "TALK",
+        "user": "fivestar04",
+        "content": "GM好辛苦  。。。。。  啵~个",
+        "time_int": 2032
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "老的偶不会~",
+        "time_int": 2037
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "恩~04 啵~",
+        "time_int": 2042
+    },
+    {
+        "action": "MOVE",
+        "user": "GrandMaster",
+        "content": "8b",
+        "time_int": 2047
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "17是最有价值的一手",
+        "time_int": 2050
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "HOHO",
+        "time_int": 2055
+    },
+    {
+        "action": "BACK",
+        "user": "",
+        "content": "{GrandMaster}",
+        "time_int": 2060
+    },
+    {
+        "action": "MOVE",
+        "user": "GrandMaster",
+        "content": "8b",
+        "time_int": 2061
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "谁来说防？",
+        "time_int": 2064
+    },
+    {
+        "action": "TALK",
+        "user": "fivestar27",
+        "content": "18-G11？",
+        "time_int": 2069
+    },
+    {
+        "action": "MOVE",
+        "user": "GrandMaster",
+        "content": "7b",
+        "time_int": 2074
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "HOHO",
+        "time_int": 2077
+    },
+    {
+        "action": "MOVE",
+        "user": "GrandMaster",
+        "content": "7c",
+        "time_int": 2082
+    },
+    {
+        "action": "MOVE",
+        "user": "GrandMaster",
+        "content": "9a",
+        "time_int": 2085
+    },
+    {
+        "action": "MOVE",
+        "user": "GrandMaster",
+        "content": "8a",
+        "time_int": 2088
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "这个是27流~~",
+        "time_int": 2091
+    },
+    {
+        "action": "BACK",
+        "user": "",
+        "content": "{GrandMaster}",
+        "time_int": 2096
+    },
+    {
+        "action": "MOVE",
+        "user": "GrandMaster",
+        "content": "5a",
+        "time_int": 2097
+    },
+    {
+        "action": "BACK",
+        "user": "",
+        "content": "{GrandMaster}",
+        "time_int": 2100
+    },
+    {
+        "action": "MOVE",
+        "user": "GrandMaster",
+        "content": "8a",
+        "time_int": 2101
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "提一下",
+        "time_int": 2104
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "这个21防上面下面做杀，防下面上面直接杀",
+        "time_int": 2109
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "是牵制作用",
+        "time_int": 2114
+    },
+    {
+        "action": "BACK",
+        "user": "",
+        "content": "{GrandMaster}",
+        "time_int": 2119
+    },
+    {
+        "action": "MOVE",
+        "user": "GrandMaster",
+        "content": "5a",
+        "time_int": 2120
+    },
+    {
+        "action": "TALK",
+        "user": "fivestar10",
+        "content": "啊",
+        "time_int": 2123
+    },
+    {
+        "action": "TALK",
+        "user": "fivestar08",
+        "content": "am i late?",
+        "time_int": 2128
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "-_-yes",
+        "time_int": 2133
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "you are late",
+        "time_int": 2138
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "08是雨？",
+        "time_int": 2143
+    },
+    {
+        "action": "TALK",
+        "user": "wzqclass15",
+        "content": "08是寒星",
+        "time_int": 2148
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "这个21是实战下的。。",
+        "time_int": 2153
+    },
+    {
+        "action": "MOVE",
+        "user": "GrandMaster",
+        "content": "49",
+        "time_int": 2158
+    },
+    {
+        "action": "TALK",
+        "user": "fivestar08",
+        "content": "08 is xuwu",
+        "time_int": 2161
+    },
+    {
+        "action": "MOVE",
+        "user": "GrandMaster",
+        "content": "5c",
+        "time_int": 2166
+    },
+    {
+        "action": "MOVE",
+        "user": "GrandMaster",
+        "content": "5b",
+        "time_int": 2169
+    },
+    {
+        "action": "MOVE",
+        "user": "GrandMaster",
+        "content": "8c",
+        "time_int": 2172
+    },
+    {
+        "action": "MOVE",
+        "user": "GrandMaster",
+        "content": "9c",
+        "time_int": 2175
+    },
+    {
+        "action": "MOVE",
+        "user": "GrandMaster",
+        "content": "9b",
+        "time_int": 2178
+    },
+    {
+        "action": "TALK",
+        "user": "wzqclass15",
+        "content": "y",
+        "time_int": 2181
+    },
+    {
+        "action": "MOVE",
+        "user": "GrandMaster",
+        "content": "8a",
+        "time_int": 2186
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "28这里是唯一的",
+        "time_int": 2189
+    },
+    {
+        "action": "MOVE",
+        "user": "GrandMaster",
+        "content": "6c",
+        "time_int": 2194
+    },
+    {
+        "action": "MOVE",
+        "user": "GrandMaster",
+        "content": "4c",
+        "time_int": 2197
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "然后就是交换几手",
+        "time_int": 2200
+    },
+    {
+        "action": "MOVE",
+        "user": "GrandMaster",
+        "content": "aa",
+        "time_int": 2205
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "怎么防？",
+        "time_int": 2208
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "谁来说一下",
+        "time_int": 2213
+    },
+    {
+        "action": "TALK",
+        "user": "sosei",
+        "content": "上",
+        "time_int": 2218
+    },
+    {
+        "action": "TALK",
+        "user": "sosei",
+        "content": "ccc",
+        "time_int": 2223
+    },
+    {
+        "action": "MOVE",
+        "user": "GrandMaster",
+        "content": "7d",
+        "time_int": 2228
+    },
+    {
+        "action": "MOVE",
+        "user": "GrandMaster",
+        "content": "b7",
+        "time_int": 2231
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "33做杀",
+        "time_int": 2234
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "防那里？",
+        "time_int": 2239
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "……",
+        "time_int": 2244
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "来个防",
+        "time_int": 2249
+    },
+    {
+        "action": "TALK",
+        "user": "sosei",
+        "content": "can",
+        "time_int": 2254
+    },
+    {
+        "action": "TALK",
+        "user": "xuwu",
+        "content": "1321",
+        "time_int": 2259
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "..",
+        "time_int": 2264
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "where?",
+        "time_int": 2269
+    },
+    {
+        "action": "TALK",
+        "user": "fivestar08",
+        "content": "K8",
+        "time_int": 2274
+    },
+    {
+        "action": "MOVE",
+        "user": "GrandMaster",
+        "content": "b8",
+        "time_int": 2279
+    },
+    {
+        "action": "MOVE",
+        "user": "GrandMaster",
+        "content": "a6",
+        "time_int": 2282
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "继续做一手",
+        "time_int": 2285
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "怎么防",
+        "time_int": 2290
+    },
+    {
+        "action": "TALK",
+        "user": "fivestar08",
+        "content": "双杀了！",
+        "time_int": 2295
+    },
+    {
+        "action": "TALK",
+        "user": "fivestar30",
+        "content": "HOHO",
+        "time_int": 2300
+    },
+    {
+        "action": "TALK",
+        "user": "fivestar13",
+        "content": "、、、",
+        "time_int": 2305
+    },
+    {
+        "action": "MOVE",
+        "user": "GrandMaster",
+        "content": "c8",
+        "time_int": 2310
+    },
+    {
+        "action": "MOVE",
+        "user": "GrandMaster",
+        "content": "b5",
+        "time_int": 2313
+    },
+    {
+        "action": "MOVE",
+        "user": "GrandMaster",
+        "content": "c4",
+        "time_int": 2316
+    },
+    {
+        "action": "MOVE",
+        "user": "GrandMaster",
+        "content": "b4",
+        "time_int": 2319
+    },
+    {
+        "action": "MOVE",
+        "user": "GrandMaster",
+        "content": "b3",
+        "time_int": 2322
+    },
+    {
+        "action": "MOVE",
+        "user": "GrandMaster",
+        "content": "96",
+        "time_int": 2325
+    },
+    {
+        "action": "BACK",
+        "user": "",
+        "content": "{GrandMaster}",
+        "time_int": 2328
+    },
+    {
+        "action": "BACK",
+        "user": "",
+        "content": "{GrandMaster}",
+        "time_int": 2329
+    },
+    {
+        "action": "BACK",
+        "user": "",
+        "content": "{GrandMaster}",
+        "time_int": 2330
+    },
+    {
+        "action": "BACK",
+        "user": "",
+        "content": "{GrandMaster}",
+        "time_int": 2331
+    },
+    {
+        "action": "BACK",
+        "user": "",
+        "content": "{GrandMaster}",
+        "time_int": 2332
+    },
+    {
+        "action": "BACK",
+        "user": "",
+        "content": "{GrandMaster}",
+        "time_int": 2333
+    },
+    {
+        "action": "MOVE",
+        "user": "GrandMaster",
+        "content": "96",
+        "time_int": 2334
+    },
+    {
+        "action": "MOVE",
+        "user": "GrandMaster",
+        "content": "c8",
+        "time_int": 2337
+    },
+    {
+        "action": "BACK",
+        "user": "",
+        "content": "{GrandMaster}",
+        "time_int": 2340
+    },
+    {
+        "action": "BACK",
+        "user": "",
+        "content": "{GrandMaster}",
+        "time_int": 2341
+    },
+    {
+        "action": "BACK",
+        "user": "",
+        "content": "{GrandMaster}",
+        "time_int": 2342
+    },
+    {
+        "action": "BACK",
+        "user": "",
+        "content": "{GrandMaster}",
+        "time_int": 2343
+    },
+    {
+        "action": "BACK",
+        "user": "",
+        "content": "{GrandMaster}",
+        "time_int": 2344
+    },
+    {
+        "action": "BACK",
+        "user": "",
+        "content": "{GrandMaster}",
+        "time_int": 2345
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "还有谁来防32？",
+        "time_int": 2346
+    },
+    {
+        "action": "TALK",
+        "user": "fivestar27",
+        "content": "32--C13",
+        "time_int": 2351
+    },
+    {
+        "action": "MOVE",
+        "user": "GrandMaster",
+        "content": "3d",
+        "time_int": 2356
+    },
+    {
+        "action": "MOVE",
+        "user": "GrandMaster",
+        "content": "6a",
+        "time_int": 2359
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "然后呢",
+        "time_int": 2362
+    },
+    {
+        "action": "TALK",
+        "user": "fivestar27",
+        "content": "下面",
+        "time_int": 2367
+    },
+    {
+        "action": "MOVE",
+        "user": "GrandMaster",
+        "content": "b9",
+        "time_int": 2372
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "HOHO",
+        "time_int": 2375
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "这个就是21为什么不行的理由了",
+        "time_int": 2380
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "没拆出来胜",
+        "time_int": 2385
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "21冲。。34挡下面上面成44",
+        "time_int": 2390
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "这个不好杀，实战黑优攻猛的话或许能杀",
+        "time_int": 2395
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "或者这个是必胜的，但是我没拆出来",
+        "time_int": 2400
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "所以21不好",
+        "time_int": 2405
+    },
+    {
+        "action": "GOTO",
+        "user": "GrandMaster",
+        "content": "021",
+        "time_int": 2410
+    },
+    {
+        "action": "BACK",
+        "user": "",
+        "content": "{GrandMaster}",
+        "time_int": 2413
+    },
+    {
+        "action": "MOVE",
+        "user": "GrandMaster",
+        "content": "8a",
+        "time_int": 2414
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "27流~",
+        "time_int": 2417
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "谁来防",
+        "time_int": 2422
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "……",
+        "time_int": 2427
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "太安静了",
+        "time_int": 2432
+    },
+    {
+        "action": "TALK",
+        "user": "fivestar04",
+        "content": "刚才防哪了？",
+        "time_int": 2437
+    },
+    {
+        "action": "TALK",
+        "user": "fivestar08",
+        "content": "不好防吧",
+        "time_int": 2442
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "？",
+        "time_int": 2447
+    },
+    {
+        "action": "TALK",
+        "user": "fivestar13",
+        "content": "睡着了",
+        "time_int": 2452
+    },
+    {
+        "action": "TALK",
+        "user": "fivestar04",
+        "content": "上把防哪？",
+        "time_int": 2457
+    },
+    {
+        "action": "BACK",
+        "user": "",
+        "content": "{GrandMaster}",
+        "time_int": 2462
+    },
+    {
+        "action": "MOVE",
+        "user": "GrandMaster",
+        "content": "5a",
+        "time_int": 2463
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "刚才是这个21",
+        "time_int": 2466
+    },
+    {
+        "action": "BACK",
+        "user": "",
+        "content": "{GrandMaster}",
+        "time_int": 2471
+    },
+    {
+        "action": "MOVE",
+        "user": "GrandMaster",
+        "content": "8a",
+        "time_int": 2472
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "现在来讲必胜的21",
+        "time_int": 2475
+    },
+    {
+        "action": "TALK",
+        "user": "fivestar04",
+        "content": "直接防h13",
+        "time_int": 2480
+    },
+    {
+        "action": "MOVE",
+        "user": "GrandMaster",
+        "content": "8d",
+        "time_int": 2485
+    },
+    {
+        "action": "MOVE",
+        "user": "GrandMaster",
+        "content": "b4",
+        "time_int": 2488
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "这个23做下面",
+        "time_int": 2491
+    },
+    {
+        "action": "TALK",
+        "user": "fivestar04",
+        "content": "晕  这不是色色流么？",
+        "time_int": 2496
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "这个22是最强防 哈哈",
+        "time_int": 2501
+    },
+    {
+        "action": "TALK",
+        "user": "fivestar20",
+        "content": "又飘啊",
+        "time_int": 2506
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "多多厉害",
+        "time_int": 2511
+    },
+    {
+        "action": "MOVE",
+        "user": "GrandMaster",
+        "content": "a5",
+        "time_int": 2516
+    },
+    {
+        "action": "TALK",
+        "user": "sosei",
+        "content": "流口水",
+        "time_int": 2519
+    },
+    {
+        "action": "TALK",
+        "user": "fivestar08",
+        "content": "no defense",
+        "time_int": 2524
+    },
+    {
+        "action": "MOVE",
+        "user": "GrandMaster",
+        "content": "b5",
+        "time_int": 2529
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "对",
+        "time_int": 2532
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "无防了",
+        "time_int": 2537
+    },
+    {
+        "action": "BACK",
+        "user": "",
+        "content": "{GrandMaster}",
+        "time_int": 2542
+    },
+    {
+        "action": "BACK",
+        "user": "",
+        "content": "{GrandMaster}",
+        "time_int": 2543
+    },
+    {
+        "action": "BACK",
+        "user": "",
+        "content": "{GrandMaster}",
+        "time_int": 2544
+    },
+    {
+        "action": "BACK",
+        "user": "",
+        "content": "{GrandMaster}",
+        "time_int": 2545
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "还有其他22吗",
+        "time_int": 2546
+    },
+    {
+        "action": "TALK",
+        "user": "fivestar08",
+        "content": "其他也一样吧？",
+        "time_int": 2551
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "差不多吧",
+        "time_int": 2556
+    },
+    {
+        "action": "TALK",
+        "user": "fivestar08",
+        "content": "顾上顾不了下",
+        "time_int": 2561
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "对",
+        "time_int": 2566
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "sosei抓到了。。",
+        "time_int": 2571
+    },
+    {
+        "action": "BACK",
+        "user": "",
+        "content": "{GrandMaster}",
+        "time_int": 2576
+    },
+    {
+        "action": "BACK",
+        "user": "",
+        "content": "{GrandMaster}",
+        "time_int": 2577
+    },
+    {
+        "action": "TALK",
+        "user": "fivestar27",
+        "content": "哈~~~今晚老坐沙发",
+        "time_int": 2578
+    },
+    {
+        "action": "BACK",
+        "user": "",
+        "content": "{GrandMaster}",
+        "time_int": 2583
+    },
+    {
+        "action": "BACK",
+        "user": "",
+        "content": "{GrandMaster}",
+        "time_int": 2584
+    },
+    {
+        "action": "MOVE",
+        "user": "GrandMaster",
+        "content": "7b",
+        "time_int": 2585
+    },
+    {
+        "action": "MOVE",
+        "user": "GrandMaster",
+        "content": "7c",
+        "time_int": 2588
+    },
+    {
+        "action": "MOVE",
+        "user": "GrandMaster",
+        "content": "9a",
+        "time_int": 2591
+    },
+    {
+        "action": "MOVE",
+        "user": "GrandMaster",
+        "content": "8a",
+        "time_int": 2594
+    },
+    {
+        "action": "CHECKRESULT",
+        "user": "",
+        "content": " fivestar27, fivestar30, fivestar13, fivestar20, fivestar08, fivestar25, sosei, wzqclass15, fivestar21, wzqclass70, fivestar10, fivestar05.",
+        "time_int": 2597
+    },
+    {
+        "action": "BACK",
+        "user": "",
+        "content": "{GrandMaster}",
+        "time_int": 2600
+    },
+    {
+        "action": "BACK",
+        "user": "",
+        "content": "{GrandMaster}",
+        "time_int": 2601
+    },
+    {
+        "action": "BACK",
+        "user": "",
+        "content": "{GrandMaster}",
+        "time_int": 2602
+    },
+    {
+        "action": "BACK",
+        "user": "",
+        "content": "{GrandMaster}",
+        "time_int": 2603
+    },
+    {
+        "action": "MOVE",
+        "user": "GrandMaster",
+        "content": "9a",
+        "time_int": 2604
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "这个是最强防",
+        "time_int": 2607
+    },
+    {
+        "action": "TALK",
+        "user": "sosei",
+        "content": "ccc",
+        "time_int": 2612
+    },
+    {
+        "action": "TALK",
+        "user": "fivestar13",
+        "content": "今天点了几次名了？创历史记录了",
+        "time_int": 2617
+    },
+    {
+        "action": "TALK",
+        "user": "sosei",
+        "content": "这个强",
+        "time_int": 2622
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "课后有兴趣可能自己拆。。",
+        "time_int": 2627
+    },
+    {
+        "action": "TALK",
+        "user": "sosei",
+        "content": "倒",
+        "time_int": 2632
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "HOHO 这个18我还没拆干净",
+        "time_int": 2637
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "准备下课吧",
+        "time_int": 2642
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "作业等会给sosei^_^",
+        "time_int": 2647
+    },
+    {
+        "action": "CREDIT",
+        "user": "",
+        "content": " fivestar13, fivestar20, fivestar21, fivestar25, fivestar27, fivestar30, wzqclass70.",
+        "time_int": 2652
+    }
+]

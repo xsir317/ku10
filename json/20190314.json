@@ -1,0 +1,3020 @@
+[
+    {
+        "action": "RESET",
+        "user": "GM",
+        "content": "",
+        "time_int": 0
+    },
+    {
+        "action": "TALK",
+        "user": "GM",
+        "content": "本文转自微信公众号“上海五子棋”，原文：https:\/\/mp.weixin.qq.com\/s\/pme-CmZFOwtu9dvykbx2Fg",
+        "time_int": 2
+    },
+    {
+        "action": "LOAD",
+        "user": "GM",
+        "content": "889987",
+        "time_int": 7
+    },
+    {
+        "action": "TALK",
+        "user": "GM",
+        "content": "这个开局叫银月，白4有如下几种下法",
+        "time_int": 10
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "89",
+        "time_int": 15
+    },
+    {
+        "action": "BACK",
+        "user": "GM",
+        "content": "",
+        "time_int": 18
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "86",
+        "time_int": 19
+    },
+    {
+        "action": "BACK",
+        "user": "GM",
+        "content": "",
+        "time_int": 22
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "97",
+        "time_int": 23
+    },
+    {
+        "action": "BACK",
+        "user": "GM",
+        "content": "",
+        "time_int": 26
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "78",
+        "time_int": 27
+    },
+    {
+        "action": "BACK",
+        "user": "GM",
+        "content": "",
+        "time_int": 30
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "79",
+        "time_int": 31
+    },
+    {
+        "action": "BACK",
+        "user": "GM",
+        "content": "",
+        "time_int": 34
+    },
+    {
+        "action": "TALK",
+        "user": "GM",
+        "content": "其中",
+        "time_int": 35
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "79",
+        "time_int": 40
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "78",
+        "time_int": 43
+    },
+    {
+        "action": "TALK",
+        "user": "GM",
+        "content": "此走法",
+        "time_int": 46
+    },
+    {
+        "action": "TALK",
+        "user": "GM",
+        "content": "和",
+        "time_int": 51
+    },
+    {
+        "action": "BACK",
+        "user": "GM",
+        "content": "",
+        "time_int": 56
+    },
+    {
+        "action": "BACK",
+        "user": "GM",
+        "content": "",
+        "time_int": 57
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "97",
+        "time_int": 58
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "78",
+        "time_int": 61
+    },
+    {
+        "action": "TALK",
+        "user": "GM",
+        "content": "此走法是相通的。",
+        "time_int": 64
+    },
+    {
+        "action": "TALK",
+        "user": "GM",
+        "content": "我们来看后面的变化。",
+        "time_int": 69
+    },
+    {
+        "action": "TALK",
+        "user": "GM",
+        "content": "第一个变化：",
+        "time_int": 74
+    },
+    {
+        "action": "LOAD",
+        "user": "GM",
+        "content": "889987",
+        "time_int": 79
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "89",
+        "time_int": 82
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "79",
+        "time_int": 85
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "97",
+        "time_int": 88
+    },
+    {
+        "action": "TALK",
+        "user": "GM",
+        "content": "强防",
+        "time_int": 91
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "78",
+        "time_int": 96
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "69",
+        "time_int": 99
+    },
+    {
+        "action": "TALK",
+        "user": "GM",
+        "content": "强防，以下追胜",
+        "time_int": 102
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "98",
+        "time_int": 107
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "68",
+        "time_int": 110
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "a9",
+        "time_int": 113
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "76",
+        "time_int": 116
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "7b",
+        "time_int": 119
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "7a",
+        "time_int": 122
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "8b",
+        "time_int": 125
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "b8",
+        "time_int": 128
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "6a",
+        "time_int": 131
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "6b",
+        "time_int": 134
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "8c",
+        "time_int": 137
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "9d",
+        "time_int": 140
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "5c",
+        "time_int": 143
+    },
+    {
+        "action": "TALK",
+        "user": "GM",
+        "content": "这个21是常用手筋，上次我们在摆花月必胜的时候也讲到过这个走法。",
+        "time_int": 146
+    },
+    {
+        "action": "TALK",
+        "user": "GM",
+        "content": "21走 i11 ，也是必胜。",
+        "time_int": 151
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "4c",
+        "time_int": 156
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "8d",
+        "time_int": 159
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "8e",
+        "time_int": 162
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "7c",
+        "time_int": 165
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "9c",
+        "time_int": 168
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "ba",
+        "time_int": 171
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "cb",
+        "time_int": 174
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "aa",
+        "time_int": 177
+    },
+    {
+        "action": "TALK",
+        "user": "GM",
+        "content": "到这里黑胜。",
+        "time_int": 180
+    },
+    {
+        "action": "BACK",
+        "user": "GM",
+        "content": "",
+        "time_int": 185
+    },
+    {
+        "action": "BACK",
+        "user": "GM",
+        "content": "",
+        "time_int": 186
+    },
+    {
+        "action": "BACK",
+        "user": "GM",
+        "content": "",
+        "time_int": 187
+    },
+    {
+        "action": "BACK",
+        "user": "GM",
+        "content": "",
+        "time_int": 188
+    },
+    {
+        "action": "BACK",
+        "user": "GM",
+        "content": "",
+        "time_int": 189
+    },
+    {
+        "action": "BACK",
+        "user": "GM",
+        "content": "",
+        "time_int": 190
+    },
+    {
+        "action": "BACK",
+        "user": "GM",
+        "content": "",
+        "time_int": 191
+    },
+    {
+        "action": "BACK",
+        "user": "GM",
+        "content": "",
+        "time_int": 192
+    },
+    {
+        "action": "BACK",
+        "user": "GM",
+        "content": "",
+        "time_int": 193
+    },
+    {
+        "action": "BACK",
+        "user": "GM",
+        "content": "",
+        "time_int": 194
+    },
+    {
+        "action": "TALK",
+        "user": "GM",
+        "content": "如果白20先冲掉",
+        "time_int": 195
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "5c",
+        "time_int": 200
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "4d",
+        "time_int": 203
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "9d",
+        "time_int": 206
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "8d",
+        "time_int": 209
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "8e",
+        "time_int": 212
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "6d",
+        "time_int": 215
+    },
+    {
+        "action": "TALK",
+        "user": "GM",
+        "content": "黑胜",
+        "time_int": 218
+    },
+    {
+        "action": "LOAD",
+        "user": "GM",
+        "content": "88998789799778699868a9767b7a8bb86a",
+        "time_int": 223
+    },
+    {
+        "action": "BACK",
+        "user": "GM",
+        "content": "",
+        "time_int": 226
+    },
+    {
+        "action": "TALK",
+        "user": "GM",
+        "content": "17的另一种走法也是黑胜",
+        "time_int": 227
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "6b",
+        "time_int": 232
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "5b",
+        "time_int": 235
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "8d",
+        "time_int": 238
+    },
+    {
+        "action": "TALK",
+        "user": "GM",
+        "content": "白14的变化：",
+        "time_int": 241
+    },
+    {
+        "action": "BACK",
+        "user": "GM",
+        "content": "",
+        "time_int": 246
+    },
+    {
+        "action": "BACK",
+        "user": "GM",
+        "content": "",
+        "time_int": 247
+    },
+    {
+        "action": "BACK",
+        "user": "GM",
+        "content": "",
+        "time_int": 248
+    },
+    {
+        "action": "BACK",
+        "user": "GM",
+        "content": "",
+        "time_int": 249
+    },
+    {
+        "action": "BACK",
+        "user": "GM",
+        "content": "",
+        "time_int": 250
+    },
+    {
+        "action": "BACK",
+        "user": "GM",
+        "content": "",
+        "time_int": 251
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "7c",
+        "time_int": 252
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "ab",
+        "time_int": 255
+    },
+    {
+        "action": "TALK",
+        "user": "GM",
+        "content": "15走F10也是必胜。",
+        "time_int": 258
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "aa",
+        "time_int": 263
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "b8",
+        "time_int": 266
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "a8",
+        "time_int": 269
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "c7",
+        "time_int": 272
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "9a",
+        "time_int": 275
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "ba",
+        "time_int": 278
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "cb",
+        "time_int": 281
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "d8",
+        "time_int": 284
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "c9",
+        "time_int": 287
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "b6",
+        "time_int": 290
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "a5",
+        "time_int": 293
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "d7",
+        "time_int": 296
+    },
+    {
+        "action": "TALK",
+        "user": "GM",
+        "content": "如果16挡在18：",
+        "time_int": 299
+    },
+    {
+        "action": "LOAD",
+        "user": "GM",
+        "content": "88998789799778699868a9767b7cabaa",
+        "time_int": 304
+    },
+    {
+        "action": "BACK",
+        "user": "GM",
+        "content": "",
+        "time_int": 307
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "a8",
+        "time_int": 308
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "ba",
+        "time_int": 311
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "cb",
+        "time_int": 314
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "9c",
+        "time_int": 317
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "8d",
+        "time_int": 320
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "8b",
+        "time_int": 323
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "9b",
+        "time_int": 326
+    },
+    {
+        "action": "TALK",
+        "user": "GM",
+        "content": "以下VCF",
+        "time_int": 329
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "7a",
+        "time_int": 334
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "77",
+        "time_int": 337
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "ad",
+        "time_int": 340
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "be",
+        "time_int": 343
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "aa",
+        "time_int": 346
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "ac",
+        "time_int": 349
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "9a",
+        "time_int": 352
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "8a",
+        "time_int": 355
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "b8",
+        "time_int": 358
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "c7",
+        "time_int": 361
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "c9",
+        "time_int": 364
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "d8",
+        "time_int": 367
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "da",
+        "time_int": 370
+    },
+    {
+        "action": "TALK",
+        "user": "GM",
+        "content": "黑9的变化：",
+        "time_int": 373
+    },
+    {
+        "action": "LOAD",
+        "user": "GM",
+        "content": "889987897997786998",
+        "time_int": 378
+    },
+    {
+        "action": "BACK",
+        "user": "GM",
+        "content": "",
+        "time_int": 381
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "96",
+        "time_int": 382
+    },
+    {
+        "action": "TALK",
+        "user": "GM",
+        "content": "这个9也是必胜，但是比前面演示的9难一些。",
+        "time_int": 385
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "86",
+        "time_int": 390
+    },
+    {
+        "action": "TALK",
+        "user": "GM",
+        "content": "10强防",
+        "time_int": 393
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "68",
+        "time_int": 398
+    },
+    {
+        "action": "TALK",
+        "user": "GM",
+        "content": "以下追胜",
+        "time_int": 401
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "58",
+        "time_int": 406
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "8a",
+        "time_int": 409
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "9b",
+        "time_int": 412
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "7a",
+        "time_int": 415
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "77",
+        "time_int": 418
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "9a",
+        "time_int": 421
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "aa",
+        "time_int": 424
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "a9",
+        "time_int": 427
+    },
+    {
+        "action": "LOAD",
+        "user": "GM",
+        "content": "88998789799778699686",
+        "time_int": 430
+    },
+    {
+        "action": "BACK",
+        "user": "GM",
+        "content": "",
+        "time_int": 433
+    },
+    {
+        "action": "TALK",
+        "user": "GM",
+        "content": "白10 如果走这里",
+        "time_int": 434
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "98",
+        "time_int": 439
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "85",
+        "time_int": 442
+    },
+    {
+        "action": "TALK",
+        "user": "GM",
+        "content": "11是常见的牵制",
+        "time_int": 445
+    },
+    {
+        "action": "LOAD",
+        "user": "GM",
+        "content": "88998789799778",
+        "time_int": 450
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "98",
+        "time_int": 453
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "96",
+        "time_int": 456
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "69",
+        "time_int": 459
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "85",
+        "time_int": 462
+    },
+    {
+        "action": "TALK",
+        "user": "GM",
+        "content": "和这个走法的形状一样",
+        "time_int": 465
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "86",
+        "time_int": 470
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "75",
+        "time_int": 473
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "95",
+        "time_int": 476
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "68",
+        "time_int": 479
+    },
+    {
+        "action": "TALK",
+        "user": "GM",
+        "content": "15常见手筋",
+        "time_int": 482
+    },
+    {
+        "action": "BACK",
+        "user": "GM",
+        "content": "",
+        "time_int": 487
+    },
+    {
+        "action": "BACK",
+        "user": "GM",
+        "content": "",
+        "time_int": 488
+    },
+    {
+        "action": "TALK",
+        "user": "GM",
+        "content": "14如果挡掉四三点",
+        "time_int": 489
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "a5",
+        "time_int": 494
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "48",
+        "time_int": 497
+    },
+    {
+        "action": "TALK",
+        "user": "GM",
+        "content": "15之后黑胜",
+        "time_int": 500
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "68",
+        "time_int": 505
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "77",
+        "time_int": 508
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "76",
+        "time_int": 511
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "66",
+        "time_int": 514
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "57",
+        "time_int": 517
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "55",
+        "time_int": 520
+    },
+    {
+        "action": "TALK",
+        "user": "GM",
+        "content": "白6的变化：",
+        "time_int": 523
+    },
+    {
+        "action": "LOAD",
+        "user": "GM",
+        "content": "889987897997",
+        "time_int": 528
+    },
+    {
+        "action": "BACK",
+        "user": "GM",
+        "content": "",
+        "time_int": 531
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "77",
+        "time_int": 532
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "78",
+        "time_int": 535
+    },
+    {
+        "action": "TALK",
+        "user": "GM",
+        "content": "显而易见的要点",
+        "time_int": 538
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "68",
+        "time_int": 543
+    },
+    {
+        "action": "TALK",
+        "user": "GM",
+        "content": "棋形急所",
+        "time_int": 546
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "6a",
+        "time_int": 551
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "5b",
+        "time_int": 554
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "98",
+        "time_int": 557
+    },
+    {
+        "action": "TALK",
+        "user": "GM",
+        "content": "黑9、11好手，黑必胜形",
+        "time_int": 560
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "86",
+        "time_int": 565
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "59",
+        "time_int": 568
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "96",
+        "time_int": 571
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "7b",
+        "time_int": 574
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "48",
+        "time_int": 577
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "a9",
+        "time_int": 580
+    },
+    {
+        "action": "TALK",
+        "user": "GM",
+        "content": "如果16反挡，那么17做VCF，局部黑必胜。",
+        "time_int": 583
+    },
+    {
+        "action": "BACK",
+        "user": "GM",
+        "content": "",
+        "time_int": 588
+    },
+    {
+        "action": "BACK",
+        "user": "GM",
+        "content": "",
+        "time_int": 589
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "8c",
+        "time_int": 590
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "69",
+        "time_int": 593
+    },
+    {
+        "action": "LOAD",
+        "user": "GM",
+        "content": "88998789797778686a5b",
+        "time_int": 596
+    },
+    {
+        "action": "TALK",
+        "user": "GM",
+        "content": "这里如果10反挡：",
+        "time_int": 599
+    },
+    {
+        "action": "BACK",
+        "user": "GM",
+        "content": "",
+        "time_int": 604
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "97",
+        "time_int": 605
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "5a",
+        "time_int": 608
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "96",
+        "time_int": 611
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "98",
+        "time_int": 614
+    },
+    {
+        "action": "TALK",
+        "user": "GM",
+        "content": "黑必胜形。",
+        "time_int": 617
+    },
+    {
+        "action": "TALK",
+        "user": "GM",
+        "content": "6的变化：",
+        "time_int": 622
+    },
+    {
+        "action": "LOAD",
+        "user": "GM",
+        "content": "889987897977",
+        "time_int": 627
+    },
+    {
+        "action": "BACK",
+        "user": "GM",
+        "content": "",
+        "time_int": 630
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "78",
+        "time_int": 631
+    },
+    {
+        "action": "TALK",
+        "user": "GM",
+        "content": "白6弱防",
+        "time_int": 634
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "97",
+        "time_int": 639
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "a6",
+        "time_int": 642
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "67",
+        "time_int": 645
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "77",
+        "time_int": 648
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "76",
+        "time_int": 651
+    },
+    {
+        "action": "TALK",
+        "user": "GM",
+        "content": "黑棋常见的攻击手段",
+        "time_int": 654
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "65",
+        "time_int": 659
+    },
+    {
+        "action": "TALK",
+        "user": "GM",
+        "content": "白12顽抗",
+        "time_int": 662
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "85",
+        "time_int": 667
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "94",
+        "time_int": 670
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "57",
+        "time_int": 673
+    },
+    {
+        "action": "TALK",
+        "user": "GM",
+        "content": "黑简明必胜。",
+        "time_int": 676
+    },
+    {
+        "action": "TALK",
+        "user": "GM",
+        "content": "另外",
+        "time_int": 681
+    },
+    {
+        "action": "BACK",
+        "user": "GM",
+        "content": "",
+        "time_int": 686
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "46",
+        "time_int": 687
+    },
+    {
+        "action": "TALK",
+        "user": "GM",
+        "content": "黑走这里也成立。",
+        "time_int": 690
+    },
+    {
+        "action": "LOAD",
+        "user": "GM",
+        "content": "889987",
+        "time_int": 695
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "86",
+        "time_int": 698
+    },
+    {
+        "action": "TALK",
+        "user": "GM",
+        "content": "这个4的变化",
+        "time_int": 701
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "78",
+        "time_int": 706
+    },
+    {
+        "action": "TALK",
+        "user": "GM",
+        "content": "这个5是必胜点",
+        "time_int": 709
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "96",
+        "time_int": 714
+    },
+    {
+        "action": "TALK",
+        "user": "GM",
+        "content": "强防",
+        "time_int": 717
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "98",
+        "time_int": 722
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "68",
+        "time_int": 725
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "76",
+        "time_int": 728
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "a9",
+        "time_int": 731
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "89",
+        "time_int": 734
+    },
+    {
+        "action": "TALK",
+        "user": "GM",
+        "content": "7，9，11常见手筋",
+        "time_int": 737
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "77",
+        "time_int": 742
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "59",
+        "time_int": 745
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "8b",
+        "time_int": 748
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "67",
+        "time_int": 751
+    },
+    {
+        "action": "TALK",
+        "user": "GM",
+        "content": "15走G9也可以。",
+        "time_int": 754
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "56",
+        "time_int": 759
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "49",
+        "time_int": 762
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "58",
+        "time_int": 765
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "6b",
+        "time_int": 768
+    },
+    {
+        "action": "TALK",
+        "user": "GM",
+        "content": "黑胜。",
+        "time_int": 771
+    },
+    {
+        "action": "LOAD",
+        "user": "GM",
+        "content": "8899878678",
+        "time_int": 776
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "98",
+        "time_int": 779
+    },
+    {
+        "action": "TALK",
+        "user": "GM",
+        "content": "白6的变化，这个6弱防。",
+        "time_int": 782
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "97",
+        "time_int": 787
+    },
+    {
+        "action": "TALK",
+        "user": "GM",
+        "content": "7好点",
+        "time_int": 790
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "a6",
+        "time_int": 795
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "77",
+        "time_int": 798
+    },
+    {
+        "action": "TALK",
+        "user": "GM",
+        "content": "以下追胜。 9走在 i6也可以。",
+        "time_int": 801
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "67",
+        "time_int": 806
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "96",
+        "time_int": 809
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "69",
+        "time_int": 812
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "75",
+        "time_int": 815
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "74",
+        "time_int": 818
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "79",
+        "time_int": 821
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "76",
+        "time_int": 824
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "6a",
+        "time_int": 827
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "5b",
+        "time_int": 830
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "48",
+        "time_int": 833
+    },
+    {
+        "action": "LOAD",
+        "user": "GM",
+        "content": "8899878678",
+        "time_int": 836
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "77",
+        "time_int": 839
+    },
+    {
+        "action": "TALK",
+        "user": "GM",
+        "content": "白6弱防，但是7以下的次序很重要",
+        "time_int": 842
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "98",
+        "time_int": 847
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "68",
+        "time_int": 850
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "95",
+        "time_int": 853
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "96",
+        "time_int": 856
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "a9",
+        "time_int": 859
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "76",
+        "time_int": 862
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "a6",
+        "time_int": 865
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "a8",
+        "time_int": 868
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "b7",
+        "time_int": 871
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "c8",
+        "time_int": 874
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "97",
+        "time_int": 877
+    },
+    {
+        "action": "TALK",
+        "user": "GM",
+        "content": "这里走K8也可以。",
+        "time_int": 880
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "79",
+        "time_int": 885
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "89",
+        "time_int": 888
+    },
+    {
+        "action": "TALK",
+        "user": "GM",
+        "content": "黑胜。",
+        "time_int": 891
+    },
+    {
+        "action": "BACK",
+        "user": "GM",
+        "content": "",
+        "time_int": 896
+    },
+    {
+        "action": "BACK",
+        "user": "GM",
+        "content": "",
+        "time_int": 897
+    },
+    {
+        "action": "BACK",
+        "user": "GM",
+        "content": "",
+        "time_int": 898
+    },
+    {
+        "action": "BACK",
+        "user": "GM",
+        "content": "",
+        "time_int": 899
+    },
+    {
+        "action": "BACK",
+        "user": "GM",
+        "content": "",
+        "time_int": 900
+    },
+    {
+        "action": "BACK",
+        "user": "GM",
+        "content": "",
+        "time_int": 901
+    },
+    {
+        "action": "BACK",
+        "user": "GM",
+        "content": "",
+        "time_int": 902
+    },
+    {
+        "action": "BACK",
+        "user": "GM",
+        "content": "",
+        "time_int": 903
+    },
+    {
+        "action": "BACK",
+        "user": "GM",
+        "content": "",
+        "time_int": 904
+    },
+    {
+        "action": "BACK",
+        "user": "GM",
+        "content": "",
+        "time_int": 905
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "69",
+        "time_int": 906
+    },
+    {
+        "action": "TALK",
+        "user": "GM",
+        "content": "如果10走这里",
+        "time_int": 909
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "a9",
+        "time_int": 914
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "ba",
+        "time_int": 917
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "89",
+        "time_int": 920
+    },
+    {
+        "action": "TALK",
+        "user": "GM",
+        "content": "黑胜。",
+        "time_int": 923
+    },
+    {
+        "action": "LOAD",
+        "user": "GM",
+        "content": "8899878678",
+        "time_int": 928
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "97",
+        "time_int": 931
+    },
+    {
+        "action": "TALK",
+        "user": "GM",
+        "content": "6强防",
+        "time_int": 934
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "96",
+        "time_int": 939
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "69",
+        "time_int": 942
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "75",
+        "time_int": 945
+    },
+    {
+        "action": "TALK",
+        "user": "GM",
+        "content": "7，9是基本手段",
+        "time_int": 948
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "89",
+        "time_int": 953
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "79",
+        "time_int": 956
+    },
+    {
+        "action": "TALK",
+        "user": "GM",
+        "content": "注意这里的形状，和我们前面说的一个变化是相通的：",
+        "time_int": 959
+    },
+    {
+        "action": "LOAD",
+        "user": "GM",
+        "content": "889987",
+        "time_int": 964
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "89",
+        "time_int": 967
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "79",
+        "time_int": 970
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "97",
+        "time_int": 973
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "78",
+        "time_int": 976
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "69",
+        "time_int": 979
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "96",
+        "time_int": 982
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "86",
+        "time_int": 985
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "75",
+        "time_int": 988
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "68",
+        "time_int": 991
+    },
+    {
+        "action": "TALK",
+        "user": "GM",
+        "content": "这里12是最强防",
+        "time_int": 994
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "b8",
+        "time_int": 999
+    },
+    {
+        "action": "TALK",
+        "user": "GM",
+        "content": "13绝妙",
+        "time_int": 1002
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "77",
+        "time_int": 1007
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "95",
+        "time_int": 1010
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "85",
+        "time_int": 1013
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "a6",
+        "time_int": 1016
+    },
+    {
+        "action": "BACK",
+        "user": "GM",
+        "content": "",
+        "time_int": 1019
+    },
+    {
+        "action": "BACK",
+        "user": "GM",
+        "content": "",
+        "time_int": 1020
+    },
+    {
+        "action": "BACK",
+        "user": "GM",
+        "content": "",
+        "time_int": 1021
+    },
+    {
+        "action": "BACK",
+        "user": "GM",
+        "content": "",
+        "time_int": 1022
+    },
+    {
+        "action": "TALK",
+        "user": "GM",
+        "content": "如果14",
+        "time_int": 1023
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "a8",
+        "time_int": 1028
+    },
+    {
+        "action": "TALK",
+        "user": "GM",
+        "content": "这里，或者",
+        "time_int": 1031
+    },
+    {
+        "action": "BACK",
+        "user": "GM",
+        "content": "",
+        "time_int": 1036
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "a9",
+        "time_int": 1037
+    },
+    {
+        "action": "TALK",
+        "user": "GM",
+        "content": "这里，那么",
+        "time_int": 1040
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "85",
+        "time_int": 1045
+    },
+    {
+        "action": "TALK",
+        "user": "GM",
+        "content": "以下黑必胜。",
+        "time_int": 1048
+    },
+    {
+        "action": "LOAD",
+        "user": "GM",
+        "content": "8899878979977869968675",
+        "time_int": 1053
+    },
+    {
+        "action": "TALK",
+        "user": "GM",
+        "content": "这里，12走i8",
+        "time_int": 1056
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "98",
+        "time_int": 1061
+    },
+    {
+        "action": "TALK",
+        "user": "GM",
+        "content": "这个走法我们已经讲过了",
+        "time_int": 1064
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "85",
+        "time_int": 1069
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "95",
+        "time_int": 1072
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "68",
+        "time_int": 1075
+    },
+    {
+        "action": "LOAD",
+        "user": "GM",
+        "content": "889987867897966975",
+        "time_int": 1078
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "76",
+        "time_int": 1081
+    },
+    {
+        "action": "TALK",
+        "user": "GM",
+        "content": "白10的变化：",
+        "time_int": 1084
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "68",
+        "time_int": 1089
+    },
+    {
+        "action": "TALK",
+        "user": "GM",
+        "content": "11方向正确",
+        "time_int": 1092
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "98",
+        "time_int": 1097
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "85",
+        "time_int": 1100
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "65",
+        "time_int": 1103
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "74",
+        "time_int": 1106
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "63",
+        "time_int": 1109
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "a5",
+        "time_int": 1112
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "b4",
+        "time_int": 1115
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "84",
+        "time_int": 1118
+    },
+    {
+        "action": "TALK",
+        "user": "GM",
+        "content": "到这里，黑19之后，黑棋有VCF的，以下黑取胜容易。",
+        "time_int": 1121
+    },
+    {
+        "action": "LOAD",
+        "user": "GM",
+        "content": "88998786789796697576",
+        "time_int": 1126
+    },
+    {
+        "action": "BACK",
+        "user": "GM",
+        "content": "",
+        "time_int": 1129
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "65",
+        "time_int": 1130
+    },
+    {
+        "action": "TALK",
+        "user": "GM",
+        "content": "对于这个10，",
+        "time_int": 1133
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "a7",
+        "time_int": 1138
+    },
+    {
+        "action": "TALK",
+        "user": "GM",
+        "content": "11妙手，黑胜。",
+        "time_int": 1141
+    },
+    {
+        "action": "BACK",
+        "user": "GM",
+        "content": "",
+        "time_int": 1146
+    },
+    {
+        "action": "BACK",
+        "user": "GM",
+        "content": "",
+        "time_int": 1147
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "68",
+        "time_int": 1148
+    },
+    {
+        "action": "TALK",
+        "user": "GM",
+        "content": "这个白10之后，黑棋追胜",
+        "time_int": 1151
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "85",
+        "time_int": 1156
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "95",
+        "time_int": 1159
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "77",
+        "time_int": 1162
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "76",
+        "time_int": 1165
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "a7",
+        "time_int": 1168
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "b8",
+        "time_int": 1171
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "66",
+        "time_int": 1174
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "55",
+        "time_int": 1177
+    },
+    {
+        "action": "TALK",
+        "user": "GM",
+        "content": "18最强防",
+        "time_int": 1180
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "84",
+        "time_int": 1185
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "93",
+        "time_int": 1188
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "94",
+        "time_int": 1191
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "74",
+        "time_int": 1194
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "b6",
+        "time_int": 1197
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "a5",
+        "time_int": 1200
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "89",
+        "time_int": 1203
+    },
+    {
+        "action": "TALK",
+        "user": "GM",
+        "content": "巧妙迂回取胜",
+        "time_int": 1206
+    },
+    {
+        "action": "LOAD",
+        "user": "GM",
+        "content": "889987",
+        "time_int": 1211
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "97",
+        "time_int": 1214
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "78",
+        "time_int": 1217
+    },
+    {
+        "action": "TALK",
+        "user": "GM",
+        "content": "对于这个白4，黑5必胜",
+        "time_int": 1220
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "98",
+        "time_int": 1225
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "96",
+        "time_int": 1228
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "69",
+        "time_int": 1231
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "85",
+        "time_int": 1234
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "89",
+        "time_int": 1237
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "79",
+        "time_int": 1240
+    },
+    {
+        "action": "TALK",
+        "user": "GM",
+        "content": "这样又回到我们刚刚讲过的局面了。",
+        "time_int": 1243
+    },
+    {
+        "action": "LOAD",
+        "user": "GM",
+        "content": "889987",
+        "time_int": 1248
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "78",
+        "time_int": 1251
+    },
+    {
+        "action": "TALK",
+        "user": "GM",
+        "content": "白4强防",
+        "time_int": 1254
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "86",
+        "time_int": 1259
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "85",
+        "time_int": 1262
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "97",
+        "time_int": 1265
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "a6",
+        "time_int": 1268
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "77",
+        "time_int": 1271
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "67",
+        "time_int": 1274
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "76",
+        "time_int": 1277
+    },
+    {
+        "action": "TALK",
+        "user": "GM",
+        "content": "11团角是常见手筋",
+        "time_int": 1280
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "65",
+        "time_int": 1285
+    },
+    {
+        "action": "TALK",
+        "user": "GM",
+        "content": "12最强防",
+        "time_int": 1288
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "75",
+        "time_int": 1293
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "64",
+        "time_int": 1296
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "66",
+        "time_int": 1299
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "56",
+        "time_int": 1302
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "89",
+        "time_int": 1305
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "8a",
+        "time_int": 1308
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "84",
+        "time_int": 1311
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "93",
+        "time_int": 1314
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "95",
+        "time_int": 1317
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "a4",
+        "time_int": 1320
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "35",
+        "time_int": 1323
+    },
+    {
+        "action": "TALK",
+        "user": "GM",
+        "content": "23是精彩的双杀。",
+        "time_int": 1326
+    },
+    {
+        "action": "LOAD",
+        "user": "GM",
+        "content": "88998778868597a6776776",
+        "time_int": 1331
+    },
+    {
+        "action": "BACK",
+        "user": "GM",
+        "content": "",
+        "time_int": 1334
+    },
+    {
+        "action": "TALK",
+        "user": "GM",
+        "content": "11的变化",
+        "time_int": 1335
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "a8",
+        "time_int": 1340
+    },
+    {
+        "action": "TALK",
+        "user": "GM",
+        "content": "《五珠定石》认为11直接开始追胜不成立，",
+        "time_int": 1343
+    },
+    {
+        "action": "TALK",
+        "user": "GM",
+        "content": "笔者发现11以后可以追胜。",
+        "time_int": 1348
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "b9",
+        "time_int": 1353
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "95",
+        "time_int": 1356
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "a4",
+        "time_int": 1359
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "89",
+        "time_int": 1362
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "8a",
+        "time_int": 1365
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "a7",
+        "time_int": 1368
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "b7",
+        "time_int": 1371
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "98",
+        "time_int": 1374
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "b6",
+        "time_int": 1377
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "b8",
+        "time_int": 1380
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "c8",
+        "time_int": 1383
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "96",
+        "time_int": 1386
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "94",
+        "time_int": 1389
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "76",
+        "time_int": 1392
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "65",
+        "time_int": 1395
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "66",
+        "time_int": 1398
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "56",
+        "time_int": 1401
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "75",
+        "time_int": 1404
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "64",
+        "time_int": 1407
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "74",
+        "time_int": 1410
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "73",
+        "time_int": 1413
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "48",
+        "time_int": 1416
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "57",
+        "time_int": 1419
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "59",
+        "time_int": 1422
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "68",
+        "time_int": 1425
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "79",
+        "time_int": 1428
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "6a",
+        "time_int": 1431
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "7a",
+        "time_int": 1434
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "6b",
+        "time_int": 1437
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "69",
+        "time_int": 1440
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "49",
+        "time_int": 1443
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "8b",
+        "time_int": 1446
+    },
+    {
+        "action": "TALK",
+        "user": "GM",
+        "content": "如此，黑胜。",
+        "time_int": 1449
+    },
+    {
+        "action": "LOAD",
+        "user": "GM",
+        "content": "889987788685",
+        "time_int": 1454
+    },
+    {
+        "action": "BACK",
+        "user": "GM",
+        "content": "",
+        "time_int": 1457
+    },
+    {
+        "action": "TALK",
+        "user": "GM",
+        "content": "白6的变化",
+        "time_int": 1458
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "89",
+        "time_int": 1463
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "67",
+        "time_int": 1466
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "79",
+        "time_int": 1469
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "69",
+        "time_int": 1472
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "76",
+        "time_int": 1475
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "77",
+        "time_int": 1478
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "57",
+        "time_int": 1481
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "95",
+        "time_int": 1484
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "68",
+        "time_int": 1487
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "8a",
+        "time_int": 1490
+    },
+    {
+        "action": "TALK",
+        "user": "GM",
+        "content": "黑13，15好棋",
+        "time_int": 1493
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "84",
+        "time_int": 1498
+    },
+    {
+        "action": "TALK",
+        "user": "GM",
+        "content": "16最强防",
+        "time_int": 1501
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "b6",
+        "time_int": 1506
+    },
+    {
+        "action": "TALK",
+        "user": "GM",
+        "content": "17妙手打开局面",
+        "time_int": 1509
+    },
+    {
+        "action": "TALK",
+        "user": "GM",
+        "content": "17也可以直接走在J5",
+        "time_int": 1514
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "97",
+        "time_int": 1519
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "a5",
+        "time_int": 1522
+    },
+    {
+        "action": "TALK",
+        "user": "GM",
+        "content": "以下取胜容易",
+        "time_int": 1525
+    },
+    {
+        "action": "BACK",
+        "user": "GM",
+        "content": "",
+        "time_int": 1530
+    },
+    {
+        "action": "BACK",
+        "user": "GM",
+        "content": "",
+        "time_int": 1531
+    },
+    {
+        "action": "BACK",
+        "user": "GM",
+        "content": "",
+        "time_int": 1532
+    },
+    {
+        "action": "BACK",
+        "user": "GM",
+        "content": "",
+        "time_int": 1533
+    },
+    {
+        "action": "BACK",
+        "user": "GM",
+        "content": "",
+        "time_int": 1534
+    },
+    {
+        "action": "TALK",
+        "user": "GM",
+        "content": "如果15先冲",
+        "time_int": 1535
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "a4",
+        "time_int": 1540
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "b3",
+        "time_int": 1543
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "8a",
+        "time_int": 1546
+    },
+    {
+        "action": "TALK",
+        "user": "GM",
+        "content": "那么白可以",
+        "time_int": 1549
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "94",
+        "time_int": 1554
+    },
+    {
+        "action": "TALK",
+        "user": "GM",
+        "content": "如此黑取胜困难。",
+        "time_int": 1557
+    },
+    {
+        "action": "LOAD",
+        "user": "GM",
+        "content": "8899877886",
+        "time_int": 1562
+    },
+    {
+        "action": "BACK",
+        "user": "GM",
+        "content": "",
+        "time_int": 1565
+    },
+    {
+        "action": "MOVE",
+        "user": "GM",
+        "content": "98",
+        "time_int": 1566
+    },
+    {
+        "action": "TALK",
+        "user": "GM",
+        "content": "黑5这样就变到云月的变化了，一样是黑必胜，但是比较难。",
+        "time_int": 1569
+    },
+    {
+        "action": "TALK",
+        "user": "GM",
+        "content": "（摘选自李洪斌八段著述《五子棋基础定式》）",
+        "time_int": 1574
+    },
+    {
+        "action": "TALK",
+        "user": "GM",
+        "content": "本文内容到此为止，要进一步学习本开局，请查看本站的其他课程。",
+        "time_int": 1579
+    }
+]

@@ -1,0 +1,4028 @@
+[
+    {
+        "action": "RESET",
+        "user": "GM",
+        "content": "",
+        "time_int": 0
+    },
+    {
+        "action": "RESET",
+        "user": "",
+        "content": "",
+        "time_int": 2
+    },
+    {
+        "action": "LOAD",
+        "user": "",
+        "content": "",
+        "time_int": 5
+    },
+    {
+        "action": "TALK",
+        "user": "fivestar28",
+        "content": "人少没关系，不过关键是坚持，是不是啊，老师",
+        "time_int": 8
+    },
+    {
+        "action": "TALK",
+        "user": "fivestar12",
+        "content": "晕，色色谱还没买到就讲瑞星3，有没搞错",
+        "time_int": 13
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "大家好",
+        "time_int": 18
+    },
+    {
+        "action": "TALK",
+        "user": "wzqclass110",
+        "content": "都不知道有讲课吧",
+        "time_int": 23
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "就是嘛",
+        "time_int": 28
+    },
+    {
+        "action": "TALK",
+        "user": "fivestar02",
+        "content": "不好",
+        "time_int": 33
+    },
+    {
+        "action": "TALK",
+        "user": "fivestar28",
+        "content": "老师好",
+        "time_int": 38
+    },
+    {
+        "action": "TALK",
+        "user": "fivestar21",
+        "content": "都好",
+        "time_int": 43
+    },
+    {
+        "action": "TALK",
+        "user": "fivestar10",
+        "content": "不好意思",
+        "time_int": 48
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "起码卖得差不多了",
+        "time_int": 53
+    },
+    {
+        "action": "TALK",
+        "user": "fivestar28",
+        "content": "不好",
+        "time_int": 58
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "才能讲",
+        "time_int": 63
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "哈哈",
+        "time_int": 68
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "哇",
+        "time_int": 73
+    },
+    {
+        "action": "TALK",
+        "user": "fivestar02",
+        "content": "有个哑吧不说话",
+        "time_int": 78
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "哦",
+        "time_int": 83
+    },
+    {
+        "action": "TALK",
+        "user": "fivestar12",
+        "content": "卖差不多开始讲弱11 =)",
+        "time_int": 88
+    },
+    {
+        "action": "TALK",
+        "user": "fivestar09",
+        "content": "我没得买啊",
+        "time_int": 93
+    },
+    {
+        "action": "TALK",
+        "user": "fivestar28",
+        "content": "=老师好+不好？？？",
+        "time_int": 98
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "这个坏妹妹",
+        "time_int": 103
+    },
+    {
+        "action": "TALK",
+        "user": "fivestar12",
+        "content": "然后是弱17 :D",
+        "time_int": 108
+    },
+    {
+        "action": "MOVE",
+        "user": "GrandMaster",
+        "content": "88",
+        "time_int": 113
+    },
+    {
+        "action": "TALK",
+        "user": "fivestar02",
+        "content": "不然点名，看她出来不",
+        "time_int": 116
+    },
+    {
+        "action": "MOVE",
+        "user": "GrandMaster",
+        "content": "89",
+        "time_int": 121
+    },
+    {
+        "action": "BACK",
+        "user": "",
+        "content": "{GrandMaster}",
+        "time_int": 124
+    },
+    {
+        "action": "MOVE",
+        "user": "GrandMaster",
+        "content": "99",
+        "time_int": 125
+    },
+    {
+        "action": "MOVE",
+        "user": "GrandMaster",
+        "content": "86",
+        "time_int": 128
+    },
+    {
+        "action": "MOVE",
+        "user": "GrandMaster",
+        "content": "89",
+        "time_int": 131
+    },
+    {
+        "action": "MOVE",
+        "user": "GrandMaster",
+        "content": "97",
+        "time_int": 134
+    },
+    {
+        "action": "MOVE",
+        "user": "GrandMaster",
+        "content": "a8",
+        "time_int": 137
+    },
+    {
+        "action": "MOVE",
+        "user": "GrandMaster",
+        "content": "b7",
+        "time_int": 140
+    },
+    {
+        "action": "MOVE",
+        "user": "GrandMaster",
+        "content": "a7",
+        "time_int": 143
+    },
+    {
+        "action": "MOVE",
+        "user": "GrandMaster",
+        "content": "a9",
+        "time_int": 146
+    },
+    {
+        "action": "MOVE",
+        "user": "GrandMaster",
+        "content": "a6",
+        "time_int": 149
+    },
+    {
+        "action": "MOVE",
+        "user": "GrandMaster",
+        "content": "a5",
+        "time_int": 152
+    },
+    {
+        "action": "MOVE",
+        "user": "GrandMaster",
+        "content": "84",
+        "time_int": 155
+    },
+    {
+        "action": "MOVE",
+        "user": "GrandMaster",
+        "content": "b6",
+        "time_int": 158
+    },
+    {
+        "action": "MOVE",
+        "user": "GrandMaster",
+        "content": "94",
+        "time_int": 161
+    },
+    {
+        "action": "MOVE",
+        "user": "GrandMaster",
+        "content": "b8",
+        "time_int": 164
+    },
+    {
+        "action": "MOVE",
+        "user": "GrandMaster",
+        "content": "b9",
+        "time_int": 167
+    },
+    {
+        "action": "MOVE",
+        "user": "GrandMaster",
+        "content": "a4",
+        "time_int": 170
+    },
+    {
+        "action": "MOVE",
+        "user": "GrandMaster",
+        "content": "b4",
+        "time_int": 173
+    },
+    {
+        "action": "MOVE",
+        "user": "GrandMaster",
+        "content": "58",
+        "time_int": 176
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "这次",
+        "time_int": 179
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "20哪儿",
+        "time_int": 184
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "哎",
+        "time_int": 189
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "20没了",
+        "time_int": 194
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "都没意见了",
+        "time_int": 199
+    },
+    {
+        "action": "TALK",
+        "user": "fivestar28",
+        "content": "不是啊，要想一下",
+        "time_int": 204
+    },
+    {
+        "action": "TALK",
+        "user": "fivestar10",
+        "content": "18？",
+        "time_int": 209
+    },
+    {
+        "action": "TALK",
+        "user": "fivestar28",
+        "content": "哪有那么快的",
+        "time_int": 214
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "好好",
+        "time_int": 219
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "cc",
+        "time_int": 224
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "18怎么啦",
+        "time_int": 229
+    },
+    {
+        "action": "TALK",
+        "user": "wzqclass53",
+        "content": "无解了",
+        "time_int": 234
+    },
+    {
+        "action": "TALK",
+        "user": "fivestar02",
+        "content": "19跑那么远",
+        "time_int": 239
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "嘻嘻",
+        "time_int": 244
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "跑远点免得被人发现",
+        "time_int": 249
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "对吧",
+        "time_int": 254
+    },
+    {
+        "action": "TALK",
+        "user": "wzqclass110",
+        "content": "就是啊 讲就意图拉",
+        "time_int": 259
+    },
+    {
+        "action": "TALK",
+        "user": "fivestar02",
+        "content": "白哪有的追哟~坏",
+        "time_int": 264
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "昏~~~~",
+        "time_int": 269
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "意图",
+        "time_int": 274
+    },
+    {
+        "action": "TALK",
+        "user": "fivestar10",
+        "content": "我怎么感觉18在K5的啊，原来讲的，晕",
+        "time_int": 279
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "上上节课讲过",
+        "time_int": 284
+    },
+    {
+        "action": "TALK",
+        "user": "wzqclass110",
+        "content": "也好防啊",
+        "time_int": 289
+    },
+    {
+        "action": "TALK",
+        "user": "fivestar10",
+        "content": "哦",
+        "time_int": 294
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "K5的更早以前讲完了",
+        "time_int": 299
+    },
+    {
+        "action": "TALK",
+        "user": "fivestar28",
+        "content": "随便点一个啦",
+        "time_int": 304
+    },
+    {
+        "action": "TALK",
+        "user": "fivestar10",
+        "content": "：（",
+        "time_int": 309
+    },
+    {
+        "action": "TALK",
+        "user": "fivestar02",
+        "content": "G8",
+        "time_int": 314
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "哈哈，傻鸟",
+        "time_int": 319
+    },
+    {
+        "action": "TALK",
+        "user": "fivestar28",
+        "content": "I10",
+        "time_int": 324
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "想了半天和没说一样",
+        "time_int": 329
+    },
+    {
+        "action": "TALK",
+        "user": "fivestar28",
+        "content": "都没人发言，也不好塞",
+        "time_int": 334
+    },
+    {
+        "action": "MOVE",
+        "user": "GrandMaster",
+        "content": "9a",
+        "time_int": 339
+    },
+    {
+        "action": "MOVE",
+        "user": "GrandMaster",
+        "content": "68",
+        "time_int": 342
+    },
+    {
+        "action": "TALK",
+        "user": "fivestar28",
+        "content": "才知道啊，我是假想",
+        "time_int": 345
+    },
+    {
+        "action": "TALK",
+        "user": "wzqclass110",
+        "content": "F8跟踪追击",
+        "time_int": 350
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "V了",
+        "time_int": 355
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "cc",
+        "time_int": 360
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "越来越坏了",
+        "time_int": 365
+    },
+    {
+        "action": "TALK",
+        "user": "fivestar28",
+        "content": "你点下去啊",
+        "time_int": 370
+    },
+    {
+        "action": "TALK",
+        "user": "fivestar02",
+        "content": "不串糖葫芦？？",
+        "time_int": 375
+    },
+    {
+        "action": "TALK",
+        "user": "fivestar09",
+        "content": "SS我还有几分，我想买上次的录像",
+        "time_int": 380
+    },
+    {
+        "action": "TALK",
+        "user": "fivestar28",
+        "content": "我又点不了",
+        "time_int": 385
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "谁会",
+        "time_int": 390
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "上来演示",
+        "time_int": 395
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "好，09，课后卖",
+        "time_int": 400
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "谁会V",
+        "time_int": 405
+    },
+    {
+        "action": "MOVE",
+        "user": "GrandMaster",
+        "content": "98",
+        "time_int": 410
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "举手哟",
+        "time_int": 413
+    },
+    {
+        "action": "TALK",
+        "user": "fivestar12",
+        "content": "=D",
+        "time_int": 418
+    },
+    {
+        "action": "TALK",
+        "user": "fivestar10",
+        "content": "E11还要走一下的吧",
+        "time_int": 423
+    },
+    {
+        "action": "TALK",
+        "user": "fivestar28",
+        "content": "放中间",
+        "time_int": 428
+    },
+    {
+        "action": "TALK",
+        "user": "fivestar09",
+        "content": "我",
+        "time_int": 433
+    },
+    {
+        "action": "TALK",
+        "user": "fivestar09",
+        "content": "不会",
+        "time_int": 438
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "打",
+        "time_int": 443
+    },
+    {
+        "action": "TALK",
+        "user": "fivestar28",
+        "content": "我来",
+        "time_int": 448
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "好",
+        "time_int": 453
+    },
+    {
+        "action": "TALK",
+        "user": "fivestar28",
+        "content": "白的放中间",
+        "time_int": 458
+    },
+    {
+        "action": "TALK",
+        "user": "fivestar28",
+        "content": "这个弱了吧",
+        "time_int": 463
+    },
+    {
+        "action": "MOVE",
+        "user": "fivestar12",
+        "content": "77",
+        "time_int": 468
+    },
+    {
+        "action": "MOVE",
+        "user": "GrandMaster",
+        "content": "95",
+        "time_int": 471
+    },
+    {
+        "action": "MOVE",
+        "user": "fivestar12",
+        "content": "59",
+        "time_int": 474
+    },
+    {
+        "action": "MOVE",
+        "user": "fivestar28",
+        "content": "4a",
+        "time_int": 477
+    },
+    {
+        "action": "MOVE",
+        "user": "fivestar12",
+        "content": "57",
+        "time_int": 480
+    },
+    {
+        "action": "MOVE",
+        "user": "GrandMaster",
+        "content": "56",
+        "time_int": 483
+    },
+    {
+        "action": "MOVE",
+        "user": "fivestar12",
+        "content": "5b",
+        "time_int": 486
+    },
+    {
+        "action": "MOVE",
+        "user": "GrandMaster",
+        "content": "5a",
+        "time_int": 489
+    },
+    {
+        "action": "MOVE",
+        "user": "fivestar12",
+        "content": "79",
+        "time_int": 492
+    },
+    {
+        "action": "MOVE",
+        "user": "GrandMaster",
+        "content": "6a",
+        "time_int": 495
+    },
+    {
+        "action": "MOVE",
+        "user": "fivestar12",
+        "content": "8a",
+        "time_int": 498
+    },
+    {
+        "action": "TALK",
+        "user": "fivestar28",
+        "content": "22中间",
+        "time_int": 501
+    },
+    {
+        "action": "MOVE",
+        "user": "fivestar28",
+        "content": "9b",
+        "time_int": 506
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "555",
+        "time_int": 509
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "好",
+        "time_int": 514
+    },
+    {
+        "action": "TALK",
+        "user": "fivestar12",
+        "content": "=)",
+        "time_int": 519
+    },
+    {
+        "action": "GOTO",
+        "user": "GrandMaster",
+        "content": "022",
+        "time_int": 524
+    },
+    {
+        "action": "BACK",
+        "user": "",
+        "content": "{GrandMaster}",
+        "time_int": 527
+    },
+    {
+        "action": "MOVE",
+        "user": "GrandMaster",
+        "content": "78",
+        "time_int": 528
+    },
+    {
+        "action": "MOVE",
+        "user": "fivestar28",
+        "content": "77",
+        "time_int": 531
+    },
+    {
+        "action": "MOVE",
+        "user": "GrandMaster",
+        "content": "95",
+        "time_int": 534
+    },
+    {
+        "action": "MOVE",
+        "user": "fivestar28",
+        "content": "67",
+        "time_int": 537
+    },
+    {
+        "action": "MOVE",
+        "user": "GrandMaster",
+        "content": "87",
+        "time_int": 540
+    },
+    {
+        "action": "TALK",
+        "user": "wzqclass125",
+        "content": "老师好，今天有课吗",
+        "time_int": 543
+    },
+    {
+        "action": "TALK",
+        "user": "fivestar28",
+        "content": "哦，看到杀了",
+        "time_int": 548
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "cc",
+        "time_int": 553
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "好啦",
+        "time_int": 558
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "还有什么20",
+        "time_int": 563
+    },
+    {
+        "action": "BACK",
+        "user": "",
+        "content": "{GrandMaster}",
+        "time_int": 568
+    },
+    {
+        "action": "BACK",
+        "user": "",
+        "content": "{GrandMaster}",
+        "time_int": 569
+    },
+    {
+        "action": "BACK",
+        "user": "",
+        "content": "{GrandMaster}",
+        "time_int": 570
+    },
+    {
+        "action": "BACK",
+        "user": "",
+        "content": "{GrandMaster}",
+        "time_int": 571
+    },
+    {
+        "action": "BACK",
+        "user": "",
+        "content": "{GrandMaster}",
+        "time_int": 572
+    },
+    {
+        "action": "BACK",
+        "user": "",
+        "content": "{GrandMaster}",
+        "time_int": 573
+    },
+    {
+        "action": "BACK",
+        "user": "",
+        "content": "{GrandMaster}",
+        "time_int": 574
+    },
+    {
+        "action": "TALK",
+        "user": "fivestar28",
+        "content": "F7",
+        "time_int": 575
+    },
+    {
+        "action": "MOVE",
+        "user": "GrandMaster",
+        "content": "67",
+        "time_int": 580
+    },
+    {
+        "action": "MOVE",
+        "user": "GrandMaster",
+        "content": "78",
+        "time_int": 583
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "耶",
+        "time_int": 586
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "V",
+        "time_int": 591
+    },
+    {
+        "action": "MOVE",
+        "user": "fivestar28",
+        "content": "68",
+        "time_int": 596
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "谁会",
+        "time_int": 599
+    },
+    {
+        "action": "TALK",
+        "user": "fivestar28",
+        "content": "晕，就我们两个人？",
+        "time_int": 604
+    },
+    {
+        "action": "TALK",
+        "user": "fivestar09",
+        "content": "我不会啊",
+        "time_int": 609
+    },
+    {
+        "action": "TALK",
+        "user": "wzqclass125",
+        "content": "h11?",
+        "time_int": 614
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "哎",
+        "time_int": 619
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "125会",
+        "time_int": 624
+    },
+    {
+        "action": "TALK",
+        "user": "wzqclass125",
+        "content": "。。。",
+        "time_int": 629
+    },
+    {
+        "action": "TALK",
+        "user": "wzqclass125",
+        "content": "我还没有看完",
+        "time_int": 634
+    },
+    {
+        "action": "TALK",
+        "user": "fivestar09",
+        "content": "看你们就行了",
+        "time_int": 639
+    },
+    {
+        "action": "MOVE",
+        "user": "wzqclass125",
+        "content": "8b",
+        "time_int": 644
+    },
+    {
+        "action": "MOVE",
+        "user": "fivestar28",
+        "content": "9a",
+        "time_int": 647
+    },
+    {
+        "action": "MOVE",
+        "user": "wzqclass125",
+        "content": "69",
+        "time_int": 650
+    },
+    {
+        "action": "MOVE",
+        "user": "fivestar28",
+        "content": "7a",
+        "time_int": 653
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "cc，发言积极点有好处",
+        "time_int": 656
+    },
+    {
+        "action": "TALK",
+        "user": "wzqclass125",
+        "content": "饿，要想想，呵呵",
+        "time_int": 661
+    },
+    {
+        "action": "TALK",
+        "user": "fivestar12",
+        "content": ":P 继续干ING",
+        "time_int": 666
+    },
+    {
+        "action": "TALK",
+        "user": "fivestar28",
+        "content": "这样杀杀不动",
+        "time_int": 671
+    },
+    {
+        "action": "TALK",
+        "user": "wzqclass125",
+        "content": "似乎是",
+        "time_int": 676
+    },
+    {
+        "action": "TALK",
+        "user": "fivestar28",
+        "content": "23=25",
+        "time_int": 681
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "555555",
+        "time_int": 686
+    },
+    {
+        "action": "TALK",
+        "user": "wzqclass125",
+        "content": "5555",
+        "time_int": 691
+    },
+    {
+        "action": "BACK",
+        "user": "",
+        "content": "{fivestar28}",
+        "time_int": 696
+    },
+    {
+        "action": "BACK",
+        "user": "",
+        "content": "{fivestar28}",
+        "time_int": 697
+    },
+    {
+        "action": "BACK",
+        "user": "",
+        "content": "{fivestar28}",
+        "time_int": 698
+    },
+    {
+        "action": "BACK",
+        "user": "",
+        "content": "{fivestar28}",
+        "time_int": 699
+    },
+    {
+        "action": "TALK",
+        "user": "wzqclass125",
+        "content": "有谁可以帮帮我",
+        "time_int": 700
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "我哭MM来晚了",
+        "time_int": 705
+    },
+    {
+        "action": "MOVE",
+        "user": "fivestar28",
+        "content": "69",
+        "time_int": 710
+    },
+    {
+        "action": "MOVE",
+        "user": "fivestar28",
+        "content": "5a",
+        "time_int": 713
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "125哭什么嘛",
+        "time_int": 716
+    },
+    {
+        "action": "TALK",
+        "user": "wzqclass125",
+        "content": "没想清楚，嘻嘻",
+        "time_int": 721
+    },
+    {
+        "action": "MOVE",
+        "user": "fivestar28",
+        "content": "7a",
+        "time_int": 726
+    },
+    {
+        "action": "MOVE",
+        "user": "fivestar28",
+        "content": "8b",
+        "time_int": 729
+    },
+    {
+        "action": "TALK",
+        "user": "fivestar24",
+        "content": "恩，迟到了",
+        "time_int": 732
+    },
+    {
+        "action": "TALK",
+        "user": "wzqclass125",
+        "content": "老师，今天讲课用uc吗",
+        "time_int": 737
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "不用",
+        "time_int": 742
+    },
+    {
+        "action": "TALK",
+        "user": "fivestar12",
+        "content": "g6",
+        "time_int": 747
+    },
+    {
+        "action": "MOVE",
+        "user": "fivestar28",
+        "content": "76",
+        "time_int": 752
+    },
+    {
+        "action": "MOVE",
+        "user": "fivestar28",
+        "content": "65",
+        "time_int": 755
+    },
+    {
+        "action": "MOVE",
+        "user": "fivestar12",
+        "content": "77",
+        "time_int": 758
+    },
+    {
+        "action": "MOVE",
+        "user": "fivestar28",
+        "content": "79",
+        "time_int": 761
+    },
+    {
+        "action": "MOVE",
+        "user": "fivestar12",
+        "content": "75",
+        "time_int": 764
+    },
+    {
+        "action": "MOVE",
+        "user": "fivestar28",
+        "content": "74",
+        "time_int": 767
+    },
+    {
+        "action": "MOVE",
+        "user": "fivestar12",
+        "content": "64",
+        "time_int": 770
+    },
+    {
+        "action": "MOVE",
+        "user": "fivestar12",
+        "content": "53",
+        "time_int": 773
+    },
+    {
+        "action": "MOVE",
+        "user": "fivestar12",
+        "content": "c7",
+        "time_int": 776
+    },
+    {
+        "action": "MOVE",
+        "user": "fivestar12",
+        "content": "d6",
+        "time_int": 779
+    },
+    {
+        "action": "MOVE",
+        "user": "fivestar12",
+        "content": "95",
+        "time_int": 782
+    },
+    {
+        "action": "MOVE",
+        "user": "fivestar12",
+        "content": "b3",
+        "time_int": 785
+    },
+    {
+        "action": "MOVE",
+        "user": "fivestar12",
+        "content": "b5",
+        "time_int": 788
+    },
+    {
+        "action": "MOVE",
+        "user": "fivestar12",
+        "content": "85",
+        "time_int": 791
+    },
+    {
+        "action": "MOVE",
+        "user": "fivestar12",
+        "content": "c6",
+        "time_int": 794
+    },
+    {
+        "action": "TALK",
+        "user": "fivestar28",
+        "content": "呵呵",
+        "time_int": 797
+    },
+    {
+        "action": "TALK",
+        "user": "fivestar28",
+        "content": "厉害啊",
+        "time_int": 802
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "ccc",
+        "time_int": 807
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "终于在这里杀了",
+        "time_int": 812
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "还有什么20",
+        "time_int": 817
+    },
+    {
+        "action": "GOTO",
+        "user": "GrandMaster",
+        "content": "019",
+        "time_int": 822
+    },
+    {
+        "action": "TALK",
+        "user": "wzqclass125",
+        "content": "左边有没有杀呢",
+        "time_int": 825
+    },
+    {
+        "action": "TALK",
+        "user": "fivestar28",
+        "content": "就是，我看20的时候没看到这个杀",
+        "time_int": 830
+    },
+    {
+        "action": "TALK",
+        "user": "fivestar28",
+        "content": "我看着左边没杀的，结果补了西墙跨了东墙",
+        "time_int": 835
+    },
+    {
+        "action": "MOVE",
+        "user": "fivestar28",
+        "content": "68",
+        "time_int": 840
+    },
+    {
+        "action": "TALK",
+        "user": "fivestar28",
+        "content": "老实一点好了",
+        "time_int": 843
+    },
+    {
+        "action": "MOVE",
+        "user": "GrandMaster",
+        "content": "76",
+        "time_int": 848
+    },
+    {
+        "action": "TALK",
+        "user": "wzqclass125",
+        "content": "恩，我得从头开始好好想想，嘻嘻",
+        "time_int": 851
+    },
+    {
+        "action": "TALK",
+        "user": "fivestar12",
+        "content": "28 还不了解色色流思路！=) 色色向来喜欢搞全盘连接的，瑞星3就色色搞全盘连接的杰作！",
+        "time_int": 856
+    },
+    {
+        "action": "MOVE",
+        "user": "fivestar28",
+        "content": "67",
+        "time_int": 861
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "125是哪个MM",
+        "time_int": 864
+    },
+    {
+        "action": "MOVE",
+        "user": "GrandMaster",
+        "content": "69",
+        "time_int": 869
+    },
+    {
+        "action": "TALK",
+        "user": "wzqclass125",
+        "content": "我是信来的",
+        "time_int": 872
+    },
+    {
+        "action": "TALK",
+        "user": "fivestar28",
+        "content": "我不了解他！！！？",
+        "time_int": 877
+    },
+    {
+        "action": "TALK",
+        "user": "wzqclass125",
+        "content": "在qq叫灵韵心蓝",
+        "time_int": 882
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "一看就知道是MM",
+        "time_int": 887
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "嘿",
+        "time_int": 892
+    },
+    {
+        "action": "TALK",
+        "user": "wzqclass125",
+        "content": "晕，这也知道",
+        "time_int": 897
+    },
+    {
+        "action": "MOVE",
+        "user": "fivestar28",
+        "content": "7a",
+        "time_int": 902
+    },
+    {
+        "action": "TALK",
+        "user": "wzqclass125",
+        "content": "不就是555了嘛",
+        "time_int": 905
+    },
+    {
+        "action": "TALK",
+        "user": "fivestar12",
+        "content": "...色色直觉好准",
+        "time_int": 910
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "凭偶N年泡MM的直觉",
+        "time_int": 915
+    },
+    {
+        "action": "TALK",
+        "user": "wzqclass125",
+        "content": "哼~~他是看我笨，所以猜我是mm的",
+        "time_int": 920
+    },
+    {
+        "action": "MOVE",
+        "user": "GrandMaster",
+        "content": "95",
+        "time_int": 925
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "嘿嘿",
+        "time_int": 928
+    },
+    {
+        "action": "TALK",
+        "user": "fivestar02",
+        "content": "哈哈",
+        "time_int": 933
+    },
+    {
+        "action": "TALK",
+        "user": "fivestar24",
+        "content": "哈哈",
+        "time_int": 938
+    },
+    {
+        "action": "MOVE",
+        "user": "fivestar28",
+        "content": "b3",
+        "time_int": 943
+    },
+    {
+        "action": "TALK",
+        "user": "wzqclass125",
+        "content": "饿……我还泡gg呢。吼吼",
+        "time_int": 946
+    },
+    {
+        "action": "TALK",
+        "user": "fivestar09",
+        "content": "SS对MM最有嗅",
+        "time_int": 951
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "这个是作业",
+        "time_int": 956
+    },
+    {
+        "action": "MOVE",
+        "user": "GrandMaster",
+        "content": "b5",
+        "time_int": 961
+    },
+    {
+        "action": "MOVE",
+        "user": "fivestar28",
+        "content": "c5",
+        "time_int": 964
+    },
+    {
+        "action": "TALK",
+        "user": "wzqclass125",
+        "content": "作业？",
+        "time_int": 967
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "V乐",
+        "time_int": 972
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "以前的作业",
+        "time_int": 977
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "好了",
+        "time_int": 982
+    },
+    {
+        "action": "BACK",
+        "user": "",
+        "content": "{fivestar28}",
+        "time_int": 987
+    },
+    {
+        "action": "BACK",
+        "user": "",
+        "content": "{fivestar28}",
+        "time_int": 988
+    },
+    {
+        "action": "BACK",
+        "user": "",
+        "content": "{fivestar28}",
+        "time_int": 989
+    },
+    {
+        "action": "TALK",
+        "user": "fivestar24",
+        "content": "MM不一定都笨啊~我就不笨~哼",
+        "time_int": 990
+    },
+    {
+        "action": "MOVE",
+        "user": "fivestar28",
+        "content": "77",
+        "time_int": 995
+    },
+    {
+        "action": "MOVE",
+        "user": "GrandMaster",
+        "content": "b5",
+        "time_int": 998
+    },
+    {
+        "action": "MOVE",
+        "user": "fivestar28",
+        "content": "c5",
+        "time_int": 1001
+    },
+    {
+        "action": "TALK",
+        "user": "wzqclass125",
+        "content": "饿……通常泡mm的gg会认为mm笨",
+        "time_int": 1004
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "*^O^*",
+        "time_int": 1009
+    },
+    {
+        "action": "MOVE",
+        "user": "GrandMaster",
+        "content": "c6",
+        "time_int": 1014
+    },
+    {
+        "action": "MOVE",
+        "user": "fivestar28",
+        "content": "d7",
+        "time_int": 1017
+    },
+    {
+        "action": "MOVE",
+        "user": "GrandMaster",
+        "content": "75",
+        "time_int": 1020
+    },
+    {
+        "action": "MOVE",
+        "user": "fivestar28",
+        "content": "85",
+        "time_int": 1023
+    },
+    {
+        "action": "MOVE",
+        "user": "GrandMaster",
+        "content": "56",
+        "time_int": 1026
+    },
+    {
+        "action": "MOVE",
+        "user": "fivestar28",
+        "content": "66",
+        "time_int": 1029
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "V乐",
+        "time_int": 1032
+    },
+    {
+        "action": "TALK",
+        "user": "fivestar28",
+        "content": "恩",
+        "time_int": 1037
+    },
+    {
+        "action": "GOTO",
+        "user": "GrandMaster",
+        "content": "019",
+        "time_int": 1042
+    },
+    {
+        "action": "TALK",
+        "user": "wzqclass125",
+        "content": "恩恩",
+        "time_int": 1045
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "还有哪个20",
+        "time_int": 1050
+    },
+    {
+        "action": "TALK",
+        "user": "wzqclass125",
+        "content": "终于看到以次",
+        "time_int": 1055
+    },
+    {
+        "action": "MOVE",
+        "user": "fivestar28",
+        "content": "77",
+        "time_int": 1060
+    },
+    {
+        "action": "BACK",
+        "user": "",
+        "content": "{GrandMaster}",
+        "time_int": 1063
+    },
+    {
+        "action": "MOVE",
+        "user": "GrandMaster",
+        "content": "77",
+        "time_int": 1064
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "ccc",
+        "time_int": 1067
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "这个",
+        "time_int": 1072
+    },
+    {
+        "action": "MOVE",
+        "user": "GrandMaster",
+        "content": "57",
+        "time_int": 1077
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "上次说到哪儿了",
+        "time_int": 1080
+    },
+    {
+        "action": "TALK",
+        "user": "fivestar28",
+        "content": "就是被你做棋太难受，所以最开始的20是团角",
+        "time_int": 1085
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "谁还记得",
+        "time_int": 1090
+    },
+    {
+        "action": "MOVE",
+        "user": "fivestar28",
+        "content": "56",
+        "time_int": 1095
+    },
+    {
+        "action": "MOVE",
+        "user": "GrandMaster",
+        "content": "69",
+        "time_int": 1098
+    },
+    {
+        "action": "MOVE",
+        "user": "fivestar28",
+        "content": "78",
+        "time_int": 1101
+    },
+    {
+        "action": "MOVE",
+        "user": "GrandMaster",
+        "content": "67",
+        "time_int": 1104
+    },
+    {
+        "action": "MOVE",
+        "user": "fivestar28",
+        "content": "76",
+        "time_int": 1107
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "嘿嘿",
+        "time_int": 1110
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "现在",
+        "time_int": 1115
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "谁会杀",
+        "time_int": 1120
+    },
+    {
+        "action": "TALK",
+        "user": "fivestar02",
+        "content": "送来晚的妹妹*^O^*",
+        "time_int": 1125
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "昏",
+        "time_int": 1130
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "24",
+        "time_int": 1135
+    },
+    {
+        "action": "BACK",
+        "user": "",
+        "content": "{fivestar28}",
+        "time_int": 1140
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "不用了",
+        "time_int": 1141
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "回了",
+        "time_int": 1146
+    },
+    {
+        "action": "TALK",
+        "user": "fivestar28",
+        "content": "我自己看到了",
+        "time_int": 1151
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "哈哈",
+        "time_int": 1156
+    },
+    {
+        "action": "TALK",
+        "user": "fivestar12",
+        "content": "...哪来的26？",
+        "time_int": 1161
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "26以后VCT",
+        "time_int": 1166
+    },
+    {
+        "action": "BACK",
+        "user": "",
+        "content": "{fivestar28}",
+        "time_int": 1171
+    },
+    {
+        "action": "BACK",
+        "user": "",
+        "content": "{fivestar28}",
+        "time_int": 1172
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "嘿",
+        "time_int": 1173
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "看28换",
+        "time_int": 1178
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "24会放在哪儿呢",
+        "time_int": 1183
+    },
+    {
+        "action": "TALK",
+        "user": "fivestar24",
+        "content": "冲咖啡去了",
+        "time_int": 1188
+    },
+    {
+        "action": "TALK",
+        "user": "fivestar24",
+        "content": "现在来了",
+        "time_int": 1193
+    },
+    {
+        "action": "TALK",
+        "user": "fivestar12",
+        "content": "f8 =)",
+        "time_int": 1198
+    },
+    {
+        "action": "MOVE",
+        "user": "fivestar28",
+        "content": "68",
+        "time_int": 1203
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "汗",
+        "time_int": 1206
+    },
+    {
+        "action": "TALK",
+        "user": "fivestar24",
+        "content": "不是叫我啊",
+        "time_int": 1211
+    },
+    {
+        "action": "MOVE",
+        "user": "GrandMaster",
+        "content": "48",
+        "time_int": 1216
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "嘿",
+        "time_int": 1219
+    },
+    {
+        "action": "TALK",
+        "user": "fivestar24",
+        "content": "自做多情了",
+        "time_int": 1224
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "谁知道25的妙处",
+        "time_int": 1229
+    },
+    {
+        "action": "TALK",
+        "user": "fivestar28",
+        "content": "做你个头",
+        "time_int": 1234
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "55555",
+        "time_int": 1239
+    },
+    {
+        "action": "TALK",
+        "user": "fivestar24",
+        "content": "28你骂谁？",
+        "time_int": 1244
+    },
+    {
+        "action": "TALK",
+        "user": "fivestar09",
+        "content": "妙在哪儿？？",
+        "time_int": 1249
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "我不做能杀嘛",
+        "time_int": 1254
+    },
+    {
+        "action": "TALK",
+        "user": "wzqclass125",
+        "content": "不懂",
+        "time_int": 1259
+    },
+    {
+        "action": "TALK",
+        "user": "fivestar02",
+        "content": "把24放在咖啡里，哈哈",
+        "time_int": 1264
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "哇，都不知道",
+        "time_int": 1269
+    },
+    {
+        "action": "TALK",
+        "user": "wzqclass125",
+        "content": "25手？的好处？",
+        "time_int": 1274
+    },
+    {
+        "action": "TALK",
+        "user": "fivestar12",
+        "content": "汗，确定看不懂",
+        "time_int": 1279
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "昏倒",
+        "time_int": 1284
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "28肯定知道",
+        "time_int": 1289
+    },
+    {
+        "action": "TALK",
+        "user": "fivestar28",
+        "content": "我当然知道",
+        "time_int": 1294
+    },
+    {
+        "action": "TALK",
+        "user": "wzqclass53",
+        "content": "呵呵",
+        "time_int": 1299
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "正在考虑防守问题",
+        "time_int": 1304
+    },
+    {
+        "action": "TALK",
+        "user": "wzqclass125",
+        "content": "我怎么觉得象进攻啊",
+        "time_int": 1309
+    },
+    {
+        "action": "TALK",
+        "user": "fivestar28",
+        "content": "不想了，你们去想",
+        "time_int": 1314
+    },
+    {
+        "action": "TALK",
+        "user": "fivestar12",
+        "content": "以外的25",
+        "time_int": 1319
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "白棋不可能进攻的",
+        "time_int": 1324
+    },
+    {
+        "action": "TALK",
+        "user": "wzqclass125",
+        "content": "我说黑呀",
+        "time_int": 1329
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "连个2都没有",
+        "time_int": 1334
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "昏",
+        "time_int": 1339
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "我说28正考虑白棋的防守问题",
+        "time_int": 1344
+    },
+    {
+        "action": "TALK",
+        "user": "wzqclass125",
+        "content": "25，你刚说25是为了防白？我说我看不懂",
+        "time_int": 1349
+    },
+    {
+        "action": "TALK",
+        "user": "fivestar28",
+        "content": "没考虑了",
+        "time_int": 1354
+    },
+    {
+        "action": "TALK",
+        "user": "fivestar28",
+        "content": "防不了了",
+        "time_int": 1359
+    },
+    {
+        "action": "TALK",
+        "user": "wzqclass125",
+        "content": "晕，不在说一回事呀",
+        "time_int": 1364
+    },
+    {
+        "action": "TALK",
+        "user": "fivestar12",
+        "content": "25思路？一头雾水",
+        "time_int": 1369
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "嗯，反正知道25的好处",
+        "time_int": 1374
+    },
+    {
+        "action": "TALK",
+        "user": "fivestar28",
+        "content": "那是",
+        "time_int": 1379
+    },
+    {
+        "action": "TALK",
+        "user": "fivestar24",
+        "content": "25是做杀",
+        "time_int": 1384
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "鸟来说",
+        "time_int": 1389
+    },
+    {
+        "action": "TALK",
+        "user": "fivestar28",
+        "content": "不懂，你才是老师",
+        "time_int": 1394
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "555",
+        "time_int": 1399
+    },
+    {
+        "action": "TALK",
+        "user": "fivestar12",
+        "content": "E10 E11，D9什么什么的点不做，做在D8，意料外！",
+        "time_int": 1404
+    },
+    {
+        "action": "TALK",
+        "user": "fivestar02",
+        "content": "谁是鸟？？？？？",
+        "time_int": 1409
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "想歇会都不成",
+        "time_int": 1414
+    },
+    {
+        "action": "TALK",
+        "user": "fivestar09",
+        "content": "25好在哪儿啊~DSL掌门",
+        "time_int": 1419
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "28是老鸟",
+        "time_int": 1424
+    },
+    {
+        "action": "MOVE",
+        "user": "GrandMaster",
+        "content": "67",
+        "time_int": 1429
+    },
+    {
+        "action": "MOVE",
+        "user": "GrandMaster",
+        "content": "78",
+        "time_int": 1432
+    },
+    {
+        "action": "TALK",
+        "user": "fivestar02",
+        "content": "哈哈多老的",
+        "time_int": 1435
+    },
+    {
+        "action": "MOVE",
+        "user": "GrandMaster",
+        "content": "5a",
+        "time_int": 1440
+    },
+    {
+        "action": "MOVE",
+        "user": "GrandMaster",
+        "content": "7a",
+        "time_int": 1443
+    },
+    {
+        "action": "TALK",
+        "user": "fivestar02",
+        "content": "我考着吃",
+        "time_int": 1446
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "显然",
+        "time_int": 1451
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "v乐",
+        "time_int": 1456
+    },
+    {
+        "action": "BACK",
+        "user": "",
+        "content": "{GrandMaster}",
+        "time_int": 1461
+    },
+    {
+        "action": "BACK",
+        "user": "",
+        "content": "{GrandMaster}",
+        "time_int": 1462
+    },
+    {
+        "action": "BACK",
+        "user": "",
+        "content": "{GrandMaster}",
+        "time_int": 1463
+    },
+    {
+        "action": "BACK",
+        "user": "",
+        "content": "{GrandMaster}",
+        "time_int": 1464
+    },
+    {
+        "action": "MOVE",
+        "user": "GrandMaster",
+        "content": "78",
+        "time_int": 1465
+    },
+    {
+        "action": "MOVE",
+        "user": "GrandMaster",
+        "content": "67",
+        "time_int": 1468
+    },
+    {
+        "action": "MOVE",
+        "user": "GrandMaster",
+        "content": "49",
+        "time_int": 1471
+    },
+    {
+        "action": "MOVE",
+        "user": "GrandMaster",
+        "content": "39",
+        "time_int": 1474
+    },
+    {
+        "action": "BACK",
+        "user": "",
+        "content": "{GrandMaster}",
+        "time_int": 1477
+    },
+    {
+        "action": "BACK",
+        "user": "",
+        "content": "{GrandMaster}",
+        "time_int": 1478
+    },
+    {
+        "action": "BACK",
+        "user": "",
+        "content": "{GrandMaster}",
+        "time_int": 1479
+    },
+    {
+        "action": "BACK",
+        "user": "",
+        "content": "{GrandMaster}",
+        "time_int": 1480
+    },
+    {
+        "action": "MOVE",
+        "user": "GrandMaster",
+        "content": "66",
+        "time_int": 1481
+    },
+    {
+        "action": "MOVE",
+        "user": "GrandMaster",
+        "content": "7a",
+        "time_int": 1484
+    },
+    {
+        "action": "BACK",
+        "user": "",
+        "content": "{GrandMaster}",
+        "time_int": 1487
+    },
+    {
+        "action": "BACK",
+        "user": "",
+        "content": "{GrandMaster}",
+        "time_int": 1488
+    },
+    {
+        "action": "MOVE",
+        "user": "GrandMaster",
+        "content": "7a",
+        "time_int": 1489
+    },
+    {
+        "action": "MOVE",
+        "user": "GrandMaster",
+        "content": "39",
+        "time_int": 1492
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "耶",
+        "time_int": 1495
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "v乐",
+        "time_int": 1500
+    },
+    {
+        "action": "TALK",
+        "user": "fivestar10",
+        "content": "晕",
+        "time_int": 1505
+    },
+    {
+        "action": "BACK",
+        "user": "",
+        "content": "{GrandMaster}",
+        "time_int": 1510
+    },
+    {
+        "action": "BACK",
+        "user": "",
+        "content": "{GrandMaster}",
+        "time_int": 1511
+    },
+    {
+        "action": "TALK",
+        "user": "endlessroad",
+        "content": "yeah~~",
+        "time_int": 1512
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "注意看",
+        "time_int": 1517
+    },
+    {
+        "action": "TALK",
+        "user": "fivestar12",
+        "content": "色色，说说你那意料外的25吧！看不懂ING",
+        "time_int": 1522
+    },
+    {
+        "action": "TALK",
+        "user": "fivestar09",
+        "content": "不准偷袭",
+        "time_int": 1527
+    },
+    {
+        "action": "CHECKRESULT",
+        "user": "",
+        "content": " endlessroad, fivestar12, wzqclass70, fivestar10, fivestar23, wzqclass149, fivestar09, chinarenju58, fivestar28, fivestar02, fivestar21, wzqclass105, fivestar16, fivestar24, wzqclass64, wzqclass125, wzqclass24, wzqclass110.",
+        "time_int": 1532
+    },
+    {
+        "action": "TALK",
+        "user": "fivestar02",
+        "content": "哇~~~~~",
+        "time_int": 1535
+    },
+    {
+        "action": "BACK",
+        "user": "",
+        "content": "{GrandMaster}",
+        "time_int": 1540
+    },
+    {
+        "action": "MOVE",
+        "user": "GrandMaster",
+        "content": "48",
+        "time_int": 1541
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "很好看的三角",
+        "time_int": 1544
+    },
+    {
+        "action": "TALK",
+        "user": "fivestar24",
+        "content": "姐姐哇什么",
+        "time_int": 1549
+    },
+    {
+        "action": "TALK",
+        "user": "fivestar12",
+        "content": "今天人真不少！！色色瑞星3打一巨成名拉",
+        "time_int": 1554
+    },
+    {
+        "action": "TALK",
+        "user": "fivestar02",
+        "content": "你8懂",
+        "time_int": 1559
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "*^o^*",
+        "time_int": 1564
+    },
+    {
+        "action": "TALK",
+        "user": "endlessroad",
+        "content": "⊙_⊙",
+        "time_int": 1569
+    },
+    {
+        "action": "TALK",
+        "user": "fivestar12",
+        "content": "小黑都算不出...",
+        "time_int": 1574
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "哇",
+        "time_int": 1579
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "比偶帅",
+        "time_int": 1584
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "555555",
+        "time_int": 1589
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "我要跳楼",
+        "time_int": 1594
+    },
+    {
+        "action": "TALK",
+        "user": "endlessroad",
+        "content": "???",
+        "time_int": 1599
+    },
+    {
+        "action": "TALK",
+        "user": "fivestar09",
+        "content": "两个我都不会打啊",
+        "time_int": 1604
+    },
+    {
+        "action": "TALK",
+        "user": "wzqclass125",
+        "content": "跳吧",
+        "time_int": 1609
+    },
+    {
+        "action": "TALK",
+        "user": "fivestar02",
+        "content": "哇，快教我，如何弄的小眼珠子",
+        "time_int": 1614
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "好，我跳了",
+        "time_int": 1619
+    },
+    {
+        "action": "TALK",
+        "user": "endlessroad",
+        "content": "你复制就可以了啊:P",
+        "time_int": 1624
+    },
+    {
+        "action": "TALK",
+        "user": "fivestar02",
+        "content": "正好一对，哈哈",
+        "time_int": 1629
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "125你来接替我讲",
+        "time_int": 1634
+    },
+    {
+        "action": "TALK",
+        "user": "wzqclass125",
+        "content": "智能输入下",
+        "time_int": 1639
+    },
+    {
+        "action": "EMOTE",
+        "user": "fivestar23",
+        "content": " says good-bye to everybody",
+        "time_int": 1644
+    },
+    {
+        "action": "EMOTE",
+        "user": "fivestar23",
+        "content": " says good-bye to sese",
+        "time_int": 1647
+    },
+    {
+        "action": "TALK",
+        "user": "fivestar09",
+        "content": "⊙_⊙",
+        "time_int": 1650
+    },
+    {
+        "action": "TALK",
+        "user": "wzqclass125",
+        "content": "字母v1",
+        "time_int": 1655
+    },
+    {
+        "action": "TALK",
+        "user": "wzqclass125",
+        "content": "就刻意了",
+        "time_int": 1660
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "啵~~~~~~",
+        "time_int": 1665
+    },
+    {
+        "action": "TALK",
+        "user": "fivestar23",
+        "content": "●_●",
+        "time_int": 1670
+    },
+    {
+        "action": "TALK",
+        "user": "fivestar12",
+        "content": "⊙v⊙",
+        "time_int": 1675
+    },
+    {
+        "action": "TALK",
+        "user": "fivestar09",
+        "content": "⊙_⊙*^o^*",
+        "time_int": 1680
+    },
+    {
+        "action": "TALK",
+        "user": "wzqclass125",
+        "content": "你从一楼跳到30楼我就替你讲",
+        "time_int": 1685
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "算了",
+        "time_int": 1690
+    },
+    {
+        "action": "TALK",
+        "user": "endlessroad",
+        "content": "凸-_-#凸",
+        "time_int": 1695
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "还是我继续",
+        "time_int": 1700
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "大家一定要注意",
+        "time_int": 1705
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "线路的多样性",
+        "time_int": 1710
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "这个25是不可阻挡的",
+        "time_int": 1715
+    },
+    {
+        "action": "TALK",
+        "user": "fivestar23",
+        "content": "晕，突然不跳了",
+        "time_int": 1720
+    },
+    {
+        "action": "TALK",
+        "user": "wzqclass110",
+        "content": "今天是那的讲课啊 老师？",
+        "time_int": 1725
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "很难找到单一的点",
+        "time_int": 1730
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "进行防守",
+        "time_int": 1735
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "今天是",
+        "time_int": 1740
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "FSS的课堂",
+        "time_int": 1745
+    },
+    {
+        "action": "TALK",
+        "user": "endlessroad",
+        "content": "不是wzqclass 是fivestar的色色老师",
+        "time_int": 1750
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "欢迎光临",
+        "time_int": 1755
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "其实",
+        "time_int": 1760
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "愚形",
+        "time_int": 1765
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "三角",
+        "time_int": 1770
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "是很常见",
+        "time_int": 1775
+    },
+    {
+        "action": "TALK",
+        "user": "endlessroad",
+        "content": "继续继续 25我只知道是手筋 说不出好处:(",
+        "time_int": 1780
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "几乎每盘都能看到",
+        "time_int": 1785
+    },
+    {
+        "action": "TALK",
+        "user": "fivestar28",
+        "content": "手筋是什么？",
+        "time_int": 1790
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "团角易攻",
+        "time_int": 1795
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "想必很多人听说过",
+        "time_int": 1800
+    },
+    {
+        "action": "TALK",
+        "user": "fivestar24",
+        "content": "恩",
+        "time_int": 1805
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "这次追求的是进攻的多向性",
+        "time_int": 1810
+    },
+    {
+        "action": "BACK",
+        "user": "",
+        "content": "{GrandMaster}",
+        "time_int": 1815
+    },
+    {
+        "action": "BACK",
+        "user": "",
+        "content": "{GrandMaster}",
+        "time_int": 1816
+    },
+    {
+        "action": "BACK",
+        "user": "",
+        "content": "{GrandMaster}",
+        "time_int": 1817
+    },
+    {
+        "action": "BACK",
+        "user": "",
+        "content": "{GrandMaster}",
+        "time_int": 1818
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "换22",
+        "time_int": 1819
+    },
+    {
+        "action": "TALK",
+        "user": "fivestar12",
+        "content": "...难度系数比手术的大卦还大",
+        "time_int": 1824
+    },
+    {
+        "action": "TALK",
+        "user": "fivestar28",
+        "content": "你说你的最强防在哪？",
+        "time_int": 1829
+    },
+    {
+        "action": "TALK",
+        "user": "wzqclass105",
+        "content": ".........",
+        "time_int": 1834
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "大卦是啥",
+        "time_int": 1839
+    },
+    {
+        "action": "TALK",
+        "user": "endlessroad",
+        "content": "呵呵",
+        "time_int": 1844
+    },
+    {
+        "action": "TALK",
+        "user": "fivestar24",
+        "content": "就是大褂子的大~~笨",
+        "time_int": 1849
+    },
+    {
+        "action": "TALK",
+        "user": "fivestar12",
+        "content": "你18K5 19手就成了个大卦",
+        "time_int": 1854
+    },
+    {
+        "action": "TALK",
+        "user": "fivestar23",
+        "content": "做手术当然要穿大卦",
+        "time_int": 1859
+    },
+    {
+        "action": "TALK",
+        "user": "wzqclass125",
+        "content": "e6？",
+        "time_int": 1864
+    },
+    {
+        "action": "TALK",
+        "user": "wzqclass125",
+        "content": "不好饿",
+        "time_int": 1869
+    },
+    {
+        "action": "TALK",
+        "user": "endlessroad",
+        "content": "昏",
+        "time_int": 1874
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "刚说了",
+        "time_int": 1879
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "E6",
+        "time_int": 1884
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "还有谁有建议",
+        "time_int": 1889
+    },
+    {
+        "action": "TALK",
+        "user": "wzqclass125",
+        "content": "对不起老师，我不够专心",
+        "time_int": 1894
+    },
+    {
+        "action": "TALK",
+        "user": "fivestar12",
+        "content": "g8 :DD",
+        "time_int": 1899
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "CC",
+        "time_int": 1904
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "女孩子嘛",
+        "time_int": 1909
+    },
+    {
+        "action": "TALK",
+        "user": "wzqclass125",
+        "content": "e9有没有说",
+        "time_int": 1914
+    },
+    {
+        "action": "MOVE",
+        "user": "GrandMaster",
+        "content": "78",
+        "time_int": 1919
+    },
+    {
+        "action": "BACK",
+        "user": "",
+        "content": "{GrandMaster}",
+        "time_int": 1922
+    },
+    {
+        "action": "TALK",
+        "user": "fivestar24",
+        "content": "G8我想要是我，应该走那",
+        "time_int": 1923
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "打G8",
+        "time_int": 1928
+    },
+    {
+        "action": "MOVE",
+        "user": "GrandMaster",
+        "content": "59",
+        "time_int": 1933
+    },
+    {
+        "action": "MOVE",
+        "user": "GrandMaster",
+        "content": "68",
+        "time_int": 1936
+    },
+    {
+        "action": "MOVE",
+        "user": "GrandMaster",
+        "content": "78",
+        "time_int": 1939
+    },
+    {
+        "action": "TALK",
+        "user": "fivestar28",
+        "content": "这个弱些",
+        "time_int": 1942
+    },
+    {
+        "action": "MOVE",
+        "user": "GrandMaster",
+        "content": "79",
+        "time_int": 1947
+    },
+    {
+        "action": "MOVE",
+        "user": "GrandMaster",
+        "content": "8a",
+        "time_int": 1950
+    },
+    {
+        "action": "MOVE",
+        "user": "GrandMaster",
+        "content": "56",
+        "time_int": 1953
+    },
+    {
+        "action": "TALK",
+        "user": "wzqclass125",
+        "content": "恩恩，是的",
+        "time_int": 1956
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "防哪儿",
+        "time_int": 1961
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "125说",
+        "time_int": 1966
+    },
+    {
+        "action": "TALK",
+        "user": "wzqclass125",
+        "content": "我不知道哦",
+        "time_int": 1971
+    },
+    {
+        "action": "TALK",
+        "user": "wzqclass125",
+        "content": "黑现在没有vcf吧",
+        "time_int": 1976
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "嗯",
+        "time_int": 1981
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "说一个",
+        "time_int": 1986
+    },
+    {
+        "action": "TALK",
+        "user": "wzqclass125",
+        "content": "那白是不是可以走自己的棋呢",
+        "time_int": 1991
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "防点",
+        "time_int": 1996
+    },
+    {
+        "action": "TALK",
+        "user": "wzqclass125",
+        "content": "。。我不会",
+        "time_int": 2001
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "可以",
+        "time_int": 2006
+    },
+    {
+        "action": "TALK",
+        "user": "wzqclass125",
+        "content": "觉得防哪里都不好",
+        "time_int": 2011
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "125走白",
+        "time_int": 2016
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "125",
+        "time_int": 2021
+    },
+    {
+        "action": "TALK",
+        "user": "wzqclass125",
+        "content": "在",
+        "time_int": 2026
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "可以走",
+        "time_int": 2031
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "走白",
+        "time_int": 2036
+    },
+    {
+        "action": "TALK",
+        "user": "wzqclass105",
+        "content": "防D6",
+        "time_int": 2041
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "觉得没有防守，就说放弃",
+        "time_int": 2046
+    },
+    {
+        "action": "MOVE",
+        "user": "wzqclass125",
+        "content": "6a",
+        "time_int": 2051
+    },
+    {
+        "action": "TALK",
+        "user": "wzqclass125",
+        "content": "我放弃",
+        "time_int": 2054
+    },
+    {
+        "action": "MOVE",
+        "user": "GrandMaster",
+        "content": "46",
+        "time_int": 2059
+    },
+    {
+        "action": "MOVE",
+        "user": "GrandMaster",
+        "content": "35",
+        "time_int": 2062
+    },
+    {
+        "action": "MOVE",
+        "user": "GrandMaster",
+        "content": "48",
+        "time_int": 2065
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "v",
+        "time_int": 2068
+    },
+    {
+        "action": "BACK",
+        "user": "",
+        "content": "{GrandMaster}",
+        "time_int": 2073
+    },
+    {
+        "action": "BACK",
+        "user": "",
+        "content": "{GrandMaster}",
+        "time_int": 2074
+    },
+    {
+        "action": "BACK",
+        "user": "",
+        "content": "{GrandMaster}",
+        "time_int": 2075
+    },
+    {
+        "action": "BACK",
+        "user": "",
+        "content": "{GrandMaster}",
+        "time_int": 2076
+    },
+    {
+        "action": "MOVE",
+        "user": "GrandMaster",
+        "content": "46",
+        "time_int": 2077
+    },
+    {
+        "action": "MOVE",
+        "user": "GrandMaster",
+        "content": "66",
+        "time_int": 2080
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "V乐",
+        "time_int": 2083
+    },
+    {
+        "action": "BACK",
+        "user": "",
+        "content": "{GrandMaster}",
+        "time_int": 2088
+    },
+    {
+        "action": "BACK",
+        "user": "",
+        "content": "{GrandMaster}",
+        "time_int": 2089
+    },
+    {
+        "action": "BACK",
+        "user": "",
+        "content": "{GrandMaster}",
+        "time_int": 2090
+    },
+    {
+        "action": "BACK",
+        "user": "",
+        "content": "{GrandMaster}",
+        "time_int": 2091
+    },
+    {
+        "action": "BACK",
+        "user": "",
+        "content": "{GrandMaster}",
+        "time_int": 2092
+    },
+    {
+        "action": "BACK",
+        "user": "",
+        "content": "{GrandMaster}",
+        "time_int": 2093
+    },
+    {
+        "action": "BACK",
+        "user": "",
+        "content": "{GrandMaster}",
+        "time_int": 2094
+    },
+    {
+        "action": "BACK",
+        "user": "",
+        "content": "{GrandMaster}",
+        "time_int": 2095
+    },
+    {
+        "action": "TALK",
+        "user": "fivestar12",
+        "content": "问下，这个27怎么想的",
+        "time_int": 2096
+    },
+    {
+        "action": "MOVE",
+        "user": "GrandMaster",
+        "content": "59",
+        "time_int": 2101
+    },
+    {
+        "action": "MOVE",
+        "user": "GrandMaster",
+        "content": "68",
+        "time_int": 2104
+    },
+    {
+        "action": "MOVE",
+        "user": "GrandMaster",
+        "content": "78",
+        "time_int": 2107
+    },
+    {
+        "action": "MOVE",
+        "user": "GrandMaster",
+        "content": "79",
+        "time_int": 2110
+    },
+    {
+        "action": "MOVE",
+        "user": "GrandMaster",
+        "content": "8a",
+        "time_int": 2113
+    },
+    {
+        "action": "MOVE",
+        "user": "GrandMaster",
+        "content": "56",
+        "time_int": 2116
+    },
+    {
+        "action": "TALK",
+        "user": "fivestar23",
+        "content": "选必胜的点里最复杂的一个就是",
+        "time_int": 2119
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "嘿嘿",
+        "time_int": 2124
+    },
+    {
+        "action": "TALK",
+        "user": "endlessroad",
+        "content": "牵制 做棋？",
+        "time_int": 2129
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "昏",
+        "time_int": 2134
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "23说的在理",
+        "time_int": 2139
+    },
+    {
+        "action": "TALK",
+        "user": "fivestar23",
+        "content": "嘿嘿",
+        "time_int": 2144
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "咳",
+        "time_int": 2149
+    },
+    {
+        "action": "TALK",
+        "user": "fivestar12",
+        "content": "跟破软想法相差甚远，色色的思路？",
+        "time_int": 2154
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "就按23的解释",
+        "time_int": 2159
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "CCC",
+        "time_int": 2164
+    },
+    {
+        "action": "TALK",
+        "user": "fivestar12",
+        "content": "扑通...",
+        "time_int": 2169
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "偶们要把简单的问题搞复杂",
+        "time_int": 2174
+    },
+    {
+        "action": "TALK",
+        "user": "endlessroad",
+        "content": "......",
+        "time_int": 2179
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "这才是最高境界",
+        "time_int": 2184
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "呵呵",
+        "time_int": 2189
+    },
+    {
+        "action": "TALK",
+        "user": "wzqclass125",
+        "content": "。。。。。",
+        "time_int": 2194
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "开个玩笑",
+        "time_int": 2199
+    },
+    {
+        "action": "EMOTE",
+        "user": "fivestar23",
+        "content": " shakes hands with 色色",
+        "time_int": 2204
+    },
+    {
+        "action": "BACK",
+        "user": "",
+        "content": "{GrandMaster}",
+        "time_int": 2207
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "如果你们",
+        "time_int": 2208
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "会做在哪儿呢",
+        "time_int": 2213
+    },
+    {
+        "action": "TALK",
+        "user": "fivestar24",
+        "content": "G5",
+        "time_int": 2218
+    },
+    {
+        "action": "TALK",
+        "user": "wzqclass125",
+        "content": "d8",
+        "time_int": 2223
+    },
+    {
+        "action": "TALK",
+        "user": "wzqclass105",
+        "content": "我会F10冲，F6做",
+        "time_int": 2228
+    },
+    {
+        "action": "TALK",
+        "user": "fivestar23",
+        "content": "C8",
+        "time_int": 2233
+    },
+    {
+        "action": "TALK",
+        "user": "fivestar28",
+        "content": "冲了就做不了了",
+        "time_int": 2238
+    },
+    {
+        "action": "MOVE",
+        "user": "GrandMaster",
+        "content": "75",
+        "time_int": 2243
+    },
+    {
+        "action": "BACK",
+        "user": "",
+        "content": "{GrandMaster}",
+        "time_int": 2246
+    },
+    {
+        "action": "MOVE",
+        "user": "GrandMaster",
+        "content": "48",
+        "time_int": 2247
+    },
+    {
+        "action": "BACK",
+        "user": "",
+        "content": "{GrandMaster}",
+        "time_int": 2250
+    },
+    {
+        "action": "MOVE",
+        "user": "GrandMaster",
+        "content": "6a",
+        "time_int": 2251
+    },
+    {
+        "action": "TALK",
+        "user": "wzqclass105",
+        "content": "F10",
+        "time_int": 2254
+    },
+    {
+        "action": "MOVE",
+        "user": "GrandMaster",
+        "content": "5b",
+        "time_int": 2259
+    },
+    {
+        "action": "TALK",
+        "user": "wzqclass105",
+        "content": "F6",
+        "time_int": 2262
+    },
+    {
+        "action": "MOVE",
+        "user": "GrandMaster",
+        "content": "66",
+        "time_int": 2267
+    },
+    {
+        "action": "TALK",
+        "user": "fivestar24",
+        "content": "我走G5",
+        "time_int": 2270
+    },
+    {
+        "action": "BACK",
+        "user": "",
+        "content": "{GrandMaster}",
+        "time_int": 2275
+    },
+    {
+        "action": "BACK",
+        "user": "",
+        "content": "{GrandMaster}",
+        "time_int": 2276
+    },
+    {
+        "action": "BACK",
+        "user": "",
+        "content": "{GrandMaster}",
+        "time_int": 2277
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "哇",
+        "time_int": 2278
+    },
+    {
+        "action": "TALK",
+        "user": "wzqclass105",
+        "content": "不是一样能胜",
+        "time_int": 2283
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "看来是百花齐放",
+        "time_int": 2288
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "百家争鸣",
+        "time_int": 2293
+    },
+    {
+        "action": "TALK",
+        "user": "fivestar23",
+        "content": "恩，发现还是B8最符合色色的选点标准",
+        "time_int": 2298
+    },
+    {
+        "action": "TALK",
+        "user": "fivestar24",
+        "content": "吧问题搞的更复杂",
+        "time_int": 2303
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "*^o^*",
+        "time_int": 2308
+    },
+    {
+        "action": "TALK",
+        "user": "wzqclass125",
+        "content": "嘿嘿",
+        "time_int": 2313
+    },
+    {
+        "action": "TALK",
+        "user": "fivestar12",
+        "content": "晕 27 E6 破软竟然算不出杀",
+        "time_int": 2318
+    },
+    {
+        "action": "TALK",
+        "user": "wzqclass105",
+        "content": "色色，我说的能不能胜",
+        "time_int": 2323
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "23最知偶的心",
+        "time_int": 2328
+    },
+    {
+        "action": "TALK",
+        "user": "fivestar23",
+        "content": "B8真的挺不错的*^o^*",
+        "time_int": 2333
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "天知道能不能杀",
+        "time_int": 2338
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "呵呵",
+        "time_int": 2343
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "决定",
+        "time_int": 2348
+    },
+    {
+        "action": "TALK",
+        "user": "wzqclass125",
+        "content": "b8好，真的好",
+        "time_int": 2353
+    },
+    {
+        "action": "EMOTE",
+        "user": "GrandMaster",
+        "content": " kiss 23",
+        "time_int": 2358
+    },
+    {
+        "action": "TALK",
+        "user": "endlessroad",
+        "content": "(∪.∪)",
+        "time_int": 2361
+    },
+    {
+        "action": "TALK",
+        "user": "fivestar23",
+        "content": "又是必胜又飘逸，完美了",
+        "time_int": 2366
+    },
+    {
+        "action": "TALK",
+        "user": "wzqclass125",
+        "content": "晕",
+        "time_int": 2371
+    },
+    {
+        "action": "TALK",
+        "user": "fivestar12",
+        "content": "...难以理解",
+        "time_int": 2376
+    },
+    {
+        "action": "MOVE",
+        "user": "GrandMaster",
+        "content": "56",
+        "time_int": 2381
+    },
+    {
+        "action": "MOVE",
+        "user": "fivestar12",
+        "content": "46",
+        "time_int": 2384
+    },
+    {
+        "action": "MOVE",
+        "user": "fivestar12",
+        "content": "66",
+        "time_int": 2387
+    },
+    {
+        "action": "MOVE",
+        "user": "fivestar12",
+        "content": "76",
+        "time_int": 2390
+    },
+    {
+        "action": "TALK",
+        "user": "fivestar12",
+        "content": "这个，杀来？",
+        "time_int": 2393
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "喜欢这种",
+        "time_int": 2398
+    },
+    {
+        "action": "TALK",
+        "user": "wzqclass125",
+        "content": "说的象武林高手杀了人有吹下剑",
+        "time_int": 2403
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "四边不靠",
+        "time_int": 2408
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "嘿嘿",
+        "time_int": 2413
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "作业",
+        "time_int": 2418
+    },
+    {
+        "action": "TALK",
+        "user": "fivestar12",
+        "content": "faint！！ 太意外了，破软得点到30手才肯杀~~",
+        "time_int": 2423
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "这个非常简单",
+        "time_int": 2428
+    },
+    {
+        "action": "TALK",
+        "user": "wzqclass105",
+        "content": "D8，",
+        "time_int": 2433
+    },
+    {
+        "action": "TALK",
+        "user": "wzqclass105",
+        "content": "或C8",
+        "time_int": 2438
+    },
+    {
+        "action": "TALK",
+        "user": "wzqclass105",
+        "content": "都能杀",
+        "time_int": 2443
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "105好厉害",
+        "time_int": 2448
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "一眼看出来",
+        "time_int": 2453
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "作业当不成了",
+        "time_int": 2458
+    },
+    {
+        "action": "BACK",
+        "user": "",
+        "content": "{GrandMaster}",
+        "time_int": 2463
+    },
+    {
+        "action": "BACK",
+        "user": "",
+        "content": "{GrandMaster}",
+        "time_int": 2464
+    },
+    {
+        "action": "BACK",
+        "user": "",
+        "content": "{GrandMaster}",
+        "time_int": 2465
+    },
+    {
+        "action": "TALK",
+        "user": "wzqclass105",
+        "content": "刚才你们一说",
+        "time_int": 2466
+    },
+    {
+        "action": "TALK",
+        "user": "fivestar12",
+        "content": "估计我不会挑这个27...",
+        "time_int": 2471
+    },
+    {
+        "action": "TALK",
+        "user": "wzqclass105",
+        "content": "我感觉  27下B8，或C8，或D8都行啊",
+        "time_int": 2476
+    },
+    {
+        "action": "TALK",
+        "user": "fivestar24",
+        "content": "我也不会",
+        "time_int": 2481
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "e6我喜欢",
+        "time_int": 2486
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "很简单",
+        "time_int": 2491
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "四边不靠",
+        "time_int": 2496
+    },
+    {
+        "action": "TALK",
+        "user": "fivestar28",
+        "content": "我会",
+        "time_int": 2501
+    },
+    {
+        "action": "TALK",
+        "user": "fivestar23",
+        "content": "简单的话可能是F6最简单",
+        "time_int": 2506
+    },
+    {
+        "action": "TALK",
+        "user": "wzqclass125",
+        "content": "什么叫四边古靠",
+        "time_int": 2511
+    },
+    {
+        "action": "TALK",
+        "user": "fivestar28",
+        "content": "B8我不会，那样有可能出破绽",
+        "time_int": 2516
+    },
+    {
+        "action": "TALK",
+        "user": "fivestar12",
+        "content": "都行归都行，只是这个点跟刚那一样出乎意料但又成立",
+        "time_int": 2521
+    },
+    {
+        "action": "TALK",
+        "user": "fivestar23",
+        "content": "B8没啥破绽，挺好的",
+        "time_int": 2526
+    },
+    {
+        "action": "BACK",
+        "user": "",
+        "content": "{GrandMaster}",
+        "time_int": 2531
+    },
+    {
+        "action": "TALK",
+        "user": "fivestar28",
+        "content": "难说，只是感觉有破绽",
+        "time_int": 2532
+    },
+    {
+        "action": "MOVE",
+        "user": "GrandMaster",
+        "content": "66",
+        "time_int": 2537
+    },
+    {
+        "action": "TALK",
+        "user": "wzqclass105",
+        "content": "这个不行",
+        "time_int": 2540
+    },
+    {
+        "action": "TALK",
+        "user": "wzqclass105",
+        "content": "F10要冲的",
+        "time_int": 2545
+    },
+    {
+        "action": "BACK",
+        "user": "",
+        "content": "{GrandMaster}",
+        "time_int": 2550
+    },
+    {
+        "action": "MOVE",
+        "user": "GrandMaster",
+        "content": "66",
+        "time_int": 2551
+    },
+    {
+        "action": "TALK",
+        "user": "fivestar23",
+        "content": "不用冲，直接F6就行了",
+        "time_int": 2554
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "嗯",
+        "time_int": 2559
+    },
+    {
+        "action": "TALK",
+        "user": "wzqclass105",
+        "content": "对啊",
+        "time_int": 2564
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "确实都能杀",
+        "time_int": 2569
+    },
+    {
+        "action": "BACK",
+        "user": "",
+        "content": "{GrandMaster}",
+        "time_int": 2574
+    },
+    {
+        "action": "TALK",
+        "user": "wzqclass105",
+        "content": "这个更好`",
+        "time_int": 2575
+    },
+    {
+        "action": "TALK",
+        "user": "wzqclass105",
+        "content": "我喜欢",
+        "time_int": 2580
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "所以说",
+        "time_int": 2585
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "风格问题",
+        "time_int": 2590
+    },
+    {
+        "action": "BACK",
+        "user": "",
+        "content": "{GrandMaster}",
+        "time_int": 2595
+    },
+    {
+        "action": "BACK",
+        "user": "",
+        "content": "{GrandMaster}",
+        "time_int": 2596
+    },
+    {
+        "action": "BACK",
+        "user": "",
+        "content": "{GrandMaster}",
+        "time_int": 2597
+    },
+    {
+        "action": "BACK",
+        "user": "",
+        "content": "{GrandMaster}",
+        "time_int": 2598
+    },
+    {
+        "action": "BACK",
+        "user": "",
+        "content": "{GrandMaster}",
+        "time_int": 2599
+    },
+    {
+        "action": "TALK",
+        "user": "fivestar24",
+        "content": "哈哈",
+        "time_int": 2600
+    },
+    {
+        "action": "BACK",
+        "user": "",
+        "content": "{GrandMaster}",
+        "time_int": 2605
+    },
+    {
+        "action": "BACK",
+        "user": "",
+        "content": "{GrandMaster}",
+        "time_int": 2606
+    },
+    {
+        "action": "MOVE",
+        "user": "GrandMaster",
+        "content": "77",
+        "time_int": 2607
+    },
+    {
+        "action": "MOVE",
+        "user": "GrandMaster",
+        "content": "57",
+        "time_int": 2610
+    },
+    {
+        "action": "MOVE",
+        "user": "GrandMaster",
+        "content": "78",
+        "time_int": 2613
+    },
+    {
+        "action": "MOVE",
+        "user": "GrandMaster",
+        "content": "67",
+        "time_int": 2616
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "看",
+        "time_int": 2619
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "26呢",
+        "time_int": 2624
+    },
+    {
+        "action": "TALK",
+        "user": "wzqclass105",
+        "content": "G11",
+        "time_int": 2629
+    },
+    {
+        "action": "MOVE",
+        "user": "GrandMaster",
+        "content": "7b",
+        "time_int": 2634
+    },
+    {
+        "action": "TALK",
+        "user": "fivestar12",
+        "content": "！！ 105 反击狂",
+        "time_int": 2637
+    },
+    {
+        "action": "TALK",
+        "user": "wzqclass115",
+        "content": "上次课不是讲过吗",
+        "time_int": 2642
+    },
+    {
+        "action": "TALK",
+        "user": "wzqclass105",
+        "content": "反也死不反也死的",
+        "time_int": 2647
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "ccc",
+        "time_int": 2652
+    },
+    {
+        "action": "TALK",
+        "user": "fivestar28",
+        "content": "被动，主动？我喜欢主动",
+        "time_int": 2657
+    },
+    {
+        "action": "MOVE",
+        "user": "GrandMaster",
+        "content": "79",
+        "time_int": 2662
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "直接挡",
+        "time_int": 2665
+    },
+    {
+        "action": "TALK",
+        "user": "fivestar12",
+        "content": "... 实战时候就可以死不了变死翘翘",
+        "time_int": 2670
+    },
+    {
+        "action": "TALK",
+        "user": "fivestar12",
+        "content": "可能",
+        "time_int": 2675
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "看你反击",
+        "time_int": 2680
+    },
+    {
+        "action": "TALK",
+        "user": "wzqclass105",
+        "content": "H10",
+        "time_int": 2685
+    },
+    {
+        "action": "MOVE",
+        "user": "GrandMaster",
+        "content": "8a",
+        "time_int": 2690
+    },
+    {
+        "action": "MOVE",
+        "user": "GrandMaster",
+        "content": "6c",
+        "time_int": 2693
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "还有呢",
+        "time_int": 2696
+    },
+    {
+        "action": "TALK",
+        "user": "fivestar28",
+        "content": "E9",
+        "time_int": 2701
+    },
+    {
+        "action": "TALK",
+        "user": "fivestar28",
+        "content": "不过也是死",
+        "time_int": 2706
+    },
+    {
+        "action": "TALK",
+        "user": "fivestar28",
+        "content": "死的轰轰烈烈",
+        "time_int": 2711
+    },
+    {
+        "action": "MOVE",
+        "user": "GrandMaster",
+        "content": "59",
+        "time_int": 2716
+    },
+    {
+        "action": "MOVE",
+        "user": "GrandMaster",
+        "content": "76",
+        "time_int": 2719
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "V乐",
+        "time_int": 2722
+    },
+    {
+        "action": "TALK",
+        "user": "wzqclass105",
+        "content": "5555555555",
+        "time_int": 2727
+    },
+    {
+        "action": "TALK",
+        "user": "wzqclass125",
+        "content": "吼吼",
+        "time_int": 2732
+    },
+    {
+        "action": "TALK",
+        "user": "fivestar02",
+        "content": "8888888",
+        "time_int": 2737
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "ccc",
+        "time_int": 2742
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "别跑",
+        "time_int": 2747
+    },
+    {
+        "action": "TALK",
+        "user": "GrandMaster",
+        "content": "下课",
+        "time_int": 2752
+    },
+    {
+        "action": "CREDIT",
+        "user": "",
+        "content": " chinarenju58, fivestar02, fivestar09, fivestar10, fivestar12, fivestar16, fivestar21, fivestar28, wzqclass110, wzqclass149, wzqclass24, wzqclass64, wzqclass70.",
+        "time_int": 2757
+    }
+]

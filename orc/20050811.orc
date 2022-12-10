@@ -1,0 +1,845 @@
+<12:05:58>[RESET]001000EF
+<12:06:00>[TALK]{fivestar30}爱滋病。
+<12:06:06>[TALK]{sosei}踹~~~
+<12:06:07>[TALK]{endlessroad}~~~~~```
+<12:06:08>[TALK]{fivestar14}SS老师征婚的事如何了？
+<12:06:18>[TALK]{sosei}没有一个报名的，5555
+<12:06:30>[TALK]{fivestar14}不会吧？我上次还看到有人报名呢。
+<12:06:37>[TALK]{GrandMaster}呵呵！今天77泡到mm gg的举手 ：）
+<12:06:39>[MOVE]{GrandMaster}HH
+<12:06:40>[MOVE]{GrandMaster}HI
+<12:06:40>[MOVE]{GrandMaster}HF
+<12:06:41>[MOVE]{GrandMaster}II
+<12:06:43>[BACK]{GrandMaster}
+<12:06:44>[MOVE]{GrandMaster}IJ
+<12:06:45>[MOVE]{GrandMaster}FH
+<12:06:47>[MOVE]{GrandMaster}II
+<12:06:48>[MOVE]{GrandMaster}GI
+<12:06:49>[MOVE]{GrandMaster}GH
+<12:06:51>[MOVE]{GrandMaster}JK
+<12:06:51>[TALK]{sosei}哪有，QQ都没响过
+<12:06:52>[MOVE]{GrandMaster}FJ
+<12:06:52>[EMOTE]{fivestar30} 现在历史上最伟大的姑妈诞生了。。小天姑妈。。大概欢迎~
+<12:07:07>[EMOTE]{fivestar30} 分手节的姑妈
+<12:07:09>[TALK]{fivestar27}没泡到~~：（（（（（
+<12:07:14>[TALK]{GrandMaster}:P 继续sosei上周的瑞3！
+<12:07:20>[TALK]{fivestar14}good.
+<12:07:25>[TALK]{fivestar30}H10的讲了吗
+<12:07:25>[TALK]{GrandMaster}今天讲这个11 ：）
+<12:07:28>[MOVE]{GrandMaster}EI
+<12:07:29>[MOVE]{GrandMaster}GG
+<12:07:33>[TALK]{fivestar30}这个讲过了。。
+<12:07:33>[BACK]{GrandMaster}
+<12:07:34>[MOVE]{GrandMaster}GG
+<12:07:35>[TALK]{sosei}嘿嘿
+<12:07:37>[MOVE]{GrandMaster}HJ
+<12:07:38>[MOVE]{GrandMaster}IK
+<12:07:39>[MOVE]{GrandMaster}IH
+<12:07:45>[TALK]{GrandMaster}这个...
+<12:07:48>[MOVE]{GrandMaster}FG
+<12:07:49>[MOVE]{GrandMaster}EF
+<12:07:50>[MOVE]{GrandMaster}EG
+<12:08:13>[TALK]{GrandMaster}hoho，上周sosei讲的15e7
+<12:08:18>[TALK]{fivestar30}-_-
+<12:08:19>[TALK]{GrandMaster}今天这个...
+<12:08:25>[TALK]{fivestar30}偷懒的说。
+<12:08:32>[MOVE]{GrandMaster}DG
+<12:08:41>[TALK]{fivestar30}^_^
+<12:08:41>[TALK]{GrandMaster}嘿嘿，这个19简单，说杀掉！
+<12:08:53>[TALK]{fivestar30}我来试试
+<12:09:07>[TALK]{fivestar06}"/me 小天姑妈"
+<12:09:11>[MOVE]{fivestar30}FI
+<12:09:15>[MOVE]{GrandMaster}IF
+<12:09:20>[MOVE]{fivestar30}IL
+<12:09:23>[MOVE]{GrandMaster}IM
+<12:09:35>[MOVE]{fivestar30}HK
+<12:09:40>[TALK]{GrandMaster}30是mm ?
+<12:09:40>[TALK]{fivestar06}"/me haha
+<12:09:44>[TALK]{fivestar30}……
+<12:09:45>[TALK]{fivestar14}嗯。
+<12:09:46>[MOVE]{GrandMaster}GJ
+<12:09:48>[TALK]{fivestar14}maybe
+<12:09:50>[MOVE]{fivestar30}GL
+<12:09:53>[TALK]{fivestar27}有可能
+<12:09:54>[TALK]{fivestar30}我倒。。
+<12:09:54>[MOVE]{GrandMaster}FM
+<12:09:58>[MOVE]{fivestar30}HL
+<12:10:05>[TALK]{fivestar06}"/fivestar06 haha"
+<12:10:10>[TALK]{GrandMaster}555，被55 打败拉
+<12:10:16>[TALK]{GrandMaster}被 mm
+<12:10:24>[TALK]{GrandMaster}kiss 一个  *^o^*
+<12:10:35>[MOVE]{GrandMaster}GF
+<12:10:39>[MOVE]{GrandMaster}FF
+<12:10:43>[MOVE]{GrandMaster}JF
+<12:10:43>[TALK]{fivestar30}我是男的。
+<12:10:46>[MOVE]{GrandMaster}KF
+<12:10:47>[MOVE]{GrandMaster}JL
+<12:10:53>[GOTO]{GrandMaster}019
+<12:10:54>[BACK]{GrandMaster}
+<12:10:56>[MOVE]{GrandMaster}HG
+<12:11:01>[TALK]{GrandMaster}这个19强！
+<12:11:02>[EMOTE]{fivestar06} 30是mm
+<12:11:10>[MOVE]{GrandMaster}GE
+<12:11:14>[TALK]{GrandMaster}嘿嘿！
+<12:11:26>[TALK]{GrandMaster}21 投票！
+<12:11:36>[TALK]{chinarenju26}你们都在哪个聊天室听课呀
+<12:11:45>[TALK]{sosei}G6
+<12:11:46>[TALK]{fivestar30}-_-
+<12:11:53>[TALK]{fivestar09}没语音
+<12:11:54>[TALK]{fivestar30}不是语音
+<12:12:06>[BACK]{GrandMaster}
+<12:12:06>[TALK]{fivestar06}这个不是教室讲过了吗？
+<12:12:06>[MOVE]{GrandMaster}HE
+<12:12:10>[TALK]{GrandMaster}20错拉 ：（
+<12:12:18>[TALK]{fivestar30}。。
+<12:12:18>[MOVE]{GrandMaster}FE
+<12:12:19>[BACK]{GrandMaster}
+<12:12:20>[MOVE]{GrandMaster}EH
+<12:12:21>[BACK]{GrandMaster}
+<12:12:22>[MOVE]{GrandMaster}ID
+<12:12:23>[BACK]{GrandMaster}
+<12:12:24>[MOVE]{GrandMaster}FF
+<12:12:25>[BACK]{GrandMaster}
+<12:12:30>[TALK]{fivestar30}J6的可以吗
+<12:12:30>[TALK]{fivestar27}啊
+<12:12:32>[TALK]{GrandMaster}4个21，哪个先来，投票
+<12:12:45>[TALK]{fivestar27}上次不是这讲过这个20
+<12:12:45>[TALK]{sosei}i4
+<12:12:45>[TALK]{fivestar14}f6
+<12:12:50>[TALK]{fivestar20}F6
+<12:12:52>[TALK]{fivestar30}I4。。
+<12:13:06>[TALK]{GrandMaster}呵呵，wzqclass讲过... ^^
+<12:13:13>[TALK]{fivestar30}右到左
+<12:13:15>[TALK]{fivestar27}I4
+<12:13:17>[MOVE]{GrandMaster}ID
+<12:13:25>[TALK]{fivestar14}22-g5
+<12:13:27>[TALK]{GrandMaster}i4。。。。
+<12:13:28>[MOVE]{GrandMaster}DI
+<12:13:35>[TALK]{fivestar30}。。
+<12:13:46>[TALK]{GrandMaster}空恨论坛都贴清楚了，呵呵
+<12:13:54>[TALK]{fivestar30}没见过。
+<12:13:55>[TALK]{sosei}哈哈
+<12:13:58>[TALK]{endlessroad}恩..
+<12:13:58>[TALK]{fivestar30}E8
+<12:14:00>[MOVE]{GrandMaster}EH
+<12:14:04>[MOVE]{GrandMaster}DG
+<12:14:05>[TALK]{fivestar14}…… 我记得上次课上讲22-g5的。又记错了：（
+<12:14:06>[MOVE]{GrandMaster}CG
+<12:14:08>[MOVE]{GrandMaster}DH
+<12:14:10>[MOVE]{GrandMaster}DJ
+<12:14:18>[MOVE]{GrandMaster}FK
+<12:14:35>[TALK]{GrandMaster}嘿嘿，照搬就行拉！
+<12:14:57>[TALK]{fivestar30}。。。
+<12:14:58>[TALK]{GrandMaster}黑防哪？
+<12:14:58>[TALK]{sosei}咿呀咿呀哟
+<12:15:03>[TALK]{fivestar30}不知道。。
+<12:15:06>[TALK]{fivestar15}鬼叫什么
+<12:15:09>[TALK]{endlessroad}....
+<12:15:13>[TALK]{fivestar30}说几个强防吧，小天姑妈
+<12:15:15>[TALK]{fivestar27}哦哦~~~~~~~~~~~wzqclass讲过
+<12:15:17>[MOVE]{GrandMaster}FF
+<12:15:22>[TALK]{sosei}G12
+<12:15:27>[BACK]{GrandMaster}
+<12:15:40>[TALK]{GrandMaster}谁来防 ：）
+<12:15:44>[TALK]{fivestar30}wzqclass的那个瑞3，我没
+<12:15:49>[TALK]{fivestar09}我
+<12:15:50>[TALK]{fivestar30}S雨给我的看不了
+<12:15:57>[MOVE]{fivestar09}GL
+<12:16:02>[TALK]{GrandMaster}雨mm防
+<12:16:08>[MOVE]{GrandMaster}FF
+<12:16:14>[MOVE]{fivestar09}CI
+<12:16:22>[MOVE]{GrandMaster}GE
+<12:16:23>[TALK]{fivestar30}抓了。。
+<12:16:25>[MOVE]{fivestar09}HD
+<12:16:31>[MOVE]{GrandMaster}DE
+<12:16:34>[MOVE]{fivestar09}DF
+<12:16:35>[MOVE]{GrandMaster}GF
+<12:16:39>[MOVE]{fivestar09}GD
+<12:16:40>[MOVE]{GrandMaster}FE
+<12:16:42>[MOVE]{fivestar09}EE
+<12:16:48>[TALK]{fivestar30}强。
+<12:16:51>[TALK]{GrandMaster}*^O^* 抓到mm手手拉
+<12:16:53>[MOVE]{GrandMaster}FC
+<12:16:55>[TALK]{fivestar14}good.
+<12:17:07>[TALK]{fivestar30}是MM抓到你手手了
+<12:17:09>[GOTO]{GrandMaster}029
+<12:17:10>[TALK]{fivestar27}呵
+<12:17:12>[TALK]{fivestar09}喳喳~~``高兴了吧
+<12:17:22>[BACK]{GrandMaster}
+<12:17:28>[TALK]{GrandMaster}29，还有其他主意没？
+<12:17:33>[MOVE]{fivestar09}FF
+<12:17:37>[TALK]{sosei}今天要多抓，快抓，
+<12:17:38>[MOVE]{GrandMaster}IF
+<12:17:46>[MOVE]{fivestar09}JG
+<12:17:57>[TALK]{GrandMaster}顾炜流30：）
+<12:18:00>[TALK]{fivestar30}。。。。
+<12:18:17>[MOVE]{GrandMaster}FM
+<12:18:20>[TALK]{fivestar30}这个好象有印象。。
+<12:18:21>[TALK]{sosei}强啊
+<12:18:25>[MOVE]{fivestar09}FL
+<12:18:28>[MOVE]{GrandMaster}GL
+<12:18:29>[TALK]{fivestar30}许斌贴过的好象
+<12:18:33>[TALK]{GrandMaster}没手手抓 5555
+<12:18:45>[TALK]{fivestar09}哈哈
+<12:18:54>[GOTO]{GrandMaster}029
+<12:19:02>[TALK]{GrandMaster}嘿嘿，哪个mm继续防
+<12:19:08>[TALK]{GrandMaster}雨mm继续防？
+<12:19:12>[TALK]{fivestar09}这次没得zua
+<12:19:29>[BACK]{GrandMaster}
+<12:19:33>[TALK]{endlessroad}8
+<12:19:53>[TALK]{fivestar09}换人
+<12:19:59>[TALK]{GrandMaster}谁来防？
+<12:20:23>[TALK]{fivestar30}F12
+<12:20:33>[TALK]{fivestar30}不对。。
+<12:20:36>[MOVE]{GrandMaster}FL
+<12:20:41>[MOVE]{GrandMaster}FF
+<12:20:49>[TALK]{GrandMaster}跟雨 mm的一样...
+<12:20:52>[TALK]{fivestar30}-_-不是上面杀了就是下面杀了
+<12:20:56>[TALK]{fivestar30}换21！
+<12:21:00>[TALK]{GrandMaster}呵呵，没防...就跳过
+<12:21:03>[GOTO]{GrandMaster}021
+<12:21:05>[BACK]{GrandMaster}
+<12:21:06>[TALK]{fivestar30}27反挡
+<12:21:09>[TALK]{fivestar30}刚才
+<12:21:11>[TALK]{GrandMaster}21哪 ？投票
+<12:21:27>[MOVE]{GrandMaster}FE
+<12:21:28>[BACK]{GrandMaster}
+<12:21:29>[MOVE]{GrandMaster}EH
+<12:21:30>[BACK]{GrandMaster}
+<12:21:32>[MOVE]{GrandMaster}FF
+<12:21:33>[BACK]{GrandMaster}
+<12:21:40>[TALK]{fivestar14}f6
+<12:21:42>[TALK]{GrandMaster}哪个
+<12:21:44>[MOVE]{GrandMaster}FF
+<12:21:46>[MOVE]{GrandMaster}GF
+<12:22:03>[MOVE]{GrandMaster}ID
+<12:22:07>[TALK]{GrandMaster}先看这个...
+<12:22:17>[MOVE]{GrandMaster}DI
+<12:22:19>[MOVE]{GrandMaster}EH
+<12:22:22>[MOVE]{GrandMaster}FL
+<12:22:33>[TALK]{GrandMaster}这个比较简单！
+<12:22:44>[TALK]{GrandMaster}做手就ok
+<12:22:56>[MOVE]{GrandMaster}IL
+<12:22:59>[TALK]{fivestar27}上次是G12？？？？
+<12:23:00>[TALK]{GrandMaster}这个，谁来杀？
+<12:23:20>[TALK]{GrandMaster}忘了，呵呵，n多种杀法
+<12:23:33>[TALK]{fivestar30}我来
+<12:23:47>[TALK]{GrandMaster}恩，30来杀，直接点
+<12:23:51>[MOVE]{fivestar30}FK
+<12:23:53>[MOVE]{fivestar30}FM
+<12:23:54>[MOVE]{fivestar30}EJ
+<12:23:56>[MOVE]{fivestar30}CH
+<12:24:01>[TALK]{fivestar30}，，
+<12:24:13>[TALK]{fivestar30}郁闷
+<12:24:17>[TALK]{GrandMaster}HOHO，30全包拉！
+<12:24:27>[MOVE]{fivestar30}DJ
+<12:24:27>[MOVE]{fivestar30}DH
+<12:24:28>[MOVE]{fivestar30}BH
+<12:24:30>[TALK]{fivestar27}10D
+<12:24:32>[MOVE]{fivestar30}CJ
+<12:24:35>[MOVE]{fivestar30}EK
+<12:24:36>[MOVE]{fivestar30}CI
+<12:24:37>[MOVE]{fivestar30}GM
+<12:24:38>[MOVE]{fivestar30}HN
+<12:24:42>[MOVE]{fivestar30}GK
+<12:24:43>[MOVE]{fivestar30}HK
+<12:24:44>[MOVE]{fivestar30}GL
+<12:24:45>[MOVE]{fivestar30}HM
+<12:24:47>[MOVE]{fivestar30}HL
+<12:24:52>[TALK]{fivestar30}哈哈
+<12:24:53>[TALK]{fivestar09}小于姑妈你关门了啊？
+<12:24:53>[MOVE]{GrandMaster}GN
+<12:25:01>[TALK]{fivestar15}可以抓手手吧
+<12:25:03>[TALK]{fivestar15}刚才
+<12:25:04>[TALK]{fivestar02}头
+<12:25:10>[GOTO]{fivestar30}000
+<12:25:11>[TALK]{fivestar02}QQ
+<12:25:13>[LAST]{fivestar30}
+<12:25:14>[TALK]{GrandMaster}..怎么关门？
+<12:25:17>[GOTO]{fivestar30}030
+<12:25:18>[TALK]{fivestar14}good。 v 了。
+<12:25:19>[MOVE]{fivestar30}CH
+<12:25:25>[MOVE]{fivestar30}DJ
+<12:25:26>[MOVE]{fivestar30}DH
+<12:25:26>[TALK]{fivestar14}上课了就关门了。
+<12:25:28>[MOVE]{fivestar30}BH
+<12:25:28>[MOVE]{fivestar30}CJ
+<12:25:29>[MOVE]{fivestar30}EK
+<12:25:30>[MOVE]{fivestar30}CI
+<12:25:31>[MOVE]{fivestar30}HN
+<12:25:32>[MOVE]{fivestar30}GM
+<12:25:33>[MOVE]{fivestar30}GL
+<12:25:38>[TALK]{fivestar30}抓到了
+<12:25:48>[TALK]{GrandMaster}hoho ，自己抓自己 ：）
+<12:25:50>[TALK]{fivestar30}可惜是小天姑妈的手T_T
+<12:25:57>[TALK]{fivestar02}头头
+<12:26:14>[GOTO]{GrandMaster}027
+<12:26:16>[BACK]{GrandMaster}
+<12:26:20>[TALK]{GrandMaster}27还有没其他意见？
+<12:26:24>[TALK]{fivestar30}没
+<12:26:29>[GOTO]{GrandMaster}023
+<12:26:31>[BACK]{GrandMaster}
+<12:26:32>[MOVE]{GrandMaster}EH
+<12:26:45>[TALK]{GrandMaster}这个23，版本n多，呵呵
+<12:26:49>[TALK]{fivestar27}30全包了。问与答
+<12:26:55>[TALK]{GrandMaster}我手头就4个版本 ：）
+<12:27:05>[TALK]{fivestar30}。。
+<12:27:14>[MOVE]{GrandMaster}JI
+<12:27:25>[TALK]{GrandMaster}看这个，sosei的，也是我的！
+<12:27:32>[TALK]{GrandMaster}谁来防 ：）
+<12:27:43>[EMOTE]{fivestar30} 系统消息：下课后去小天姑妈那里领取4套版本的瑞3必胜谱！
+<12:27:58>[TALK]{GrandMaster}...
+<12:28:08>[TALK]{GrandMaster}谁防？
+<12:28:13>[TALK]{fivestar30}我
+<12:28:18>[TALK]{GrandMaster}30防
+<12:28:23>[MOVE]{fivestar30}KH
+<12:28:31>[MOVE]{GrandMaster}JF
+<12:28:45>[MOVE]{fivestar30}KI
+<12:28:50>[MOVE]{GrandMaster}JE
+<12:28:57>[MOVE]{fivestar30}JH
+<12:29:02>[BACK]{GrandMaster}
+<12:29:03>[BACK]{GrandMaster}
+<12:29:04>[MOVE]{GrandMaster}GE
+<12:29:05>[TALK]{fivestar30}。。。
+<12:29:05>[MOVE]{GrandMaster}GD
+<12:29:06>[MOVE]{GrandMaster}JE
+<12:29:08>[TALK]{GrandMaster}:P
+<12:29:09>[TALK]{fivestar14}这个26好。叫双杀。
+<12:29:19>[TALK]{fivestar30}lose
+<12:29:22>[BACK]{GrandMaster}
+<12:29:23>[BACK]{GrandMaster}
+<12:29:23>[BACK]{GrandMaster}
+<12:29:24>[BACK]{GrandMaster}
+<12:29:35>[TALK]{GrandMaster}还有没其他27？
+<12:29:44>[MOVE]{fivestar30}JG
+<12:29:51>[MOVE]{GrandMaster}IM
+<12:29:55>[TALK]{fivestar30}..
+<12:30:04>[TALK]{GrandMaster}抓到贼手 ：）
+<12:30:08>[BACK]{GrandMaster}
+<12:30:08>[TALK]{fivestar30}..
+<12:30:08>[BACK]{GrandMaster}
+<12:30:18>[TALK]{fivestar15}太恶劣的一手棋
+<12:30:25>[TALK]{GrandMaster}any other 27th?
+<12:30:32>[TALK]{fivestar14}27-j5呢？
+<12:30:32>[MOVE]{fivestar09}JE
+<12:30:35>[MOVE]{GrandMaster}KI
+<12:30:39>[MOVE]{fivestar09}LI
+<12:30:40>[MOVE]{GrandMaster}LH
+<12:31:01>[MOVE]{fivestar09}MG
+<12:31:03>[MOVE]{GrandMaster}IF
+<12:31:20>[MOVE]{fivestar09}GD
+<12:31:23>[MOVE]{GrandMaster}IE
+<12:31:28>[MOVE]{fivestar09}KG
+<12:31:31>[MOVE]{GrandMaster}ID
+<12:31:44>[TALK]{fivestar09}》）
+<12:31:49>[TALK]{GrandMaster}呵呵！
+<12:31:53>[TALK]{fivestar27}。。。。。。。。。。。。。。。。
+<12:32:00>[TALK]{GrandMaster}不是mm不乱抓拉 ：）
+<12:32:03>[BACK]{GrandMaster}
+<12:32:03>[BACK]{GrandMaster}
+<12:32:04>[BACK]{GrandMaster}
+<12:32:05>[BACK]{GrandMaster}
+<12:32:06>[BACK]{GrandMaster}
+<12:32:06>[BACK]{GrandMaster}
+<12:32:07>[BACK]{GrandMaster}
+<12:32:08>[BACK]{GrandMaster}
+<12:32:09>[BACK]{GrandMaster}
+<12:32:10>[BACK]{GrandMaster}
+<12:32:14>[TALK]{GrandMaster}还有没？
+<12:32:29>[MOVE]{fivestar09}LH
+<12:32:31>[MOVE]{GrandMaster}JH
+<12:32:34>[MOVE]{fivestar09}JE
+<12:32:37>[MOVE]{GrandMaster}JJ
+<12:32:39>[MOVE]{fivestar09}JG
+<12:32:41>[MOVE]{GrandMaster}IM
+<12:32:43>[MOVE]{fivestar09}IL
+<12:32:59>[TALK]{GrandMaster}~~ 好象非抓不可 ：（
+<12:33:00>[MOVE]{GrandMaster}KI
+<12:33:08>[BACK]{GrandMaster}
+<12:33:09>[BACK]{GrandMaster}
+<12:33:10>[BACK]{GrandMaster}
+<12:33:10>[BACK]{GrandMaster}
+<12:33:11>[BACK]{GrandMaster}
+<12:33:12>[BACK]{GrandMaster}
+<12:33:12>[BACK]{GrandMaster}
+<12:33:13>[BACK]{GrandMaster}
+<12:33:26>[TALK]{GrandMaster}嘿嘿！还有没？
+<12:33:49>[TALK]{fivestar30}-_-
+<12:33:56>[TALK]{GrandMaster}现在... 让我们看看谁正在忙泡MMGG  ：）
+<12:34:03>[TALK]{sosei}嘿嘿
+<12:34:13>[TALK]{sosei}难得第一
+<12:34:20>[TALK]{GrandMaster}哇，都sosei第一！
+<12:34:20>[TALK]{fivestar30}-_-
+<12:34:24>[TALK]{fivestar15}555，沙发被抢走了
+<12:34:32>[TALK]{GrandMaster}我还以为sosei泡MM去了呢
+<12:34:38>[CHECKRESULT] sosei, fivestar15, fivestar09, fivestar27, fivestar14, fivestar30, fivestar20, wzqclass171, tianxia, fivestar02.
+<12:34:40>[TALK]{GrandMaster}：P
+<12:34:44>[BACK]{GrandMaster}
+<12:34:45>[BACK]{GrandMaster}
+<12:34:46>[TALK]{sosei}哈哈
+<12:34:47>[TALK]{fivestar02}晕，还好我赶上了
+<12:34:51>[TALK]{GrandMaster}还有没其他防 ：）
+<12:34:55>[TALK]{sosei}老婆第二
+<12:34:58>[MOVE]{fivestar09}KI
+<12:34:59>[TALK]{fivestar15}。。。。
+<12:35:02>[TALK]{fivestar02}？？？？？？？？？？？？？？？
+<12:35:06>[TALK]{GrandMaster}呵呵~
+<12:35:17>[MOVE]{GrandMaster}JE
+<12:35:22>[BACK]{GrandMaster}
+<12:35:27>[MOVE]{GrandMaster}GE
+<12:35:30>[MOVE]{fivestar09}GD
+<12:35:32>[MOVE]{GrandMaster}LG
+<12:35:35>[MOVE]{fivestar09}KH
+<12:35:37>[MOVE]{GrandMaster}JE
+<12:35:39>[TALK]{fivestar02}老婆第二。。。。。。。。。。。。。。。。
+<12:35:46>[TALK]{fivestar02}哇，你有老婆了
+<12:35:47>[TALK]{GrandMaster}大家保存起来！：）
+<12:35:59>[TALK]{fivestar14}：）都弄到renlib里了。
+<12:36:06>[TALK]{GrandMaster}以后sosei要 泡mm不讲课... 发给他看：）
+<12:36:24>[TALK]{fivestar14}……
+<12:36:29>[BACK]{GrandMaster}
+<12:36:30>[BACK]{GrandMaster}
+<12:36:31>[BACK]{GrandMaster}
+<12:36:32>[BACK]{GrandMaster}
+<12:36:32>[BACK]{GrandMaster}
+<12:36:33>[BACK]{GrandMaster}
+<12:36:38>[TALK]{GrandMaster}还有防没？
+<12:37:08>[TALK]{GrandMaster}没防拉....
+<12:37:13>[TALK]{fivestar30}-_-
+<12:37:23>[TALK]{GrandMaster}呵呵下一个21
+<12:37:25>[GOTO]{GrandMaster}021
+<12:37:27>[BACK]{GrandMaster}
+<12:37:29>[MOVE]{GrandMaster}EH
+<12:37:30>[BACK]{GrandMaster}
+<12:37:32>[MOVE]{GrandMaster}FE
+<12:37:33>[BACK]{GrandMaster}
+<12:37:39>[TALK]{GrandMaster}剩这两个，投票
+<12:37:42>[TALK]{fivestar30}E8
+<12:37:46>[MOVE]{GrandMaster}EH
+<12:37:59>[MOVE]{fivestar09}GE
+<12:38:02>[TALK]{GrandMaster}恩...最麻烦的一个
+<12:38:21>[TALK]{GrandMaster}呵呵，23 呢，投票！
+<12:38:27>[TALK]{sosei}嘿嘿
+<12:38:28>[TALK]{sosei}G6
+<12:38:30>[TALK]{fivestar30}F5
+<12:38:35>[MOVE]{GrandMaster}FF
+<12:38:37>[BACK]{GrandMaster}
+<12:38:37>[MOVE]{GrandMaster}FE
+<12:38:38>[BACK]{GrandMaster}
+<12:38:47>[TALK]{GrandMaster}23主要这两个防强
+<12:38:50>[TALK]{GrandMaster}投票
+<12:38:56>[TALK]{fivestar14}f6
+<12:39:06>[TALK]{fivestar27}。。。
+<12:39:08>[TALK]{sosei}f5
+<12:39:11>[TALK]{GrandMaster}~~ 其他都泡MM去拉，呵呵
+<12:39:23>[TALK]{fivestar30}。。。
+<12:39:25>[TALK]{fivestar14}各1票。
+<12:39:25>[TALK]{GrandMaster}ok,f5
+<12:39:28>[MOVE]{GrandMaster}FE
+<12:39:30>[MOVE]{GrandMaster}GF
+<12:39:31>[MOVE]{GrandMaster}GD
+<12:39:33>[MOVE]{GrandMaster}DG
+<12:39:34>[MOVE]{GrandMaster}CG
+<12:39:34>[TALK]{fivestar14}都讲。
+<12:39:45>[TALK]{GrandMaster}这个wzqclass没讲过，呵呵，最强防
+<12:40:04>[TALK]{GrandMaster}28手，必胜点挑哪？ 投票：）
+<12:40:09>[TALK]{sosei}/kisss 姑妈
+<12:40:17>[MOVE]{fivestar09}FM
+<12:40:25>[TALK]{fivestar15}飘~~
+<12:40:27>[TALK]{GrandMaster}mm 答对我奖kiss， gg讲对让sosei奖 ：）
+<12:40:35>[TALK]{GrandMaster}哇...09
+<12:40:37>[TALK]{sosei}哈哈
+<12:40:45>[TALK]{fivestar27}一个KISS
+<12:40:55>[EMOTE]{sosei} kissss 09
+<12:40:58>[EMOTE]{GrandMaster} kiss 09 softly
+<12:41:23>[TALK]{GrandMaster}嘿嘿，这个28~ 必胜，不过还有其它版本的必胜点..
+<12:41:39>[MOVE]{GrandMaster}IL
+<12:41:45>[TALK]{GrandMaster}这个29，谁来杀？
+<12:42:03>[TALK]{GrandMaster}谁上，举手 ^^
+<12:42:26>[TALK]{sosei}09加油
+<12:42:31>[TALK]{fivestar27}MM上
+<12:43:07>[TALK]{GrandMaster}都泡MMGG去拉？ ：（
+<12:43:09>[TALK]{GrandMaster}没人上
+<12:43:21>[TALK]{fivestar09}这个我不会啊
+<12:43:22>[TALK]{fivestar14}我试试吧。
+<12:43:29>[MOVE]{fivestar14}HK
+<12:43:31>[TALK]{GrandMaster}14来 ：）
+<12:43:36>[MOVE]{fivestar14}GL
+<12:43:39>[MOVE]{fivestar14}DH
+<12:43:42>[MOVE]{fivestar14}CI
+<12:43:45>[MOVE]{fivestar14}DI
+<12:43:46>[MOVE]{fivestar14}DJ
+<12:43:47>[TALK]{fivestar30}-_-
+<12:43:48>[MOVE]{fivestar14}FK
+<12:43:49>[TALK]{fivestar30}我在呢
+<12:43:55>[TALK]{fivestar14}行不行？
+<12:44:00>[BACK]{GrandMaster}
+<12:44:01>[BACK]{GrandMaster}
+<12:44:02>[BACK]{GrandMaster}
+<12:44:03>[BACK]{GrandMaster}
+<12:44:03>[BACK]{GrandMaster}
+<12:44:05>[BACK]{GrandMaster}
+<12:44:06>[MOVE]{GrandMaster}JI
+<12:44:15>[TALK]{GrandMaster}14 是mm吗 *^o^*
+<12:44:20>[TALK]{fivestar30}。。。。。。。。
+<12:44:21>[TALK]{fivestar14}不是：（
+<12:44:22>[TALK]{fivestar30}男的
+<12:44:27>[MOVE]{fivestar14}HM
+<12:44:27>[TALK]{fivestar15}嘿嘿
+<12:44:34>[TALK]{fivestar27}15是MMM
+<12:44:34>[TALK]{fivestar30}这里全是男的
+<12:44:40>[TALK]{Guest564}无语
+<12:44:46>[TALK]{fivestar15}。。。
+<12:44:46>[MOVE]{GrandMaster}JH
+<12:44:51>[TALK]{GrandMaster}嘿嘿，反击...
+<12:45:12>[TALK]{fivestar14}：（
+<12:45:13>[TALK]{fivestar30}-_-
+<12:45:19>[TALK]{fivestar14}30帮忙……
+<12:45:23>[TALK]{fivestar27}我来~~~~~~~~~~~~
+<12:45:25>[TALK]{fivestar30}不会。。
+<12:45:28>[TALK]{fivestar30}27来
+<12:45:53>[MOVE]{fivestar14}JJ
+<12:45:55>[TALK]{GrandMaster}14 go on?
+<12:46:06>[MOVE]{GrandMaster}LJ
+<12:46:15>[BACK]{GrandMaster}
+<12:46:16>[MOVE]{GrandMaster}KH
+<12:46:17>[MOVE]{GrandMaster}LH
+<12:46:18>[MOVE]{GrandMaster}KJ
+<12:46:18>[MOVE]{GrandMaster}LK
+<12:46:19>[MOVE]{GrandMaster}KI
+<12:46:29>[TALK]{GrandMaster}嘿嘿！ 这样
+<12:46:35>[TALK]{fivestar14}：（
+<12:46:39>[BACK]{GrandMaster}
+<12:46:40>[BACK]{GrandMaster}
+<12:46:40>[BACK]{GrandMaster}
+<12:46:41>[BACK]{GrandMaster}
+<12:46:42>[BACK]{GrandMaster}
+<12:46:42>[BACK]{GrandMaster}
+<12:46:43>[BACK]{GrandMaster}
+<12:46:44>[BACK]{GrandMaster}
+<12:46:46>[BACK]{GrandMaster}
+<12:46:47>[BACK]{GrandMaster}
+<12:46:53>[TALK]{GrandMaster}14 再来？
+<12:47:03>[TALK]{fivestar14}==
+<12:47:09>[TALK]{fivestar14}我看看先。
+<12:47:14>[TALK]{GrandMaster}谁试试？
+<12:47:22>[TALK]{fivestar27}````````我
+<12:47:29>[MOVE]{fivestar27}FK
+<12:47:31>[TALK]{GrandMaster}ok,27来
+<12:47:32>[TALK]{fivestar15}恩恩
+<12:47:40>[TALK]{fivestar15}这个似乎可以
+<12:47:47>[MOVE]{GrandMaster}FI
+<12:47:59>[MOVE]{fivestar27}GM
+<12:48:10>[TALK]{GrandMaster}555 牺牲拉
+<12:48:20>[MOVE]{GrandMaster}FL
+<12:48:29>[TALK]{fivestar15}27好厉害啊
+<12:48:34>[MOVE]{fivestar27}HM
+<12:48:43>[MOVE]{GrandMaster}EM
+<12:48:50>[MOVE]{fivestar27}GK
+<12:48:58>[MOVE]{GrandMaster}HK
+<12:49:04>[MOVE]{fivestar27}GJ
+<12:49:09>[MOVE]{GrandMaster}HL
+<12:49:13>[TALK]{GrandMaster}死拉 ：（
+<12:49:15>[MOVE]{fivestar27}GL
+<12:49:20>[BACK]{GrandMaster}
+<12:49:20>[BACK]{GrandMaster}
+<12:49:21>[BACK]{GrandMaster}
+<12:49:22>[BACK]{GrandMaster}
+<12:49:23>[BACK]{GrandMaster}
+<12:49:23>[BACK]{GrandMaster}
+<12:49:24>[BACK]{GrandMaster}
+<12:49:25>[BACK]{GrandMaster}
+<12:49:25>[BACK]{GrandMaster}
+<12:49:26>[BACK]{GrandMaster}
+<12:49:27>[BACK]{GrandMaster}
+<12:49:28>[BACK]{GrandMaster}
+<12:49:33>[TALK]{GrandMaster}换个29...
+<12:49:47>[MOVE]{GrandMaster}FK
+<12:49:47>[MOVE]{fivestar30}FL
+<12:49:50>[BACK]{fivestar30}
+<12:49:54>[TALK]{GrandMaster}嘿嘿，刚才这里杀我！
+<12:49:57>[TALK]{GrandMaster}我就防这
+<12:50:00>[TALK]{GrandMaster}谁来杀？
+<12:50:16>[MOVE]{fivestar09}GL
+<12:50:23>[TALK]{fivestar27}哈哈~~~~~
+<12:50:29>[TALK]{fivestar09}我又按到了
+<12:50:39>[TALK]{fivestar27}MM杀~~~~`
+<12:50:43>[TALK]{tianxia}4H
+<12:50:47>[MOVE]{GrandMaster}JI
+<12:51:14>[MOVE]{fivestar09}IL
+<12:51:15>[TALK]{GrandMaster}嘿嘿，争取被抓手手 ：）
+<12:51:18>[MOVE]{GrandMaster}IM
+<12:52:10>[TALK]{fivestar09}从哪抓？
+<12:52:24>[TALK]{fivestar09}抓不来
+<12:52:42>[TALK]{fivestar15}32手如果下g13呢
+<12:52:45>[TALK]{GrandMaster}09 go on?
+<12:52:59>[MOVE]{fivestar09}GM
+<12:53:12>[TALK]{fivestar15}不是34，32手
+<12:53:33>[MOVE]{GrandMaster}HL
+<12:53:56>[MOVE]{fivestar09}GK
+<12:54:03>[MOVE]{GrandMaster}GN
+<12:54:32>[TALK]{GrandMaster}HOHO，好象不好杀了哦
+<12:54:46>[TALK]{fivestar09}杀不了
+<12:54:49>[BACK]{GrandMaster}
+<12:54:50>[BACK]{GrandMaster}
+<12:54:51>[BACK]{GrandMaster}
+<12:54:52>[BACK]{GrandMaster}
+<12:54:52>[BACK]{GrandMaster}
+<12:54:53>[BACK]{GrandMaster}
+<12:54:55>[BACK]{GrandMaster}
+<12:55:01>[TALK]{GrandMaster}09 再试次？
+<12:55:05>[MOVE]{GrandMaster}JI
+<12:55:06>[MOVE]{fivestar09}GM
+<12:55:11>[MOVE]{GrandMaster}IL
+<12:55:15>[MOVE]{fivestar09}HM
+<12:55:24>[MOVE]{GrandMaster}IM
+<12:55:47>[MOVE]{fivestar09}GN
+<12:56:06>[MOVE]{GrandMaster}GJ
+<12:56:45>[MOVE]{fivestar09}EL
+<12:57:01>[MOVE]{GrandMaster}HK
+<12:57:03>[MOVE]{fivestar09}FI
+<12:57:05>[MOVE]{GrandMaster}DK
+<12:57:41>[MOVE]{fivestar09}EK
+<12:58:04>[TALK]{GrandMaster}牺牲拉~ ：（
+<12:58:06>[TALK]{fivestar15}西西
+<12:58:08>[TALK]{GrandMaster}没被抓 ：（
+<12:58:11>[TALK]{fivestar30}。。。
+<12:58:11>[TALK]{GrandMaster}555
+<12:58:14>[TALK]{fivestar15}晕
+<12:58:15>[BACK]{GrandMaster}
+<12:58:17>[BACK]{GrandMaster}
+<12:58:18>[BACK]{GrandMaster}
+<12:58:19>[BACK]{GrandMaster}
+<12:58:19>[BACK]{GrandMaster}
+<12:58:20>[BACK]{GrandMaster}
+<12:58:21>[BACK]{GrandMaster}
+<12:58:22>[BACK]{GrandMaster}
+<12:58:22>[BACK]{GrandMaster}
+<12:58:23>[BACK]{GrandMaster}
+<12:58:25>[BACK]{GrandMaster}
+<12:58:26>[BACK]{GrandMaster}
+<12:58:28>[BACK]{GrandMaster}
+<12:58:30>[MOVE]{fivestar27}HK
+<12:58:37>[TALK]{GrandMaster}要找个能抓的29 “（
+<12:58:43>[BACK]{GrandMaster}
+<12:58:44>[TALK]{fivestar27}黑黑
+<12:58:51>[BACK]{GrandMaster}
+<12:58:52>[MOVE]{GrandMaster}HK
+<12:58:58>[TALK]{GrandMaster}嘿嘿，这个29
+<12:59:02>[TALK]{fivestar27}晕
+<12:59:08>[TALK]{fivestar27}这个不会
+<12:59:15>[TALK]{GrandMaster}哪个mm来抓 ：）
+<12:59:30>[MOVE]{fivestar27}DJ
+<12:59:33>[TALK]{tianxia}30手可以放12I
+<12:59:43>[MOVE]{fivestar09}CI
+<12:59:55>[MOVE]{fivestar27}GM
+<13:00:05>[MOVE]{fivestar09}FI
+<13:00:06>[TALK]{GrandMaster}27 是mm?
+<13:00:15>[MOVE]{fivestar27}DI
+<13:00:24>[MOVE]{fivestar09}DH
+<13:00:26>[MOVE]{fivestar27}CH
+<13:00:34>[TALK]{fivestar27}不是
+<13:00:36>[MOVE]{fivestar09}DF
+<13:00:51>[MOVE]{fivestar27}AF
+<13:00:54>[MOVE]{fivestar09}BF
+<13:00:56>[MOVE]{fivestar27}AE
+<13:00:59>[MOVE]{fivestar09}CF
+<13:01:01>[MOVE]{fivestar27}FF
+<13:01:05>[TALK]{GrandMaster}555 今天sosei家mm真少，都泡GG去拉！：（
+<13:01:07>[MOVE]{fivestar09}EJ
+<13:01:08>[MOVE]{fivestar27}HL
+<13:01:10>[TALK]{fivestar30}-_-
+<13:01:14>[TALK]{GrandMaster}sosei家mm都好积极！
+<13:01:16>[MOVE]{fivestar09}FN
+<13:01:21>[MOVE]{fivestar27}DM
+<13:01:31>[TALK]{fivestar15}27好强
+<13:01:45>[MOVE]{fivestar09}IL
+<13:01:47>[MOVE]{fivestar27}GJ
+<13:01:54>[MOVE]{fivestar09}EL
+<13:01:57>[MOVE]{fivestar27}EK
+<13:02:04>[MOVE]{fivestar09}CM
+<13:02:07>[MOVE]{fivestar27}HM
+<13:02:16>[MOVE]{fivestar09}EM
+<13:02:18>[MOVE]{fivestar27}HN
+<13:02:20>[MOVE]{fivestar09}FL
+<13:02:21>[TALK]{fivestar27}黑黑
+<13:02:26>[TALK]{fivestar27}抓~~~~~~~~~
+<13:02:27>[TALK]{fivestar09}5555
+<13:02:36>[TALK]{fivestar27}KISS~~~~~~
+<13:02:39>[TALK]{fivestar27}哈哈
+<13:02:40>[TALK]{GrandMaster}：（ 没我的份
+<13:02:41>[TALK]{fivestar09}又被欺负
+<13:03:00>[GOTO]{GrandMaster}029
+<13:03:02>[BACK]{GrandMaster}
+<13:03:05>[MOVE]{GrandMaster}FL
+<13:03:12>[TALK]{GrandMaster}最后这个29...:)
+<13:03:22>[TALK]{GrandMaster}最强防
+<13:03:28>[MOVE]{GrandMaster}OA
+<13:03:36>[BACK]{fivestar27}
+<13:03:38>[TALK]{fivestar15}555，又是板凳
+<13:03:39>[TALK]{GrandMaster}嘿嘿，这下sosei泡MM去拉吧
+<13:03:46>[TALK]{GrandMaster}扣他分分
+<13:03:46>[TALK]{fivestar27}差点没点上
+<13:04:03>[TALK]{fivestar30}-_-
+<13:04:04>[TALK]{fivestar27}哈哈
+<13:04:06>[TALK]{fivestar30}没按到。。
+<13:04:06>[TALK]{fivestar02}哈哈，头头没点上
+<13:04:09>[CHECKRESULT] fivestar14, fivestar15, fivestar27, tianxia, fivestar02, fivestar09, wzqclass171, fivestar20.
+<13:04:09>[TALK]{fivestar27}偷成功
+<13:04:20>[TALK]{fivestar15}支持GM
+<13:04:21>[TALK]{GrandMaster}*^O^* 偷袭成功！
+<13:04:22>[TALK]{fivestar30}小天姑妈坏死了。。
+<13:04:29>[TALK]{fivestar30}大家去要4套瑞3谱去
+<13:04:35>[TALK]{GrandMaster}这个29 最强防 ：）
+<13:04:42>[TALK]{GrandMaster}谁要来杀？
+<13:04:46>[TALK]{fivestar30}我刚才想点这个29。。
+<13:04:50>[TALK]{sosei}55555
+<13:04:53>[TALK]{tianxia}30可以走12I吗
+<13:05:14>[TALK]{GrandMaster}30 i12 至少我没发现杀
+<13:05:31>[TALK]{GrandMaster}谁杀谁杀 ：）
+<13:05:35>[TALK]{fivestar30}tianxia对I12念念不忘
+<13:05:50>[TALK]{fivestar27}30-K9？
+<13:06:10>[TALK]{GrandMaster}k9 呵呵，27来杀？
+<13:06:18>[TALK]{fivestar27}我杀不了
+<13:06:27>[MOVE]{fivestar09}KI
+<13:06:28>[TALK]{GrandMaster}没人来杀...
+<13:06:40>[TALK]{fivestar09}我杀不了
+<13:06:43>[TALK]{fivestar30}都不会。。
+<13:06:44>[TALK]{GrandMaster}嘿嘿，有mm要来抓我手
+<13:06:47>[MOVE]{GrandMaster}IL
+<13:06:57>[TALK]{fivestar09}我按重了一点
+<13:07:17>[TALK]{GrandMaster}tianxia 的i12，试试
+<13:07:18>[TALK]{fivestar27}我只想到30K9或J9或G13
+<13:07:28>[TALK]{fivestar27}不知哪一个能杀？
+<13:08:09>[TALK]{GrandMaster}hoho，27 是wzqclass的？
+<13:08:19>[TALK]{fivestar27}是
+<13:08:36>[TALK]{fivestar27}小天你不是认识我
+<13:08:41>[TALK]{fivestar27}我105啦
+<13:09:02>[TALK]{GrandMaster}啊啊，skymm
+<13:09:04>[TALK]{tianxia}32走下面4H
+<13:09:11>[TALK]{GrandMaster}09  go on?
+<13:09:19>[MOVE]{fivestar09}HD
+<13:09:36>[TALK]{fivestar09}我都说了我不行的
+<13:09:47>[TALK]{fivestar09}你们说我来走好了
+<13:09:51>[MOVE]{GrandMaster}IC
+<13:10:09>[TALK]{tianxia}8D
+<13:10:11>[TALK]{fivestar09}走哪？
+<13:10:14>[MOVE]{fivestar09}DH
+<13:10:20>[MOVE]{GrandMaster}FF
+<13:10:32>[TALK]{tianxia}3H
+<13:10:39>[MOVE]{fivestar09}HB
+<13:10:46>[BACK]{fivestar09}
+<13:10:50>[MOVE]{fivestar09}HC
+<13:11:18>[MOVE]{GrandMaster}JE
+<13:11:39>[TALK]{tianxia}10K
+<13:11:56>[TALK]{GrandMaster}~~ HOHO，交换掉这边那边下手
+<13:12:07>[MOVE]{fivestar09}KJ
+<13:12:54>[MOVE]{GrandMaster}KH
+<13:13:09>[TALK]{tianxia}10L
+<13:14:51>[TALK]{GrandMaster}？
+<13:14:55>[MOVE]{GrandMaster}LJ
+<13:14:56>[BACK]{GrandMaster}
+<13:15:01>[TALK]{GrandMaster}09 go on?
+<13:15:11>[TALK]{tianxia}10L
+<13:15:25>[TALK]{GrandMaster}09谁着拉...
+<13:15:27>[MOVE]{GrandMaster}LJ
+<13:15:29>[MOVE]{GrandMaster}JH
+<13:15:30>[MOVE]{GrandMaster}LH
+<13:15:31>[MOVE]{GrandMaster}JJ
+<13:15:45>[TALK]{sosei}嘿嘿
+<13:15:52>[TALK]{tianxia}9J
+<13:15:52>[TALK]{GrandMaster}似乎不好杀哦，呵呵
+<13:15:54>[MOVE]{GrandMaster}JI
+<13:15:55>[MOVE]{GrandMaster}LI
+<13:15:55>[TALK]{sosei}在跟偶亲嘴
+<13:16:23>[TALK]{tianxia}2H
+<13:16:25>[TALK]{GrandMaster}555，羡慕下
+<13:16:29>[TALK]{GrandMaster}呵呵
+<13:16:30>[BACK]{GrandMaster}
+<13:16:31>[BACK]{GrandMaster}
+<13:16:32>[BACK]{GrandMaster}
+<13:16:33>[BACK]{GrandMaster}
+<13:16:34>[BACK]{GrandMaster}
+<13:16:35>[BACK]{GrandMaster}
+<13:16:40>[TALK]{GrandMaster}这样杀啊，难了吧
+<13:16:43>[BACK]{GrandMaster}
+<13:16:45>[BACK]{GrandMaster}
+<13:16:46>[BACK]{GrandMaster}
+<13:16:48>[BACK]{GrandMaster}
+<13:16:52>[TALK]{fivestar27}我试试
+<13:16:53>[BACK]{GrandMaster}
+<13:16:54>[BACK]{GrandMaster}
+<13:16:55>[BACK]{GrandMaster}
+<13:16:56>[BACK]{GrandMaster}
+<13:16:57>[BACK]{GrandMaster}
+<13:16:58>[BACK]{GrandMaster}
+<13:16:59>[MOVE]{fivestar27}KI
+<13:17:03>[TALK]{GrandMaster}ok ,27试试
+<13:17:13>[MOVE]{GrandMaster}JI
+<13:17:17>[TALK]{GrandMaster}换个，呵呵 ：）
+<13:17:19>[TALK]{fivestar27}又换了
+<13:17:27>[TALK]{sosei}哇啦啦
+<13:17:37>[BACK]{GrandMaster}
+<13:17:38>[MOVE]{GrandMaster}IL
+<13:17:39>[MOVE]{fivestar27}KJ
+<13:17:44>[MOVE]{GrandMaster}KH
+<13:17:51>[MOVE]{fivestar27}JJ
+<13:18:00>[MOVE]{GrandMaster}LH
+<13:18:03>[MOVE]{fivestar27}JH
+<13:18:05>[MOVE]{GrandMaster}LJ
+<13:18:20>[MOVE]{fivestar27}HD
+<13:18:40>[MOVE]{GrandMaster}IC
+<13:18:45>[TALK]{GrandMaster}准备投降拉 ：（
+<13:18:46>[MOVE]{fivestar27}JF
+<13:19:04>[TALK]{GrandMaster}5555
+<13:19:06>[MOVE]{GrandMaster}JI
+<13:19:12>[MOVE]{fivestar27}IE
+<13:19:21>[TALK]{GrandMaster}死拉 :(
+<13:19:27>[MOVE]{GrandMaster}GC
+<13:19:29>[MOVE]{fivestar27}JC
+<13:19:33>[MOVE]{GrandMaster}ID
+<13:19:34>[MOVE]{fivestar27}JE
+<13:19:40>[BACK]{GrandMaster}
+<13:19:41>[BACK]{GrandMaster}
+<13:19:42>[BACK]{GrandMaster}
+<13:19:43>[BACK]{GrandMaster}
+<13:19:44>[BACK]{GrandMaster}
+<13:19:44>[BACK]{GrandMaster}
+<13:19:45>[BACK]{GrandMaster}
+<13:19:46>[BACK]{GrandMaster}
+<13:19:47>[BACK]{GrandMaster}
+<13:19:47>[BACK]{GrandMaster}
+<13:19:48>[BACK]{GrandMaster}
+<13:19:49>[BACK]{GrandMaster}
+<13:19:51>[BACK]{GrandMaster}
+<13:19:51>[BACK]{GrandMaster}
+<13:19:52>[BACK]{GrandMaster}
+<13:19:52>[BACK]{GrandMaster}
+<13:19:58>[MOVE]{GrandMaster}JI
+<13:20:00>[BACK]{GrandMaster}
+<13:20:10>[TALK]{GrandMaster}不过，这个30跟我挑的不大一样 :P
+<13:20:11>[TALK]{fivestar27}小天你说说这个29白怎么杀的？
+<13:20:20>[MOVE]{GrandMaster}JI
+<13:20:43>[TALK]{GrandMaster}但好象也能杀，记得有这版本，呵呵
+<13:21:06>[TALK]{GrandMaster}时间关系...就到这 ：） 正解，下次讲 :DD
+<13:21:09>[TALK]{fivestar27}这是我乱想的
+<13:21:13>[TALK]{fivestar15}不要啊
+<13:21:18>[TALK]{fivestar15}讲完嘛
+<13:21:22>[TALK]{sosei}别不要了
+<13:21:22>[TALK]{GrandMaster}*^O^* 下课咯！
+<13:21:22>[TALK]{fivestar27}正招
+<13:21:25>[TALK]{fivestar27}讲完
+<13:21:29>[TALK]{GrandMaster}看看谁在泡MM ：）
+<13:21:30>[TALK]{sosei}散伙，回家
+<13:21:34>[TALK]{fivestar15}姑妈讲完嘛
+<13:21:40>[TALK]{sosei}跟俺回家
+<13:21:42>[TALK]{fivestar27}姑妈~~~~~~~
+<13:21:46>[BACK]{GrandMaster}
+<13:21:47>[BACK]{GrandMaster}
+<13:21:48>[MOVE]{GrandMaster}JI
+<13:21:55>[TALK]{GrandMaster}这个，sosei的版本
+<13:21:56>[BACK]{GrandMaster}
+<13:21:57>[MOVE]{GrandMaster}KI
+<13:22:03>[CHECKRESULT] fivestar14, fivestar15, fivestar20, fivestar27, sosei.
+<13:22:07>[TALK]{GrandMaster}记得也有这，呵呵
+<13:22:10>[CREDIT] fivestar14, fivestar15, fivestar20, fivestar27.

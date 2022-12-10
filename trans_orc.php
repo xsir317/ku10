@@ -69,13 +69,16 @@ class transformer
             die($row);
         }
         if($action == 'RESET'){
+            $pick_len = intval(substr($match[3],3,3)) * 2;
             $tmp = $event;
             $tmp['action'] = 'RESET';
             $return[] = $tmp;
             $tmp = $event;
             $tmp['action'] = 'LOAD';
-            $tmp['content'] = self::trans_coordinate(substr($match[3],6));
-            $return[] = $tmp;
+            $tmp['content'] = self::trans_coordinate(substr($match[3],6,$pick_len));
+            if($tmp['content']){
+                $return[] = $tmp;
+            }
         }else{
             $tmp = $event;
             $tmp['action'] = $action;

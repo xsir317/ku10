@@ -74,7 +74,7 @@ class transformer
             '204' => '',
             '206' => '',
         ];
-        if(!preg_match('/<\d+:\d+:\d+>\[(\d+)\](\w+)(?:\{(\w+)\})?(.+)$/mi' , $row,$match)){
+        if(!preg_match('/<\d+:\d+:\d+>\[(\d+)\]([a-z0-9]+)?(?:\{(\S+)\})?(.+)$/mi' , $row,$match)){
             echo $row;exit;
             return [];
         }
@@ -101,10 +101,17 @@ class transformer
                     $tmp['content'] = self::trans_coordinate(substr($match[2],3));
                     break;
                 case 'LOAD':
-                    $tmp['content'] = self::trans_coordinate(substr($match[4],3));
+                    if(preg_match('/\((\S+)\)(.+)/',$match[4],$tmp_match)){
+                        $tmp['content'] = self::trans_coordinate(substr($tmp_match[2],3));
+                    }
                     break;
                 default:
-                    $tmp['content'] = $match[4];
+                    if(preg_match('/\((\S+)\)<\d>(.+)/',$match[4],$tmp_match)){
+                        $tmp['content'] = $tmp_match[2];
+                        if($tmp_match[1] == '教师'){
+                            $tmp['user'] = 'GM';
+                        }
+                    }
             }
             $return[] = $tmp;
         }
@@ -117,7 +124,7 @@ class transformer
         }
         $return = '';
         foreach(str_split($str,3) as $coord){
-            $return .= (dechex(ord($coord[1]) - 64)) . (dechex(ord($coord[2]) - 64));
+            $return .= (dechex(ord($coord[-2]) - 64)) . (dechex(ord($coord[-1]) - 64));
         }
         return $return;
     }
@@ -131,7 +138,6 @@ while($file = readdir($open_folder))
     {
         echo "$file\n";
         $transformed = transformer::do_transform(mb_convert_encoding(file_get_contents('./zjr/'.$file),'UTF-8','GB18030'));
-        echo json_encode($transformed,JSON_PRETTY_PRINT | JSON_UNESCAPED_UNICODE);exit;
         file_put_contents("./json/zj-".$match[1].'.json',
             json_encode($transformed,JSON_PRETTY_PRINT | JSON_UNESCAPED_UNICODE)
         );

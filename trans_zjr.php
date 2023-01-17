@@ -65,7 +65,7 @@ class transformer
             '306' => 'CREDIT',
             '207' => 'FIRST',
             'EMOTE' => '',
-            //'' => 'GOTO',
+            '208' => 'GOTO',
             'NEXT' => '',
             'CLEAR' => '',
             '201' => 'LOAD',
@@ -104,6 +104,9 @@ class transformer
                     if(preg_match('/\((\S+)\)(.+)/',$match[4],$tmp_match)){
                         $tmp['content'] = self::trans_coordinate(substr($tmp_match[2],3));
                     }
+                    break;
+                case 'GOTO':
+                    $tmp['content'] = intval($match[4]);
                     break;
                 default:
                     if(preg_match('/\((\S+)\)<\d>(.+)/',$match[4],$tmp_match)){

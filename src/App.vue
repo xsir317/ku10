@@ -4,6 +4,7 @@ import GoBoard from './components/GoBoard.vue'
 import LessonList from './components/LessonList.vue'
 import ChatList from './components/ChatList.vue'
 import PlayerControls from './components/PlayerControls.vue'
+import AnalysisModal from './components/AnalysisModal.vue'
 import { usePlayer } from './composables/usePlayer'
 
 const { 
@@ -11,6 +12,7 @@ const {
   loadLesson, 
   lessons, 
   isPlaying, 
+  pause,
   togglePlay, 
   pointer, 
   totalSteps,
@@ -19,6 +21,13 @@ const {
   chatLogs,
   boardState
 } = usePlayer()
+
+const showAnalysis = ref(false)
+
+const openAnalysis = () => {
+  pause()
+  showAnalysis.value = true
+}
 </script>
 
 <template>
@@ -53,6 +62,7 @@ const {
               @toggle="togglePlay"
               @seek="seekTo"
               @update:speed="s => playbackSpeed = s"
+              @analyze="openAnalysis"
             />
           </div>
         </div>
@@ -86,6 +96,13 @@ const {
         <p>Copyright © 2026 - 重构自 xsir317@gmail.com 的 Ku10 项目</p>
       </div>
     </footer>
+
+    <!-- Analysis Modal -->
+    <AnalysisModal 
+      :show="showAnalysis" 
+      :initial-stones="boardState.stones"
+      @close="showAnalysis = false"
+    />
   </div>
 </template>
 

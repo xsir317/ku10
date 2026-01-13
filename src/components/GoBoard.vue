@@ -5,8 +5,14 @@ const props = defineProps({
   state: {
     type: Object,
     default: () => ({ stones: [], lastMove: null })
+  },
+  interactive: {
+    type: Boolean,
+    default: false
   }
 })
+
+const emit = defineEmits(['place-stone', 'undo'])
 
 const canvasRef = ref(null)
 const containerRef = ref(null)
@@ -135,8 +141,32 @@ const resizeCanvas = () => {
   canvasRef.value.height = size
   // 根据实际大小缩放 context
   const scale = size / (CELL_SIZE * BOARD_SIZE + PADDING * 2)
+  canvasRef.value.dataset.scale = scale // 存储缩放比例供点击逻辑使用
   ctx.setTransform(scale, 0, 0, scale, 0, 0)
   drawBoard()
+}
+
+const handleCanvasClick = (event) => {
+  if (!props.interactive) return
+  
+  const rect = canvasRef.value.getBoundingClientRect()
+  const scale = parseFloat(canvasRef.value.dataset.scale) || 1
+  const x = (event.clientX - rect.left) / scale
+  const y = (event.clientY - rect.top) / scale
+  
+  // 反查棋盘坐标
+  const boardX = Math.round((x - PADDING - CELL_SIZE / 2) / CELL_SIZE) + 1
+  const boardY = BOARD_SIZE - Math.round((y - PADDING - CELL_SIZE / 2) / CELL_SIZE)
+  
+  if (boardX >= 1 && boardX <= 15 && boardY >= 1 && boardY <= 15) {
+    emit('place-stone', { x: boardX, y: boardY })
+  }
+}
+
+const handleContextMenu = (event) => {
+  if (!props.interactive) return
+  event.preventDefault()
+  emit('undo')
 }
 
 onMounted(() => {
@@ -154,7 +184,13 @@ watch(() => props.state, drawBoard, { deep: true })
 
 <template>
   <div ref="containerRef" class="w-full aspect-square flex items-center justify-center p-4">
-    <canvas ref="canvasRef" class="shadow-2xl rounded-sm"></canvas>
+    <canvas 
+      ref="canvasRef" 
+      class="shadow-2xl rounded-sm"
+      :class="{ 'cursor-pointer': interactive }"
+      @click="handleCanvasClick"
+      @contextmenu="handleContextMenu"
+    ></canvas>
   </div>
 </template>
 

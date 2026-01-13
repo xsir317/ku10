@@ -24,12 +24,17 @@ const PADDING = 30 // 增加边距以容纳坐标
 
 const drawBoard = () => {
   if (!ctx) return
-  const width = canvasRef.value.width
-  const height = canvasRef.value.height
+  
+  // 重置 transform 以便清空整个画布
+  ctx.save()
+  ctx.setTransform(1, 0, 0, 1, 0, 0)
+  ctx.clearRect(0, 0, canvasRef.value.width, canvasRef.value.height)
+  ctx.restore()
 
-  // 清放棋盘
+  // 绘制棋盘背景
+  const totalSize = CELL_SIZE * BOARD_SIZE + PADDING * 2
   ctx.fillStyle = '#edd674'
-  ctx.fillRect(0, 0, width, height)
+  ctx.fillRect(0, 0, totalSize, totalSize)
 
   // 绘制坐标文字设置
   ctx.fillStyle = '#444'

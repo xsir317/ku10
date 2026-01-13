@@ -53,8 +53,11 @@ export function usePlayer() {
         return
       }
     }
-    // 如果没有有效 Hash，加载默认第一个
-    if (lessons.value.length > 0) {
+    // 如果没有有效 Hash，默认加载第 5 个课程 (如果存在)
+    const defaultIndex = 5
+    if (lessons.value.length > defaultIndex) {
+      loadLesson(lessons.value[defaultIndex].data, defaultIndex)
+    } else if (lessons.value.length > 0) {
       loadLesson(lessons.value[0].data, 0)
     }
   }

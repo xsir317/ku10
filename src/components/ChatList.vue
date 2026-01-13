@@ -20,9 +20,10 @@ watch(() => props.logs.length, async () => {
 </script>
 
 <template>
-  <div ref="listRef" class="overflow-y-auto h-full p-4 bg-gray-50 flex flex-col gap-2 scroll-smooth">
+  <div ref="listRef" class="overflow-y-auto h-full p-4 bg-base-200 flex flex-col gap-2 scroll-smooth">
     <div v-for="(log, index) in logs" :key="index" class="chat" :class="log.user === 'RenjuTeacher' || log.user === 'GrandMaster' ? 'chat-start' : 'chat-start'">
-      <div class="chat-header opacity-50 text-xs mb-1">
+      <div class="chat-header font-bold text-xs mb-1" 
+           :class="log.user === 'RenjuTeacher' || log.user === 'GrandMaster' ? 'text-error' : 'text-secondary-focus'">
         {{ log.user }}
       </div>
       <div class="chat-bubble shadow-sm text-sm min-h-0 py-2 px-3" 

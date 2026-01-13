@@ -34,14 +34,38 @@ export function usePlayer() {
   const fetchLessons = async () => {
     try {
       const res = await fetch('/trans.json')
-      lessons.value = await res.json()
+      const data = await res.json()
+      lessons.value = Array.isArray(data) ? [...data].reverse() : data
+      
+      // 初始化检查 Hash 定位
+      handleInitialHash()
     } catch (e) {
       console.error('Failed to fetch lessons', e)
     }
   }
 
+  const handleInitialHash = () => {
+    const hash = window.location.hash
+    if (hash.startsWith('#')) {
+      const index = parseInt(hash.substring(1))
+      if (!isNaN(index) && lessons.value[index]) {
+        loadLesson(lessons.value[index].data, index)
+        return
+      }
+    }
+    // 如果没有有效 Hash，加载默认第一个
+    if (lessons.value.length > 0) {
+      loadLesson(lessons.value[0].data, 0)
+    }
+  }
+
   // 加载具体课程数据并预计算
-  const loadLesson = async (source) => {
+  const loadLesson = async (source, index = null) => {
+    // 更新 URL Hash 以便分享
+    if (index !== null) {
+      window.location.hash = `#${index}`
+    }
+    
     pause()
     try {
       const res = await fetch(`/json/${source}`)

@@ -24,7 +24,6 @@ watch(() => props.logs.length, async () => {
     <div v-for="(log, index) in logs" :key="index" class="chat" :class="log.user === 'RenjuTeacher' || log.user === 'GrandMaster' ? 'chat-start' : 'chat-start'">
       <div class="chat-header opacity-50 text-xs mb-1">
         {{ log.user }}
-        <time class="text-[10px] ml-1">{{ log.time }}s</time>
       </div>
       <div class="chat-bubble shadow-sm text-sm min-h-0 py-2 px-3" 
            :class="{

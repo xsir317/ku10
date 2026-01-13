@@ -19,11 +19,6 @@ const {
   chatLogs,
   boardState
 } = usePlayer()
-
-onMounted(async () => {
-  // 初始加载课程列表并播放第一个
-  await loadLesson('20181229.json')
-})
 </script>
 
 <template>
@@ -69,7 +64,6 @@ onMounted(async () => {
         <div class="flex-1 card bg-base-100 shadow-xl overflow-hidden">
           <div class="card-header bg-base-300 p-2 font-bold flex justify-between items-center">
             <span>课堂对话</span>
-            <div class="badge badge-secondary">{{ chatLogs.length }} 条记录</div>
           </div>
           <div class="card-body p-0 overflow-hidden">
             <ChatList :logs="chatLogs" />
@@ -80,7 +74,7 @@ onMounted(async () => {
         <div class="h-1/3 card bg-base-100 shadow-xl overflow-hidden">
           <div class="card-header bg-base-300 p-2 font-bold">课程列表</div>
           <div class="card-body p-0 overflow-hidden">
-            <LessonList :lessons="lessons" @select="loadLesson" />
+            <LessonList :lessons="lessons" @select="(source, index) => loadLesson(source, index)" />
           </div>
         </div>
       </div>

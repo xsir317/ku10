@@ -14,7 +14,7 @@ let ctx = null
 
 const BOARD_SIZE = 15
 const CELL_SIZE = 37
-const PADDING = 20
+const PADDING = 30 // 增加边距以容纳坐标
 
 const drawBoard = () => {
   if (!ctx) return
@@ -25,18 +25,42 @@ const drawBoard = () => {
   ctx.fillStyle = '#edd674'
   ctx.fillRect(0, 0, width, height)
 
+  // 绘制坐标文字设置
+  ctx.fillStyle = '#444'
+  ctx.font = 'bold 14px Arial'
+  ctx.textAlign = 'center'
+  ctx.textBaseline = 'middle'
+
   // 绘制网格
   ctx.strokeStyle = '#000'
   ctx.lineWidth = 1
   ctx.beginPath()
 
   for (let i = 0; i < BOARD_SIZE; i++) {
+    const offset = PADDING + CELL_SIZE / 2 + i * CELL_SIZE
+    
     // 横线
-    ctx.moveTo(PADDING + CELL_SIZE / 2, PADDING + CELL_SIZE / 2 + i * CELL_SIZE)
-    ctx.lineTo(PADDING + CELL_SIZE / 2 + (BOARD_SIZE - 1) * CELL_SIZE, PADDING + CELL_SIZE / 2 + i * CELL_SIZE)
+    ctx.moveTo(PADDING + CELL_SIZE / 2, offset)
+    ctx.lineTo(PADDING + CELL_SIZE / 2 + (BOARD_SIZE - 1) * CELL_SIZE, offset)
+    
     // 纵线
-    ctx.moveTo(PADDING + CELL_SIZE / 2 + i * CELL_SIZE, PADDING + CELL_SIZE / 2)
-    ctx.lineTo(PADDING + CELL_SIZE / 2 + i * CELL_SIZE, PADDING + CELL_SIZE / 2 + (BOARD_SIZE - 1) * CELL_SIZE)
+    ctx.moveTo(offset, PADDING + CELL_SIZE / 2)
+    ctx.lineTo(offset, PADDING + CELL_SIZE / 2 + (BOARD_SIZE - 1) * CELL_SIZE)
+
+    // 绘制数字坐标 (右侧，从上到下 15-1)
+    ctx.fillText(
+      15 - i, 
+      PADDING + CELL_SIZE / 2 + (BOARD_SIZE - 1) * CELL_SIZE + 20, 
+      offset
+    )
+
+    // 绘制字母坐标 (下方，从左到右 A-O)
+    const label = String.fromCharCode(65 + i) // A, B, C...
+    ctx.fillText(
+      label, 
+      offset, 
+      PADDING + CELL_SIZE / 2 + (BOARD_SIZE - 1) * CELL_SIZE + 20
+    )
   }
   ctx.stroke()
 

@@ -11,6 +11,7 @@ const {
   currentRecord, 
   loadLesson, 
   lessons, 
+  currentIndex,
   isPlaying, 
   pause,
   togglePlay, 
@@ -84,7 +85,11 @@ const openAnalysis = () => {
         <div class="h-1/3 card bg-base-100 shadow-xl overflow-hidden">
           <div class="card-header bg-base-300 p-2 font-bold">课程列表</div>
           <div class="card-body p-0 overflow-hidden">
-            <LessonList :lessons="lessons" @select="(source, index) => loadLesson(source, index)" />
+            <LessonList 
+              :lessons="lessons" 
+              :active-index="currentIndex"
+              @select="(source, index) => loadLesson(source, index)" 
+            />
           </div>
         </div>
       </div>

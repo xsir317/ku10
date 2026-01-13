@@ -2,6 +2,7 @@ import { ref, reactive, computed, watch } from 'vue'
 
 export function usePlayer() {
   const lessons = ref([])
+  const currentIndex = ref(-1)
   const currentRecord = ref([])
   const isPlaying = ref(false)
   const pointer = ref(0)
@@ -67,6 +68,7 @@ export function usePlayer() {
     // 更新 URL Hash 以便分享
     if (index !== null) {
       window.location.hash = `#${index}`
+      currentIndex.value = index
     }
     
     pause()
@@ -213,6 +215,7 @@ export function usePlayer() {
 
   return {
     lessons,
+    currentIndex,
     currentRecord,
     isPlaying,
     pointer,
